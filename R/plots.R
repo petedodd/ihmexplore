@@ -1,6 +1,9 @@
 library(here)
 library(data.table)
 library(ggplot2)
+library(ggrepel)
+library(scales)
+library(ggpubr)
 
 ## utilities
 rh <- function(x) fread(here(x))
@@ -102,10 +105,9 @@ ALL$age <- factor(ALL$age,levels=hagz,ordered=TRUE)
 ALL$sex <- factor(ALL$sex,levels=c('M','F'),ordered=FALSE)
 
 
-
 ## -------------- incidence & notifications plot -------------
 ## incidence
-ggplot(data=ALL,aes(x=age,y=newrel,fill=sex)) +
+F1 <- ggplot(data=ALL,aes(x=age,y=newrel,fill=sex)) +
   coord_flip() +
   facet_wrap(~name,scales='free')+
   geom_bar(stat='identity',aes(y=ifelse(sex=='M',newrel,-newrel)))+
@@ -116,8 +118,114 @@ ggplot(data=ALL,aes(x=age,y=newrel,fill=sex)) +
            fill='transparent',col=1)+
   geom_point(aes(x=age,y=ifelse(sex=='M',ihme,-ihme)),
              shape=1,col=1,size=2)+
-  theme_light()+theme(legend.position = 'none')+
-  ggtitle('INCIDENCE, 2019: new & relapse notifications (red/right=M, green/left=F); WHO incidence estimates (bars); IHME incidence estimates (circles)')
+  theme_light()+theme(legend.position = 'none')## +
+  ## ggtitle('INCIDENCE, 2019: new & relapse notifications (red/right=M, green/left=F); WHO incidence estimates (bars); IHME incidence estimates (circles)')
 
 ww <- 18
-ggsave(here('plots/notinc.pdf'),h=ww*0.8,w=ww)
+ggsave(F1,file=here('plots/F1.pdf'),h=ww*0.8,w=ww)
+
+
+## ------------- uncertainty data
+## IHME
+UI <- HT[location_name %in% hbc30key$location_name
+         & metric_name=='Number'
+         & cause_name=='Tuberculosis'
+         & measure_name=='Incidence'
+         & sex_name=='Both'
+         & year==2019
+         & age_name=="All ages"
+        ,.(location_name,ihme.frac.unc=(upper-lower)/val)]
+UI <- merge(UI,hbc30key,by='location_name')
+
+## WHO
+UW <- TBC[iso3 %in% hbc30key$iso3
+          & year==2019
+         ,.(iso3,who.frac.unc=(e_inc_num_hi-e_inc_num_lo)/e_inc_num)]
+
+## merge
+UB <- merge(UI,UW,by='iso3')
+
+## --- figure 2B
+m <- 1.3
+F2b <- ggplot(UB,aes(who.frac.unc,ihme.frac.unc,label=iso3))+
+  geom_point()+
+  geom_text_repel(max.overlaps = 20)+
+  coord_fixed()+
+  scale_x_continuous(limits=c(0,m),label=percent)+
+  scale_y_continuous(limits=c(0,m),label=percent)+
+  geom_abline(slope=1,intercept = 0,lty=2,col=2)+
+  theme_classic()+grids()+
+  xlab('WHO fractional incidence uncertainty')+
+  ylab('IHME fractional incidence uncertainty')
+sf <- 1.5
+ggsave(F2b,file=here('plots/F2b.pdf'),w=7*sf,h=7*sf)
+
+
+
+## ----------------- P:N ratios
+## 
+## 2 A) Male to female ratios of empirical TB prevalence:notification ratios vs of GBD
+## estimates prevalence:incidence ratio
+
+## --- empirical 15plus prev rate: 15plus N rate by sex
+## notifications
+EP <- TBN[,.(iso3,year,newrel_m15plus,newrel_f15plus)]
+EP <- EP[iso3 %in% hbc30key$iso3]
+EP <- merge(EP,
+            N[age=='15plus',.(iso3,year,PopMale,PopFemale)],
+            by=c('iso3','year')) #merge pop denom for CNR
+EP[,c('nm','nf'):=.(newrel_m15plus/PopMale,
+                    newrel_f15plus/PopFemale)]
+
+## prevalence
+P <- dcast(prev,iso3 + year ~ sex,value.var='prev') #prev data
+EP <- merge(EP,P,by=c('iso3','year'),all.x = FALSE,all.y=TRUE)
+EP[,MFpn:=(m/nm) / (f/nf)]
+
+## --- IHME prev:inc by sex, 15plus
+PI <- HY[location_name %in% hbc30key$location_name
+         & metric_name=='Number'
+         & cause_name=='Tuberculosis'
+         & measure_name %in% c('Incidence','Prevalence')
+         & sex_name %in% c('Male','Female')
+        ,.(location_name,year,age_name,sex_name,measure_name,val)]
+PI <- merge(PI,hbc30key,by='location_name')
+## right country-years
+PI <- PI[paste0(iso3,year) %in% prev[,unique(paste0(iso3,year))]]
+
+## reshape & calculate
+PI <- dcast(PI,
+            location_name+iso3+measure_name+sex_name~age_name,
+            value.var = 'val')
+PI[,o15:=`All ages`-`0-14 years`]
+PI <- dcast(PI,location_name+iso3+sex_name~measure_name,value.var ='o15')
+PI[,PtoI:=Prevalence/Incidence]
+PI <- dcast(PI,location_name+iso3~sex_name,value.var = 'PtoI')
+PI[,MFPtoI:=Male/Female]
+
+## --- merge
+PNB <- merge(PI[,.(iso3,location_name,MFPtoI)],
+             EP[!is.na(MFpn),.(iso3,year,MFpn)],
+             by='iso3')
+
+
+## --- plot
+m2 <- 2.25
+F2a <- ggplot(PNB,aes(MFpn,MFPtoI,label=paste0(iso3,', ',year)))+
+  geom_point()+
+  geom_text_repel(max.overlaps = 20)+
+  coord_fixed()+
+  scale_x_continuous(limits=c(0,m2))+
+  scale_y_continuous(limits=c(0,m2))+
+  geom_abline(slope=1,intercept = 0,lty=2,col=2)+
+  theme_classic()+grids()+
+  xlab('Empirical M:F ratio of P:N ratio')+
+  ylab('IHME M:F ratio of P:I ratio')
+
+sf <- 1.5
+ggsave(F2a,file=here('plots/F2a.pdf'),w=7*sf,h=7*sf)
+
+## combined figure 2
+sf2 <- 1
+F2 <- ggarrange(F2a,F2b,labels = c('A','B'))
+ggsave(F2,file=here('plots/F2.pdf'),w=14*sf,h=7*sf)
