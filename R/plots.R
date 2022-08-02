@@ -31,7 +31,7 @@ CLZ <- c('WHO'=who.col,'IHME'=ihme.col)
 
 ## load data
 load(here('data/prev.rda'))
-load(here('data/agekey.rda'))
+## load(here('data/agekey.rda'))
 load(here('data/hbc30key.rda'))
 load(here('data/N.rda'))
 
@@ -117,12 +117,33 @@ F1 <- ggplot(data=ALL,aes(x=age,y=newrel,fill=sex)) +
            aes(x=age,y=ifelse(sex=='M',best,-best)),
            fill='transparent',col=1)+
   geom_point(aes(x=age,y=ifelse(sex=='M',ihme,-ihme)),
-             shape=1,col=1,size=2)+
-  theme_light()+theme(legend.position = 'none')## +
-  ## ggtitle('INCIDENCE, 2019: new & relapse notifications (red/right=M, green/left=F); WHO incidence estimates (bars); IHME incidence estimates (circles)')
+             size=2,col=1,
+             shape=ifelse(ALL$ihme<ALL$newrel,16,1))+ #using solid points for CDR>1
+  theme_light()+theme(legend.position = 'none')
 
 ww <- 18
-ggsave(F1,file=here('plots/F1.pdf'),h=ww*0.8,w=ww)
+ggsave(F1,file=here('plots/aF1.pdf'),h=ww*0.8,w=ww)
+
+
+
+## same as above but singling out 1 country (BGD)
+tmp <- ALL[iso3=='BGD']
+
+F1 <- ggplot(data=tmp,aes(x=age,y=newrel,fill=sex)) +
+  coord_flip() +
+  facet_wrap(~name,scales='free')+
+  geom_bar(stat='identity',aes(y=ifelse(sex=='M',newrel,-newrel)))+
+  xlab('Age group')+ylab('Incidence or notifications')+
+  scale_y_continuous(labels = absspace)+
+  geom_bar(stat='identity',
+           aes(x=age,y=ifelse(sex=='M',best,-best)),
+           fill='transparent',col=1)+
+  geom_point(aes(x=age,y=ifelse(sex=='M',ihme,-ihme)),
+             size=2,col=1,
+             shape=ifelse(tmp$ihme<tmp$newrel,16,1))+
+  theme_light()+theme(legend.position = 'none')
+
+ggsave(F1,file=here('plots/F1.pdf'),h=6,w=6)
 
 
 ## ------------- uncertainty data
