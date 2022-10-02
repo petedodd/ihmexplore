@@ -43,10 +43,10 @@ vignettes/*.pdf
 
 
 # interim org -> latex -> PDF stuff
-.tex
-.lof
-.log
-.toc
-.aux
+appendix/appendix.tex
+appendix/appendix.lof
+appendix/appendix.log
+appendix/appendix.toc
+appendix/appendix.aux
 appendix/appendix.pdf
 appendix/auto/
