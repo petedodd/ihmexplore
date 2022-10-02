@@ -1,0 +1,16 @@
+#+TITLE: Appendix title TODO
+#+AUTHOR: Author list TODO
+#+OPTIONS: date:nil org-latex-prefer-user-labels:t org-list-allow-alphabetical:t
+#+latex_class_options: [12pt]
+#+LATEX_HEADER: \usepackage{fourier}
+#+TOC: listings
+# need to do options by hand
+* Preamble
+
+Placeholder text with an example of how to refer to figures if needed figure \ref{incidence-direct}
+
+#+CAPTION: 30 HBC incidence and notifications
+#+NAME: incidence-direct   
+#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+[[../plots/aF1.pdf]]
+

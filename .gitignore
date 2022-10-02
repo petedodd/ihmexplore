@@ -40,3 +40,13 @@ vignettes/*.pdf
 
 # any mac users
 .DS_Store
+
+
+# interim org -> latex -> PDF stuff
+.tex
+.lof
+.log
+.toc
+.aux
+appendix/appendix.pdf
+appendix/auto/

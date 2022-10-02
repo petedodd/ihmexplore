@@ -3,7 +3,7 @@
 
 ## TODO
 
-- swap 2a and 2b
+- appendix org export bug
 
 
 Appendix figs
