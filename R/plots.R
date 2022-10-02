@@ -166,9 +166,9 @@ UW <- TBC[iso3 %in% hbc30key$iso3
 ## merge
 UB <- merge(UI,UW,by='iso3')
 
-## --- figure 2B
+## --- figure 2A
 m <- 1.3
-F2b <- ggplot(UB,aes(who.frac.unc,ihme.frac.unc,label=iso3))+
+F2a <- ggplot(UB,aes(who.frac.unc,ihme.frac.unc,label=iso3))+
   geom_point()+
   geom_text_repel(max.overlaps = 50)+
   coord_fixed()+
@@ -179,7 +179,7 @@ F2b <- ggplot(UB,aes(who.frac.unc,ihme.frac.unc,label=iso3))+
   xlab('WHO fractional incidence uncertainty')+
   ylab('IHME fractional incidence uncertainty')
 sf <- 1.0
-ggsave(F2b,file=here('plots/F2b.pdf'),w=7*sf,h=7*sf)
+ggsave(F2a,file=here('plots/F2a.pdf'),w=7*sf,h=7*sf)
 
 
 
@@ -268,9 +268,9 @@ PNB <- merge(UP[!is.na(MFpn.ihme),.(iso3,year,location_name,MFpn.ihme)],
 ## sf <- 1.5
 ## ggsave(F2a,file=here('plots/F2a.pdf'),w=7*sf,h=7*sf)
 
-
+## --- figure 2B
 m2 <- 2.25
-F2a <- ggplot(PNB,aes(MFpn,MFpn.ihme,label=paste0(iso3,', ',year)))+
+F2b <- ggplot(PNB,aes(MFpn,MFpn.ihme,label=paste0(iso3,', ',year)))+
   geom_point()+
   geom_text_repel(max.overlaps = 20)+
   coord_fixed()+
@@ -284,7 +284,7 @@ F2a <- ggplot(PNB,aes(MFpn,MFpn.ihme,label=paste0(iso3,', ',year)))+
   ylab('IHME M:F ratio of P:N ratio')
 
 sf <- 1.0
-ggsave(F2a,file=here('plots/F2a.pdf'),w=7*sf,h=7*sf)
+ggsave(F2b,file=here('plots/F2b.pdf'),w=7*sf,h=7*sf)
 
 
 ## combined figure 2
