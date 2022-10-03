@@ -39,6 +39,7 @@ load(here('data/N.rda'))
 HT <- rh('indata/IHME-GBD_2019_DATA-8e052381-1.csv') #tot TB
 HY <- rh('indata/IHME-GBD_2019_DATA-56b8db41-1.csv') #by t for PI ratio
 HD <- rh('indata/IHME-GBD_2019_DATA-a0de4e33-1.csv') #disaggregated 19
+HY1 <- rh('indata/IHME-GBD_2019_DATA-0c46a1fb-1.csv')
 
 ## WHO CSV data
 TBA <- rh('indata/TB_burden_age_sex_2020-10-15.csv')
@@ -300,7 +301,7 @@ ggsave(F2,file=here('plots/F2.pdf'),w=14*sf2,h=7*sf2)
 ## --- WHO vs IHME over time: incidence and mortality
 
 ## IHME - sum over both sexes
-IC <- HY[location_name %in% hbc30key$location_name
+IC <- HY1[location_name %in% hbc30key$location_name
          & metric_name=='Number'
          & cause_name=='Tuberculosis'
          & measure_name=='Incidence'
@@ -336,13 +337,40 @@ ggsave(aF2a,file=here('plots/aF2a.pdf'),h=20,w=20)
 
 
 ## IHME - sum over both sexes
-## MC <- HY[location_name %in% hbc30key$location_name
-##          & metric_name=='Number'
-##          & cause_name=='Tuberculosis'
-##          & measure_name=='Mortality'
-##          & age_name=="All ages"
-##         ,.(ihme.inc=sum(val)),
-##          by=.(location_name,year)]
+MC <- HY1[location_name %in% hbc30key$location_name
+         & metric_name=='Number'
+         & cause_name=='Tuberculosis'
+         & measure_name=='Deaths'
+         & age_name=="All ages"
+        ,.(ihme.inc=sum(val)),
+         by=.(location_name,year)]
+
+MC <- merge(MC,hbc30key,by='location_name')
+
+## WHO
+MW <- TBC[iso3 %in% hbc30key$iso3
+         ,.(iso3,year,who.inc=e_mort_num)]
+
+## merge
+MC <- merge(MC,MW,by=c('iso3','year'))
+
+## mortality
+m <- max(MC$ihme.inc,MC$who.inc,na.rm=TRUE)
+aF2b <- ggplot(MC,
+               aes(who.inc,ihme.inc,label=iso3,col=year,group=iso3))+
+  geom_point()+ geom_line()+
+  scale_x_sqrt(label=comma,limits = c(0,m))+
+  scale_y_sqrt(label=comma,limits = c(0,m))+
+  scale_color_viridis_c(direction = -1)+
+  coord_fixed()+geom_abline(intercept = 0,slope=1,col=2)+
+  geom_text_repel()+
+  theme_light()+
+  xlab('WHO mortality estimates') +
+  ylab('IHME mortality estimates')+
+  ggtitle('MORTALITY estimates (sqrt scale)')
+
+ggsave(aF2b,file=here('plots/aF2b.pdf'),h=20,w=20)
+
 
 
 
@@ -424,7 +452,7 @@ ggsave(aF6,file=here('plots/aF6.pdf'),h=20,w=20)
 
 
 
-## TODO get mortality data over time **
+## TODO get mortality data over time ** complete migration
 ## TODO HIV stratified HIV prevalence?
 
 ## TODO
