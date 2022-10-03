@@ -11,6 +11,7 @@ absspace <- function(x,...) {             #works
   format(abs(x), ..., big.mark=" ",scientific = FALSE, trim = TRUE)
 }
 `%ni%` <- Negate(`%in%`)
+rot45 <- theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 ## age key
 hagz <- c("0-4","5-14","15-24","25-34","35-44","45-54","55-64","65plus")
@@ -291,3 +292,148 @@ ggsave(F2b,file=here('plots/F2b.pdf'),w=7*sf,h=7*sf)
 sf2 <- 0.77
 F2 <- ggarrange(F2a,F2b,labels = c('A','B'))
 ggsave(F2,file=here('plots/F2.pdf'),w=14*sf2,h=7*sf2)
+
+
+
+## ======= other plots for appendix ===
+
+## --- WHO vs IHME over time: incidence and mortality
+
+## IHME - sum over both sexes
+IC <- HY[location_name %in% hbc30key$location_name
+         & metric_name=='Number'
+         & cause_name=='Tuberculosis'
+         & measure_name=='Incidence'
+         & age_name=="All ages"
+        ,.(ihme.inc=sum(val)),
+         by=.(location_name,year)]
+
+IC <- merge(IC,hbc30key,by='location_name')
+
+## WHO
+IW <- TBC[iso3 %in% hbc30key$iso3
+         ,.(iso3,year,who.inc=e_inc_num)]
+
+## merge
+IC <- merge(IC,IW,by=c('iso3','year'))
+
+## incidence
+m <- max(IC$ihme.inc,IC$who.inc)
+aF2a <- ggplot(IC,
+               aes(who.inc,ihme.inc,label=iso3,col=year,group=iso3))+
+  geom_point()+ geom_line()+
+  scale_x_sqrt(label=comma,limits = c(0,m))+
+  scale_y_sqrt(label=comma,limits = c(0,m))+
+  scale_color_viridis_c(direction = -1)+
+  coord_fixed()+geom_abline(intercept = 0,slope=1,col=2)+
+  geom_text_repel()+
+  theme_light()+
+  xlab('WHO incidence estimates') +
+  ylab('IHME incidence estimates')+
+  ggtitle('INCIDENCE estimates (sqrt scale)')
+
+ggsave(aF2a,file=here('plots/aF2a.pdf'),h=20,w=20)
+
+
+## IHME - sum over both sexes
+## MC <- HY[location_name %in% hbc30key$location_name
+##          & metric_name=='Number'
+##          & cause_name=='Tuberculosis'
+##          & measure_name=='Mortality'
+##          & age_name=="All ages"
+##         ,.(ihme.inc=sum(val)),
+##          by=.(location_name,year)]
+
+
+
+
+## --- duration by age/sex
+HD[,unique(location_name)]
+HD[,unique(age_name)]
+
+
+ASIP <- HD[measure_name %in% c('Incidence','Prevalence')&
+          metric_name=='Number',
+          .(location_name,val,sex_name,age_group_name=age_name,age_id,
+            measure_name)]
+
+ASIP <- merge(ASIP,hbc30key,by='location_name',all.x=TRUE)
+ASIP <- merge(ASIP,agekey,by='age_group_name',all.x=TRUE)
+unique(ASIP[is.na(age),.(age_group_name,age)]) #check drop
+ASIP <- ASIP[!is.na(age)]           #drop
+ASIP[,table(measure_name)] #check
+
+## aggregate
+ASIP <- ASIP[,.(ihme=sum(val)),
+             by=.(iso3,
+                  name=location_name,
+                  sex=ifelse(grepl('F',sex_name),'F','M'),
+                  age,measure_name)]
+
+ASIP <- dcast(ASIP,iso3+name+sex+age~measure_name,value.var = 'ihme')
+ASIP$age <- factor(ASIP$age,levels=hagz,ordered=TRUE)
+ASIP$sex <- factor(ASIP$sex,levels=c('M','F'),ordered=FALSE)
+ASIP$agey <- ASIP$age
+ASIP[age=='65plus',agey:='65+']
+
+
+
+
+aF5 <-ggplot(ASIP,
+             aes(agey,Prevalence/Incidence,col=sex,lty=sex,group=paste0(name,sex)))+
+  geom_line()+
+  facet_wrap(~name,scales='fixed')+
+  scale_y_sqrt()+
+  theme_light()+
+  rot45+
+  xlab('Age group') +
+  ylab('IHME Prevalence/Incidence (square root scale)')
+
+ggsave(aF5,file=here('plots/aF5.pdf'),h=20,w=20)
+
+
+## --- duration over time
+DY <- HY[location_name %in% hbc30key$location_name
+         & metric_name=='Number'
+         & cause_name=='Tuberculosis'
+         & age_name=="All ages"
+        ,.(val=sum(val)),
+         by=.(location_name,year,measure_name,sex=sex_name)]
+
+DY <- dcast(DY,
+            location_name+year+sex~measure_name,
+            value.var='val')
+
+## TODO fix?
+DY[year==2019,sum(Incidence)]/1e6
+DY[year==2019,sum(Prevalence)]/1e6 #NOTE x 100 ??
+
+DY[,Prevalence:=Prevalence/100]
+
+
+aF6 <- ggplot(DY,
+              aes(year,Prevalence/Incidence,col=sex,lty=sex))+
+  geom_line()+
+  facet_wrap(~location_name,scales='fixed')+
+  scale_y_sqrt()+
+  theme_light()+
+  xlab('Year') +
+  ylab('IHME Prevalence/Incidence (square root scale)')
+
+ggsave(aF6,file=here('plots/aF6.pdf'),h=20,w=20)
+
+
+
+## TODO get mortality data over time **
+## TODO HIV stratified HIV prevalence?
+
+## TODO
+## - prevalence survey age/sex 3
+## - CFR by age/sex ** 4
+## - duration by age/sex 5 (DONE)
+## - duration over time 6 (DONE)
+## - any published data from previous rounds in prevalence survey countries?
+## - duration by HIV *** 7 <- try 1 year version before getting data over time
+## - CFR vs CDR over time ** 8
+
+
