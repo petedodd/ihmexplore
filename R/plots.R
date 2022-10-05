@@ -39,13 +39,21 @@ load(here('data/N.rda'))
 HT <- rh('indata/IHME-GBD_2019_DATA-8e052381-1.csv') #tot TB
 HY <- rh('indata/IHME-GBD_2019_DATA-56b8db41-1.csv') #by t for PI ratio
 HD <- rh('indata/IHME-GBD_2019_DATA-a0de4e33-1.csv') #disaggregated 19
-HY1 <- rh('indata/IHME-GBD_2019_DATA-0c46a1fb-1.csv')
+
+## new
+HS <- fread(here('indata/IHME-GBD_2019_DATA-b4d5febd-1.csv'))
+HM <- fread(here('indata/IHME-GBD_2019_DATA-561f3057-1.csv'))
+HX <- fread(here('indata/IHME-GBD_2019_DATA-3feca1e5-1.csv'))
+HY <- Reduce(merge,list(HS[,.(location_name,sex_name,age_name,measure_name,year,ds=val)],
+                        HM[,.(location_name,sex_name,age_name,measure_name,year,dm=val)],
+                        HX[,.(location_name,sex_name,age_name,measure_name,year,dx=val)]))
+HY[,val:=ds+dm+dx] #sum over DST
+
 
 ## WHO CSV data
 TBA <- rh('indata/TB_burden_age_sex_2020-10-15.csv')
 TBC <- rh('indata/TB_burden_countries_2020-10-15.csv')
 TBN <- rh('indata/TB_notifications_2020-10-15.csv')
-
 
 ## ------------- data work on incidence/notifications by age
 
@@ -180,6 +188,7 @@ F2a <- ggplot(UB,aes(who.frac.unc,ihme.frac.unc,label=iso3))+
   theme_classic()+grids()+
   xlab('WHO fractional incidence uncertainty')+
   ylab('IHME fractional incidence uncertainty')
+
 sf <- 1.0
 ggsave(F2a,file=here('plots/F2a.pdf'),w=7*sf,h=7*sf)
 
@@ -207,8 +216,8 @@ EP[,MFpn:=(m/nm) / (f/nf)]
 
 ## --- IHME prev:inc by sex, 15plus
 PI <- HY[location_name %in% hbc30key$location_name
-         & metric_name=='Number'
-         & cause_name=='Tuberculosis'
+         ## & metric_name=='Number'
+         ## & cause_name=='Tuberculosis'
          & measure_name %in% c('Incidence','Prevalence')
          & sex_name %in% c('Male','Female')
         ,.(location_name,year,age_name,sex_name,measure_name,val)]
@@ -229,8 +238,8 @@ PI[,MFPtoI:=Male/Female]
 
 ## IHME prevalence in 15 plus for relevant years
 UP <- HY[location_name %in% hbc30key$location_name
-         & metric_name=='Number'
-         & cause_name=='Tuberculosis'
+         ## & metric_name=='Number'
+         ## & cause_name=='Tuberculosis'
          & measure_name=='Prevalence'
         ,.(location_name,year,age_name,sex_name,val)]
 UP <- dcast(data=UP,formula = location_name + year + sex_name ~ age_name,
@@ -245,30 +254,9 @@ UP <- merge(EP,UP,by=c('iso3','year'),all.x=TRUE,all.y=FALSE)
 UP[,MFpn.ihme:=(Male/newrel_m15plus)/(Female/newrel_f15plus)]
 
 ## --- merge
-## PNB <- merge(PI[,.(iso3,location_name,MFPtoI)],
-##              EP[!is.na(MFpn),.(iso3,year,MFpn)],
-##              by='iso3')
-
 PNB <- merge(UP[!is.na(MFpn.ihme),.(iso3,year,location_name,MFpn.ihme)],
              EP[!is.na(MFpn),.(iso3,year,MFpn)],
              by= c('iso3','year'))
-
-
-## --- plot
-## m2 <- 2.25
-## F2a <- ggplot(PNB,aes(MFpn,MFPtoI,label=paste0(iso3,', ',year)))+
-##   geom_point()+
-##   geom_text_repel(max.overlaps = 20)+
-##   coord_fixed()+
-##   scale_x_continuous(limits=c(0,m2))+
-##   scale_y_continuous(limits=c(0,m2))+
-##   geom_abline(slope=1,intercept = 0,lty=2,col=2)+
-##   theme_classic()+grids()+
-##   xlab('Empirical M:F ratio of P:N ratio')+
-##   ylab('IHME M:F ratio of P:I ratio')
-
-## sf <- 1.5
-## ggsave(F2a,file=here('plots/F2a.pdf'),w=7*sf,h=7*sf)
 
 ## --- figure 2B
 m2 <- 2.25
@@ -301,9 +289,7 @@ ggsave(F2,file=here('plots/F2.pdf'),w=14*sf2,h=7*sf2)
 ## --- WHO vs IHME over time: incidence and mortality
 
 ## IHME - sum over both sexes
-IC <- HY1[location_name %in% hbc30key$location_name
-         & metric_name=='Number'
-         & cause_name=='Tuberculosis'
+IC <- HY[location_name %in% hbc30key$location_name
          & measure_name=='Incidence'
          & age_name=="All ages"
         ,.(ihme.inc=sum(val)),
@@ -337,9 +323,7 @@ ggsave(aF2a,file=here('plots/aF2a.pdf'),h=20,w=20)
 
 
 ## IHME - sum over both sexes
-MC <- HY1[location_name %in% hbc30key$location_name
-         & metric_name=='Number'
-         & cause_name=='Tuberculosis'
+MC <- HY[location_name %in% hbc30key$location_name
          & measure_name=='Deaths'
          & age_name=="All ages"
         ,.(ihme.inc=sum(val)),
@@ -372,13 +356,9 @@ aF2b <- ggplot(MC,
 ggsave(aF2b,file=here('plots/aF2b.pdf'),h=20,w=20)
 
 
-
-
-
 ## --- duration by age/sex
 HD[,unique(location_name)]
 HD[,unique(age_name)]
-
 
 ASIP <- HD[measure_name %in% c('Incidence','Prevalence')&
           metric_name=='Number',
@@ -405,8 +385,6 @@ ASIP$agey <- ASIP$age
 ASIP[age=='65plus',agey:='65+']
 
 
-
-
 aF5 <-ggplot(ASIP,
              aes(agey,Prevalence/Incidence,col=sex,lty=sex,group=paste0(name,sex)))+
   geom_line()+
@@ -422,8 +400,6 @@ ggsave(aF5,file=here('plots/aF5.pdf'),h=20,w=20)
 
 ## --- duration over time
 DY <- HY[location_name %in% hbc30key$location_name
-         & metric_name=='Number'
-         & cause_name=='Tuberculosis'
          & age_name=="All ages"
         ,.(val=sum(val)),
          by=.(location_name,year,measure_name,sex=sex_name)]
@@ -431,13 +407,6 @@ DY <- HY[location_name %in% hbc30key$location_name
 DY <- dcast(DY,
             location_name+year+sex~measure_name,
             value.var='val')
-
-## TODO fix?
-DY[year==2019,sum(Incidence)]/1e6
-DY[year==2019,sum(Prevalence)]/1e6 #NOTE x 100 ??
-
-DY[,Prevalence:=Prevalence/100]
-
 
 aF6 <- ggplot(DY,
               aes(year,Prevalence/Incidence,col=sex,lty=sex))+
@@ -450,18 +419,83 @@ aF6 <- ggplot(DY,
 
 ggsave(aF6,file=here('plots/aF6.pdf'),h=20,w=20)
 
+## --- CFR vs age/sex
+CFM <- HD[measure_name %in% c('Incidence','Deaths')&
+          metric_name=='Number',
+          .(location_name,val,sex_name,age_group_name=age_name,age_id,
+            measure_name)]
+
+CFM <- merge(CFM,hbc30key,by='location_name',all.x=TRUE)
+CFM <- merge(CFM,agekey,by='age_group_name',all.x=TRUE)
+unique(CFM[is.na(age),.(age_group_name,age)]) #check drop
+CFM <- CFM[!is.na(age)]           #drop
+CFM[,table(measure_name)] #check
+
+## aggregate
+CFM <- CFM[,.(ihme=sum(val)),
+             by=.(iso3,
+                  name=location_name,
+                  sex=ifelse(grepl('F',sex_name),'F','M'),
+                  age,measure_name)]
+
+CFM <- dcast(CFM,iso3+name+sex+age~measure_name,value.var = 'ihme')
+CFM$age <- factor(CFM$age,levels=hagz,ordered=TRUE)
+CFM$sex <- factor(CFM$sex,levels=c('M','F'),ordered=FALSE)
+CFM$agey <- CFM$age
+CFM[age=='65plus',agey:='65+']
+
+aF4 <- ggplot(CFM,aes(agey,Deaths/Incidence,col=sex,group=paste(name,sex)))+
+  geom_line() +
+  facet_wrap(~name)+
+  scale_y_continuous(label=percent)+
+  theme_light()+rot45+
+  xlab('Age group')+ylab('Mortality/Incidence (Case Fatality Ratio)')
+
+ggsave(aF4,file=here('plots/aF4.pdf'),h=20,w=20)
+
+## --- CFR vs CDR
+CFY <- HY[age_name=='All ages' &
+          measure_name!='Prevalence'
+         ,.(val=sum(val)),
+          by=.(location_name,measure_name,year)]
+CFY <- dcast(CFY,location_name+year~measure_name,value.var = 'val' )
+CFY[,CFR:=Deaths/Incidence]
+CFY <- merge(CFY,hbc30key,by='location_name')
+
+CFY <- merge(CFY,TBN[,.(iso3,year,c_newinc)],
+             by=c('iso3','year'),all.x=TRUE,all.y=FALSE)
+CFY[,CDR:=c_newinc/Incidence]
+
+m <- max(CFY$CDR)
+
+aF8 <- ggplot(CFY,
+               aes(CDR,CFR,label=iso3,col=year,group=iso3))+
+  geom_point()+ geom_line()+
+  scale_x_continuous(label=percent,limits = c(0,m))+
+  scale_y_continuous(label=percent,limits = c(0,1))+
+  scale_color_viridis_c(direction = -1)+
+  coord_fixed()+
+  geom_abline(intercept = 0,slope=1,col=2)+
+  geom_text_repel(max.overlaps =  20 )+
+  theme_light()+
+  xlab('New & relapse notifications/Incidence (Case Detection Ratio)') +
+  ylab('Mortality/Incidence (case fatality ratio)')
+
+sf <- 0.7
+ggsave(aF8,file=here('plots/aF8.pdf'),h=15*sf,w=20*sf)
 
 
-## TODO get mortality data over time ** complete migration
+
 ## TODO HIV stratified HIV prevalence?
 
 ## TODO
 ## - prevalence survey age/sex 3
-## - CFR by age/sex ** 4
+## - CFR by age/sex ** 4 (DONE)
 ## - duration by age/sex 5 (DONE)
 ## - duration over time 6 (DONE)
 ## - any published data from previous rounds in prevalence survey countries?
 ## - duration by HIV *** 7 <- try 1 year version before getting data over time
-## - CFR vs CDR over time ** 8
+## - CFR vs CDR over time ** 8 (DONE)
 
+## TODO missing notification data in HBC30 plot?
 

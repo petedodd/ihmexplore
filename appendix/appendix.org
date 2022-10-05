@@ -14,3 +14,35 @@ Placeholder text with an example of how to refer to figures if needed figure \re
 #+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
 [[../plots/aF1.pdf]]
 
+
+#+CAPTION: Incidence comparison over time
+#+NAME: incidence-direct   
+#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+[[../plots/aF2a.pdf]]
+
+
+#+CAPTION: Mortality comparison over time
+#+NAME: incidence-direct   
+#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+[[../plots/aF2b.pdf]]
+
+
+#+CAPTION: Case Fatality Ratio by age and sex
+#+NAME: incidence-direct   
+#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+[[../plots/aF4.pdf]]
+
+#+CAPTION: Implied duration by age and sex
+#+NAME: incidence-direct   
+#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+[[../plots/aF5.pdf]]
+
+#+CAPTION: Implied duration over time
+#+NAME: incidence-direct   
+#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+[[../plots/aF6.pdf]]
+
+#+CAPTION: Case Fatality Ratio vs Case Detection Ratio
+#+NAME: incidence-direct   
+#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+[[../plots/aF8.pdf]]
