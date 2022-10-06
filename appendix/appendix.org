@@ -3,46 +3,67 @@
 #+OPTIONS: date:nil org-latex-prefer-user-labels:t org-list-allow-alphabetical:t
 #+latex_class_options: [12pt]
 #+LATEX_HEADER: \usepackage{fourier}
+#+LATEX_HEADER: \usepackage{placeins}
 #+TOC: listings
 # need to do options by hand
+# #+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+
+
 * Preamble
 
-Placeholder text with an example of how to refer to figures if needed figure \ref{incidence-direct}
+TODO
+
+# Placeholder text with an example of how to refer to figures if needed figure \ref{incidence-direct}
 
 #+CAPTION: 30 HBC incidence and notifications
-#+NAME: incidence-direct   
-#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+#+ATTR_LATEX: :float t :width 1\textwidth 
 [[../plots/aF1.pdf]]
 
 
+\FloatBarrier
+
+
 #+CAPTION: Incidence comparison over time
-#+NAME: incidence-direct   
-#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+#+ATTR_LATEX: :float t :width 1\textwidth 
 [[../plots/aF2a.pdf]]
 
 
+\FloatBarrier
+
 #+CAPTION: Mortality comparison over time
-#+NAME: incidence-direct   
-#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+#+ATTR_LATEX: :float t :width 1\textwidth 
 [[../plots/aF2b.pdf]]
 
 
+\FloatBarrier
+
 #+CAPTION: Case Fatality Ratio by age and sex
-#+NAME: incidence-direct   
-#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+#+ATTR_LATEX: :float t :width 1\textwidth 
 [[../plots/aF4.pdf]]
 
+
+\FloatBarrier
+
 #+CAPTION: Implied duration by age and sex
-#+NAME: incidence-direct   
-#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+#+ATTR_LATEX: :float t :width 1\textwidth 
 [[../plots/aF5.pdf]]
 
+\FloatBarrier
+
 #+CAPTION: Implied duration over time
-#+NAME: incidence-direct   
-#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+#+ATTR_LATEX: :float t :width 1\textwidth 
 [[../plots/aF6.pdf]]
 
+\FloatBarrier
+
+
+#+CAPTION: Implied duration by HIV status
+#+ATTR_LATEX: :float t :width 1\textwidth 
+[[../plots/aF7.pdf]]
+
+\FloatBarrier
+
+
 #+CAPTION: Case Fatality Ratio vs Case Detection Ratio
-#+NAME: incidence-direct   
-#+ATTR_LATEX: :float t :width 1\textwidth :placement [!ht]
+#+ATTR_LATEX: :float t :width 1\textwidth 
 [[../plots/aF8.pdf]]

@@ -37,7 +37,6 @@ load(here('data/N.rda'))
 
 ## IHME CSV data
 HT <- rh('indata/IHME-GBD_2019_DATA-8e052381-1.csv') #tot TB
-HY <- rh('indata/IHME-GBD_2019_DATA-56b8db41-1.csv') #by t for PI ratio
 HD <- rh('indata/IHME-GBD_2019_DATA-a0de4e33-1.csv') #disaggregated 19
 
 ## new
@@ -117,7 +116,7 @@ ALL[age=='65plus',agey:='65+']
 
 ## -------------- incidence & notifications plot -------------
 ## incidence
-F1 <- ggplot(data=ALL,aes(x=agey,y=newrel,fill=sex)) +
+aF1 <- ggplot(data=ALL,aes(x=agey,y=newrel,fill=sex)) +
   coord_flip() +
   facet_wrap(~name,scales='free')+
   geom_bar(stat='identity',aes(y=ifelse(sex=='M',newrel,-newrel)))+
@@ -128,12 +127,11 @@ F1 <- ggplot(data=ALL,aes(x=agey,y=newrel,fill=sex)) +
            fill='transparent',col=1)+
   geom_point(aes(x=agey,y=ifelse(sex=='M',ihme,-ihme)),
              size=2,col=1,
-             shape=ifelse(ALL$ihme<ALL$newrel,16,1))+ #using solid points for CDR>1
+             shape=ifelse(is.na(ALL$newrel) | ALL$ihme>ALL$newrel,1,16))+ #using solid points for CDR>1
   theme_light()+theme(legend.position = 'none')
 
-ww <- 18
-ggsave(F1,file=here('plots/aF1.pdf'),h=ww*0.8,w=ww)
-
+ww <- 16
+ggsave(aF1,file=here('plots/aF1.pdf'),h=ww*0.8,w=ww)
 
 
 ## same as above but singling out 1 country (BGD)
@@ -303,23 +301,26 @@ IW <- TBC[iso3 %in% hbc30key$iso3
 
 ## merge
 IC <- merge(IC,IW,by=c('iso3','year'))
+IC[year==2019,iso:=iso3]
+
 
 ## incidence
 m <- max(IC$ihme.inc,IC$who.inc)
 aF2a <- ggplot(IC,
-               aes(who.inc,ihme.inc,label=iso3,col=year,group=iso3))+
+               aes(who.inc,ihme.inc,label=iso,col=year,group=iso3))+
   geom_point()+ geom_line()+
   scale_x_sqrt(label=comma,limits = c(0,m))+
   scale_y_sqrt(label=comma,limits = c(0,m))+
   scale_color_viridis_c(direction = -1)+
   coord_fixed()+geom_abline(intercept = 0,slope=1,col=2)+
-  geom_text_repel()+
+  geom_text_repel(max.overlaps = 30)+
   theme_light()+
   xlab('WHO incidence estimates') +
   ylab('IHME incidence estimates')+
   ggtitle('INCIDENCE estimates (sqrt scale)')
 
-ggsave(aF2a,file=here('plots/aF2a.pdf'),h=20,w=20)
+
+ggsave(aF2a,file=here('plots/aF2a.pdf'),h=10,w=10)
 
 
 ## IHME - sum over both sexes
@@ -337,23 +338,24 @@ MW <- TBC[iso3 %in% hbc30key$iso3
 
 ## merge
 MC <- merge(MC,MW,by=c('iso3','year'))
+MC[year==2019,iso:=iso3]
 
 ## mortality
 m <- max(MC$ihme.inc,MC$who.inc,na.rm=TRUE)
 aF2b <- ggplot(MC,
-               aes(who.inc,ihme.inc,label=iso3,col=year,group=iso3))+
+               aes(who.inc,ihme.inc,label=iso,col=year,group=iso3))+
   geom_point()+ geom_line()+
   scale_x_sqrt(label=comma,limits = c(0,m))+
   scale_y_sqrt(label=comma,limits = c(0,m))+
   scale_color_viridis_c(direction = -1)+
   coord_fixed()+geom_abline(intercept = 0,slope=1,col=2)+
-  geom_text_repel()+
+  geom_text_repel(max.overlaps = 30)+
   theme_light()+
   xlab('WHO mortality estimates') +
   ylab('IHME mortality estimates')+
   ggtitle('MORTALITY estimates (sqrt scale)')
 
-ggsave(aF2b,file=here('plots/aF2b.pdf'),h=20,w=20)
+ggsave(aF2b,file=here('plots/aF2b.pdf'),h=10,w=10)
 
 
 ## --- duration by age/sex
@@ -395,7 +397,7 @@ aF5 <-ggplot(ASIP,
   xlab('Age group') +
   ylab('IHME Prevalence/Incidence (square root scale)')
 
-ggsave(aF5,file=here('plots/aF5.pdf'),h=20,w=20)
+ggsave(aF5,file=here('plots/aF5.pdf'),h=15,w=15)
 
 
 ## --- duration over time
@@ -417,7 +419,7 @@ aF6 <- ggplot(DY,
   xlab('Year') +
   ylab('IHME Prevalence/Incidence (square root scale)')
 
-ggsave(aF6,file=here('plots/aF6.pdf'),h=20,w=20)
+ggsave(aF6,file=here('plots/aF6.pdf'),h=15,w=15)
 
 ## --- CFR vs age/sex
 CFM <- HD[measure_name %in% c('Incidence','Deaths')&
@@ -451,7 +453,7 @@ aF4 <- ggplot(CFM,aes(agey,Deaths/Incidence,col=sex,group=paste(name,sex)))+
   theme_light()+rot45+
   xlab('Age group')+ylab('Mortality/Incidence (Case Fatality Ratio)')
 
-ggsave(aF4,file=here('plots/aF4.pdf'),h=20,w=20)
+ggsave(aF4,file=here('plots/aF4.pdf'),h=15,w=15)
 
 ## --- CFR vs CDR
 CFY <- HY[age_name=='All ages' &
@@ -486,16 +488,51 @@ ggsave(aF8,file=here('plots/aF8.pdf'),h=15*sf,w=20*sf)
 
 
 
-## TODO HIV stratified HIV prevalence?
+##  --- HIV specific P:N ratio
+## check data:
+HD[metric_name=='Number' &
+   sex_name=='Both' &
+   age_name=="All ages" & 
+   measure_name=='Incidence',sum(val)/1e6,by=cause_name][order(V1)]
+HD[metric_name=='Number' &
+   sex_name=='Both' &
+   age_name=="All ages" & 
+   measure_name=='Deaths',sum(val)/1e5,by=cause_name][order(V1)]
+
+
+
+HD[,HIV:='-ve']
+HD[grepl('HIV',cause_name),HIV:='+ve']
+
+
+HH <- HD[metric_name=='Number' &
+         sex_name=='Both' &
+         age_name=="All ages" &
+         measure_name!='Deaths',
+         .(val=sum(val)),
+         by=.(location_name,HIV,measure_name)]
+
+HH <- dcast(HH,location_name+HIV~measure_name,value.var = 'val')
+HH[,PI:=Prevalence/Incidence]
+
+aF7 <- ggplot(HH,aes(location_name,PI,col=HIV))+
+  geom_point(shape=1,size=2,stroke=1)+
+  scale_x_discrete(limits=rev)+
+  scale_color_manual(values=c('blue','red'))+
+  coord_flip()+
+  theme_classic()+ggpubr::grids()+
+  theme(legend.position = 'top')+
+  xlab('Country')+
+  ylab('Implied duration in years (Prevalence/Incidence)')+
+  ylim(c(0,2.5))
+
+ggsave(aF7,file=here('plots/aF7.pdf'),h=8,w=10)
+
+
+
+## prevalence survey by age/sex
+
 
 ## TODO
 ## - prevalence survey age/sex 3
-## - CFR by age/sex ** 4 (DONE)
-## - duration by age/sex 5 (DONE)
-## - duration over time 6 (DONE)
 ## - any published data from previous rounds in prevalence survey countries?
-## - duration by HIV *** 7 <- try 1 year version before getting data over time
-## - CFR vs CDR over time ** 8 (DONE)
-
-## TODO missing notification data in HBC30 plot?
-
