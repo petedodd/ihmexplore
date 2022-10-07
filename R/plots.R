@@ -561,4 +561,4 @@ aF3 <- ggplot(IP,aes(agey,y=prev,ymin=prev.lo,ymax=prev.hi,group=isoy))+
   xlab('Age group (years)')+
   ylab('TB prevalence per 100,000')
 
-ggsave(aF3,file=here('plots/aF3.pdf'),h=15,w=15)
+ggsave(aF3,file=here('plots/aF3.pdf'),h=10,w=10)

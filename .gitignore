@@ -42,11 +42,12 @@ vignettes/*.pdf
 .DS_Store
 
 
-# interim org -> latex -> PDF stuff
-appendix/appendix.tex
+# interim latex -> PDF stuff
 appendix/appendix.lof
 appendix/appendix.log
 appendix/appendix.toc
+appendix/appendix.synctex.gz
 appendix/appendix.aux
+appendix/appendix.out
 appendix/appendix.pdf
 appendix/auto/
