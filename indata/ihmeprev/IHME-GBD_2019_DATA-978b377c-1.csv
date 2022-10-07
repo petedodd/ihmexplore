@@ -1,0 +1,685 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,18,Thailand,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2012,426.77102197892555,616.3961212917175,288.01428773098115
+5,Prevalence,18,Thailand,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2012,601.3733583876385,881.0913832463699,413.1489005386023
+5,Prevalence,18,Thailand,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2012,0.001010139230641245,0.001427795264005997,0.0007010389306761174
+5,Prevalence,18,Thailand,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2012,0.0012203263310017083,0.0016968468842132704,0.000845471314080578
+5,Prevalence,18,Thailand,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2012,0.0222104025468917,0.06738855005919936,0.010394291622966572
+5,Prevalence,18,Thailand,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2012,0.040944845808911425,0.11037481237732247,0.01268466983863644
+5,Prevalence,18,Thailand,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2012,22.878450957855783,32.516193286637865,15.5447223621821
+5,Prevalence,18,Thailand,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2012,29.343752154488357,40.793566281766964,20.40445889023134
+5,Prevalence,18,Thailand,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2012,403.8693504792922,592.019852504073,270.2533461787579
+5,Prevalence,18,Thailand,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2012,571.9874410610104,846.307736427643,391.21581387154885
+5,Prevalence,18,Thailand,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2012,1060.7774927772205,1674.83828305741,645.116965989336
+5,Prevalence,18,Thailand,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2012,729.33341949977,1135.7628837595717,445.34996702084874
+5,Prevalence,18,Thailand,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,586.4293069750229,948.618679922255,336.4639486442064
+5,Prevalence,18,Thailand,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,364.65591839980937,581.8529466377037,206.97097713578293
+5,Prevalence,18,Thailand,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,242.80598767032487,455.183086321871,91.85947276929608
+5,Prevalence,18,Thailand,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,1329.1353453603642,2114.529645736111,760.1618105930993
+5,Prevalence,18,Thailand,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2012,2428.9736255618286,3848.985944847081,1359.8819951401208
+5,Prevalence,18,Thailand,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2012,3040.604424171785,4711.573197011566,1781.3068183663095
+5,Prevalence,18,Thailand,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2012,3186.486545356032,5312.1409811099575,1667.8127350931288
+5,Prevalence,18,Thailand,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2012,3303.2470000816093,5473.504854605237,1814.1193385584363
+5,Prevalence,18,Thailand,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2012,2980.2578136041016,4982.187000676982,1363.3044840784526
+5,Prevalence,18,Thailand,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2012,2796.304663175896,4641.093020079305,1382.9805153564143
+5,Prevalence,18,Thailand,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2012,3049.5764545050006,5007.531580081226,1426.8838382061656
+5,Prevalence,18,Thailand,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2012,2864.72412354492,4614.228952610932,1437.927300849876
+5,Prevalence,18,Thailand,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2012,3545.4998233371243,5733.974239291918,1698.8070469891927
+5,Prevalence,18,Thailand,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2012,2921.6115945132747,4566.246456484604,1465.927641980147
+5,Prevalence,18,Thailand,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,3627.2534549260477,6138.538401910634,1867.0731665216322
+5,Prevalence,18,Thailand,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,2956.679462065368,4809.294287372949,1593.9989389219104
+5,Prevalence,18,Thailand,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2012,2135.514439628391,3396.980722692819,1014.0831109746402
+5,Prevalence,18,Thailand,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2012,1532.4951869502343,2483.6543656364524,750.4829312021321
+5,Prevalence,18,Thailand,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2012,1013.6548890768667,1832.81070832659,409.92157095283414
+5,Prevalence,18,Thailand,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2012,578.367901670694,1093.6796444315826,177.83246501939283
+5,Prevalence,18,Thailand,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2012,3815.4287362658833,5989.861721978246,2350.166510073214
+5,Prevalence,18,Thailand,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2012,2381.3088398490363,3920.3422831622006,1329.302267182247
+5,Prevalence,18,Thailand,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2012,3612.3092404144895,5675.389822358619,2115.772586966428
+5,Prevalence,18,Thailand,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2012,2393.467745913611,3834.9833724762093,1302.5760365438846
+5,Prevalence,18,Thailand,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,4515.350177583195,6443.043801207069,2964.6682628099247
+5,Prevalence,18,Thailand,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,3923.036391213065,5644.574878342031,2510.7320512178817
+5,Prevalence,18,Thailand,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2012,3615.5196132661804,5134.165252236731,2481.141554522127
+5,Prevalence,18,Thailand,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2012,3858.191881779548,5483.218984035382,2600.8219979480773
+5,Prevalence,18,Thailand,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2012,4044.343154626028,5203.634829459517,3133.695169684973
+5,Prevalence,18,Thailand,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2012,4646.332701331945,5960.068539962555,3601.4048838915255
+5,Prevalence,18,Thailand,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2012,43886.951777552655,51013.29465074484,37753.022265894484
+5,Prevalence,18,Thailand,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2012,40220.86995790857,46762.09359641505,34814.77440247559
+5,Prevalence,18,Thailand,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,1647.206799752243,2451.872537555475,1096.3309909006
+5,Prevalence,18,Thailand,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,1093.9893378995791,1592.5746268324222,729.9324965380739
+5,Prevalence,18,Thailand,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,19060.853704960457,24280.895778383438,14487.995559118232
+5,Prevalence,18,Thailand,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,19212.30661291322,24006.70230574978,14826.778087160148
+5,Prevalence,18,Thailand,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2012,10576.90730538563,14592.339028800503,7635.02158021734
+5,Prevalence,18,Thailand,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2012,6885.639674383575,9670.430494611712,4841.345425165099
+5,Prevalence,18,Thailand,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2012,12175.212945475403,16284.313217096937,9153.95952533756
+5,Prevalence,18,Thailand,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2012,12427.560974324559,16289.204326122126,9354.750822228794
+5,Prevalence,18,Thailand,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2012,22.90167149963332,32.58633156356819,15.55570400042274
+5,Prevalence,18,Thailand,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2012,29.38591732662827,40.879817636053666,20.41757688063872
+5,Prevalence,18,Thailand,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2012,2367.9552848617323,3134.456300850797,1783.4716690267494
+5,Prevalence,18,Thailand,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2012,2687.0361211249165,3550.892361342757,1992.5672126186175
+5,Prevalence,18,Thailand,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,1091.0038596815025,1388.2833705951782,849.1112582588981
+5,Prevalence,18,Thailand,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,1271.5459696161304,1633.2910621234312,982.5100885497172
+5,Prevalence,18,Thailand,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2012,431.5829560672628,565.325181564071,319.9458106419949
+5,Prevalence,18,Thailand,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2012,504.1383074873213,659.5836982494995,370.5987295025514
+5,Prevalence,18,Thailand,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2012,41570.16796815117,48695.35426320882,35439.23634975142
+5,Prevalence,18,Thailand,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2012,37196.371916260985,43910.06158802595,31784.362605583978
+5,Prevalence,18,Thailand,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,2073.9778217311687,2980.869879179249,1466.9949748449365
+5,Prevalence,18,Thailand,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,1695.3626962872181,2316.504428788698,1228.9492025532777
+5,Prevalence,18,Thailand,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,15092.257482968826,20170.403764214014,11220.66484927923
+5,Prevalence,18,Thailand,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,10808.676065596641,14438.869532776376,8007.920085822484
+5,Prevalence,18,Thailand,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2012,0.023220541777532945,0.06877880407243316,0.01109533055364269
+5,Prevalence,18,Thailand,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2012,0.04216517213991314,0.11213269015873095,0.013529691669266741
+5,Prevalence,18,Thailand,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2012,39141.19434258933,46344.8043560451,33298.89745348128
+5,Prevalence,18,Thailand,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2012,34155.767492089195,40396.7066953184,29117.319776229888
+5,Prevalence,18,Thailand,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2012,2316.7838094014937,3292.478095098374,1657.3992112331546
+5,Prevalence,18,Thailand,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2012,3024.4980416475823,4060.722062935404,2232.110028873309
+5,Prevalence,18,Thailand,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2012,3258.2089202071766,4801.510210895514,2095.9700623080466
+5,Prevalence,18,Thailand,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2012,4734.3956879319585,7029.224714344616,3086.387131948857
+5,Prevalence,18,Thailand,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2012,1676.3878697642958,2144.417321199369,1283.02929414208
+5,Prevalence,18,Thailand,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2012,1959.2965802070285,2506.8764910617256,1495.5703825637586
+5,Prevalence,18,Thailand,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,829.2352946453476,1311.5597247110998,475.61769698007777
+5,Prevalence,18,Thailand,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,1693.791263760174,2596.5022262885973,1022.4995289237877
+5,Prevalence,18,Thailand,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2012,21782.79745156387,27515.87226476063,16952.932710308305
+5,Prevalence,18,Thailand,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2012,21109.45771826326,25942.025092930064,16951.434094467393
+5,Prevalence,18,Thailand,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2012,1487.5485147561456,2219.530477358196,1006.0004707068705
+5,Prevalence,18,Thailand,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2012,1330.7067778874086,1924.2643556675148,921.4014556324828
+5,Prevalence,18,Thailand,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,1890.0127874225677,2754.2873762219033,1284.765953005771
+5,Prevalence,18,Thailand,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,2423.1246832599436,3378.7343911416633,1672.4196520975488
+5,Prevalence,18,Thailand,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2012,11888.100426697287,16323.145742050046,7961.921044919466
+5,Prevalence,18,Thailand,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2012,13334.015556334574,17733.615602646292,9546.21568302189
+5,Prevalence,18,Thailand,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,16389.074091728304,21528.679360033664,11975.781346164622
+5,Prevalence,18,Thailand,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,14842.566843381068,19262.45550432291,10918.104008097156
+5,Prevalence,18,Thailand,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2012,20616.605811232646,26235.60530643857,16242.23690468656
+5,Prevalence,18,Thailand,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2012,17780.705461757898,22379.04191032121,13859.567521247924
+5,Prevalence,18,Thailand,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2012,15558.607767529746,20272.1082197804,11688.874183964319
+5,Prevalence,18,Thailand,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2012,12556.004858755261,16414.231700060864,9327.113298852222
+5,Prevalence,18,Thailand,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,8127.659417997685,11484.59792510962,5468.621464086146
+5,Prevalence,18,Thailand,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,6316.504137126677,9029.249085023366,4175.664432671051
+5,Prevalence,18,Thailand,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2012,7659.862767892208,10170.35951356908,5772.430629012961
+5,Prevalence,18,Thailand,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2012,8504.524583111493,11273.859836955338,6328.097056476057
+5,Prevalence,18,Thailand,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2012,153.80105401553067,224.29687253413013,98.72131406666878
+5,Prevalence,18,Thailand,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2012,183.61230310357652,264.01352231976546,121.28789097716759
+5,Prevalence,18,Thailand,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2012,5983.474898127912,8266.237635178648,4313.912105874054
+5,Prevalence,18,Thailand,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2012,6545.228002904463,9021.591125418396,4611.06959253546
+5,Prevalence,18,Thailand,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2012,20953.562156918524,26629.023094950604,16203.542080154006
+5,Prevalence,18,Thailand,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2012,19415.66645450309,24273.724223652236,15154.971960784693
+5,Prevalence,18,Thailand,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,20031.221801149848,25496.081827523074,15679.577113518219
+5,Prevalence,18,Thailand,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,17092.954851167,21716.58795178462,13169.801029680155
+5,Prevalence,18,Thailand,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,19017.566912072984,24156.734355770168,14815.280519039077
+5,Prevalence,18,Thailand,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,16514.586949496308,21104.83077713702,12602.906686270877
+5,Prevalence,18,Thailand,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,15202.1381758071,19837.2069045521,11487.34261512544
+5,Prevalence,18,Thailand,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,14133.27810964727,18378.277871718452,10543.54111374927
+5,Prevalence,18,Thailand,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,11589.82893539261,15647.347887115586,8547.361752946084
+5,Prevalence,18,Thailand,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,11739.81036373366,15647.482972142767,8667.764553041889
+5,Prevalence,18,Thailand,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2012,7506.0617138766775,10045.976161273995,5618.575929469514
+5,Prevalence,18,Thailand,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2012,8320.912280007915,11075.250240247655,6143.662077962718
+5,Prevalence,18,Thailand,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2012,31711.73883207726,38324.229417812676,26594.887076715964
+5,Prevalence,18,Thailand,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2012,27793.308983584007,32972.49979670549,23384.1929869253
+5,Prevalence,18,Thailand,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,10.948447812149029,17.95588453728461,6.462671113587042
+5,Prevalence,18,Thailand,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,15.779710499780228,25.723651384895888,9.126430248125443
+5,Prevalence,18,Thailand,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,2.5798852644663027e-05,3.956027198629399e-05,1.584101869746462e-05
+5,Prevalence,18,Thailand,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,3.1161820492161886e-05,4.760163643016919e-05,1.82090195392703e-05
+5,Prevalence,18,Thailand,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.0005582477781689813,0.001682486634828857,0.00023337234804160698
+5,Prevalence,18,Thailand,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.0010159176297356925,0.002771253168835475,0.00029208840227950596
+5,Prevalence,18,Thailand,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.5726794638739479,0.8830498432609686,0.34057193853515366
+5,Prevalence,18,Thailand,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.7374700967392034,1.1246146002593824,0.4428025882685714
+5,Prevalence,18,Thailand,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,10.375184301644266,17.113436492733634,6.0774720535872575
+5,Prevalence,18,Thailand,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,15.041193323590797,24.55491001857252,8.628334792061647
+5,Prevalence,18,Thailand,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,27.822906771878113,45.696816088611065,15.540406207928987
+5,Prevalence,18,Thailand,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,17.852384599081123,30.887200538629166,9.899479080384442
+5,Prevalence,18,Thailand,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,15.177119610601702,26.541914162999564,8.19504324947123
+5,Prevalence,18,Thailand,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,8.677678739398791,15.440473734530215,4.463904493661013
+5,Prevalence,18,Thailand,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,6.2333881878984005,12.343524333590684,2.3164333893337146
+5,Prevalence,18,Thailand,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,36.575441456573756,61.96994645109058,19.072338146924537
+5,Prevalence,18,Thailand,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,58.571838121262715,102.46945670226157,29.98814281450145
+5,Prevalence,18,Thailand,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,75.21941135276249,131.48353553596615,40.89534289330288
+5,Prevalence,18,Thailand,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,75.04334388711911,134.60707738183012,37.95893409742197
+5,Prevalence,18,Thailand,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,81.21885639295044,143.86807750498087,41.84141883156344
+5,Prevalence,18,Thailand,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,70.05237421891873,126.05911343097011,30.714639276337387
+5,Prevalence,18,Thailand,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,67.53723544934057,118.48725228674913,32.13218026613198
+5,Prevalence,18,Thailand,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,70.29184227573754,126.51511794065519,29.559795169749005
+5,Prevalence,18,Thailand,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,68.62910456459637,122.42155895236809,32.867920635070476
+5,Prevalence,18,Thailand,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,83.4274357727975,149.80038078272403,37.0153957645365
+5,Prevalence,18,Thailand,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,70.17647218803096,121.75303330774199,32.620431652060105
+5,Prevalence,18,Thailand,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,87.40300391443746,151.01998193227908,42.51876738785932
+5,Prevalence,18,Thailand,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,71.69661980441128,124.04884469812922,37.25297169268958
+5,Prevalence,18,Thailand,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,51.43950332640535,91.43482572463829,24.5553091108944
+5,Prevalence,18,Thailand,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,36.7324475511899,64.79969080378352,17.019019929525157
+5,Prevalence,18,Thailand,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,24.621334880126195,47.19902202681359,9.590583833413314
+5,Prevalence,18,Thailand,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,13.849161107482656,27.637782684135807,4.108882777669221
+5,Prevalence,18,Thailand,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,93.85684054757282,163.09328496057955,53.53655169298576
+5,Prevalence,18,Thailand,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,58.66648039934121,104.22900377839464,31.371636511315973
+5,Prevalence,18,Thailand,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,89.4686962068936,149.7342908177357,49.96062979132731
+5,Prevalence,18,Thailand,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,59.97073680551571,101.08040371217962,32.428997987527
+5,Prevalence,18,Thailand,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,112.38607060129269,173.32682510161752,69.02124104909409
+5,Prevalence,18,Thailand,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,98.50464283914823,155.62561009258434,60.42688040484043
+5,Prevalence,18,Thailand,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,90.64416604757673,142.1473679178842,54.602499392883686
+5,Prevalence,18,Thailand,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,97.25984234356581,153.20698194736394,60.60921202634688
+5,Prevalence,18,Thailand,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,101.3470693988477,152.89327230196136,63.801954543408144
+5,Prevalence,18,Thailand,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,116.84459405260228,174.11980270516972,73.86524385970492
+5,Prevalence,18,Thailand,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1068.7353815815156,1534.4996411478642,731.8764714214942
+5,Prevalence,18,Thailand,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,995.1908201457718,1427.9092905742953,678.3587714684857
+5,Prevalence,18,Thailand,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,43.00002638247981,68.70506948182245,25.68206484738655
+5,Prevalence,18,Thailand,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,26.530063338479916,43.55306345224217,15.328460018952729
+5,Prevalence,18,Thailand,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,451.02322637817144,677.5523947317188,286.25560512193164
+5,Prevalence,18,Thailand,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,471.05314120866586,693.2713579414524,307.313604426003
+5,Prevalence,18,Thailand,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,259.38637496099795,408.85101851199,162.87919854001694
+5,Prevalence,18,Thailand,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,169.21882586352947,266.30217190865665,103.95316267543812
+5,Prevalence,18,Thailand,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,304.3773060477171,452.13804939791885,197.3783166002274
+5,Prevalence,18,Thailand,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,312.6090792353163,463.1926922283753,204.16591358887342
+5,Prevalence,18,Thailand,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.5732635105047617,0.8840453870431412,0.34081916491492825
+5,Prevalence,18,Thailand,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.7385171761894312,1.1270045184191262,0.44311526290204406
+5,Prevalence,18,Thailand,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,59.43686786739308,90.47130523278098,36.79768662914317
+5,Prevalence,18,Thailand,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,67.6540225079372,101.32012423697005,43.2500538256471
+5,Prevalence,18,Thailand,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,27.329534465427766,41.03528945446328,17.535628788264166
+5,Prevalence,18,Thailand,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,31.925726641314004,48.45306094542992,20.320347311838553
+5,Prevalence,18,Thailand,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,10.757681969239144,16.432560081924294,6.787816099740617
+5,Prevalence,18,Thailand,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,12.657308310312652,19.7248747139426,7.9392859986866275
+5,Prevalence,18,Thailand,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1008.553519198988,1464.4738738991764,685.1540892447175
+5,Prevalence,18,Thailand,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,916.3056048509378,1315.5784386099654,622.1743948381659
+5,Prevalence,18,Thailand,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,53.948474194628844,83.23362444619134,33.26813311081413
+5,Prevalence,18,Thailand,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,42.30977383826014,65.40699602566222,26.211017041261883
+5,Prevalence,18,Thailand,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,371.77244556229067,554.8896240988802,240.32779085699133
+5,Prevalence,18,Thailand,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,267.7234687026777,399.87930305782555,169.2188383399429
+5,Prevalence,18,Thailand,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.0005840466308136445,0.0017179226159862611,0.0002491246545087751
+5,Prevalence,18,Thailand,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.0010470794502278542,0.0028209237992009796,0.00031093931455958025
+5,Prevalence,18,Thailand,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,949.9816810777254,1377.5807997238855,639.9954357498953
+5,Prevalence,18,Thailand,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,841.0861934981754,1202.5412739169524,572.5295382546178
+5,Prevalence,18,Thailand,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,60.181862382527235,91.60640086257636,37.491202619353146
+5,Prevalence,18,Thailand,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,78.88521529483391,119.13681364727833,49.83141079351602
+5,Prevalence,18,Thailand,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,79.9823459197628,130.3488873068262,44.72781464937183
+5,Prevalence,18,Thailand,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,120.47253154873505,194.43463376939212,69.01463356508677
+5,Prevalence,18,Thailand,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,41.910201531454625,62.75687395015467,26.511908900668814
+5,Prevalence,18,Thailand,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,49.19057154466508,74.81072320599787,31.316795824936523
+5,Prevalence,18,Thailand,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,21.410507798500102,35.58524561770968,11.77468328725803
+5,Prevalence,18,Thailand,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,45.25312019597255,74.41590577777241,25.45428858565056
+5,Prevalence,18,Thailand,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,517.6398493151785,765.0220895818445,335.4353544922158
+5,Prevalence,18,Thailand,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,516.4632674992545,750.1976064160727,341.97183111629386
+5,Prevalence,18,Thailand,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,38.77135458402714,61.5324740805972,23.09697278151086
+5,Prevalence,18,Thailand,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,33.632095098861356,53.61801010921874,20.25438926392569
+5,Prevalence,18,Thailand,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,49.233414570378216,75.96121876150879,29.76190146954169
+5,Prevalence,18,Thailand,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,63.10550479505367,98.22663185719883,37.762231746290496
+5,Prevalence,18,Thailand,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,280.1927866909365,432.31680868438895,167.14661830653833
+5,Prevalence,18,Thailand,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,329.18004921622367,500.3360325755594,206.8275569638015
+5,Prevalence,18,Thailand,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,386.2180000690104,584.5245573762695,234.1373763365447
+5,Prevalence,18,Thailand,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,359.2582883993296,531.2474234353854,226.04657895249204
+5,Prevalence,18,Thailand,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,512.3241776823097,768.0400577708767,338.00395249319206
+5,Prevalence,18,Thailand,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,445.0954575476559,652.5945780032162,290.03267791955443
+5,Prevalence,18,Thailand,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,386.35577340333583,580.4559230509467,248.82229295457955
+5,Prevalence,18,Thailand,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,314.401702387571,472.1601718611295,203.90538507395647
+5,Prevalence,18,Thailand,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,201.85476680818624,310.0703537975783,124.62760197284655
+5,Prevalence,18,Thailand,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,158.47537964466395,247.8968949993899,95.81351830037784
+5,Prevalence,18,Thailand,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,191.99123544642447,291.1673930389092,120.17482989783397
+5,Prevalence,18,Thailand,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,214.10443639616804,319.5880955811863,137.6790778877923
+5,Prevalence,18,Thailand,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,3.822985096787716,6.294300551867925,2.2365110170778117
+5,Prevalence,18,Thailand,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,4.60753659303843,7.729625845131494,2.671057104003676
+5,Prevalence,18,Thailand,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,150.08103391496982,234.88884047631763,92.93690761170174
+5,Prevalence,18,Thailand,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,164.91386485150298,249.43299247275203,105.15921685249471
+5,Prevalence,18,Thailand,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,496.2293415166784,738.336714232163,318.80971638925
+5,Prevalence,18,Thailand,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,471.21014730328204,695.7571010895914,309.4709474021109
+5,Prevalence,18,Thailand,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,497.7435106162829,745.3289886485655,329.02982835777345
+5,Prevalence,18,Thailand,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,427.8306126443048,631.0296879478811,279.0663257414748
+5,Prevalence,18,Thailand,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,473.12217573615663,706.9977372111479,313.98783843520465
+5,Prevalence,18,Thailand,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,413.9814515368221,607.5147031007457,269.6397363803489
+5,Prevalence,18,Thailand,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,379.26533518858383,559.6157580295412,246.75701503985547
+5,Prevalence,18,Thailand,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,355.31497113748094,527.5861059123356,232.1635967605554
+5,Prevalence,18,Thailand,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,289.7966389816903,434.37685313891785,187.24860769554317
+5,Prevalence,18,Thailand,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,295.3442343319652,442.6744648399351,192.84727116995433
+5,Prevalence,18,Thailand,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,188.1682503496367,286.7244882662181,117.6861100392805
+5,Prevalence,18,Thailand,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,209.49689980312962,314.2142790599185,134.52806432485357
+5,Prevalence,18,Thailand,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,764.3580755337982,1098.4400785215469,519.229939166517
+5,Prevalence,18,Thailand,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,682.5817409104554,966.3928278869091,460.5367341268924
+5,Prevalence,18,Thailand,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.7003110605419915,1.1596224599983813,0.40753624018909257
+5,Prevalence,18,Thailand,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.9976656358643516,1.6469208964064774,0.5689851047480591
+5,Prevalence,18,Thailand,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.6336163974106553e-06,2.570860197355196e-06,9.875557611512087e-07
+5,Prevalence,18,Thailand,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.9839762795928235e-06,3.1211617700238155e-06,1.1295061847440385e-06
+5,Prevalence,18,Thailand,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.7632052341570505e-05,0.00011493146442740805,1.4500506784062068e-05
+5,Prevalence,18,Thailand,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,6.979306858199885e-05,0.00018913655038719872,1.941118533114683e-05
+5,Prevalence,18,Thailand,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.03641100481040579,0.057493372773220225,0.021263813779904182
+5,Prevalence,18,Thailand,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.04681399243187746,0.0732213002194524,0.027576752477554162
+5,Prevalence,18,Thailand,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.6638607900628468,1.104768150857076,0.3827534213942112
+5,Prevalence,18,Thailand,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.9507798663876126,1.5773773970411256,0.5387714862059022
+5,Prevalence,18,Thailand,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.7291319376518415,2.897559132465531,0.9628717473132148
+5,Prevalence,18,Thailand,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.2352440991358722,2.1478805916445647,0.6745996884142812
+5,Prevalence,18,Thailand,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.9442597086572111,1.7193038399371985,0.503279444999181
+5,Prevalence,18,Thailand,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.6257071203553156,1.1217975507024245,0.3190007238947369
+5,Prevalence,18,Thailand,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.4001485040307031,0.7934035625183795,0.14866463313735037
+5,Prevalence,18,Thailand,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.2300722775543944,3.7965369758146377,1.1560405629884636
+5,Prevalence,18,Thailand,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.8446955140781185,6.754739409910536,1.920842344606063
+5,Prevalence,18,Thailand,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.8319064307376935,8.534093551640606,2.5647204654068343
+5,Prevalence,18,Thailand,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.883773778442983,8.777555172313834,2.4201199934261366
+5,Prevalence,18,Thailand,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.194949927543272,9.286968473697145,2.6161247613607106
+5,Prevalence,18,Thailand,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.587832843206421,8.205891977599274,2.0540263658456976
+5,Prevalence,18,Thailand,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.350943626884875,7.779856207223039,2.0158051748818195
+5,Prevalence,18,Thailand,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.5999371877712045,8.275387997526831,1.8954772078058904
+5,Prevalence,18,Thailand,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.376579371589313,7.859588195238178,2.050254241186582
+5,Prevalence,18,Thailand,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.409311929683614,9.75623631472197,2.3312257657391187
+5,Prevalence,18,Thailand,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.4884912583129495,7.910290891402996,2.0402905382899212
+5,Prevalence,18,Thailand,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.663451709522154,9.907998303351789,2.6734798285117938
+5,Prevalence,18,Thailand,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.567940384731546,8.077891711079074,2.336713938625231
+5,Prevalence,18,Thailand,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.305480004329016,5.917856657094672,1.5382389595347565
+5,Prevalence,18,Thailand,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.3317133813083846,4.189336826228139,1.0627731188375362
+5,Prevalence,18,Thailand,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.5798025634763635,3.0546929401706695,0.6114228234997735
+5,Prevalence,18,Thailand,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.8833418364860061,1.7826096843786268,0.2610640131687614
+5,Prevalence,18,Thailand,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.99338610714815,10.608628147463882,3.3564080649964496
+5,Prevalence,18,Thailand,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.720707908246707,6.6942225899570005,1.9611521685155349
+5,Prevalence,18,Thailand,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.713360717008096,9.722288253652506,3.128203377874875
+5,Prevalence,18,Thailand,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.8069683314795464,6.556512383855397,2.0327904930337657
+5,Prevalence,18,Thailand,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,7.214853805950862,11.29758211284492,4.3244474973415885
+5,Prevalence,18,Thailand,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,6.298520610499441,10.074156268215871,3.7781796571250537
+5,Prevalence,18,Thailand,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.831340462490589,9.255793016090209,3.4270708922156947
+5,Prevalence,18,Thailand,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,6.238673778371067,10.020460871084662,3.8203372256002317
+5,Prevalence,18,Thailand,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,6.559464868918498,9.9589786329201,4.009361115850605
+5,Prevalence,18,Thailand,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,7.525546064706685,11.342853061748768,4.666431715805154
+5,Prevalence,18,Thailand,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2012,68.96054270290782,99.81992079020567,46.61579218279018
+5,Prevalence,18,Thailand,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2012,63.70497204380742,92.15694875974243,42.69735128349759
+5,Prevalence,18,Thailand,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.6733916463090526,4.374689253728857,1.5880579566681976
+5,Prevalence,18,Thailand,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.8609512194911881,3.0640749233141,1.064279824055273
+5,Prevalence,18,Thailand,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,29.3891514667352,44.3089089652238,18.528365686104202
+5,Prevalence,18,Thailand,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,30.04088327735404,44.701783363085994,19.265113016750654
+5,Prevalence,18,Thailand,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,16.592029391961628,26.52943081459692,10.27382880049569
+5,Prevalence,18,Thailand,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,10.742731457520646,17.07721350164993,6.526466903809121
+5,Prevalence,18,Thailand,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,19.60565913735995,29.50064657525597,12.442607538269604
+5,Prevalence,18,Thailand,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,20.06274045357719,30.236413758659644,12.821557594406391
+5,Prevalence,18,Thailand,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.036450270479144765,0.05756846728822306,0.02127922105121273
+5,Prevalence,18,Thailand,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.04688576947673906,0.07333685020167635,0.0275950087675907
+5,Prevalence,18,Thailand,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.837789184519112,5.931106782144738,2.3186389215954093
+5,Prevalence,18,Thailand,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.351859723880042,6.603419468964805,2.7102270573917346
+5,Prevalence,18,Thailand,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.7713437945822825,2.67501007534442,1.0962261975453007
+5,Prevalence,18,Thailand,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.057736754398893,3.1516160526386376,1.2726606940995278
+5,Prevalence,18,Thailand,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.7004415255894281,1.0776341714609297,0.42810723493487407
+5,Prevalence,18,Thailand,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.8176662120441289,1.2856982927997265,0.4974951364457335
+5,Prevalence,18,Thailand,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,65.18669149202606,95.26507825373035,43.56908854421467
+5,Prevalence,18,Thailand,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,58.61628291089748,84.94295493026407,39.38392559738429
+5,Prevalence,18,Thailand,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.373702706851044,5.329098250376759,2.072271648823853
+5,Prevalence,18,Thailand,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.8586168553555393,4.455460887165774,1.7375293014613824
+5,Prevalence,18,Thailand,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,23.806883197912487,35.92772300538832,15.111839067337222
+5,Prevalence,18,Thailand,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,17.041252068020082,25.818616694614633,10.595997602612599
+5,Prevalence,18,Thailand,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.926566873898117e-05,0.00011717413758560748,1.5482998778345936e-05
+5,Prevalence,18,Thailand,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,7.177704486159167e-05,0.00019229558647425175,2.0595567674358077e-05
+5,Prevalence,18,Thailand,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,61.34199597794795,89.5853262702839,40.780406708123344
+5,Prevalence,18,Thailand,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,53.78437648015979,77.65671731888062,36.13309601554122
+5,Prevalence,18,Thailand,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.7738512108817472,5.809966990079276,2.3393434980273167
+5,Prevalence,18,Thailand,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.088689132909933,7.716096693891206,3.213257669946566
+5,Prevalence,18,Thailand,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.1891037267660325,8.517894328782116,2.8192703570060775
+5,Prevalence,18,Thailand,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,7.687685828647404,12.50844611193893,4.333300088695768
+5,Prevalence,18,Thailand,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.721675684399387,4.095061814642605,1.664770883601627
+5,Prevalence,18,Thailand,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.1736863408266425,4.840876028437523,1.9664425961499032
+5,Prevalence,18,Thailand,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.3444082126879144,2.2958426696948533,0.7319980907906426
+5,Prevalence,18,Thailand,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.8557793979097106,4.704232248756741,1.5911261705259128
+5,Prevalence,18,Thailand,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,33.638891179721426,50.01473813107592,21.537551217287696
+5,Prevalence,18,Thailand,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,32.99830377901774,48.34956308165146,21.467610862902795
+5,Prevalence,18,Thailand,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.429442998193833,3.87227239136488,1.4379621437208476
+5,Prevalence,18,Thailand,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.232909735000224,3.5791456850403187,1.3305627264876152
+5,Prevalence,18,Thailand,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.0735401503397557,4.833474791606893,1.8461973578558664
+5,Prevalence,18,Thailand,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.091023497045582,6.35914200615994,2.4509388232818865
+5,Prevalence,18,Thailand,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,18.31638782752943,28.291835600265546,10.812726440335048
+5,Prevalence,18,Thailand,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,20.984451634309547,32.278544413494366,13.005812124350891
+5,Prevalence,18,Thailand,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,25.14430744862638,38.20472796574227,15.083119584667193
+5,Prevalence,18,Thailand,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,22.978904569061953,34.28796098096529,14.259264026523145
+5,Prevalence,18,Thailand,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,32.89220852499256,49.78824431566235,21.34102209485613
+5,Prevalence,18,Thailand,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,28.473758529789453,42.22364956225476,18.203798830172264
+5,Prevalence,18,Thailand,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,24.752941092597695,37.64003049742541,15.588016966936923
+5,Prevalence,18,Thailand,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,20.064870628596765,30.603689087050252,12.755783223510718
+5,Prevalence,18,Thailand,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,12.928214522958957,20.23968763695851,7.806050443703979
+5,Prevalence,18,Thailand,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,10.105488941978988,16.089764253476087,5.989909318393542
+5,Prevalence,18,Thailand,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,12.390805331409087,18.99355195057041,7.532395045246269
+5,Prevalence,18,Thailand,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,13.764219843077752,20.80060072694203,8.63577667958392
+5,Prevalence,18,Thailand,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.24989036422767594,0.4130852433384686,0.14146808685861498
+5,Prevalence,18,Thailand,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.29828337438362096,0.5024853038166593,0.16870846563725
+5,Prevalence,18,Thailand,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,9.6691296470097,15.284305706992319,5.826903418755664
+5,Prevalence,18,Thailand,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,10.590533502251109,16.232755632248505,6.592502216032695
+5,Prevalence,18,Thailand,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,32.29448296703351,48.26971543369945,20.491584900064232
+5,Prevalence,18,Thailand,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,30.14252438110803,44.91862420158075,19.459813182723867
+5,Prevalence,18,Thailand,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,31.941876635175454,48.28562777637475,20.71089912045644
+5,Prevalence,18,Thailand,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,27.357808943361707,40.84187163182793,17.513982266095994
+5,Prevalence,18,Thailand,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,30.36207407169909,45.83331211378215,19.70019177011409
+5,Prevalence,18,Thailand,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,26.474467106875693,39.35939137093534,16.948194163366512
+5,Prevalence,18,Thailand,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,24.36868796455094,36.417084202513756,15.530349177543908
+5,Prevalence,18,Thailand,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,22.75375919862899,34.2123859329981,14.580685151939543
+5,Prevalence,18,Thailand,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,18.655327247542846,28.3375017913807,11.772816391505623
+5,Prevalence,18,Thailand,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,18.946790867149446,28.656606035057806,12.116472041903227
+5,Prevalence,18,Thailand,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,12.140914967181413,18.579233305226502,7.376393385360173
+5,Prevalence,18,Thailand,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,13.46593646869413,20.469339527361246,8.43631976669214
+5,Prevalence,18,Thailand,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,49.35488356554786,71.58241091203674,33.133024863807805
+5,Prevalence,18,Thailand,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,43.642231590230224,62.43285806854607,29.110590028097103
+5,Prevalence,214,Nigeria,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2012,31468.43955015584,45092.5391241802,21516.848440340735
+5,Prevalence,214,Nigeria,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2012,43568.735465415586,62180.86657101558,29905.078712588558
+5,Prevalence,214,Nigeria,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2012,0.09765602706940285,0.13202343742026007,0.06990312037352406
+5,Prevalence,214,Nigeria,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2012,0.13252307275476616,0.18722862127308446,0.093049534445394
+5,Prevalence,214,Nigeria,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2012,3.6798791244233535,6.217876337381262,1.771476142893091
+5,Prevalence,214,Nigeria,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2012,6.435002673497853,10.890407632967651,3.3014604400364096
+5,Prevalence,214,Nigeria,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2012,1913.1813220013325,2599.8722642098405,1343.2921297962673
+5,Prevalence,214,Nigeria,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2012,2730.79157357902,3740.3791897992987,1943.5044561372092
+5,Prevalence,214,Nigeria,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2012,29551.480693003017,42676.91136810561,20105.838056611654
+5,Prevalence,214,Nigeria,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2012,40831.37636609031,59022.25695821979,27621.72518381609
+5,Prevalence,214,Nigeria,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2012,11979.866918473768,18940.55338925845,7433.668801676114
+5,Prevalence,214,Nigeria,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2012,17218.69314799974,27132.78908691954,10837.73712641834
+5,Prevalence,214,Nigeria,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,1769.4024154450344,3204.222716679862,755.3091422899973
+5,Prevalence,214,Nigeria,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,2818.801370973991,4771.5631123716,1371.0272897897344
+5,Prevalence,214,Nigeria,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,16121.059616887893,24254.923598396334,9953.88292782527
+5,Prevalence,214,Nigeria,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,19606.053756747857,30723.722548477515,11630.065430360193
+5,Prevalence,214,Nigeria,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2012,22468.99536020299,34394.537238522185,13659.027920591418
+5,Prevalence,214,Nigeria,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2012,30553.78330874268,47807.60492845789,17890.576436566564
+5,Prevalence,214,Nigeria,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2012,23083.372560739925,36107.35361803292,13245.544295969079
+5,Prevalence,214,Nigeria,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2012,29449.020724813563,48718.34853422773,14869.276798704328
+5,Prevalence,214,Nigeria,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2012,19323.301759545262,29873.538387438773,9366.825785684943
+5,Prevalence,214,Nigeria,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2012,23956.21733765635,38979.87297893356,10395.166232016863
+5,Prevalence,214,Nigeria,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2012,14596.714885738926,24153.25142240658,5824.956525531273
+5,Prevalence,214,Nigeria,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2012,16165.096765239552,27664.325247897657,6175.056799019613
+5,Prevalence,214,Nigeria,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2012,16136.282059897829,26907.769159775045,6839.7915770005675
+5,Prevalence,214,Nigeria,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2012,13322.440949779708,23116.85191156165,5219.479648013294
+5,Prevalence,214,Nigeria,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,14974.028274349754,25819.778885553642,7248.930893893498
+5,Prevalence,214,Nigeria,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,10219.217661641445,18592.833647051422,4289.1292211532855
+5,Prevalence,214,Nigeria,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2012,15563.94072683341,23250.027310831418,8626.693611443256
+5,Prevalence,214,Nigeria,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2012,11253.959541770428,17413.75608791234,5753.19907730235
+5,Prevalence,214,Nigeria,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2012,10454.680429329968,15830.247902450841,6005.557028585379
+5,Prevalence,214,Nigeria,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2012,8790.012871783341,13724.008869902002,4797.729104487708
+5,Prevalence,214,Nigeria,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2012,6762.431767882841,10224.289824549596,4140.241461067479
+5,Prevalence,214,Nigeria,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2012,5200.5538307619445,8255.538340538415,3003.9642168487394
+5,Prevalence,214,Nigeria,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2012,5367.59709280216,8124.700435787216,3306.2707044343197
+5,Prevalence,214,Nigeria,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2012,3200.4924401888165,5050.991329068287,1867.656974120618
+5,Prevalence,214,Nigeria,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,9349.876065311377,13061.52857379826,6141.968227452785
+5,Prevalence,214,Nigeria,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,6272.10366197093,8855.291221797523,4080.695218461597
+5,Prevalence,214,Nigeria,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2012,7908.665939870891,10941.170886060503,5403.325386636841
+5,Prevalence,214,Nigeria,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2012,5161.422343162652,7200.062743947788,3457.05219234607
+5,Prevalence,214,Nigeria,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2012,8572.51529399426,10801.720249284317,6687.2873576355805
+5,Prevalence,214,Nigeria,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2012,6496.72016805093,8309.643500927687,5023.45848122079
+5,Prevalence,214,Nigeria,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2012,235901.1707174621,267556.38886965887,206585.2646546045
+5,Prevalence,214,Nigeria,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2012,253253.32534669954,294610.1641510897,216237.49872909626
+5,Prevalence,214,Nigeria,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,13749.269333918804,20790.865434437135,8687.934200270778
+5,Prevalence,214,Nigeria,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,20037.494518973734,30507.801034603166,13021.81210740064
+5,Prevalence,214,Nigeria,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,126703.75451736258,154473.00683285008,101064.97967238007
+5,Prevalence,214,Nigeria,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,143271.83050462115,181553.6114154348,109685.02171360132
+5,Prevalence,214,Nigeria,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2012,38148.650016848376,50430.36151533458,27725.203008545617
+5,Prevalence,214,Nigeria,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2012,28445.018684504532,38701.334060817564,19752.76048232234
+5,Prevalence,214,Nigeria,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2012,25831.05729917653,33104.6401981267,19316.7918587869
+5,Prevalence,214,Nigeria,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2012,17930.246173184514,23091.628344090248,13241.023268205048
+5,Prevalence,214,Nigeria,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2012,1916.9588571528257,2605.943079494391,1345.3520682619992
+5,Prevalence,214,Nigeria,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2012,2737.3590993252733,3751.470446596923,1946.5683229722026
+5,Prevalence,214,Nigeria,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2012,5508.450223102989,7054.192144918716,4202.515088104343
+5,Prevalence,214,Nigeria,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2012,3366.474465389058,4408.578826641959,2503.5825432759434
+5,Prevalence,214,Nigeria,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,2253.790006558899,2815.85203804266,1767.136696947048
+5,Prevalence,214,Nigeria,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,2048.3020233555303,2581.4362794693234,1577.32159656816
+5,Prevalence,214,Nigeria,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2012,671.4234774798099,865.7103095159305,498.009271534769
+5,Prevalence,214,Nigeria,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2012,847.7551656738513,1108.8157851943718,625.0705948163748
+5,Prevalence,214,Nigeria,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2012,174562.40221649958,206064.4976789097,147663.2088312624
+5,Prevalence,214,Nigeria,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2012,170041.04160556232,206014.61468067966,137898.81070368458
+5,Prevalence,214,Nigeria,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,45217.70888407465,63189.169804779536,32649.948603124543
+5,Prevalence,214,Nigeria,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2012,63606.22998438932,89660.7347095955,46009.891690771525
+5,Prevalence,214,Nigeria,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,47498.526082159755,60804.58590968718,36568.22121662363
+5,Prevalence,214,Nigeria,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,34717.122346475466,45656.184703249644,25731.052626520253
+5,Prevalence,214,Nigeria,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2012,3.7775351514927564,6.351762503109452,1.8423555744313695
+5,Prevalence,214,Nigeria,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2012,6.567525746252619,11.062541124301259,3.4033060475164505
+5,Prevalence,214,Nigeria,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2012,152093.4068562966,180271.0881002197,126304.66789315552
+5,Prevalence,214,Nigeria,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2012,139487.2582968197,172911.4266801945,110918.31437570015
+5,Prevalence,214,Nigeria,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2012,61338.76850096254,79960.46722973367,46052.33794285926
+5,Prevalence,214,Nigeria,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2012,83212.28374113717,109272.80473054718,62749.41341217115
+5,Prevalence,214,Nigeria,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2012,40359.45739253592,57726.64946355053,27417.090348550217
+5,Prevalence,214,Nigeria,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2012,52978.63843646453,78722.87061614802,34785.20607716936
+5,Prevalence,214,Nigeria,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2012,3064.065070891271,3818.7012544940453,2377.6856986565244
+5,Prevalence,214,Nigeria,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2012,3130.245702661873,3948.3640215383116,2403.716916537883
+5,Prevalence,214,Nigeria,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,17890.462032332925,26660.205010247573,11200.849901265
+5,Prevalence,214,Nigeria,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,22424.85512772185,34045.51797552989,13583.41950064961
+5,Prevalence,214,Nigeria,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2012,144037.09765964103,174288.3361979348,117284.88783672999
+5,Prevalence,214,Nigeria,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2012,157344.59141736556,194162.4090224209,123232.17430330734
+5,Prevalence,214,Nigeria,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2012,43448.30646862961,61958.96089780616,30779.902492542282
+5,Prevalence,214,Nigeria,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2012,60787.42861341533,86604.86766837905,42910.57388527511
+5,Prevalence,214,Nigeria,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,29870.328950806696,40785.62332685506,21509.599849840426
+5,Prevalence,214,Nigeria,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2012,39643.548275721594,53992.23979393773,28286.311238478855
+5,Prevalence,214,Nigeria,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2012,95593.444183115,121311.82478917911,70972.49495347332
+5,Prevalence,214,Nigeria,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2012,119730.17189320001,156278.8162185292,86151.69446360457
+5,Prevalence,214,Nigeria,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,88113.6995402717,113355.1067996634,65291.73839075365
+5,Prevalence,214,Nigeria,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2012,93111.99343913062,125939.29749387343,65483.47949599187
+5,Prevalence,214,Nigeria,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2012,48415.766589191495,58781.09529777112,38883.57517120935
+5,Prevalence,214,Nigeria,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2012,35121.30531591862,43831.063532031345,27944.780424625253
+5,Prevalence,214,Nigeria,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2012,29388.570865867263,36886.60959015318,22197.415242605282
+5,Prevalence,214,Nigeria,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2012,19834.572276084346,25421.904758833833,14713.482753889528
+5,Prevalence,214,Nigeria,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,14717.473158113535,19970.32556799777,10002.090832724029
+5,Prevalence,214,Nigeria,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2012,9472.596102159747,13094.592921790414,6250.612924506653
+5,Prevalence,214,Nigeria,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2012,16481.18123386515,21505.303188766396,12348.102699262203
+5,Prevalence,214,Nigeria,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2012,11658.142511213584,15289.317850175219,8691.954752612539
+5,Prevalence,214,Nigeria,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2012,138.8515868525612,192.182459490426,91.62472842807666
+5,Prevalence,214,Nigeria,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2012,234.18851363249192,333.7367662259197,153.21469555738435
+5,Prevalence,214,Nigeria,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2012,13417.11616297388,17990.610402665476,9749.389532898374
+5,Prevalence,214,Nigeria,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2012,8527.89680855171,11588.22211075603,6020.111755019483
+5,Prevalence,214,Nigeria,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2012,126146.6356273081,155146.14881208062,100173.97865534619
+5,Prevalence,214,Nigeria,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2012,134919.73628964374,169215.82359369923,102820.96697059149
+5,Prevalence,214,Nigeria,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,47605.49152485912,57966.39190239244,38104.59722622289
+5,Prevalence,214,Nigeria,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,34039.36163661227,42636.95347787876,26849.08667752559
+5,Prevalence,214,Nigeria,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,37150.811095529156,45867.00262528727,28920.724600933972
+5,Prevalence,214,Nigeria,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,25249.348764828934,31567.434330373748,19468.430699133707
+5,Prevalence,214,Nigeria,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,30388.37932764631,38133.447030417236,22896.55684894585
+5,Prevalence,214,Nigeria,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,20048.794934066987,25722.97776761451,14960.058193607392
+5,Prevalence,214,Nigeria,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,25020.782234844155,32243.556590665077,18495.14464126325
+5,Prevalence,214,Nigeria,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2012,16848.30249387817,21909.397431468886,12252.921707697518
+5,Prevalence,214,Nigeria,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2012,16342.329647012588,21369.780717719168,12244.874613655522
+5,Prevalence,214,Nigeria,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2012,11423.953997581091,15011.819861429227,8486.081048857619
+5,Prevalence,214,Nigeria,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2012,210070.11341828562,242232.8671467271,181464.60508493418
+5,Prevalence,214,Nigeria,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2012,235323.079173515,275617.8955964434,198531.78179797003
+5,Prevalence,214,Nigeria,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1219.620421236861,2061.8295429121654,696.3135411528854
+5,Prevalence,214,Nigeria,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1700.0820778228265,2847.4078632962455,975.6130286672413
+5,Prevalence,214,Nigeria,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.003752750196592921,0.006137346255609599,0.002185596350966569
+5,Prevalence,214,Nigeria,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.005122152285201014,0.008525324240618495,0.0029669929169261968
+5,Prevalence,214,Nigeria,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.13105882174810551,0.2775554003229301,0.049452040494203556
+5,Prevalence,214,Nigeria,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.23166334726128104,0.46865890044393843,0.09125506633268066
+5,Prevalence,214,Nigeria,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,73.78581910025083,122.17651725017855,43.065886817683825
+5,Prevalence,214,Nigeria,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,106.03940107161463,173.95170688111028,61.93895297042666
+5,Prevalence,214,Nigeria,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1145.6997905646656,1944.776505460013,649.4072550834978
+5,Prevalence,214,Nigeria,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1593.8058912516656,2700.631780320743,906.932449938479
+5,Prevalence,214,Nigeria,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,451.5317245158718,808.6164243748831,243.9427441160582
+5,Prevalence,214,Nigeria,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,653.5342505147378,1155.8357499790416,369.2574660169913
+5,Prevalence,214,Nigeria,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,67.72413671878661,131.17912051545548,27.465634686317383
+5,Prevalence,214,Nigeria,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,109.35092454315813,199.76861845534995,51.66943005351917
+5,Prevalence,214,Nigeria,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,630.2344891972572,1085.3432814083858,342.85009614819364
+5,Prevalence,214,Nigeria,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,770.6891941983334,1357.1478776521867,405.9284951906964
+5,Prevalence,214,Nigeria,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,861.4084468485395,1500.3642591841221,440.6762532786403
+5,Prevalence,214,Nigeria,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1161.5115960435835,2078.1506882233975,566.972075831206
+5,Prevalence,214,Nigeria,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,874.8439911027983,1626.777500339281,449.7620485745462
+5,Prevalence,214,Nigeria,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1074.929875153818,2060.630733093418,487.093291015255
+5,Prevalence,214,Nigeria,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,718.6197671850266,1323.6645347506944,315.1227985486778
+5,Prevalence,214,Nigeria,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,853.5086473943104,1635.5118235649559,350.87383088368284
+5,Prevalence,214,Nigeria,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,534.7980833640722,996.8605036412281,186.36436150347933
+5,Prevalence,214,Nigeria,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,573.9983276991325,1088.0577015944436,200.47356453162655
+5,Prevalence,214,Nigeria,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,604.0451051267032,1155.7615156230238,233.2318696315685
+5,Prevalence,214,Nigeria,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,483.94592216064456,941.5896082462925,178.46970338152082
+5,Prevalence,214,Nigeria,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,575.8569346272845,1071.1616786258735,242.95301393390307
+5,Prevalence,214,Nigeria,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,386.1549413967369,759.3283423299052,152.82303876524912
+5,Prevalence,214,Nigeria,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,611.1472751349618,1075.4995135740387,303.8262229636034
+5,Prevalence,214,Nigeria,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,443.2544198144168,788.8439891497515,204.64269633150795
+5,Prevalence,214,Nigeria,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,412.1536107527333,702.6508355471613,205.76143021209336
+5,Prevalence,214,Nigeria,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,353.72422197797897,625.3186072054972,173.05504938715146
+5,Prevalence,214,Nigeria,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,266.6051825530532,471.9643604992741,137.58488876188486
+5,Prevalence,214,Nigeria,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,211.9511175387525,385.0997945979425,102.85468741698728
+5,Prevalence,214,Nigeria,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,213.785414550908,382.7279927885281,113.43913715152635
+5,Prevalence,214,Nigeria,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,131.04027721870915,239.7665177957481,64.45113566164169
+5,Prevalence,214,Nigeria,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,376.76093928540917,622.7005972608715,217.02939741924453
+5,Prevalence,214,Nigeria,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,259.00279313891093,445.63518485691793,143.1831984045332
+5,Prevalence,214,Nigeria,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,316.4143368261122,507.32528878770995,186.70525354534288
+5,Prevalence,214,Nigeria,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,209.74877894398054,343.6395606383826,121.26152290427143
+5,Prevalence,214,Nigeria,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,349.54892779867953,541.2597250342765,220.53099047660726
+5,Prevalence,214,Nigeria,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,266.9185426715134,431.145564952135,164.22595239243182
+5,Prevalence,214,Nigeria,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,9085.09878682506,13938.753946179357,6045.66429349372
+5,Prevalence,214,Nigeria,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,9643.345908231546,14885.977426159145,6439.971244413999
+5,Prevalence,214,Nigeria,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,519.2558612346585,901.3258757380584,291.0832745460141
+5,Prevalence,214,Nigeria,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,762.8851750578959,1329.7646157487816,446.2389913802029
+5,Prevalence,214,Nigeria,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,4799.806817451682,7561.557237714815,3095.164582329284
+5,Prevalence,214,Nigeria,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,5304.73850404656,8451.68219010484,3373.7555010524347
+5,Prevalence,214,Nigeria,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1503.6914829916564,2376.17933853483,904.8870422703997
+5,Prevalence,214,Nigeria,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1139.9700365498572,1815.5747917903873,661.8608575919859
+5,Prevalence,214,Nigeria,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1042.724203910201,1613.459552910002,655.2450904762156
+5,Prevalence,214,Nigeria,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,735.6701147544048,1146.2003965867407,452.4067997706491
+5,Prevalence,214,Nigeria,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,73.92063067219553,122.34910759786379,43.12938870365792
+5,Prevalence,214,Nigeria,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,106.27618657116112,174.33305247634465,62.06427975925002
+5,Prevalence,214,Nigeria,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,224.09052315341566,350.5717057001763,139.29342411229146
+5,Prevalence,214,Nigeria,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,137.95645187791973,221.68065159567527,82.07934493540556
+5,Prevalence,214,Nigeria,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,92.01737507869979,143.82892705582603,57.56482163871082
+5,Prevalence,214,Nigeria,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,84.15383860298385,134.21667888341696,50.59041525102715
+5,Prevalence,214,Nigeria,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,27.63430833345039,44.2943478557948,16.580403443327974
+5,Prevalence,214,Nigeria,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,35.02917902505759,59.31614467576194,20.040777599308353
+5,Prevalence,214,Nigeria,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,6715.988015156282,10324.559496107244,4381.686162227774
+5,Prevalence,214,Nigeria,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,6409.689461152489,9959.439845709398,4181.390734947305
+5,Prevalence,214,Nigeria,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1738.8762824715195,2799.488991749967,1035.4539017370632
+5,Prevalence,214,Nigeria,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,2462.9672528807223,3943.1197376794858,1492.9964698098806
+5,Prevalence,214,Nigeria,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1880.4524222770654,2970.44965465946,1158.0974361085748
+5,Prevalence,214,Nigeria,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1398.9728296887683,2214.2930020382905,825.5910030200341
+5,Prevalence,214,Nigeria,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.13481157194469848,0.2838947919943474,0.05187102810338734
+5,Prevalence,214,Nigeria,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,0.23678549954648206,0.4769864138562753,0.09490300518635376
+5,Prevalence,214,Nigeria,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,5854.579568307742,9100.77067461381,3815.111774897746
+5,Prevalence,214,Nigeria,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,5248.177865108904,8246.307627806831,3357.4565041434216
+5,Prevalence,214,Nigeria,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,2369.110771668777,3669.9184399172336,1475.9728078995724
+5,Prevalence,214,Nigeria,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,3233.6564470790554,4954.8316900555,2019.0075338231784
+5,Prevalence,214,Nigeria,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1559.3670727645833,2552.1296774572343,882.46366913909
+5,Prevalence,214,Nigeria,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,2041.5517147850753,3383.832784913904,1144.1044978274408
+5,Prevalence,214,Nigeria,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,125.45840464526391,196.51561285392066,77.86885614130142
+5,Prevalence,214,Nigeria,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,128.9620907935937,212.50430089809302,76.2428384028624
+5,Prevalence,214,Nigeria,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,697.9586259160437,1202.0829156407299,379.14035946537757
+5,Prevalence,214,Nigeria,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,880.0401187414915,1506.283539453155,477.6718555040783
+5,Prevalence,214,Nigeria,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,5478.67822930543,8423.190648737691,3543.3782421283827
+5,Prevalence,214,Nigeria,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,5857.343848404134,9228.413614157635,3765.1096906881435
+5,Prevalence,214,Nigeria,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1671.1521457527328,2739.0754634468344,989.4378101805903
+5,Prevalence,214,Nigeria,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,2353.616328337564,3833.723064733029,1398.255564142709
+5,Prevalence,214,Nigeria,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1149.4903504319157,1804.8799180154608,696.5872296748348
+5,Prevalence,214,Nigeria,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1533.5743692562294,2423.5006138121817,940.1618057190985
+5,Prevalence,214,Nigeria,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,3619.904777697694,5656.019394795284,2292.600508970184
+5,Prevalence,214,Nigeria,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,4434.637640489178,7053.94126282063,2745.5316617692215
+5,Prevalence,214,Nigeria,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,3308.1638814058847,5308.65711719285,2031.0020568113853
+5,Prevalence,214,Nigeria,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,3372.537713804643,5635.345668176974,2005.7650140954504
+5,Prevalence,214,Nigeria,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1935.2684117668955,2977.2018817393414,1259.1733217457022
+5,Prevalence,214,Nigeria,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1432.3857314898455,2249.2580788122596,906.1615563119093
+5,Prevalence,214,Nigeria,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1173.5658732154827,1884.8116763614105,747.5071075225762
+5,Prevalence,214,Nigeria,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,811.7429668403532,1309.649225959183,502.87655967570595
+5,Prevalence,214,Nigeria,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,590.5463538363172,1002.9805812686037,347.2506662840307
+5,Prevalence,214,Nigeria,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,390.04307035762014,676.9739301145453,222.92396131400798
+5,Prevalence,214,Nigeria,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,665.9632646247918,1048.6585869600508,412.21619570728257
+5,Prevalence,214,Nigeria,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,476.66732161549396,749.9026468963634,286.34241425276474
+5,Prevalence,214,Nigeria,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,5.806721233113741,9.768113978918084,3.151051813316227
+5,Prevalence,214,Nigeria,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,9.779073165552246,17.246350897512446,5.071176234576879
+5,Prevalence,214,Nigeria,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,540.5048599795277,860.6778577032675,328.730436837059
+5,Prevalence,214,Nigeria,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,347.70523082190033,559.0160447096662,202.95306075892609
+5,Prevalence,214,Nigeria,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,4780.719603389386,7531.136788392897,3069.451140014357
+5,Prevalence,214,Nigeria,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,4977.3037296626435,7942.442754900364,3152.7246128367815
+5,Prevalence,214,Nigeria,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1901.8273822003314,2932.422654650279,1233.0376240500646
+5,Prevalence,214,Nigeria,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1387.5774792992358,2176.5968956716843,876.434861908642
+5,Prevalence,214,Nigeria,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1489.673771447598,2349.395435175516,959.7713224359427
+5,Prevalence,214,Nigeria,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1033.8532573212567,1622.5110878405226,647.3880124008111
+5,Prevalence,214,Nigeria,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1223.068588894545,1918.8276938986362,776.0057488811112
+5,Prevalence,214,Nigeria,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,821.9021397825043,1291.291701235445,508.35309894939206
+5,Prevalence,214,Nigeria,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,1009.2831743436369,1565.663455768597,631.8857031887505
+5,Prevalence,214,Nigeria,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,690.8618625637951,1084.223818915575,421.32606577955994
+5,Prevalence,214,Nigeria,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,660.156543391678,1041.0861209639975,408.51120036942694
+5,Prevalence,214,Nigeria,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,466.8882484499417,735.762483199847,280.5568512034544
+5,Prevalence,214,Nigeria,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,8042.3745829148575,12479.990220426866,5271.901696087284
+5,Prevalence,214,Nigeria,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2012,8907.675793477141,13786.58980135998,5824.421307681336
+5,Prevalence,214,Nigeria,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.70870425724678,9.692171519557673,3.2305820081612877
+5,Prevalence,214,Nigeria,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,7.965837676102042,13.524650906085977,4.493836869797278
+5,Prevalence,214,Nigeria,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.763104707942687e-05,2.8871520241779715e-05,1.02166148819401e-05
+5,Prevalence,214,Nigeria,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.4127036328203566e-05,4.046488830612196e-05,1.3779149468476197e-05
+5,Prevalence,214,Nigeria,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.0006279384473073104,0.0013297369078670415,0.00023575445158148048
+5,Prevalence,214,Nigeria,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.0011045847241166785,0.002258408545431337,0.00042901649901009263
+5,Prevalence,214,Nigeria,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.3438698755742382,0.5727083654239615,0.19895577518759672
+5,Prevalence,214,Nigeria,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.49582480319134364,0.8124178718004277,0.28660294345125475
+5,Prevalence,214,Nigeria,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.3641888121781545,9.145477187993437,3.008538743922463
+5,Prevalence,214,Nigeria,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,7.468884161150254,12.778350706902735,4.16859076722015
+5,Prevalence,214,Nigeria,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.1097675840222077,3.7904897637415123,1.123737730105596
+5,Prevalence,214,Nigeria,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.0584054054753453,5.478925331471321,1.6994292933280726
+5,Prevalence,214,Nigeria,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.31554133377682375,0.617674545225196,0.125246296988783
+5,Prevalence,214,Nigeria,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.514813753462734,0.9466665280839793,0.24010993527631241
+5,Prevalence,214,Nigeria,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.9498415447134874,5.082900935513178,1.6025535289189758
+5,Prevalence,214,Nigeria,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.592398154455499,6.326181896169571,1.8689646439700973
+5,Prevalence,214,Nigeria,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.0422904318589215,7.020868654528671,2.0666153019365154
+5,Prevalence,214,Nigeria,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.4441392037586285,9.730890712133188,2.6213218490139907
+5,Prevalence,214,Nigeria,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.142613228671757,7.709928152764666,2.116512735736232
+5,Prevalence,214,Nigeria,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.086776405255674,9.794993720197871,2.2647079644231134
+5,Prevalence,214,Nigeria,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.4308281674642247,6.340221012335029,1.4994744966329692
+5,Prevalence,214,Nigeria,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.077593717846274,7.805834874454462,1.650697442774636
+5,Prevalence,214,Nigeria,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.5627206618176275,4.755057242347697,0.8917473570351158
+5,Prevalence,214,Nigeria,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.725227321985067,5.16778739530596,0.9302008213355288
+5,Prevalence,214,Nigeria,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.8664844816032256,5.474375526300926,1.1017599671209768
+5,Prevalence,214,Nigeria,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.2851073318536823,4.474515370362313,0.8164790251389114
+5,Prevalence,214,Nigeria,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.738601612571357,5.085135946554994,1.1493291093761155
+5,Prevalence,214,Nigeria,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.8090335694248774,3.5849347040245227,0.700726152997933
+5,Prevalence,214,Nigeria,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.867088104891248,5.03538706347522,1.4145464882473633
+5,Prevalence,214,Nigeria,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.0717010898860773,3.6958340398555998,0.943132193679852
+5,Prevalence,214,Nigeria,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.934440254523914,3.2954116227965526,0.9593496032271452
+5,Prevalence,214,Nigeria,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.6533707963673057,2.94040566385201,0.7963158354215925
+5,Prevalence,214,Nigeria,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.2541754903344235,2.217046676835767,0.6429137872908135
+5,Prevalence,214,Nigeria,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.9916596827633082,1.8083169150121765,0.47792871377170454
+5,Prevalence,214,Nigeria,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.0032941633011963,1.7988288307106386,0.5296587071020954
+5,Prevalence,214,Nigeria,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.6082975207486233,1.117491913025658,0.2967936312652524
+5,Prevalence,214,Nigeria,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.7675645769533013,2.9244635274723976,1.0136683216604416
+5,Prevalence,214,Nigeria,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.2113668483772224,2.086602808753887,0.6661032820199405
+5,Prevalence,214,Nigeria,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.4833126975641073,2.3823988592343066,0.8711326124654977
+5,Prevalence,214,Nigeria,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.9804588427191281,1.6069231460302538,0.5606718054202731
+5,Prevalence,214,Nigeria,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.640553141948466,2.552114784862525,1.029025563992991
+5,Prevalence,214,Nigeria,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.2465195338308845,2.024879502637951,0.7579559799377725
+5,Prevalence,214,Nigeria,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2012,42.817821733263074,65.76739690788764,28.394836731597657
+5,Prevalence,214,Nigeria,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2012,45.32270685431237,70.31569164438528,29.938471509014686
+5,Prevalence,214,Nigeria,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.4253089177990317,4.242793067834416,1.3461625716321233
+5,Prevalence,214,Nigeria,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.5732191589380795,6.300709539461653,2.062037407510847
+5,Prevalence,214,Nigeria,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,22.7333801287006,35.86737212725959,14.608395671188562
+5,Prevalence,214,Nigeria,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,25.020275704579696,40.119297879730155,15.835452204304513
+5,Prevalence,214,Nigeria,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,7.058998013050782,11.170745431935426,4.230076162578682
+5,Prevalence,214,Nigeria,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.325029089765314,8.479911077598256,3.057837820235516
+5,Prevalence,214,Nigeria,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.891430416465874,7.566773020200871,3.063812041565735
+5,Prevalence,214,Nigeria,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.438345224927235,5.3685399537707985,2.0968042982338666
+5,Prevalence,214,Nigeria,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.34451544506862497,0.5743898080290298,0.19923451035896003
+5,Prevalence,214,Nigeria,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.4969535149517885,0.8143415307877184,0.28720537037580585
+5,Prevalence,214,Nigeria,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.0514071201867503,1.6485520549982,0.6484452059228922
+5,Prevalence,214,Nigeria,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.6443295012192228,1.031971446211413,0.3807901276511661
+5,Prevalence,214,Nigeria,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.4321086163715222,0.6791334969035865,0.2685119590074003
+5,Prevalence,214,Nigeria,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.3929341114932411,0.6279808098807064,0.2344686237932452
+5,Prevalence,214,Nigeria,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.1297725943553823,0.2082349571152824,0.07724123069387567
+5,Prevalence,214,Nigeria,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.16357242158615987,0.27573254988775187,0.09257600302946911
+5,Prevalence,214,Nigeria,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,31.733967013503765,48.90675883248298,20.654278040361252
+5,Prevalence,214,Nigeria,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,30.19125186481675,47.06796713319864,19.537523283662093
+5,Prevalence,214,Nigeria,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,8.134013175045812,13.129424326369346,4.815321582748921
+5,Prevalence,214,Nigeria,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,11.539056835040123,18.627950883207,6.899183810555272
+5,Prevalence,214,Nigeria,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,8.826562590004084,13.921084606007257,5.426033435952749
+5,Prevalence,214,Nigeria,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,6.536395938142536,10.351605947506464,3.828476628091206
+5,Prevalence,214,Nigeria,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.0006455694943867374,0.0013596879934279125,0.00024706195153587383
+5,Prevalence,214,Nigeria,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.001128711760444882,0.002292580160750386,0.00044613607772368553
+5,Prevalence,214,Nigeria,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,27.691676581644845,43.144851884795976,17.97154561071167
+5,Prevalence,214,Nigeria,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,24.74711266105812,39.04883339336839,15.747441841630945
+5,Prevalence,214,Nigeria,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,11.0838547197593,17.212358114137775,6.86145603007505
+5,Prevalence,214,Nigeria,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,15.131454989495621,23.407987640056593,9.342134633388138
+5,Prevalence,214,Nigeria,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,7.307673310349234,11.950022751637112,4.127822063808282
+5,Prevalence,214,Nigeria,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,9.55135111167686,15.894930173275936,5.287825712455761
+5,Prevalence,214,Nigeria,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.5891460217617157,0.9255854280704674,0.364215087082055
+5,Prevalence,214,Nigeria,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.6021900326116618,0.9921797869976471,0.35334286498816597
+5,Prevalence,214,Nigeria,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.265382878490312,5.638479667581825,1.7624447065687125
+5,Prevalence,214,Nigeria,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.107211907918233,7.088461570572177,2.2064638479894354
+5,Prevalence,214,Nigeria,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,25.916009567368675,39.84943018390433,16.723116904884098
+5,Prevalence,214,Nigeria,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,27.60679054792851,43.74164980327999,17.629803848969065
+5,Prevalence,214,Nigeria,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,7.818471841268989,12.850409122484871,4.5784404593719445
+5,Prevalence,214,Nigeria,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,11.024243081577389,18.112666782811637,6.449050037902694
+5,Prevalence,214,Nigeria,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.3751504625125195,8.467027117664001,3.240908306110436
+5,Prevalence,214,Nigeria,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,7.165617313393579,11.344520569601471,4.3379788407123385
+5,Prevalence,214,Nigeria,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,17.128294034526018,26.73591219667438,10.843481319975389
+5,Prevalence,214,Nigeria,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,20.926134803301142,33.27220999405156,12.84666683308813
+5,Prevalence,214,Nigeria,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,15.74124815212819,25.3209641797177,9.643361076636557
+5,Prevalence,214,Nigeria,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,15.983738346365575,26.861343061626368,9.414227983271395
+5,Prevalence,214,Nigeria,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,9.083340324625409,13.954270042969032,5.890247604367156
+5,Prevalence,214,Nigeria,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,6.691673224806473,10.535095916526595,4.206814793134685
+5,Prevalence,214,Nigeria,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.508346928153029,8.828465281079255,3.502283735017156
+5,Prevalence,214,Nigeria,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.791782894608282,6.139995312469077,2.340614732724727
+5,Prevalence,214,Nigeria,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.7708587402544977,4.697687696446674,1.6225675753371593
+5,Prevalence,214,Nigeria,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.819664369125846,3.1718327878523556,1.0352260738358705
+5,Prevalence,214,Nigeria,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.123865839512573,4.9266959868965,1.925506418842245
+5,Prevalence,214,Nigeria,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.2269783765500124,3.4922640479160303,1.3290637343092784
+5,Prevalence,214,Nigeria,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.027264811034811067,0.04622301298468671,0.01464889199843912
+5,Prevalence,214,Nigeria,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2012,0.04568349953226079,0.08055718437225529,0.023446506485913995
+5,Prevalence,214,Nigeria,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.534719817750858,4.051646298180036,1.5365282488065235
+5,Prevalence,214,Nigeria,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,1.6247883439383508,2.6227769337371036,0.9414729774771612
+5,Prevalence,214,Nigeria,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,22.65062668887836,35.68388610039781,14.506067462152934
+5,Prevalence,214,Nigeria,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,23.49957864001028,37.584831730479756,14.786642957993024
+5,Prevalence,214,Nigeria,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,8.926302919235216,13.747146132248812,5.767862588410245
+5,Prevalence,214,Nigeria,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,6.482417303688052,10.194280900205111,4.061215867141679
+5,Prevalence,214,Nigeria,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,6.9918626647113005,11.021892005209988,4.480663995264256
+5,Prevalence,214,Nigeria,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.829046507320746,7.603795723687007,3.008794443150537
+5,Prevalence,214,Nigeria,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,5.737687174376877,9.019447963009874,3.631538133521705
+5,Prevalence,214,Nigeria,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.837386824557438,6.033807350200034,2.3468730022898803
+5,Prevalence,214,Nigeria,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,4.734393011075681,7.345758214967211,2.9509466894261145
+5,Prevalence,214,Nigeria,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.229089303808814,5.076863265669389,1.9530609215161
+5,Prevalence,214,Nigeria,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,3.096601028477762,4.889561504698453,1.9082107227303973
+5,Prevalence,214,Nigeria,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,2.181294877017752,3.4561552349991342,1.3020904110746998
+5,Prevalence,214,Nigeria,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,37.926391316797194,58.9312963954443,24.75302640202869
+5,Prevalence,214,Nigeria,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2012,41.88436162938514,65.26890302106422,27.086990055477987

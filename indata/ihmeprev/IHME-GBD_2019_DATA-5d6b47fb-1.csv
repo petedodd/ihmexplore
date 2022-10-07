@@ -1,0 +1,1027 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,10,Cambodia,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,7.995578843703643,17.70922461408193,3.0674223664627025
+5,Prevalence,10,Cambodia,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,11.257462174550584,24.601574960503257,4.477681714327738
+5,Prevalence,10,Cambodia,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2.6239076132673595e-05,5.8671933876165575e-05,1.0091650860143242e-05
+5,Prevalence,10,Cambodia,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3.078702045975369e-05,6.958752965660523e-05,1.2423985689346211e-05
+5,Prevalence,10,Cambodia,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.0003812878478207258,0.0008572713956406816,0.0001462132337404995
+5,Prevalence,10,Cambodia,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.00047983530900351767,0.00110825983660356,0.00018155553250749287
+5,Prevalence,10,Cambodia,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.4565134640060602,1.0301048203289473,0.17436397815538535
+5,Prevalence,10,Cambodia,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.5957920858868554,1.3028476011774766,0.24665231897803128
+5,Prevalence,10,Cambodia,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,7.538657852773627,16.818614815832184,2.8969306056044766
+5,Prevalence,10,Cambodia,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,10.661159466334265,23.446416174652704,4.228407777736564
+5,Prevalence,10,Cambodia,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,37.22482685322383,79.97700919150707,14.73020934565142
+5,Prevalence,10,Cambodia,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,20.056958053889637,44.00307051704613,8.025744566586399
+5,Prevalence,10,Cambodia,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,16.86217517576956,36.640251671213846,6.480722072903328
+5,Prevalence,10,Cambodia,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,5.638735264949695,12.665334415874199,2.042550101774107
+5,Prevalence,10,Cambodia,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,6.680505683804197,15.748085353329008,2.340593092341734
+5,Prevalence,10,Cambodia,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,36.57489198228876,80.7294851309239,13.72533469356202
+5,Prevalence,10,Cambodia,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,50.81685797063376,120.17617576294518,17.82972866811583
+5,Prevalence,10,Cambodia,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,70.96023225476435,166.34007336059915,25.66137109545478
+5,Prevalence,10,Cambodia,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,57.65616106515049,133.58223573623906,19.998135447387334
+5,Prevalence,10,Cambodia,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,62.406123855664916,144.959727967536,21.855227020145545
+5,Prevalence,10,Cambodia,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,35.68844549751695,84.10817179300373,12.1509945552973
+5,Prevalence,10,Cambodia,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,35.4671957509727,82.17935513355408,12.315029618978183
+5,Prevalence,10,Cambodia,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,25.504923216696792,57.25986110574941,8.67565144202714
+5,Prevalence,10,Cambodia,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,26.155224309407643,60.000959932137036,8.973532624758734
+5,Prevalence,10,Cambodia,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,28.100187433166006,63.060374327278666,9.885993492496373
+5,Prevalence,10,Cambodia,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,25.153315231244395,55.66483138060717,9.010735097268979
+5,Prevalence,10,Cambodia,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,27.495581847803535,65.55699880559429,9.320370033336758
+5,Prevalence,10,Cambodia,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,27.095787442336665,63.29809933253188,9.351625868820877
+5,Prevalence,10,Cambodia,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,16.749027350332877,38.30121120898998,5.847409413984334
+5,Prevalence,10,Cambodia,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,14.305036000918921,32.73397520395632,4.917520182379618
+5,Prevalence,10,Cambodia,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,8.655206387428766,19.811049347406495,3.459048399691221
+5,Prevalence,10,Cambodia,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,6.550541360671205,14.910097480602467,2.6221061670965358
+5,Prevalence,10,Cambodia,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,25.011888708968165,57.38249144674048,9.327457264876742
+5,Prevalence,10,Cambodia,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,21.10967628077379,49.41722754740155,7.950634712559597
+5,Prevalence,10,Cambodia,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,21.74834619082175,49.69921344394833,8.419183238745283
+5,Prevalence,10,Cambodia,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,18.938485021142398,43.31214588118726,7.372989426082679
+5,Prevalence,10,Cambodia,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,22.43548480406528,51.72049429251663,8.448700525505766
+5,Prevalence,10,Cambodia,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,23.20883978010925,52.056535277064654,8.768886584202516
+5,Prevalence,10,Cambodia,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,15.448360869458565,35.42462990760313,5.577490624096361
+5,Prevalence,10,Cambodia,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,18.866227345665056,42.61153492209596,6.866119676101081
+5,Prevalence,10,Cambodia,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,13.666475857601524,30.859168355567405,5.240786218064595
+5,Prevalence,10,Cambodia,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,17.00392665965832,38.25253347238057,6.489861249566625
+5,Prevalence,10,Cambodia,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,417.7400337561457,893.8741417629741,172.6336949823406
+5,Prevalence,10,Cambodia,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,440.7486587690083,951.5250193483175,180.48250293809429
+5,Prevalence,10,Cambodia,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,54.08700202899339,115.77908443128213,21.345429898238976
+5,Prevalence,10,Cambodia,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,25.695693318839325,55.38111783136041,10.151270192575607
+5,Prevalence,10,Cambodia,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,231.94266271477173,510.0717553196974,91.67400293209542
+5,Prevalence,10,Cambodia,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,283.8127708266794,636.5484186398909,110.62009037974148
+5,Prevalence,10,Cambodia,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,72.16446863755158,159.34071729997018,29.082502014831736
+5,Prevalence,10,Cambodia,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,60.90373866350632,134.53874545284577,24.472769432433882
+5,Prevalence,10,Cambodia,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,51.55032153112538,117.53472925261187,20.03492682819404
+5,Prevalence,10,Cambodia,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,59.07899378543263,134.10140719964465,22.408052611084646
+5,Prevalence,10,Cambodia,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.45692099093001365,1.0310585865757995,0.1745306285625413
+5,Prevalence,10,Cambodia,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.5963027082163187,1.3040327993105996,0.24684784443098134
+5,Prevalence,10,Cambodia,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,8.878266501652885,19.89904813900197,3.3595208122875477
+5,Prevalence,10,Cambodia,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,11.039601746662745,24.80954110681767,4.229038420801101
+5,Prevalence,10,Cambodia,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3.751783169732557,8.458351262284356,1.4586777906722548
+5,Prevalence,10,Cambodia,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,4.500671548898294,10.059616852474186,1.7599388186386455
+5,Prevalence,10,Cambodia,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.8906124639598479,2.0391118607962997,0.33093841048073164
+5,Prevalence,10,Cambodia,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1.2140162151992044,2.7267669391405214,0.4616853214780023
+5,Prevalence,10,Cambodia,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,348.9769471996445,755.6832655896753,143.39782934913782
+5,Prevalence,10,Cambodia,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,367.2206112933296,805.5504357925942,149.57000759346624
+5,Prevalence,10,Cambodia,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,62.08258087269703,131.02357306339582,24.67987888091265
+5,Prevalence,10,Cambodia,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,36.95315549338991,77.81402767998908,14.691384946307611
+5,Prevalence,10,Cambodia,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,94.59995344161685,209.50734947799148,38.041014896741935
+5,Prevalence,10,Cambodia,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,84.11257844361558,185.90615905740293,34.326789572554304
+5,Prevalence,10,Cambodia,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.00040752692395339943,0.0009166656668152524,0.00015630463786476986
+5,Prevalence,10,Cambodia,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.0005106223294632715,0.0011750864209655288,0.00019420844881895197
+5,Prevalence,10,Cambodia,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,298.16008922901074,638.1633131428498,121.40909643684319
+5,Prevalence,10,Cambodia,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,296.26037903856525,651.5683758525009,119.10002031585242
+5,Prevalence,10,Cambodia,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,68.76308655650122,144.99121602452038,27.35411640875948
+5,Prevalence,10,Cambodia,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,73.52804747567868,158.5477462684735,29.861251369770738
+5,Prevalence,10,Cambodia,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,74.35953883020751,174.60984353509366,27.89091620453814
+5,Prevalence,10,Cambodia,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,113.17385950200283,261.93673057373826,42.703324685393994
+5,Prevalence,10,Cambodia,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,4.7882093559486405,10.734038940415594,1.813625721756181
+5,Prevalence,10,Cambodia,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,5.964324912995575,13.285875326909684,2.3124054787302804
+5,Prevalence,10,Cambodia,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,23.54268085957376,50.411683176933906,9.191923224455744
+5,Prevalence,10,Cambodia,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,42.21362724723844,90.75549200972418,16.345796723886064
+5,Prevalence,10,Cambodia,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,265.5538652408742,578.6529783456999,106.93185495088126
+5,Prevalence,10,Cambodia,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,303.75654209254805,685.1912116388316,116.97675262884859
+5,Prevalence,10,Cambodia,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,45.220405696927465,97.74180741503372,18.112892647454334
+5,Prevalence,10,Cambodia,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,31.31442022844022,67.68309106629296,12.454746879912165
+5,Prevalence,10,Cambodia,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,60.76750771279758,129.20022522579168,23.815267120362073
+5,Prevalence,10,Cambodia,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,62.27058530112809,133.45233679482587,24.962050044070214
+5,Prevalence,10,Cambodia,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,176.34689343380222,396.62534569155594,67.54972946750013
+5,Prevalence,10,Cambodia,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,231.56366815309838,510.80401481253523,87.68282605139626
+5,Prevalence,10,Cambodia,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,174.44529906033375,380.88187672729106,68.61004734047562
+5,Prevalence,10,Cambodia,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,176.27764658962633,385.5719363075751,67.3060748614254
+5,Prevalence,10,Cambodia,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,106.96576281834406,232.3974005241107,42.911291886139814
+5,Prevalence,10,Cambodia,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,105.67769644802003,229.91082786207454,42.53667025611819
+5,Prevalence,10,Cambodia,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,84.64408057331377,188.55170418089557,33.673530896143845
+5,Prevalence,10,Cambodia,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,82.12322842769049,179.53763739219596,32.9618537370858
+5,Prevalence,10,Cambodia,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,44.18383099488703,98.03363095154303,17.716796340700057
+5,Prevalence,10,Cambodia,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,42.14732480125165,94.76275527469853,16.895544114219426
+5,Prevalence,10,Cambodia,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,29.11483672706009,64.44063905141958,11.018723951766193
+5,Prevalence,10,Cambodia,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,35.87015400532338,80.5628716423277,13.522926029082013
+5,Prevalence,10,Cambodia,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.14581372225623462,0.3412326703659758,0.051567351079856875
+5,Prevalence,10,Cambodia,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.24963714889807626,0.5769467710786192,0.09114578362172321
+5,Prevalence,10,Cambodia,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,24.32662737111145,55.32492828787199,8.994149490861579
+5,Prevalence,10,Cambodia,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,29.905829092327796,67.4175291359979,11.20828423196713
+5,Prevalence,10,Cambodia,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,242.0111843813004,530.9387646097847,96.99906412112594
+5,Prevalence,10,Cambodia,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,261.5429148453096,586.8659745648079,102.08839178905464
+5,Prevalence,10,Cambodia,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,105.92933663212796,230.67597740294687,42.52989283145911
+5,Prevalence,10,Cambodia,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,104.21404308392275,226.83222401871987,41.88128761361689
+5,Prevalence,10,Cambodia,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,97.27413024469921,214.62691253451774,38.306445734721216
+5,Prevalence,10,Cambodia,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,97.66350172325154,209.99047203290962,39.0736984265548
+5,Prevalence,10,Cambodia,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,72.26224153573104,157.45127009443917,29.128047876877616
+5,Prevalence,10,Cambodia,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,76.55382544247774,162.9500059105429,30.036501916992304
+5,Prevalence,10,Cambodia,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,50.51389534490928,115.1044127958425,19.574943281405723
+5,Prevalence,10,Cambodia,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,57.61534042133534,130.73201380702085,21.733434561771737
+5,Prevalence,10,Cambodia,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,28.96902300480386,64.21944319001162,10.96349723138751
+5,Prevalence,10,Cambodia,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,35.6205168564253,79.97221618086851,13.412474063672299
+5,Prevalence,10,Cambodia,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,366.18971222502034,778.0261207265718,152.248395878812
+5,Prevalence,10,Cambodia,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,381.6696649835757,824.1138934907323,155.36975405693468
+5,Prevalence,10,Cambodia,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.5025810184213149,1.1156759696084062,0.19165838207929606
+5,Prevalence,10,Cambodia,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.7073663067178809,1.553311863416437,0.28060355729614517
+5,Prevalence,10,Cambodia,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.6456445257124517e-06,3.7070800914447054e-06,6.339396392831643e-07
+5,Prevalence,10,Cambodia,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.9297165970659295e-06,4.347760698397275e-06,7.844683628689291e-07
+5,Prevalence,10,Cambodia,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.3929309295306866e-05,5.3813021629627405e-05,9.186673881530786e-06
+5,Prevalence,10,Cambodia,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.9690019586148525e-05,6.717840418008877e-05,1.1437762726569938e-05
+5,Prevalence,10,Cambodia,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.027969870934975227,0.06342148292623816,0.010446844268363708
+5,Prevalence,10,Cambodia,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.03705118006525569,0.0809480500006671,0.015094770818003228
+5,Prevalence,10,Cambodia,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.4745855725325186,1.0559864672370547,0.1814928761720126
+5,Prevalence,10,Cambodia,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.670283506916442,1.478107209703767,0.2648823886367347
+5,Prevalence,10,Cambodia,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.2604723034153302,4.780588159910142,0.9204929823314394
+5,Prevalence,10,Cambodia,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.2396453827633613,2.732711335351811,0.5059610623786701
+5,Prevalence,10,Cambodia,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.0560471749673148,2.2884212506490593,0.4065437203569528
+5,Prevalence,10,Cambodia,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.3499765055273308,0.7983408865313674,0.12651881445442079
+5,Prevalence,10,Cambodia,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.41827919120923107,0.9899327679177536,0.146481272407677
+5,Prevalence,10,Cambodia,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.308434871400055,5.105589581401082,0.8600894210837272
+5,Prevalence,10,Cambodia,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.227484623069753,7.559074014471599,1.123614119259572
+5,Prevalence,10,Cambodia,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.511115208689993,10.50018230780964,1.6262446890593494
+5,Prevalence,10,Cambodia,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.651921241349416,8.407902095738091,1.273981074304547
+5,Prevalence,10,Cambodia,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.952898379935502,9.167569168852717,1.3873816841035715
+5,Prevalence,10,Cambodia,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.2576169406919453,5.287787208910447,0.7716858323914639
+5,Prevalence,10,Cambodia,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.2442736721400927,5.21064054993571,0.7785718794518364
+5,Prevalence,10,Cambodia,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.6051908087338156,3.5800904524171444,0.5485814620197067
+5,Prevalence,10,Cambodia,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.6591493353573377,3.8163268565734483,0.5676225939668642
+5,Prevalence,10,Cambodia,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.7867107838587204,3.9753897267096265,0.6267891445447143
+5,Prevalence,10,Cambodia,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.580085887097831,3.497345813571904,0.5631540527544531
+5,Prevalence,10,Cambodia,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.7293325805098718,4.111934698543927,0.5858948411984184
+5,Prevalence,10,Cambodia,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.6997617967238248,4.001550339076326,0.5866680250173975
+5,Prevalence,10,Cambodia,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.0637551755501042,2.4056342190801896,0.37160301039939214
+5,Prevalence,10,Cambodia,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.9078529862343002,2.0767528308494096,0.3094982878785667
+5,Prevalence,10,Cambodia,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.543174542906756,1.220042991892364,0.22128587812676537
+5,Prevalence,10,Cambodia,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.41693223274749575,0.9364774295023557,0.16726772888091332
+5,Prevalence,10,Cambodia,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.5876671103234763,3.6346293064133013,0.5913385433882282
+5,Prevalence,10,Cambodia,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.3322774005195415,3.1242658242423436,0.5010183011125848
+5,Prevalence,10,Cambodia,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.377004251294623,3.1539060758946107,0.5308049211980969
+5,Prevalence,10,Cambodia,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.1971442297091677,2.7451263298604296,0.46623285251401303
+5,Prevalence,10,Cambodia,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.4233540600133063,3.26813181103382,0.5336821065508757
+5,Prevalence,10,Cambodia,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.4705845819728711,3.293088545867489,0.5543618419649078
+5,Prevalence,10,Cambodia,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.9812994264633871,2.2336367076165664,0.3531235323407464
+5,Prevalence,10,Cambodia,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.1974021832148716,2.6876734054324314,0.4354632367269576
+5,Prevalence,10,Cambodia,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.8668043326591837,1.93586574498905,0.33201970749391485
+5,Prevalence,10,Cambodia,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.0785217318369205,2.4058827928445465,0.4111623728865863
+5,Prevalence,10,Cambodia,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2011,26.338695565437554,55.963651664467655,10.91324686280088
+5,Prevalence,10,Cambodia,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2011,27.853422692588378,60.11188991414675,11.39354774309763
+5,Prevalence,10,Cambodia,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.316519478382645,7.032158059616855,1.3338270517382587
+5,Prevalence,10,Cambodia,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.589621888290692,3.461522830223236,0.6360324178148293
+5,Prevalence,10,Cambodia,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,14.676536169422754,32.059912680912575,5.805703414619404
+5,Prevalence,10,Cambodia,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,17.95571915134464,40.211261607837365,6.975715352994257
+5,Prevalence,10,Cambodia,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.57160108007496,10.029985308804529,1.8438113488684758
+5,Prevalence,10,Cambodia,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.854206849210505,8.518269355814146,1.5438349565990115
+5,Prevalence,10,Cambodia,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.2714578191358767,7.396332991373787,1.2678706136756945
+5,Prevalence,10,Cambodia,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.7465084970246636,8.444118801659677,1.416927177951109
+5,Prevalence,10,Cambodia,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.027995445888796246,0.06348143113838035,0.010457333523885153
+5,Prevalence,10,Cambodia,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.03708279980143891,0.08102037241650176,0.015107093876372919
+5,Prevalence,10,Cambodia,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.5633892637727718,1.2531507512211844,0.21293764843248963
+5,Prevalence,10,Cambodia,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.7003967157368297,1.5596653130547358,0.26808069168550536
+5,Prevalence,10,Cambodia,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.23776139668372057,0.5314387818793344,0.09241702099791027
+5,Prevalence,10,Cambodia,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.2853618872154629,0.6320273267730978,0.11143054558002422
+5,Prevalence,10,Cambodia,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.056418515788844034,0.12771235271055842,0.02103034650370034
+5,Prevalence,10,Cambodia,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.07694297011400429,0.1714373538855432,0.02932230014934435
+5,Prevalence,10,Cambodia,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,22.10131587742436,47.51478089584774,9.09186949608194
+5,Prevalence,10,Cambodia,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,23.247999626179748,50.97764485410841,9.456349954305345
+5,Prevalence,10,Cambodia,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.8191004968039595,8.014760268483968,1.5394538109939986
+5,Prevalence,10,Cambodia,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.2969881950085727,4.869121536929687,0.9224737451996657
+5,Prevalence,10,Cambodia,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.994955140088266,13.255604250494732,2.406247326931525
+5,Prevalence,10,Cambodia,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.324791431183376,11.737927912386638,2.1674963388055986
+5,Prevalence,10,Cambodia,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.557495382101931e-05,5.753170431709758e-05,9.820585157825348e-06
+5,Prevalence,10,Cambodia,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.1619736183214456e-05,7.135824725484207e-05,1.2235408468725478e-05
+5,Prevalence,10,Cambodia,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,18.873831254354606,40.25515262101358,7.711115136561928
+5,Prevalence,10,Cambodia,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,18.736884417489758,41.19670786850591,7.516869738948281
+5,Prevalence,10,Cambodia,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.237379688013191,8.853753591978945,1.7082280814907052
+5,Prevalence,10,Cambodia,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.605423066408628,9.962637769968225,1.8746799735563573
+5,Prevalence,10,Cambodia,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.701810989246299,10.942269311341407,1.763927923016791
+5,Prevalence,10,Cambodia,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,7.169526585617379,16.57196815451489,2.6868015688284936
+5,Prevalence,10,Cambodia,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.3034150688864118,0.674328821851634,0.1149609345135977
+5,Prevalence,10,Cambodia,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.37812501610009075,0.8331583166020479,0.14641338294525563
+5,Prevalence,10,Cambodia,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.4743263661765453,3.161958893802252,0.5765300450483053
+5,Prevalence,10,Cambodia,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.658411376927386,5.749740178566019,1.0201862560490658
+5,Prevalence,10,Cambodia,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,16.79633851994017,36.400332836307236,6.771726727159772
+5,Prevalence,10,Cambodia,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,19.213548643106268,43.280428662303315,7.373652385091881
+5,Prevalence,10,Cambodia,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.7630533218366455,5.893294862950559,1.1357903711193338
+5,Prevalence,10,Cambodia,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.9470116894812421,4.182139475852328,0.7832092284142572
+5,Prevalence,10,Cambodia,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.7347986695918762,7.904378203301331,1.4872003478612903
+5,Prevalence,10,Cambodia,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.8980567596907467,8.391435470317006,1.5632696862940647
+5,Prevalence,10,Cambodia,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,11.160492805054162,24.838683695370467,4.296339756100251
+5,Prevalence,10,Cambodia,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,14.675871467522983,32.28099681788679,5.540861605006737
+5,Prevalence,10,Cambodia,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,11.030772355143771,23.96457159536188,4.351815873314673
+5,Prevalence,10,Cambodia,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,11.13616907125459,24.27773942910103,4.251926573732183
+5,Prevalence,10,Cambodia,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,6.779303723660733,14.66741288414848,2.7133071932792894
+5,Prevalence,10,Cambodia,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,6.692862360000869,14.549676385588423,2.689419923166329
+5,Prevalence,10,Cambodia,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.369324848094793,11.91947898937434,2.12974463477431
+5,Prevalence,10,Cambodia,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.197408395416453,11.311420941284828,2.083442708577959
+5,Prevalence,10,Cambodia,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.8003583113079293,6.2045572639787885,1.1185387683532189
+5,Prevalence,10,Cambodia,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.6677288116820392,6.001901996929356,1.0663354338107647
+5,Prevalence,10,Cambodia,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.8481037591225706,4.056356050164637,0.6988048567297179
+5,Prevalence,10,Cambodia,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.2759239150517923,5.087914979731863,0.856819963711245
+5,Prevalence,10,Cambodia,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.009235156413847229,0.021339548073412484,0.0032718574423793913
+5,Prevalence,10,Cambodia,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.015820158770623576,0.03627564878561147,0.005772331250351782
+5,Prevalence,10,Cambodia,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.544688690236159,3.482030940338881,0.5691249757127368
+5,Prevalence,10,Cambodia,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.8977988989517014,4.24655359483169,0.7102961286000722
+5,Prevalence,10,Cambodia,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,15.322012153763627,33.40921262395001,6.149274141719665
+5,Prevalence,10,Cambodia,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,16.555137266178882,37.01759132523595,6.442486989524167
+5,Prevalence,10,Cambodia,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,6.713650051458041,14.559010904385838,2.6890427388715996
+5,Prevalence,10,Cambodia,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,6.600099231116241,14.357024993998188,2.647952632652247
+5,Prevalence,10,Cambodia,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,6.170475508551284,13.559769114706928,2.4253265667679664
+5,Prevalence,10,Cambodia,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,6.183166998368744,13.296800205481198,2.469564013441113
+5,Prevalence,10,Cambodia,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.58280839822781,9.950828663261353,1.8409996038882304
+5,Prevalence,10,Cambodia,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.8508895978492035,10.244987876273447,1.8993446626825736
+5,Prevalence,10,Cambodia,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.205804146933186,7.2447189855370855,1.238698923054424
+5,Prevalence,10,Cambodia,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.6537453681400356,8.214740799388931,1.374301668859104
+5,Prevalence,10,Cambodia,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.8388686027087235,4.0402769549365285,0.6952925760490898
+5,Prevalence,10,Cambodia,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.2601037562811688,5.045094563594261,0.8488342895219189
+5,Prevalence,10,Cambodia,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,23.067237746301675,48.760193215963476,9.646750769697286
+5,Prevalence,10,Cambodia,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,24.106914195563718,51.99187826569645,9.801198074663162
+5,Prevalence,165,Pakistan,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2011,19949.057936695997,28324.79510677302,13687.723453807994
+5,Prevalence,165,Pakistan,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2011,44026.260903175964,62640.3284041989,30177.958554658213
+5,Prevalence,165,Pakistan,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.3512926508042027,0.5660848880787626,0.16566381840064875
+5,Prevalence,165,Pakistan,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.7926010379066692,1.1868589246215195,0.4624378640388312
+5,Prevalence,165,Pakistan,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2011,7.756696854414076,10.891955470712608,5.098834243692165
+5,Prevalence,165,Pakistan,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2011,14.037286929411923,19.52958608862548,9.457578640939827
+5,Prevalence,165,Pakistan,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2011,1319.750929273205,1766.7732501857454,941.0245195802687
+5,Prevalence,165,Pakistan,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2011,2402.814092728638,3195.8897617240364,1709.0898798703852
+5,Prevalence,165,Pakistan,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2011,18621.199017917577,26716.277131824118,12581.144353028845
+5,Prevalence,165,Pakistan,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2011,41608.61692248,59733.658763349784,28152.474181832687
+5,Prevalence,165,Pakistan,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,22942.84877516064,35445.79329677244,14721.784112208941
+5,Prevalence,165,Pakistan,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,72617.83785146674,110056.34948087907,46786.16408795542
+5,Prevalence,165,Pakistan,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,12910.715058094487,19800.614967245536,7766.831518784914
+5,Prevalence,165,Pakistan,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,49993.309654406745,76548.51800930266,30787.231609278726
+5,Prevalence,165,Pakistan,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,18668.152179034165,28522.32615507277,11173.676378198104
+5,Prevalence,165,Pakistan,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,40300.205300976304,62323.56732657745,23434.965187918493
+5,Prevalence,165,Pakistan,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,34248.34225056505,52358.843530250204,21102.43637660108
+5,Prevalence,165,Pakistan,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,38238.79107615374,59523.70932479049,23281.283486864057
+5,Prevalence,165,Pakistan,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2011,27421.85302303233,41591.133657615814,16292.205785741004
+5,Prevalence,165,Pakistan,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2011,32526.498841868328,50781.454432610124,18996.735083430784
+5,Prevalence,165,Pakistan,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2011,27652.326076332763,42952.682871874924,16643.614247164838
+5,Prevalence,165,Pakistan,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2011,26323.194222395512,41096.80519957764,15659.194153974126
+5,Prevalence,165,Pakistan,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,29173.551776529286,43524.1305354256,17601.107645095246
+5,Prevalence,165,Pakistan,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,26293.56389984617,40036.19862559694,15629.380911429285
+5,Prevalence,165,Pakistan,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2011,27222.706274952554,41229.49311540257,16453.073188810842
+5,Prevalence,165,Pakistan,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2011,19535.435154255432,30649.567044242067,11389.499886474212
+5,Prevalence,165,Pakistan,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,26079.801953011385,41208.168007463246,15491.021068049222
+5,Prevalence,165,Pakistan,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,16867.94199698068,26822.35034379464,9726.10262713107
+5,Prevalence,165,Pakistan,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,23053.79824415018,35126.45196577487,13810.488447112686
+5,Prevalence,165,Pakistan,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,15029.66348839235,22350.46482764645,9094.509315054378
+5,Prevalence,165,Pakistan,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2011,20708.292856343807,30514.578198390962,12760.966794288928
+5,Prevalence,165,Pakistan,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2011,12867.892880967222,19211.507603613692,7770.017043670488
+5,Prevalence,165,Pakistan,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2011,16081.525640233927,24581.114310622786,10204.676611783392
+5,Prevalence,165,Pakistan,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2011,9687.449530370026,15211.32055490397,5955.189169682856
+5,Prevalence,165,Pakistan,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,13364.74923378953,20733.666593342823,8287.722795307996
+5,Prevalence,165,Pakistan,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,7900.7951707369275,12642.461871143501,4730.180399746167
+5,Prevalence,165,Pakistan,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,14933.641337419114,21535.34760586038,9801.041145977328
+5,Prevalence,165,Pakistan,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,9949.687177096284,14427.059409344336,6249.30241760986
+5,Prevalence,165,Pakistan,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,9407.038037041923,13524.172941149793,6329.767909263888
+5,Prevalence,165,Pakistan,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,7407.7792202623705,10479.014972837225,4924.358232663505
+5,Prevalence,165,Pakistan,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2011,7890.539310156782,10183.78025985655,6065.240507925435
+5,Prevalence,165,Pakistan,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2011,5700.027621835123,7398.864922974839,4343.538027999628
+5,Prevalence,165,Pakistan,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2011,351708.93996254395,404605.05623441114,303838.42616653536
+5,Prevalence,165,Pakistan,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2011,435266.3339911859,520147.48475027434,370483.900700453
+5,Prevalence,165,Pakistan,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,35853.563833255124,51328.790606372335,24375.67139394355
+5,Prevalence,165,Pakistan,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,122611.14750587346,174782.5249637165,83397.40291653402
+5,Prevalence,165,Pakistan,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,190466.7335334575,236033.36332641527,152347.33890242083
+5,Prevalence,165,Pakistan,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,200085.63049247616,250632.6588801894,158118.53453365355
+5,Prevalence,165,Pakistan,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,73208.36597451744,94220.8778247337,55001.11381415982
+5,Prevalence,165,Pakistan,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,45485.801070466536,59658.892243979404,33727.5238963446
+5,Prevalence,165,Pakistan,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2011,32231.218684617816,42484.50049889909,23605.8746561482
+5,Prevalence,165,Pakistan,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2011,23057.494019193775,30648.83900261632,16716.884631681656
+5,Prevalence,165,Pakistan,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2011,1327.8589187784232,1778.2867322277013,946.1654606245853
+5,Prevalence,165,Pakistan,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2011,2417.6439806959565,3217.0041105096657,1719.416134198671
+5,Prevalence,165,Pakistan,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,4984.07435519327,6617.219576155322,3707.813613255985
+5,Prevalence,165,Pakistan,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,3731.109497278981,4922.941744310858,2743.870186404199
+5,Prevalence,165,Pakistan,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,2093.3995463805245,2701.5891672937946,1621.9246762478901
+5,Prevalence,165,Pakistan,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,1417.7601218367226,1841.1918790047948,1078.0236952253174
+5,Prevalence,165,Pakistan,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,668.6114864132287,907.5687647213084,498.06855554449237
+5,Prevalence,165,Pakistan,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,442.18394796928436,597.8359638343874,320.41126283551006
+5,Prevalence,165,Pakistan,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2011,277238.1660135586,327153.2773471396,232790.662483706
+5,Prevalence,165,Pakistan,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2011,228328.72028116017,276235.6047031985,189056.36504842533
+5,Prevalence,165,Pakistan,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,55802.621769951125,77404.59619216973,40835.22996169364
+5,Prevalence,165,Pakistan,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,166637.4084090494,226225.5020241557,120173.09625154921
+5,Prevalence,165,Pakistan,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,88142.00731193656,111287.7304321728,67922.72070982159
+5,Prevalence,165,Pakistan,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,55435.48824756281,70992.87176431887,42225.1285126423
+5,Prevalence,165,Pakistan,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2011,8.10798950521828,11.452230974821136,5.27631275678155
+5,Prevalence,165,Pakistan,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2011,14.82988796731859,20.66943847559615,9.900786574524119
+5,Prevalence,165,Pakistan,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2011,242989.82376299356,289146.5542544784,202083.66437791317
+5,Prevalence,165,Pakistan,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2011,190089.92920500643,230053.6863821663,158091.0081169796
+5,Prevalence,165,Pakistan,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2011,74470.77394898531,98843.28577528794,56689.69239795443
+5,Prevalence,165,Pakistan,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2011,206937.61371002573,275179.9754267953,154613.18743659198
+5,Prevalence,165,Pakistan,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,65827.2094876937,92250.1182668055,46399.91884165823
+5,Prevalence,165,Pakistan,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,128532.30603153679,177534.2922352081,91851.05576337
+5,Prevalence,165,Pakistan,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2011,2906.464954963512,3807.156589715692,2258.5666072041554
+5,Prevalence,165,Pakistan,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2011,1968.918124556142,2566.294299422745,1488.8213494146166
+5,Prevalence,165,Pakistan,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,31578.867237128652,45477.10540389214,20820.499948672514
+5,Prevalence,165,Pakistan,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,90293.51495538304,131000.42067109562,60483.38939481431
+5,Prevalence,165,Pakistan,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2011,226431.2468357022,274295.8121680452,185996.34761620688
+5,Prevalence,165,Pakistan,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2011,265108.60363527527,327962.284263472,215392.6532025521
+5,Prevalence,165,Pakistan,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,42891.906711856645,60856.99914599155,29590.877024483314
+5,Prevalence,165,Pakistan,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,116644.09875464269,167654.38152810987,81300.31975899835
+5,Prevalence,165,Pakistan,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,54521.716012289304,73970.84359043166,39232.664278027834
+5,Prevalence,165,Pakistan,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,162911.35280684978,224024.1156772222,117785.1598433917
+5,Prevalence,165,Pakistan,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,137164.2253054936,176485.48389965328,105040.15137079489
+5,Prevalence,165,Pakistan,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,163682.25334124005,213850.47523113378,123853.01129373652
+5,Prevalence,165,Pakistan,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,137550.23910385833,177592.9788588369,105906.76349179694
+5,Prevalence,165,Pakistan,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,121546.63411534614,156581.31774687086,90941.48602813654
+5,Prevalence,165,Pakistan,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2011,82385.7864149851,103011.53430190725,64701.6605224402
+5,Prevalence,165,Pakistan,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2011,53513.63160126795,66727.35963904986,41926.88225866832
+5,Prevalence,165,Pakistan,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,53786.95424848449,69920.06741288211,40772.08050675658
+5,Prevalence,165,Pakistan,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,34945.71109846561,45309.1278062775,26140.034658014618
+5,Prevalence,165,Pakistan,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,28298.39057120864,39998.025921509754,19425.402296259323
+5,Prevalence,165,Pakistan,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,17850.48234783321,25643.397064732806,12137.35287808965
+5,Prevalence,165,Pakistan,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2011,17297.5773471987,23227.20036917165,12475.652866414877
+5,Prevalence,165,Pakistan,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2011,13107.80684209749,17572.424505821255,9434.905053207145
+5,Prevalence,165,Pakistan,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2011,144.45392216975875,213.03450666709142,93.26779666556597
+5,Prevalence,165,Pakistan,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2011,108.97405475013468,158.3412525643207,69.75838041326406
+5,Prevalence,165,Pakistan,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,14391.112392235193,19990.573675557534,10061.554685700456
+5,Prevalence,165,Pakistan,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,11138.88871754135,15304.828364135834,7671.753885139624
+5,Prevalence,165,Pakistan,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,194852.37959857355,240048.37141654151,155102.34718043415
+5,Prevalence,165,Pakistan,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,174815.08867989224,217857.66539230652,139055.21712596755
+5,Prevalence,165,Pakistan,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,81572.72100640209,102193.04914905176,63951.3391089982
+5,Prevalence,165,Pakistan,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,52962.47359854853,66241.1117036775,41320.32205582331
+5,Prevalence,165,Pakistan,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,60864.42815005829,77660.23834975302,46881.85497165048
+5,Prevalence,165,Pakistan,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,40094.58071758131,51272.17843817853,30687.517546433326
+5,Prevalence,165,Pakistan,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,44782.902509824366,58067.133137605284,33260.1187144327
+5,Prevalence,165,Pakistan,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,30407.13118721129,39942.7660064164,22386.473249599076
+5,Prevalence,165,Pakistan,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,31418.15327603483,41720.35187001272,22867.236268491066
+5,Prevalence,165,Pakistan,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,22506.336016474357,30066.00627242559,16180.433053833136
+5,Prevalence,165,Pakistan,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,17153.123425028945,23089.87414579948,12354.994529991094
+5,Prevalence,165,Pakistan,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,12998.832787347357,17469.30551166814,9321.337707694465
+5,Prevalence,165,Pakistan,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2011,319477.72127792606,372366.2390654231,272743.986307307
+5,Prevalence,165,Pakistan,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2011,412208.8399719921,495486.5653232174,347599.03619001474
+5,Prevalence,179,Ethiopia,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2011,10790.759166854614,16489.382903105176,6718.815243290176
+5,Prevalence,179,Ethiopia,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2011,16640.95438410838,24766.093791994983,10790.18061293027
+5,Prevalence,179,Ethiopia,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.034185031834629044,0.046810025813808775,0.0233812324072075
+5,Prevalence,179,Ethiopia,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.047340388114312945,0.06458662364866526,0.03253702407853043
+5,Prevalence,179,Ethiopia,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.4930386193786203,0.6729865969201445,0.34151802225370137
+5,Prevalence,179,Ethiopia,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.6892699898497104,0.9368468204828446,0.47691854093958613
+5,Prevalence,179,Ethiopia,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2011,478.4780976317753,743.8257715019726,246.6864905698751
+5,Prevalence,179,Ethiopia,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2011,823.8129349713437,1209.7311565112657,511.9006749091665
+5,Prevalence,179,Ethiopia,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2011,10311.753845571626,15891.417771677665,6364.975675241111
+5,Prevalence,179,Ethiopia,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2011,15816.404838759072,23588.547252113178,10095.928155825079
+5,Prevalence,179,Ethiopia,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,9096.500430744647,15136.149318962955,5222.636480324853
+5,Prevalence,179,Ethiopia,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,15266.376456027177,24641.59328270128,9242.221990781703
+5,Prevalence,179,Ethiopia,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,4543.073777705232,8015.9232566116025,1982.1418966785443
+5,Prevalence,179,Ethiopia,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,8306.978197651426,13945.676694206679,4272.105077667346
+5,Prevalence,179,Ethiopia,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,14438.019099303347,22164.62783202348,8483.6105915039
+5,Prevalence,179,Ethiopia,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,16160.781565232202,25452.287773694992,9168.934354688581
+5,Prevalence,179,Ethiopia,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,21964.422237679475,32481.64533731177,13381.223668630015
+5,Prevalence,179,Ethiopia,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,26862.413578667158,40445.10104484949,15958.988576058597
+5,Prevalence,179,Ethiopia,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2011,14926.864758297943,22568.931080554026,8835.175638781968
+5,Prevalence,179,Ethiopia,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2011,19647.650867164277,31322.41162303377,10622.3032892949
+5,Prevalence,179,Ethiopia,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2011,14911.938717383486,21863.199607024282,8429.74734031872
+5,Prevalence,179,Ethiopia,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2011,19148.400902026464,29635.84567591866,9531.07583651168
+5,Prevalence,179,Ethiopia,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,9938.367955535234,15222.102904509542,5261.83704182532
+5,Prevalence,179,Ethiopia,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,12067.943114708663,19444.99616451768,5423.164455583871
+5,Prevalence,179,Ethiopia,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2011,8629.784556685028,13913.545987852718,4187.924534621334
+5,Prevalence,179,Ethiopia,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2011,8693.503950831346,14539.753080523638,3705.9755281521566
+5,Prevalence,179,Ethiopia,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,6996.2139469530175,11745.316480570966,3429.6248656317866
+5,Prevalence,179,Ethiopia,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,5449.3518104318955,10003.020163455487,2268.338228984721
+5,Prevalence,179,Ethiopia,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,7534.316463524781,11104.967729896045,4250.822580385494
+5,Prevalence,179,Ethiopia,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,6391.1744320865255,9702.839563660724,3448.6087387905136
+5,Prevalence,179,Ethiopia,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2011,6550.747793695737,9638.702877649695,4030.0043247907693
+5,Prevalence,179,Ethiopia,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2011,5686.814421732734,8488.647910256437,3349.592674681656
+5,Prevalence,179,Ethiopia,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2011,3725.120138587442,5457.965212749996,2339.2351368066584
+5,Prevalence,179,Ethiopia,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2011,2717.379925574255,4077.1110717850606,1644.7231416556942
+5,Prevalence,179,Ethiopia,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,2375.8242297289485,3473.21849331106,1487.8305617249266
+5,Prevalence,179,Ethiopia,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,1557.7295042593896,2354.9697434013183,897.3631355733046
+5,Prevalence,179,Ethiopia,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,3907.149581242558,5262.382856157246,2700.6027030500477
+5,Prevalence,179,Ethiopia,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,2922.73018019332,3953.63530148002,2004.5606904362667
+5,Prevalence,179,Ethiopia,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,3282.244358200635,4325.4287795083055,2270.187130267047
+5,Prevalence,179,Ethiopia,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,2736.4976725173306,3607.723991774595,1863.0250998638855
+5,Prevalence,179,Ethiopia,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2011,3214.039700010728,3903.237534491938,2546.258871206904
+5,Prevalence,179,Ethiopia,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2011,2808.483662080637,3463.2171991076066,2199.933905681732
+5,Prevalence,179,Ethiopia,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2011,146825.38691213285,170756.940918523,127599.53204275756
+5,Prevalence,179,Ethiopia,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2011,173065.1646252932,202916.5529604197,147573.90320878176
+5,Prevalence,179,Ethiopia,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,13639.574208449878,21470.805098008215,8154.50456463511
+5,Prevalence,179,Ethiopia,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,23573.354653678605,35816.962941542115,14912.6561019411
+5,Prevalence,179,Ethiopia,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,91805.61127183754,112177.08334483413,73226.94689392012
+5,Prevalence,179,Ethiopia,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,108030.04578906202,134469.11461953883,83937.68332660223
+5,Prevalence,179,Ethiopia,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,20186.008625536906,26322.61349102642,14886.321730796652
+5,Prevalence,179,Ethiopia,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,16353.098283652906,21596.444174243043,11579.513853985645
+5,Prevalence,179,Ethiopia,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2011,10403.433639453922,12820.701412676011,7918.924478267184
+5,Prevalence,179,Ethiopia,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2011,8467.711514791288,10465.060186943727,6472.670488388524
+5,Prevalence,179,Ethiopia,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2011,479.0053212829885,744.5519325575697,247.0572017133193
+5,Prevalence,179,Ethiopia,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2011,824.5495453493078,1210.7239350387324,512.4130973030972
+5,Prevalence,179,Ethiopia,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,2087.729461928278,2581.4667613831425,1602.5291143368984
+5,Prevalence,179,Ethiopia,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,1706.3793788326122,2135.128230119174,1298.0530369140017
+5,Prevalence,179,Ethiopia,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,841.1756822538521,1017.7093271762072,680.9399100788202
+5,Prevalence,179,Ethiopia,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,775.4958616214518,950.6017884960622,616.6680831504497
+5,Prevalence,179,Ethiopia,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,249.68822176606074,306.9674394262128,192.30213641838034
+5,Prevalence,179,Ethiopia,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,271.0400945881645,341.74081343250066,208.55438238875087
+5,Prevalence,179,Ethiopia,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2011,107957.034437525,127357.1055244224,90984.53454308335
+5,Prevalence,179,Ethiopia,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2011,116690.07402227398,140487.26077917748,94128.41722117866
+5,Prevalence,179,Ethiopia,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,24430.33337530449,35167.91102550612,16249.549397572888
+5,Prevalence,179,Ethiopia,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,40214.30903778699,56559.772958991045,28096.01539733147
+5,Prevalence,179,Ethiopia,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,24093.158206779466,30353.25122231761,18715.87926051322
+5,Prevalence,179,Ethiopia,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,19275.82846384622,24768.13015672434,14448.38398254116
+5,Prevalence,179,Ethiopia,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.5272236512132492,0.7197966227339533,0.36496644447228116
+5,Prevalence,179,Ethiopia,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.7366103779640233,1.0014523668429833,0.5093930822693811
+5,Prevalence,179,Ethiopia,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2011,85992.61219984553,101934.79622506969,71831.09122220463
+5,Prevalence,179,Ethiopia,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2011,89827.66044360686,111177.98232762876,70644.3472826702
+5,Prevalence,179,Ethiopia,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2011,38868.35247460783,52108.52759719291,28049.163039808107
+5,Prevalence,179,Ethiopia,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2011,56375.090603019176,74496.45726294565,41390.26495929518
+5,Prevalence,179,Ethiopia,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,40945.51511468805,56722.065912461774,28677.130024324088
+5,Prevalence,179,Ethiopia,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,51330.173341550784,70797.94768021717,35595.53661463359
+5,Prevalence,179,Ethiopia,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2011,1126.3102380824507,1364.4640092892969,899.9808159682285
+5,Prevalence,179,Ethiopia,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2011,1102.1042832480243,1367.7637047496094,873.3177925289123
+5,Prevalence,179,Ethiopia,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,18981.09287700858,28251.211834972193,11629.246111318937
+5,Prevalence,179,Ethiopia,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,24467.759762883627,36216.28749135777,15348.248665706573
+5,Prevalence,179,Ethiopia,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2011,103883.00151306755,125709.86163455577,84930.1121339829
+5,Prevalence,179,Ethiopia,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2011,122728.19841879995,149355.164878046,98587.84286634198
+5,Prevalence,179,Ethiopia,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,19887.25959759926,29813.363134417836,12969.777366833569
+5,Prevalence,179,Ethiopia,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,31907.33084013556,48101.277652007724,21442.93811307216
+5,Prevalence,179,Ethiopia,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,28077.593307753225,38954.91824028548,19124.9871037409
+5,Prevalence,179,Ethiopia,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,39734.136218910804,54593.00916057474,27327.922839032246
+5,Prevalence,179,Ethiopia,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,76179.61276819947,96419.75140300317,59067.80830659158
+5,Prevalence,179,Ethiopia,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,93887.19002779877,121504.59124331117,69886.5470601076
+5,Prevalence,179,Ethiopia,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,55403.169934854704,69776.57008900186,41949.182970363225
+5,Prevalence,179,Ethiopia,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,65006.850645162645,85070.54403934182,46705.81344783222
+5,Prevalence,179,Ethiopia,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2011,23055.12580146605,28245.088986783605,18848.350332291793
+5,Prevalence,179,Ethiopia,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2011,18429.63536635767,22701.07793821024,14904.929992525802
+5,Prevalence,179,Ethiopia,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,13290.338307759583,16602.172011810613,10377.584197745296
+5,Prevalence,179,Ethiopia,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,9934.337282544295,12359.55971060025,7621.1164754690835
+5,Prevalence,179,Ethiopia,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,6282.973810971506,8369.232372797458,4428.5169679879355
+5,Prevalence,179,Ethiopia,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,4480.45968445271,6000.789275127684,3077.690664676151
+5,Prevalence,179,Ethiopia,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2011,6496.284058211364,8128.546591223327,4832.525276770434
+5,Prevalence,179,Ethiopia,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2011,5544.981334597966,6958.212151370005,4174.876172263144
+5,Prevalence,179,Ethiopia,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2011,35.44633406253798,45.60611197486534,25.627725007717984
+5,Prevalence,179,Ethiopia,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2011,55.568327038408015,73.09569812458258,39.09543507371793
+5,Prevalence,179,Ethiopia,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,5369.973820128912,6895.201273465028,3858.1700809512918
+5,Prevalence,179,Ethiopia,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,4442.877051349942,5700.7614428551715,3185.106937814805
+5,Prevalence,179,Ethiopia,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,84901.90863605896,104033.96119400121,67878.41434402177
+5,Prevalence,179,Ethiopia,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,98260.43865591634,121755.78219487227,76630.318551423
+5,Prevalence,179,Ethiopia,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,22769.99124563745,27941.868732967967,18534.896589796866
+5,Prevalence,179,Ethiopia,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,18103.026944731093,22385.516639310994,14587.721427759387
+5,Prevalence,179,Ethiopia,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,16219.243451941713,19726.174317629622,12939.304219019225
+5,Prevalence,179,Ethiopia,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,12416.21252299836,15144.567159920454,9809.630574553563
+5,Prevalence,179,Ethiopia,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,12494.12331335427,15346.814964778026,9559.323211512658
+5,Prevalence,179,Ethiopia,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,9698.832597424103,11886.626392925082,7370.034118229536
+5,Prevalence,179,Ethiopia,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,10118.299083625323,12510.435927237468,7620.859723387942
+5,Prevalence,179,Ethiopia,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,8141.103093164714,10141.984419822451,6172.994398902653
+5,Prevalence,179,Ethiopia,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,6460.837724148826,8084.006849934922,4798.012284198327
+5,Prevalence,179,Ethiopia,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,5489.4130075595585,6907.945696365069,4120.402705654118
+5,Prevalence,179,Ethiopia,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2011,136421.95327267892,160361.7220414852,117235.06310400703
+5,Prevalence,179,Ethiopia,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2011,164597.4531105019,194223.44849493995,139054.42682778602
+5,Prevalence,10,Cambodia,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2011,723.9175463255262,941.2405784790358,547.6908443143276
+5,Prevalence,10,Cambodia,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2011,1017.33604629565,1300.1658149005873,777.7092719068809
+5,Prevalence,10,Cambodia,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.002353635146351763,0.0031478727312628254,0.0016771349117719976
+5,Prevalence,10,Cambodia,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.0027778370560585194,0.003710609139866205,0.001957545853567364
+5,Prevalence,10,Cambodia,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.03427378405310442,0.04682040909953868,0.02431615930794131
+5,Prevalence,10,Cambodia,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.04342375136508063,0.06761058173435262,0.02876082623164779
+5,Prevalence,10,Cambodia,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2011,39.89476416676553,56.53339671694105,26.122954433450957
+5,Prevalence,10,Cambodia,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2011,53.05124776930086,71.89935024287146,35.8108940152695
+5,Prevalence,10,Cambodia,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2011,683.986154739561,893.0633091647916,516.4729991693915
+5,Prevalence,10,Cambodia,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2011,964.238596937928,1242.2975249765825,739.736006518871
+5,Prevalence,10,Cambodia,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,3180.2115253027728,4081.0301763826583,2575.944998602202
+5,Prevalence,10,Cambodia,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,1784.5206140900552,2330.7679328767667,1381.2326303339626
+5,Prevalence,10,Cambodia,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,1511.2666300777157,1975.496293109769,1168.3046232463112
+5,Prevalence,10,Cambodia,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,533.1785304232637,739.1748881932809,379.2974656783882
+5,Prevalence,10,Cambodia,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,609.9908456242815,859.2511156606685,397.0132675217423
+5,Prevalence,10,Cambodia,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,3164.260322361114,4390.328119583724,2127.393446898995
+5,Prevalence,10,Cambodia,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,4566.950309603768,6636.54752302318,2934.1841064136374
+5,Prevalence,10,Cambodia,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,6332.740688682199,9252.910110849123,4079.5229381355584
+5,Prevalence,10,Cambodia,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2011,5213.422046725082,7426.51487921379,3265.73240580128
+5,Prevalence,10,Cambodia,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2011,5664.7795479508795,8197.366189921824,3580.9481815399386
+5,Prevalence,10,Cambodia,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2011,3284.4467367706966,4853.737342916937,1861.4491460192514
+5,Prevalence,10,Cambodia,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2011,3280.986932942334,4795.502269132691,1903.6410232501173
+5,Prevalence,10,Cambodia,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,2384.784113373938,3509.288189101246,1300.9066756127208
+5,Prevalence,10,Cambodia,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,2443.44742908295,3511.488215920727,1408.8443406552228
+5,Prevalence,10,Cambodia,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2011,2636.988069744179,3938.763275617146,1488.9169613765964
+5,Prevalence,10,Cambodia,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2011,2361.0173355348156,3501.720336244325,1360.1308280033459
+5,Prevalence,10,Cambodia,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,2550.4189880233093,3806.3295307952635,1472.2860053809156
+5,Prevalence,10,Cambodia,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,2512.302275805188,3751.5656309278133,1441.3258522813908
+5,Prevalence,10,Cambodia,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,1520.5769598862971,2145.384069666658,928.7105713484831
+5,Prevalence,10,Cambodia,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,1289.7285923127256,1894.379869081235,763.7284408641127
+5,Prevalence,10,Cambodia,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2011,768.5854245115912,1114.0064931617,469.6349698582675
+5,Prevalence,10,Cambodia,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2011,591.4161418611624,872.8293242500412,355.81127809953546
+5,Prevalence,10,Cambodia,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2011,2250.444858916759,3137.1503224805692,1524.5965204390495
+5,Prevalence,10,Cambodia,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2011,1902.3729381873466,2664.277391770498,1233.3299599784027
+5,Prevalence,10,Cambodia,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,1962.5543018625688,2735.3371111347424,1289.5461607900015
+5,Prevalence,10,Cambodia,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,1710.3155749374769,2415.2555860443063,1135.0787193858052
+5,Prevalence,10,Cambodia,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,2019.0984166425533,2698.4625573032067,1362.2658075727206
+5,Prevalence,10,Cambodia,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,2085.795957190135,2840.040381443578,1426.5815480453778
+5,Prevalence,10,Cambodia,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,1383.635741246298,1886.0027974197187,935.818264177241
+5,Prevalence,10,Cambodia,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,1685.3580437083403,2259.3373402955012,1130.4508928902908
+5,Prevalence,10,Cambodia,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2011,1216.974071052895,1539.498006715142,934.8930242347595
+5,Prevalence,10,Cambodia,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2011,1514.1555154089071,1909.4715921493298,1159.129693921056
+5,Prevalence,10,Cambodia,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2011,37784.26658569023,43047.63395747166,33240.67474224668
+5,Prevalence,10,Cambodia,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2011,39873.712486774544,45811.01530562733,34607.24384258061
+5,Prevalence,10,Cambodia,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,4691.478155380489,5845.6178512288325,3878.8339434705235
+5,Prevalence,10,Cambodia,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,2317.699144513319,2891.518936893063,1828.7380449378345
+5,Prevalence,10,Cambodia,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,21247.001109865254,26015.517439835225,17120.7323211983
+5,Prevalence,10,Cambodia,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,25759.53453235948,31514.673133647633,20862.45804188714
+5,Prevalence,10,Cambodia,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,6502.161545177216,8246.257998909943,5075.562655068126
+5,Prevalence,10,Cambodia,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2011,5493.833247298711,7028.806319850717,4295.517022056644
+5,Prevalence,10,Cambodia,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2011,4619.708228941746,5880.926141811707,3475.5771611967943
+5,Prevalence,10,Cambodia,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2011,5285.309516307382,6820.463103040099,3935.196773260969
+5,Prevalence,10,Cambodia,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2011,39.931391585964995,56.58346219842146,26.149950297275133
+5,Prevalence,10,Cambodia,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2011,53.09744935772199,71.97001566615997,35.8391352540494
+5,Prevalence,10,Cambodia,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,791.0140402396654,1019.3001986299547,583.0758849519451
+5,Prevalence,10,Cambodia,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,983.204384511093,1275.8094531845047,736.6604694869171
+5,Prevalence,10,Cambodia,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,333.8323042742958,423.3384954738077,256.6278659120111
+5,Prevalence,10,Cambodia,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,400.7009409007232,504.8278641642905,307.9047078761288
+5,Prevalence,10,Cambodia,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,79.17491949185388,104.07943179797036,57.59003826825471
+5,Prevalence,10,Cambodia,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,108.0406222898277,139.33747563760386,79.9884498180221
+5,Prevalence,10,Cambodia,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2011,31758.880038359934,37118.50602089277,27349.699505537134
+5,Prevalence,10,Cambodia,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2011,33374.416973604464,39202.10010925168,28434.855161030708
+5,Prevalence,10,Cambodia,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,5415.395701706015,6674.542090275375,4513.626207274537
+5,Prevalence,10,Cambodia,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2011,3335.0351908089688,4042.734347906666,2751.2616636801
+5,Prevalence,10,Cambodia,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,8521.25996181977,10519.658311632496,6863.443624512251
+5,Prevalence,10,Cambodia,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,7579.629204488846,9481.767311150172,6053.064183620775
+5,Prevalence,10,Cambodia,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.03662741919945618,0.04997990183857051,0.02599329421971331
+5,Prevalence,10,Cambodia,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2011,0.046201588421139146,0.07128911934461549,0.030708045457885882
+5,Prevalence,10,Cambodia,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2011,27191.929728756168,31824.62206477183,23263.78227883138
+5,Prevalence,10,Cambodia,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2011,27041.67628492226,32009.422390581574,23049.072410476925
+5,Prevalence,10,Cambodia,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2011,6025.386547330297,7293.726287414427,5096.169213779876
+5,Prevalence,10,Cambodia,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2011,6499.295513170084,7860.205091187419,5252.168554717031
+5,Prevalence,10,Cambodia,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,6688.207785305764,8906.87147068594,4882.288809385151
+5,Prevalence,10,Cambodia,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2011,10030.17954146658,13764.607103270331,6996.39943160083
+5,Prevalence,10,Cambodia,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2011,425.96003081322937,545.6402720916811,325.32720129962047
+5,Prevalence,10,Cambodia,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2011,530.951130897814,670.5812150180551,406.22237789330967
+5,Prevalence,10,Cambodia,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,2121.257475701997,2641.9187472174217,1701.8146469427109
+5,Prevalence,10,Cambodia,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,3697.4388527843776,4956.518319405081,2595.0516940161033
+5,Prevalence,10,Cambodia,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2011,24278.844699829267,29070.89985646005,19992.339357365297
+5,Prevalence,10,Cambodia,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2011,27582.441655095474,33331.9920896521,22527.42681834214
+5,Prevalence,10,Cambodia,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,3904.129071628299,4875.215614497452,3204.576610212506
+5,Prevalence,10,Cambodia,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2011,2801.8566603857053,3535.917941705295,2277.8414710080997
+5,Prevalence,10,Cambodia,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,5301.469001004771,6463.608752050103,4434.085295075023
+5,Prevalence,10,Cambodia,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2011,5481.959466874433,6822.686522090863,4298.169375859841
+5,Prevalence,10,Cambodia,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,16059.594052097766,20378.186284091098,12168.475713289734
+5,Prevalence,10,Cambodia,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2011,20886.214921019477,26336.087588966388,16162.674846430102
+5,Prevalence,10,Cambodia,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,16070.059954637203,20065.194241881058,12533.690585202003
+5,Prevalence,10,Cambodia,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2011,16262.533521316167,20269.033732237374,12703.689295376733
+5,Prevalence,10,Cambodia,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2011,9601.292814232665,11803.130448410813,7852.763538693438
+5,Prevalence,10,Cambodia,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2011,9489.414171293369,11479.984534887451,7629.831369200374
+5,Prevalence,10,Cambodia,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,7615.733318668179,9546.141906211313,5933.625784295468
+5,Prevalence,10,Cambodia,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2011,7383.8425140232985,9225.68075305436,5749.727530501654
+5,Prevalence,10,Cambodia,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,3981.652718505122,5210.0996887626525,2852.4526669199513
+5,Prevalence,10,Cambodia,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2011,3796.1115321276116,5051.594322847038,2701.4766645863615
+5,Prevalence,10,Cambodia,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2011,2600.609812299193,3378.630473201677,1901.801160675668
+5,Prevalence,10,Cambodia,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2011,3199.513559117247,4183.556008783293,2343.882273319051
+5,Prevalence,10,Cambodia,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2011,12.952807047079656,18.274689963860478,8.490077813543431
+5,Prevalence,10,Cambodia,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2011,22.20956770726292,30.551736232288153,14.607267006176695
+5,Prevalence,10,Cambodia,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,2174.6497814859636,2877.7131725089503,1538.0145587118539
+5,Prevalence,10,Cambodia,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2011,2668.562428219433,3522.6842530464805,1867.162968848489
+5,Prevalence,10,Cambodia,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,22157.58722412727,26851.747057645265,17963.57721522094
+5,Prevalence,10,Cambodia,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2011,23885.002802311094,29241.447217416575,19125.074634284345
+5,Prevalence,10,Cambodia,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,9509.165087693731,11715.629412270435,7759.550634161229
+5,Prevalence,10,Cambodia,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,9359.163981296277,11342.747596068491,7519.209648099571
+5,Prevalence,10,Cambodia,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,8740.57966318214,10866.53042992145,6984.098616410922
+5,Prevalence,10,Cambodia,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,8767.747839435115,10754.706527194488,6979.030999088818
+5,Prevalence,10,Cambodia,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,6490.134804265381,8096.1616678415185,4968.894162302193
+5,Prevalence,10,Cambodia,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,6865.374901247767,8681.549913721108,5246.6398667487465
+5,Prevalence,10,Cambodia,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,4527.580502402812,5781.600020010219,3380.660388061751
+5,Prevalence,10,Cambodia,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2011,5155.059326310292,6690.139361064755,3811.718683540588
+5,Prevalence,10,Cambodia,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,2587.657005252114,3365.2470860196986,1885.5163040202285
+5,Prevalence,10,Cambodia,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2011,3177.3039914099845,4157.8635225624375,2325.6381643188847
+5,Prevalence,10,Cambodia,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2011,33164.55835674849,38362.23530845332,28691.32207165065
+5,Prevalence,10,Cambodia,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2011,34588.40297046716,40520.35374854942,29563.457061944468
+5,Prevalence,179,Ethiopia,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,242.1630319872857,688.4306260390056,65.07076535653663
+5,Prevalence,179,Ethiopia,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,375.63879506631173,1044.5333166461166,100.46503770943869
+5,Prevalence,179,Ethiopia,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.0007686598063145607,0.0021303671283884273,0.00021430809355654204
+5,Prevalence,179,Ethiopia,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.0010763705021009603,0.002936452171411127,0.0002933952256135617
+5,Prevalence,179,Ethiopia,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.011089071515308906,0.030635689621021266,0.0030972808808016655
+5,Prevalence,179,Ethiopia,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.01567341607855964,0.042998727015237055,0.004263016558998178
+5,Prevalence,179,Ethiopia,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,10.667006607898442,30.051486995436406,2.761460070367883
+5,Prevalence,179,Ethiopia,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,18.698385165290908,51.71684382875099,4.913100267328516
+5,Prevalence,179,Ethiopia,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,231.48416764806564,663.2604828069068,62.546668713755
+5,Prevalence,179,Ethiopia,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,356.92366011444017,997.7722723042564,95.44859072521744
+5,Prevalence,179,Ethiopia,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,198.17095816248772,534.1430991370892,51.975122626731405
+5,Prevalence,179,Ethiopia,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,335.3593980317328,907.3118548330978,89.20081008301747
+5,Prevalence,179,Ethiopia,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,95.5545650721789,275.1169819339873,21.59598830610815
+5,Prevalence,179,Ethiopia,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,184.07449172926363,515.0574413558626,46.106885407114774
+5,Prevalence,179,Ethiopia,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,329.55572442758563,924.1184369250611,85.82630544082454
+5,Prevalence,179,Ethiopia,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,370.3751453722106,1019.6121502791462,94.72583676582711
+5,Prevalence,179,Ethiopia,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,502.44632885536925,1322.5771137768388,129.31141038164844
+5,Prevalence,179,Ethiopia,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,616.0500256002117,1644.5674287053093,151.05872369195052
+5,Prevalence,179,Ethiopia,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,332.51615438123923,870.9529210694412,85.98004386156596
+5,Prevalence,179,Ethiopia,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,434.5198334277782,1173.797012162126,104.58663380341227
+5,Prevalence,179,Ethiopia,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,329.70350844268955,911.5866622487002,80.10721804001207
+5,Prevalence,179,Ethiopia,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,413.8743579014492,1117.8308082429228,96.2470861345644
+5,Prevalence,179,Ethiopia,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,212.14828512344423,585.2686933028597,53.53817437990764
+5,Prevalence,179,Ethiopia,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,254.2791412003783,702.2809646680105,59.26197142667089
+5,Prevalence,179,Ethiopia,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,187.25305257803743,496.0309040953046,46.70407835616169
+5,Prevalence,179,Ethiopia,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,184.2230309773559,509.64654905933975,41.48858131840543
+5,Prevalence,179,Ethiopia,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,157.1111087123662,450.975877661813,37.011290667023225
+5,Prevalence,179,Ethiopia,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,119.76765293124181,371.61996504222174,23.694218635975563
+5,Prevalence,179,Ethiopia,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,171.6332541417054,443.83250193573576,47.04524987921963
+5,Prevalence,179,Ethiopia,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,142.95424297743457,381.9437858033424,37.90768960234315
+5,Prevalence,179,Ethiopia,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,151.46023930269183,395.4400567163383,39.761292564030434
+5,Prevalence,179,Ethiopia,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,128.93111844054712,348.94414200539046,33.31217128031761
+5,Prevalence,179,Ethiopia,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,87.19863089424217,239.28283095333808,23.373653251229918
+5,Prevalence,179,Ethiopia,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,62.1990401362166,171.57738059931202,15.495270746239411
+5,Prevalence,179,Ethiopia,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,54.99758350460681,142.65771613476883,13.998476893650743
+5,Prevalence,179,Ethiopia,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,34.53349796604471,90.6740911903351,8.26637578195025
+5,Prevalence,179,Ethiopia,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,89.49691469410027,236.05426852335967,25.824915486550715
+5,Prevalence,179,Ethiopia,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,65.98022968180065,175.2614902505808,17.958806604045765
+5,Prevalence,179,Ethiopia,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,74.79729368234996,196.99499488516102,20.50281743153568
+5,Prevalence,179,Ethiopia,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,62.03830579400316,161.783225991945,16.58243082258141
+5,Prevalence,179,Ethiopia,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,73.86609000179617,198.1519091020032,20.509941593592583
+5,Prevalence,179,Ethiopia,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,64.30490002651067,165.17355682611728,16.584765734359046
+5,Prevalence,179,Ethiopia,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3290.0727239641765,8612.281907819093,939.5060094843684
+5,Prevalence,179,Ethiopia,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3849.103207260491,10331.804696628875,1070.8000411620399
+5,Prevalence,179,Ethiopia,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,293.7255232346666,761.3078590647679,79.81447877401486
+5,Prevalence,179,Ethiopia,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,519.4338897609964,1411.2939932181305,140.99763167696344
+5,Prevalence,179,Ethiopia,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2050.7341625207314,5252.516974503994,579.688646365443
+5,Prevalence,179,Ethiopia,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2393.0891874106255,6120.113506746556,675.3396369994267
+5,Prevalence,179,Ethiopia,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,465.2897078432463,1189.2303633162635,136.81245760418207
+5,Prevalence,179,Ethiopia,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,368.61789952024293,952.663218847419,103.91780312576367
+5,Prevalence,179,Ethiopia,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,238.1602983782464,632.9344675366406,67.19698882207193
+5,Prevalence,179,Ethiopia,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,192.32343550231448,494.12203294796274,52.01413027669798
+5,Prevalence,179,Ethiopia,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,10.678864339220064,30.08430869618809,2.7655543687628943
+5,Prevalence,179,Ethiopia,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,18.715134951871566,51.761432598924124,4.917453671998399
+5,Prevalence,179,Ethiopia,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,48.000729582102345,127.82260859431018,13.281415843738964
+5,Prevalence,179,Ethiopia,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,39.10015380431667,101.42755621271023,10.11967408319372
+5,Prevalence,179,Ethiopia,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,19.325992250881207,50.50490574592065,5.227022668706705
+5,Prevalence,179,Ethiopia,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,17.74606229751435,45.91176097024472,4.619855454951986
+5,Prevalence,179,Ethiopia,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,5.726447097761266,14.879323918892911,1.5223052260034848
+5,Prevalence,179,Ethiopia,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,6.191868426282635,16.14273884602826,1.628531006482597
+5,Prevalence,179,Ethiopia,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2424.6284443146387,6199.959486954888,676.9018667055011
+5,Prevalence,179,Ethiopia,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2583.6553770609726,6601.480140845758,715.7053762080346
+5,Prevalence,179,Ethiopia,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,535.8885552219523,1445.6597353702355,149.6864948068638
+5,Prevalence,179,Ethiopia,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,895.0726848273082,2375.048463102173,255.26722642455258
+5,Prevalence,179,Ethiopia,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,554.7866225373466,1415.8613717359958,163.57896178792382
+5,Prevalence,179,Ethiopia,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,434.59812920204365,1152.0143160372074,123.36863150290496
+5,Prevalence,179,Ethiopia,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.011857731321623466,0.0327703838161847,0.0033115889743582073
+5,Prevalence,179,Ethiopia,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.016749786580660606,0.04593517918664818,0.00455641178461174
+5,Prevalence,179,Ethiopia,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1922.1821154592694,4808.617605275056,546.1397677471583
+5,Prevalence,179,Ethiopia,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1967.6053514607609,5080.533132158193,551.0517831213361
+5,Prevalence,179,Ethiopia,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,865.444279649538,2276.496259103195,255.3285162330728
+5,Prevalence,179,Ethiopia,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1265.4478301995186,3308.484950510815,364.1591287017866
+5,Prevalence,179,Ethiopia,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,927.5566183551337,2384.208669295196,265.2323620181393
+5,Prevalence,179,Ethiopia,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1170.499662701686,3009.5772412976803,325.70956796178115
+5,Prevalence,179,Ethiopia,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,25.865360419693832,67.1281361131947,7.013487862639343
+5,Prevalence,179,Ethiopia,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,25.204746222194,65.34152883224652,6.54929677598322
+5,Prevalence,179,Ethiopia,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,425.1102894997646,1125.3937682526976,121.5613653440273
+5,Prevalence,179,Ethiopia,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,554.4496371014742,1496.3422797614617,150.05893012988597
+5,Prevalence,179,Ethiopia,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2317.9219817346157,5934.534285073229,661.7046685285757
+5,Prevalence,179,Ethiopia,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2720.1179221173243,6992.1780511277775,777.9792603276668
+5,Prevalence,179,Ethiopia,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,440.3339901497734,1228.6404579265934,117.72884659233058
+5,Prevalence,179,Ethiopia,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,710.9981930980445,1985.705842086734,195.68907261571795
+5,Prevalence,179,Ethiopia,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,623.2812476622523,1662.344854929652,179.65535976389077
+5,Prevalence,179,Ethiopia,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,889.809035133207,2353.2927788334086,252.3296582158146
+5,Prevalence,179,Ethiopia,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1706.370001230328,4402.508566166919,481.65946666896275
+5,Prevalence,179,Ethiopia,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2089.098503502028,5478.87500158236,587.711543795305
+5,Prevalence,179,Ethiopia,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1218.7321092377765,3011.4895352337203,345.2777489424563
+5,Prevalence,179,Ethiopia,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1406.6640164382034,3551.6221209089754,387.39377930946796
+5,Prevalence,179,Ethiopia,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,531.8167520797872,1389.602892193773,149.41878270135024
+5,Prevalence,179,Ethiopia,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,417.9870920451229,1084.4401852611193,112.51062119376476
+5,Prevalence,179,Ethiopia,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,306.49042277529924,807.3515815476071,85.51944058644656
+5,Prevalence,179,Ethiopia,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,224.7510735780651,600.4262513063732,61.01945152660429
+5,Prevalence,179,Ethiopia,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,144.49449819870708,380.8725722126402,41.424955660917334
+5,Prevalence,179,Ethiopia,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,100.51372764784537,279.92511059035525,27.56289159034419
+5,Prevalence,179,Ethiopia,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,148.6633836841461,391.4649985494792,40.6265149387298
+5,Prevalence,179,Ethiopia,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,126.34320582051383,319.4218827403794,33.26074844969714
+5,Prevalence,179,Ethiopia,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.81292107105136,2.137283169706568,0.21771378692790794
+5,Prevalence,179,Ethiopia,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1.2668154983970175,3.4253611489206532,0.3357760093090024
+5,Prevalence,179,Ethiopia,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,122.7980232644523,328.5224605955244,33.7174280153264
+5,Prevalence,179,Ethiopia,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,101.13845959831983,259.1562638598719,26.984545437270068
+5,Prevalence,179,Ethiopia,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1892.811692234851,4841.649169865468,526.6195244465821
+5,Prevalence,179,Ethiopia,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2165.6682850158495,5409.9561890730165,604.7950681212071
+5,Prevalence,179,Ethiopia,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,525.2773839109745,1372.6857356632227,147.31235692890573
+5,Prevalence,179,Ethiopia,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,410.5284081204432,1065.284508716157,110.6580764779689
+5,Prevalence,179,Ethiopia,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,373.8171446082828,988.8548194519097,103.74709603684275
+5,Prevalence,179,Ethiopia,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,281.59728967989616,751.3353870977138,77.54398106735252
+5,Prevalence,179,Ethiopia,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,286.61851371404055,764.9385379939472,80.84672438458124
+5,Prevalence,179,Ethiopia,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,219.39824954367953,581.6187159721342,60.599251063079315
+5,Prevalence,179,Ethiopia,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,231.62093020943377,616.1171570561861,64.71954927525816
+5,Prevalence,179,Ethiopia,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,184.86475157763482,477.34916793265495,50.49819203375168
+5,Prevalence,179,Ethiopia,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,147.85046261309478,389.77299738349757,40.444371157747696
+5,Prevalence,179,Ethiopia,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,125.07639032211678,316.745725949629,32.955786631151454
+5,Prevalence,179,Ethiopia,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3051.91242558593,7957.100555626663,872.0130582711864
+5,Prevalence,179,Ethiopia,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3656.779771758177,9785.045835897563,1025.7040659753638
+5,Prevalence,179,Ethiopia,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.1023676014487833,3.158498740065846,0.29122583824114395
+5,Prevalence,179,Ethiopia,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.706307432434967,4.744188478572413,0.45398129770089407
+5,Prevalence,179,Ethiopia,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.4752122305574246e-06,9.644143568559054e-06,9.68078395743314e-07
+5,Prevalence,179,Ethiopia,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.8983035051079845e-06,1.3447684544822892e-05,1.3207646413106399e-06
+5,Prevalence,179,Ethiopia,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.0139552075796125e-05,0.00013923576046267252,1.4000816186813285e-05
+5,Prevalence,179,Ethiopia,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,7.131824670523854e-05,0.00019672260170209446,1.9196744672848498e-05
+5,Prevalence,179,Ethiopia,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.04844742755963472,0.13651691547249203,0.012519860399224975
+5,Prevalence,179,Ethiopia,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.08534926387654795,0.23567743843358616,0.02240883976272637
+5,Prevalence,179,Ethiopia,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.0538665591248424,3.043662505199861,0.2775450975044454
+5,Prevalence,179,Ethiopia,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.6208819520082087,4.531865644256599,0.4303718460746748
+5,Prevalence,179,Ethiopia,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.8953637257513718,2.4145991346066276,0.23483232771473797
+5,Prevalence,179,Ethiopia,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.5140492575517637,4.11762147745246,0.4052124201443051
+5,Prevalence,179,Ethiopia,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.415979241008859,1.2017694494781552,0.09378606491199498
+5,Prevalence,179,Ethiopia,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.8299932526472188,2.332214336350681,0.20755160773298142
+5,Prevalence,179,Ethiopia,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.4680225692515319,4.159724830117622,0.38072462451367484
+5,Prevalence,179,Ethiopia,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.6712180695931593,4.661934762208202,0.41921815276198465
+5,Prevalence,179,Ethiopia,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.2653827267317,6.016428581597301,0.5722494526652459
+5,Prevalence,179,Ethiopia,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.7536309538714887,7.386292090774017,0.6688562536801339
+5,Prevalence,179,Ethiopia,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.5035764024200693,3.9746036221072694,0.38024361470161944
+5,Prevalence,179,Ethiopia,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.933054207058869,5.264715366360327,0.46363005428014614
+5,Prevalence,179,Ethiopia,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.4978709889184008,4.152475638226354,0.36337899804139856
+5,Prevalence,179,Ethiopia,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.8501417922579808,5.024543065155378,0.43165061471955546
+5,Prevalence,179,Ethiopia,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.9687835257998069,2.6700984664447946,0.24242378643913365
+5,Prevalence,179,Ethiopia,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.13862621638716,3.1450590052825116,0.2657157365582005
+5,Prevalence,179,Ethiopia,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.8496735557007746,2.2487494949573916,0.21004115984577912
+5,Prevalence,179,Ethiopia,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.828258043373764,2.2947086274482773,0.1863915420912584
+5,Prevalence,179,Ethiopia,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.7127596887972041,2.059097351896529,0.16525284022444803
+5,Prevalence,179,Ethiopia,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.5390250831408021,1.6768596484317217,0.10706786169947778
+5,Prevalence,179,Ethiopia,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.7697529076845823,2.0157987055016386,0.20938141669471017
+5,Prevalence,179,Ethiopia,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.638650607369995,1.7218548160291012,0.17066799940154279
+5,Prevalence,179,Ethiopia,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.6812077757558118,1.7872302061102698,0.17533563801743215
+5,Prevalence,179,Ethiopia,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.5785890346581359,1.5774726232158685,0.14790424435146496
+5,Prevalence,179,Ethiopia,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.394768368843084,1.0916071955105229,0.10403134013468336
+5,Prevalence,179,Ethiopia,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.28025133237199024,0.7768379351909898,0.06859838713782831
+5,Prevalence,179,Ethiopia,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.2498510559562909,0.6537077825429787,0.06208452313626193
+5,Prevalence,179,Ethiopia,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.15218939106037752,0.40308061157629843,0.036512975279843096
+5,Prevalence,179,Ethiopia,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.4062878101499098,1.0718450129417263,0.1152211140185121
+5,Prevalence,179,Ethiopia,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.2990586892290052,0.7967914646679483,0.07996799896019631
+5,Prevalence,179,Ethiopia,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.33967971871797087,0.8980023110547436,0.09173583701684616
+5,Prevalence,179,Ethiopia,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.2821789359021949,0.7373608726114025,0.07444748511458663
+5,Prevalence,179,Ethiopia,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.33639747305519985,0.9030843574664008,0.09224305276136911
+5,Prevalence,179,Ethiopia,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.2932076144314509,0.7523830242428936,0.07397434786653363
+5,Prevalence,179,Ethiopia,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2011,14.857725135991352,39.18858169306547,4.188365198035058
+5,Prevalence,179,Ethiopia,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2011,17.288429913340323,46.44674877865307,4.789081473389823
+5,Prevalence,179,Ethiopia,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.3113429667602308,3.4099496010652492,0.3540295351403733
+5,Prevalence,179,Ethiopia,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.344042510198982,6.3955824358567215,0.6375562651128659
+5,Prevalence,179,Ethiopia,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,9.266069457619487,24.067373175882246,2.5912067045820915
+5,Prevalence,179,Ethiopia,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,10.713954365683225,27.759553790628903,3.006263796524809
+5,Prevalence,179,Ethiopia,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.0955801082397687,5.406698537831025,0.6062925273411133
+5,Prevalence,179,Ethiopia,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.6496803654604986,4.290643120779452,0.4625496373622734
+5,Prevalence,179,Ethiopia,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.0823650019230804,2.897697587088598,0.3002498920665189
+5,Prevalence,179,Ethiopia,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.874445239562651,2.24803920783987,0.2350619868148231
+5,Prevalence,179,Ethiopia,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.048501042323941077,0.13666609526538273,0.012538352586970508
+5,Prevalence,179,Ethiopia,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.0854254804267583,0.2358661312859014,0.022429206892039182
+5,Prevalence,179,Ethiopia,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.2185435524297339,0.5866289370455554,0.059344487998132724
+5,Prevalence,179,Ethiopia,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.1781864039963922,0.4619321389107086,0.04543085153481852
+5,Prevalence,179,Ethiopia,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.08805687043024218,0.22974509307755578,0.023535175092327054
+5,Prevalence,179,Ethiopia,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.0809691643856141,0.21025103433768283,0.0207290928448543
+5,Prevalence,179,Ethiopia,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.026093361739104672,0.06781088506993091,0.0068414701840128905
+5,Prevalence,179,Ethiopia,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.028266142838700083,0.0740340133675697,0.007318566542885346
+5,Prevalence,179,Ethiopia,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,10.975991998530805,28.28669580020258,3.0291569150885915
+5,Prevalence,179,Ethiopia,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,11.566861901113214,29.96295916091202,3.1919497537602566
+5,Prevalence,179,Ethiopia,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.413710568209014,6.487975514516367,0.6647673663690723
+5,Prevalence,179,Ethiopia,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.05034994263395,10.788063664475299,1.1532133167888643
+5,Prevalence,179,Ethiopia,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.501867918389679,6.451212403582125,0.7294203411565504
+5,Prevalence,179,Ethiopia,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.9487390546895038,5.188768620620242,0.5495834340834322
+5,Prevalence,179,Ethiopia,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.361476430635354e-05,0.00014894021784041738,1.4968894582556598e-05
+5,Prevalence,179,Ethiopia,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,7.621655021034651e-05,0.00021017090548507863,2.051750931415914e-05
+5,Prevalence,179,Ethiopia,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,8.710609271799106,21.978739721968598,2.447951503233724
+5,Prevalence,179,Ethiopia,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,8.813230947241726,22.95658615885137,2.4571867916729584
+5,Prevalence,179,Ethiopia,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.8817331374605466,10.301392042562053,1.134632306504259
+5,Prevalence,179,Ethiopia,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.721568012227109,15.056671577903849,1.6372601275949479
+5,Prevalence,179,Ethiopia,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.149384536992091,10.734171547355276,1.1747436868653764
+5,Prevalence,179,Ethiopia,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.254842276111868,13.58132986217633,1.4448472395917447
+5,Prevalence,179,Ethiopia,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.11785392062546594,0.3055366517237642,0.03143217821518553
+5,Prevalence,179,Ethiopia,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.1150212104350587,0.29952847527630044,0.029312404426890988
+5,Prevalence,179,Ethiopia,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.884001810260391,5.099912456313425,0.5326539154172665
+5,Prevalence,179,Ethiopia,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.501211322240378,6.801022871956132,0.6701062381170173
+5,Prevalence,179,Ethiopia,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,10.45180160631293,26.943633070103083,2.9506353063086506
+5,Prevalence,179,Ethiopia,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,12.182598225700438,31.75300273009001,3.464120144570032
+5,Prevalence,179,Ethiopia,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.9977313272001551,5.574076299729411,0.5295916725604163
+5,Prevalence,179,Ethiopia,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.220356689986731,8.992301557331473,0.8840294674190342
+5,Prevalence,179,Ethiopia,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.779365536011763,7.443509911237412,0.7972375756019328
+5,Prevalence,179,Ethiopia,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.015260579792142,10.689357781335941,1.1317414666931054
+5,Prevalence,179,Ethiopia,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,7.70363621312151,20.14995873202646,2.156296065197839
+5,Prevalence,179,Ethiopia,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,9.346671239168657,24.885041617625173,2.608961996984748
+5,Prevalence,179,Ethiopia,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.532664161636256,13.79859298487047,1.549692929793158
+5,Prevalence,179,Ethiopia,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,6.289105342218576,16.03960778170126,1.7336272202805627
+5,Prevalence,179,Ethiopia,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.408192202478267,6.353206158573655,0.6624797619409483
+5,Prevalence,179,Ethiopia,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.8854749976531548,4.9257821257757595,0.5027221503103309
+5,Prevalence,179,Ethiopia,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.3905869536672557,3.706974807527171,0.3829472757854132
+5,Prevalence,179,Ethiopia,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.0136783485635676,2.7204983016903608,0.27302356529868105
+5,Prevalence,179,Ethiopia,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.6561388661062005,1.7529392902964835,0.1852549781234801
+5,Prevalence,179,Ethiopia,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.4512480802893827,1.25871540360018,0.12339521784447809
+5,Prevalence,179,Ethiopia,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.6760771917731707,1.7877937890834286,0.1816233833016476
+5,Prevalence,179,Ethiopia,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.5753865503336458,1.4545009135215674,0.14920241797951164
+5,Prevalence,179,Ethiopia,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.0037036884561190923,0.009716111436200957,0.0009834792664671966
+5,Prevalence,179,Ethiopia,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.0057859032107444985,0.01568602424854421,0.0015121337817090962
+5,Prevalence,179,Ethiopia,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.5582232711477048,1.4984083212288366,0.15034133143268785
+5,Prevalence,179,Ethiopia,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.4603653398985871,1.1804173580372224,0.12057320775503774
+5,Prevalence,179,Ethiopia,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,8.567799796052538,21.960884334402433,2.3623574976489015
+5,Prevalence,179,Ethiopia,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,9.681386903460059,24.57406618232865,2.707422080891764
+5,Prevalence,179,Ethiopia,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.3783951522830433,6.279493814855128,0.6529603361754017
+5,Prevalence,179,Ethiopia,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.8514229516037102,4.838936242031014,0.49323075993301624
+5,Prevalence,179,Ethiopia,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.6971873765272316,4.5460762927205485,0.46323348089983135
+5,Prevalence,179,Ethiopia,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.272833916945574,3.4031309934932614,0.34690268356503146
+5,Prevalence,179,Ethiopia,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.3024190076841475,3.496167496665503,0.3603680712077928
+5,Prevalence,179,Ethiopia,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.992582584573584,2.6399442545121623,0.27062986784755466
+5,Prevalence,179,Ethiopia,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.0525679517278568,2.821400853261664,0.29314850778876045
+5,Prevalence,179,Ethiopia,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.8403931935132064,2.17157669073452,0.22653721031425694
+5,Prevalence,179,Ethiopia,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.6723735033170516,1.7801004104472384,0.18056380093666038
+5,Prevalence,179,Ethiopia,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.5696006471229011,1.4422670355369727,0.14782817507935306
+5,Prevalence,179,Ethiopia,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,13.775360134068272,36.11945214372638,3.9019070806610303
+5,Prevalence,179,Ethiopia,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,16.413984673777676,44.243121444265896,4.587726298178549
+5,Prevalence,165,Pakistan,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,880.8116688508647,1589.0523712318263,461.007759832993
+5,Prevalence,165,Pakistan,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1911.8706138861385,3384.0715014737925,1021.3784599457571
+5,Prevalence,165,Pakistan,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.015669254480621175,0.02984571427136929,0.006038837643874433
+5,Prevalence,165,Pakistan,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.03472292667996567,0.06277102434158949,0.016330001527995408
+5,Prevalence,165,Pakistan,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.343311059513518,0.5902837488594053,0.17918718518275728
+5,Prevalence,165,Pakistan,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.6142896545204143,1.0713316268122846,0.3264273722390187
+5,Prevalence,165,Pakistan,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,58.349236296691366,99.03263318893795,31.755217963730573
+5,Prevalence,165,Pakistan,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,104.87760692632516,175.73907696974788,57.630704224149106
+5,Prevalence,165,Pakistan,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,822.1034522401793,1487.7872964091523,428.1306307077753
+5,Prevalence,165,Pakistan,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1806.3439943786127,3226.3836497836983,962.4858003962106
+5,Prevalence,165,Pakistan,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1005.3176473333834,1870.061922919293,507.68077118382973
+5,Prevalence,165,Pakistan,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3127.3961848289464,5744.793248114607,1560.7255184636329
+5,Prevalence,165,Pakistan,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,562.8070784491473,1062.5212020736778,270.6576446971766
+5,Prevalence,165,Pakistan,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2142.997970639474,4032.267131267273,1011.0530327983611
+5,Prevalence,165,Pakistan,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,815.692750239114,1475.1921944604426,380.13207970972303
+5,Prevalence,165,Pakistan,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1709.732827975169,3295.038626680355,793.7966872433461
+5,Prevalence,165,Pakistan,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1480.400032092162,2632.505944633268,727.1300957138599
+5,Prevalence,165,Pakistan,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1620.4829364738573,3022.272021252764,781.9250517752055
+5,Prevalence,165,Pakistan,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1186.624661380412,2134.4162185150444,587.5061950348418
+5,Prevalence,165,Pakistan,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1395.2333316199386,2619.26011802104,678.7254511213573
+5,Prevalence,165,Pakistan,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1194.5291329285596,2244.3441045152335,572.7621677186024
+5,Prevalence,165,Pakistan,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1131.6677083944444,2166.827878057678,523.5281710376744
+5,Prevalence,165,Pakistan,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1258.916120113543,2271.8742451866656,588.1182788967749
+5,Prevalence,165,Pakistan,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1125.0624162816985,2021.650754639815,523.9878984880104
+5,Prevalence,165,Pakistan,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1174.278450976938,2198.272964869603,558.2958378930251
+5,Prevalence,165,Pakistan,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,837.2804107462356,1560.744457518428,397.0829484546514
+5,Prevalence,165,Pakistan,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1136.3839931501625,2150.1652726932857,556.2731003721536
+5,Prevalence,165,Pakistan,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,734.3424368903771,1422.9660843777517,334.22453067713326
+5,Prevalence,165,Pakistan,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1002.2369785066759,1821.8927973401187,499.4259658966085
+5,Prevalence,165,Pakistan,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,651.5914491234487,1205.5350364880865,316.72136551039273
+5,Prevalence,165,Pakistan,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,905.9156653915396,1680.8639617240924,447.7586282323145
+5,Prevalence,165,Pakistan,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,557.1909142703781,1042.6244841235384,267.6726134724635
+5,Prevalence,165,Pakistan,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,701.594226376837,1277.1561052208367,350.81280206396667
+5,Prevalence,165,Pakistan,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,418.5038659229716,792.3748151836107,201.30786817670733
+5,Prevalence,165,Pakistan,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,574.6902874397193,1001.7000676565409,287.41974215619433
+5,Prevalence,165,Pakistan,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,337.4408476588544,617.8117046732121,160.07377255601918
+5,Prevalence,165,Pakistan,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,638.3351832575788,1123.1450486110757,316.7522948834791
+5,Prevalence,165,Pakistan,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,423.4019134256542,749.1301586226687,202.21600857776232
+5,Prevalence,165,Pakistan,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,402.357162605103,730.2965951445798,202.94854068798512
+5,Prevalence,165,Pakistan,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,315.6936215047563,585.1515767687328,154.6251406203162
+5,Prevalence,165,Pakistan,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,336.24168823501617,588.5350490013641,186.17192623161347
+5,Prevalence,165,Pakistan,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,241.5433366133994,428.8612704139603,129.8316270404253
+5,Prevalence,165,Pakistan,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,15257.132727326758,25225.038882742734,9085.937664650693
+5,Prevalence,165,Pakistan,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,18681.432786255744,31427.94702882379,10892.518261574474
+5,Prevalence,165,Pakistan,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1568.124725782531,2836.6531929297294,824.119158613054
+5,Prevalence,165,Pakistan,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,5270.394155468419,9515.429945678177,2733.386171143478
+5,Prevalence,165,Pakistan,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,8246.82514088089,13654.158756228639,4755.232935205099
+5,Prevalence,165,Pakistan,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,8553.802068381721,14379.068933503611,4956.381400616702
+5,Prevalence,165,Pakistan,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3184.437157714772,5364.051607355601,1818.723954522552
+5,Prevalence,165,Pakistan,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1964.7270769756528,3411.686686901879,1093.9393192603761
+5,Prevalence,165,Pakistan,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1376.934034097698,2414.7765321624975,751.7086579373027
+5,Prevalence,165,Pakistan,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,980.63887154381,1721.980754812292,509.66177556218753
+5,Prevalence,165,Pakistan,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,58.70821661068551,99.64234689921217,31.94565135684102
+5,Prevalence,165,Pakistan,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,105.52661950752554,176.87394611012718,57.992488330429765
+5,Prevalence,165,Pakistan,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,213.02729396969409,373.8302995742697,114.65205481722651
+5,Prevalence,165,Pakistan,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,158.58061165049645,287.8803065839138,84.7755826672633
+5,Prevalence,165,Pakistan,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,88.90150377735391,156.04512635132335,49.525006843565585
+5,Prevalence,165,Pakistan,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,59.888483592620666,105.64941043350908,31.92510117588946
+5,Prevalence,165,Pakistan,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,28.234183521594808,49.44435754553605,15.440845849093245
+5,Prevalence,165,Pakistan,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,18.53817650459012,32.59190467412125,9.480010390838972
+5,Prevalence,165,Pakistan,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,11992.503582454245,19825.261357991163,7045.325722157347
+5,Prevalence,165,Pakistan,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,9789.435188926014,16329.45225750391,5655.719490174236
+5,Prevalence,165,Pakistan,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2448.936394633395,4273.60952820562,1331.4400342632373
+5,Prevalence,165,Pakistan,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,7182.264769354558,12551.796579482781,3965.3463674332147
+5,Prevalence,165,Pakistan,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3822.772340972351,6436.477438534535,2172.1631841118874
+5,Prevalence,165,Pakistan,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2388.128990401307,4054.6852142492357,1314.528053584652
+5,Prevalence,165,Pakistan,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.3589803139941391,0.6184293752296742,0.18618415340809766
+5,Prevalence,165,Pakistan,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,0.6490125812003801,1.1340864124540664,0.34424381326432824
+5,Prevalence,165,Pakistan,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,10512.103550362084,17328.960712128668,6191.221588807311
+5,Prevalence,165,Pakistan,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,8168.952252452157,13951.28104752338,4618.9030117158745
+5,Prevalence,165,Pakistan,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3264.629144872509,5523.2600175814805,1808.3474738723862
+5,Prevalence,165,Pakistan,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,8891.997597329726,15183.113777934075,4964.248828083008
+5,Prevalence,165,Pakistan,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2858.8998607804233,4886.327230474795,1533.318083550417
+5,Prevalence,165,Pakistan,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,5473.2137350885,9411.765648874753,2964.2905381867527
+5,Prevalence,165,Pakistan,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,123.21439426532204,217.50557038154133,69.1008847339207
+5,Prevalence,165,Pakistan,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,82.96272496290294,146.00632103667587,43.87501912038069
+5,Prevalence,165,Pakistan,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1378.4998286882612,2472.625066999716,697.1365144974333
+5,Prevalence,165,Pakistan,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3852.7307986146425,6986.107861632764,1964.5772211091662
+5,Prevalence,165,Pakistan,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,9811.869197836715,16053.15371038081,5712.4093569538045
+5,Prevalence,165,Pakistan,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,11348.391488144644,18982.530826097565,6417.4889907811275
+5,Prevalence,165,Pakistan,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1886.1293161842484,3429.6403249198665,1011.9921711890865
+5,Prevalence,165,Pakistan,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,5039.266798715084,9026.066299404836,2650.682902047134
+5,Prevalence,165,Pakistan,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2383.817476021645,4113.910279027913,1326.252042882079
+5,Prevalence,165,Pakistan,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,6980.126983443588,12085.309069325956,3786.403213118611
+5,Prevalence,165,Pakistan,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,5936.16269675379,9926.963032768233,3355.02130630745
+5,Prevalence,165,Pakistan,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,6982.179220745107,11623.494614756793,3898.010498710827
+5,Prevalence,165,Pakistan,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,5950.732358549615,10077.46519269801,3369.2522858767597
+5,Prevalence,165,Pakistan,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,5223.586303932694,8962.166327867315,2878.7434906417466
+5,Prevalence,165,Pakistan,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3559.134213305794,5908.9696852270035,2049.5369220748107
+5,Prevalence,165,Pakistan,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2293.774499396014,3908.985552929072,1292.489510054333
+5,Prevalence,165,Pakistan,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2316.976859679238,3925.1919243166944,1282.2332966898007
+5,Prevalence,165,Pakistan,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1495.0402485122363,2576.1703672778995,808.236957661706
+5,Prevalence,165,Pakistan,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1213.0254706972983,2098.1701152946716,629.2284452327951
+5,Prevalence,165,Pakistan,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,760.8427610845087,1333.9989926791457,381.7176283939613
+5,Prevalence,165,Pakistan,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,738.5988508401191,1294.034188638429,386.53205961089157
+5,Prevalence,165,Pakistan,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,557.2369581181557,1010.3068862312497,291.98420580345623
+5,Prevalence,165,Pakistan,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,6.078706966373338,10.894181626216177,3.06005146278912
+5,Prevalence,165,Pakistan,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,4.536064865692148,8.464175696887219,2.1289034310333816
+5,Prevalence,165,Pakistan,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,615.384456574797,1101.0776274246061,319.4873793843414
+5,Prevalence,165,Pakistan,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,474.2742331552528,874.6428269600843,244.56232939320267
+5,Prevalence,165,Pakistan,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,8433.369369148453,13607.791976799745,4853.591593731985
+5,Prevalence,165,Pakistan,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,7495.660689530001,12295.836748325948,4251.805796088511
+5,Prevalence,165,Pakistan,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,3524.8213228178256,5845.932801558027,2026.5100470812276
+5,Prevalence,165,Pakistan,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2270.7002580257317,3868.6638094033347,1272.8783666316922
+5,Prevalence,165,Pakistan,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,2618.9056574262863,4459.486373038475,1470.965549831015
+5,Prevalence,165,Pakistan,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1713.5093437553537,2918.5246362687762,933.9878059404467
+5,Prevalence,165,Pakistan,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1917.3114310494489,3279.54065958639,1066.777030037442
+5,Prevalence,165,Pakistan,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1295.005477832382,2202.1427980852272,692.900577061084
+5,Prevalence,165,Pakistan,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,1342.62114360973,2360.187150519842,730.102739427353
+5,Prevalence,165,Pakistan,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,957.5646301735277,1678.4258776287838,495.0596494932719
+5,Prevalence,165,Pakistan,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,732.5201438737458,1287.3712979522031,383.14833654386115
+5,Prevalence,165,Pakistan,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,552.7008932524635,1004.9221839527518,290.13994258777626
+5,Prevalence,165,Pakistan,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,13880.198693229058,22898.769342658703,8279.127731695811
+5,Prevalence,165,Pakistan,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2011,17700.79391471193,29847.47309290245,10269.631057294715
+5,Prevalence,165,Pakistan,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,15.055179972621103,26.88698357196805,7.909164167060499
+5,Prevalence,165,Pakistan,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,32.70222635376078,57.2774476176535,17.608713937711503
+5,Prevalence,165,Pakistan,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.0002651592419872455,0.0005082795430700526,0.0001014292298490804
+5,Prevalence,165,Pakistan,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.0005894540649209421,0.0010652740802035013,0.0002795635431141361
+5,Prevalence,165,Pakistan,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.005854302617243629,0.009968292500185143,0.0030752528386731722
+5,Prevalence,165,Pakistan,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.01047657982268367,0.017988572040776855,0.005591741391972174
+5,Prevalence,165,Pakistan,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.9963504921333085,1.678230031907236,0.5443507190279604
+5,Prevalence,165,Pakistan,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.7906345200707974,2.9716602799423524,0.9894159335140329
+5,Prevalence,165,Pakistan,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,14.052710018628563,25.181390434304966,7.352887655639852
+5,Prevalence,165,Pakistan,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,30.90052579980238,54.18834694913725,16.525382126754696
+5,Prevalence,165,Pakistan,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,17.262369443728282,31.663312394014348,8.74839185126155
+5,Prevalence,165,Pakistan,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,53.49233507987516,98.05530791896234,26.839690098961555
+5,Prevalence,165,Pakistan,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,9.617512168894846,17.97248813436112,4.6594084169654675
+5,Prevalence,165,Pakistan,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,36.660244914568594,68.01460012824832,17.45199173160029
+5,Prevalence,165,Pakistan,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,13.91103546371718,25.031740390570633,6.542255650458699
+5,Prevalence,165,Pakistan,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,29.23889766262893,55.07805255621002,13.909270355598334
+5,Prevalence,165,Pakistan,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,25.10676495332805,44.08521248055598,12.643817747088027
+5,Prevalence,165,Pakistan,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,27.076327530777604,49.95158273080802,13.31674292282631
+5,Prevalence,165,Pakistan,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,19.95674614489309,35.59117094296304,10.09103116275359
+5,Prevalence,165,Pakistan,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,23.52751350681914,43.553130847842766,11.796613419283501
+5,Prevalence,165,Pakistan,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,19.989652967010148,37.89503858391,9.702453181402515
+5,Prevalence,165,Pakistan,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,18.873509662690335,35.912541005177246,8.87957024277709
+5,Prevalence,165,Pakistan,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,21.255357086096264,38.12179979860964,10.205241257509929
+5,Prevalence,165,Pakistan,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,19.02433689467997,33.836340170268834,9.07426093796053
+5,Prevalence,165,Pakistan,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,19.769332450081816,36.55163081641656,9.573681379263302
+5,Prevalence,165,Pakistan,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,14.110093179158547,25.951961278415983,6.869705613619564
+5,Prevalence,165,Pakistan,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,19.321325740149597,36.08247734195646,9.568280410739955
+5,Prevalence,165,Pakistan,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,12.524547344866962,24.050388196216364,5.757003695926098
+5,Prevalence,165,Pakistan,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,16.970136997701804,30.537258750039896,8.623691763530141
+5,Prevalence,165,Pakistan,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,11.025998711139117,20.10950383835764,5.437280040277558
+5,Prevalence,165,Pakistan,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,15.407279956494346,28.29741966387016,7.714200065703304
+5,Prevalence,165,Pakistan,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,9.504036674913259,17.703088598365536,4.5925804817547204
+5,Prevalence,165,Pakistan,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,11.885488580364667,21.550372258120753,5.998422216899901
+5,Prevalence,165,Pakistan,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,7.111021380599768,13.298321704746035,3.464875890859888
+5,Prevalence,165,Pakistan,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,9.81351966696839,17.06606711773876,4.920150660675926
+5,Prevalence,165,Pakistan,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.752341412658721,10.483525346807768,2.736661243302786
+5,Prevalence,165,Pakistan,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,10.826230976640021,19.14296231442018,5.377361481990367
+5,Prevalence,165,Pakistan,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,7.207591259581468,12.757648432551147,3.448185177878944
+5,Prevalence,165,Pakistan,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,6.852614270678915,12.515979402765154,3.468064031028405
+5,Prevalence,165,Pakistan,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.393060488192583,9.973417005080847,2.657455236443809
+5,Prevalence,165,Pakistan,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,5.702913349769242,10.051806776757171,3.1541453156820674
+5,Prevalence,165,Pakistan,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,4.118750085944941,7.360921987196124,2.225211193397487
+5,Prevalence,165,Pakistan,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2011,258.70346018913773,424.82789462598856,155.9648567708666
+5,Prevalence,165,Pakistan,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2011,317.34283214285585,527.6482073265498,186.54052264553516
+5,Prevalence,165,Pakistan,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,26.879881612623127,48.36839149678184,14.210082437027566
+5,Prevalence,165,Pakistan,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,90.15257999444374,160.31430644450919,47.148309017036865
+5,Prevalence,165,Pakistan,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,139.31021480527613,228.5983318236299,81.57067508222362
+5,Prevalence,165,Pakistan,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,144.37522578162148,240.04821695299728,84.74011190004379
+5,Prevalence,165,Pakistan,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,54.0764252015292,90.69141919128745,31.113024525302396
+5,Prevalence,165,Pakistan,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,33.39339817931087,57.51347981627806,18.76736287076483
+5,Prevalence,165,Pakistan,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,23.381758597088176,41.49741632153782,12.717434387604778
+5,Prevalence,165,Pakistan,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,16.71940183371899,29.40682030827593,8.742532304458127
+5,Prevalence,165,Pakistan,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.0024699539925395,1.6890920214561478,0.5476145320619732
+5,Prevalence,165,Pakistan,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.8017005539584017,2.9910740359543078,0.9950457984458282
+5,Prevalence,165,Pakistan,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,3.6201818527204788,6.401832489647649,1.9524331960938193
+5,Prevalence,165,Pakistan,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.7071409425566624,4.9455176722463134,1.4509726128725957
+5,Prevalence,165,Pakistan,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.5044769791791017,2.647991813218452,0.8370745432999651
+5,Prevalence,165,Pakistan,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.0196984935570683,1.815577019406726,0.5465706010562184
+5,Prevalence,165,Pakistan,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.4760516356314331,0.8411482543951316,0.26153682257965627
+5,Prevalence,165,Pakistan,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.315001353774891,0.5580954564742568,0.16191935710673352
+5,Prevalence,165,Pakistan,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,202.85736314017635,332.894214949255,120.80684273435219
+5,Prevalence,165,Pakistan,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,165.2491281320224,273.8291079211036,96.78474349206219
+5,Prevalence,165,Pakistan,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,41.93506158524423,72.13966394517878,22.93860827041553
+5,Prevalence,165,Pakistan,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,122.85480634820452,211.3653817093621,68.11462778431621
+5,Prevalence,165,Pakistan,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,64.90265617816922,108.52990326735575,37.14351261595273
+5,Prevalence,165,Pakistan,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,40.60098943889233,68.70904806779316,22.58009644665653
+5,Prevalence,165,Pakistan,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.006119461859230874,0.010402128059716312,0.0031843452180918765
+5,Prevalence,165,Pakistan,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.01106603388760461,0.019030393935204705,0.005895940578005249
+5,Prevalence,165,Pakistan,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,177.7505981868483,291.2357108728238,105.99938547810609
+5,Prevalence,165,Pakistan,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,138.17280060124483,233.9861454562316,79.24327704501026
+5,Prevalence,165,Pakistan,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,55.84609704896141,93.57238668318035,31.12481858306502
+5,Prevalence,165,Pakistan,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,152.09370401083345,256.52937946047274,85.89348423332794
+5,Prevalence,165,Pakistan,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,48.63531258594008,82.43740218590901,26.502479580967076
+5,Prevalence,165,Pakistan,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,92.97547010797513,157.59499016983588,51.18604068617796
+5,Prevalence,165,Pakistan,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,2.0827314970487625,3.6796662821963335,1.1652618347987374
+5,Prevalence,165,Pakistan,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,1.4116091433882785,2.489442084914739,0.750724444822355
+5,Prevalence,165,Pakistan,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,23.528547632612025,41.48854432174095,11.965710881024892
+5,Prevalence,165,Pakistan,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,65.89914257719752,117.89982293452572,34.09996403482585
+5,Prevalence,165,Pakistan,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,165.89786397187277,269.5336912686158,98.03386902003231
+5,Prevalence,165,Pakistan,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,192.06146940732918,318.700495074647,109.72701438777055
+5,Prevalence,165,Pakistan,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,32.31754941634939,57.93128591012643,17.439397582760304
+5,Prevalence,165,Pakistan,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,86.19456143363594,152.927870979593,45.678779027895516
+5,Prevalence,165,Pakistan,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,40.79091707634031,69.3302090312348,22.871635459218123
+5,Prevalence,165,Pakistan,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,119.39147765707268,204.11384563963284,65.533818600329
+5,Prevalence,165,Pakistan,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,100.21955661504471,166.39259230431384,57.81300444774623
+5,Prevalence,165,Pakistan,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,117.74058525759598,193.58782239149693,66.8033948957181
+5,Prevalence,165,Pakistan,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,100.29241438823091,168.09245484424528,57.89697748860656
+5,Prevalence,165,Pakistan,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,88.06000058821496,150.5935976183122,49.25638208859999
+5,Prevalence,165,Pakistan,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,60.48804680091558,100.44590879588317,34.94753060113905
+5,Prevalence,165,Pakistan,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,39.08680130189074,66.46908911643182,22.118270669096802
+5,Prevalence,165,Pakistan,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,39.377853494651994,66.46430279809272,21.901535999601453
+5,Prevalence,165,Pakistan,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,25.46401454103254,43.874631605937935,13.852762035985553
+5,Prevalence,165,Pakistan,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,20.639750643608412,35.83583844475823,10.729455940690936
+5,Prevalence,165,Pakistan,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,12.95993267224019,22.714387208517024,6.522744112248935
+5,Prevalence,165,Pakistan,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,12.555527620448157,22.184816085360946,6.593791170678007
+5,Prevalence,165,Pakistan,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,9.511810574137524,17.314068114663247,5.004184363318737
+5,Prevalence,165,Pakistan,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.10220288223822759,0.1862630766002091,0.05130980336055838
+5,Prevalence,165,Pakistan,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2011,0.07690929605631913,0.14441813172201343,0.03611335411492647
+5,Prevalence,165,Pakistan,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,10.472796123399396,18.90024936089176,5.452422055372616
+5,Prevalence,165,Pakistan,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,8.100201430749246,15.018353873824802,4.195227771660985
+5,Prevalence,165,Pakistan,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,142.3693163392608,227.89688398616605,83.31916650968012
+5,Prevalence,165,Pakistan,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,126.16232683013168,204.9210367680619,72.71820439701659
+5,Prevalence,165,Pakistan,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,59.909792283045924,99.41579230521141,34.587566035057776
+5,Prevalence,165,Pakistan,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,38.69489065205953,65.82850243066079,21.783538143941424
+5,Prevalence,165,Pakistan,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,44.502512326551575,75.53263027276758,25.167120223685128
+5,Prevalence,165,Pakistan,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,29.190853977146272,49.643513050744396,15.875160703959692
+5,Prevalence,165,Pakistan,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,32.6170237461869,55.79074116936831,18.17416071073698
+5,Prevalence,165,Pakistan,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,22.079832596546506,37.51801677590899,11.872690456929584
+5,Prevalence,165,Pakistan,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,22.803504079218516,40.42125054545334,12.33622382626855
+5,Prevalence,165,Pakistan,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,16.32749118388778,28.906280734495752,8.484915109608652
+5,Prevalence,165,Pakistan,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,12.453324738209929,22.06527518707487,6.536595058073997
+5,Prevalence,165,Pakistan,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,9.434901278081206,17.190171948270937,4.972352006931355
+5,Prevalence,165,Pakistan,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,235.32170159204955,384.58142181153494,142.20363427098908
+5,Prevalence,165,Pakistan,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2011,300.62343030913684,500.94438425273,176.1853336121534

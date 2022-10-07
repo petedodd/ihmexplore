@@ -1,0 +1,685 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2016,457.45726442043025,619.1602293251351,330.84219080407627
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2016,554.2384252432543,756.2830688606294,401.150664787276
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2016,0.0015836462321921548,0.002150743044509911,0.001128003665966776
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2016,0.001990049752008344,0.002706509194543215,0.0013726641030055665
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2016,0.11067674437184258,0.19390920481418286,0.044689251743744225
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2016,0.1755502216306645,0.2819626700226343,0.08668961155503666
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2016,34.97329898029517,47.5137307001628,25.06138252086314
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2016,44.641036747228426,60.549066905509,31.152460822779183
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2016,422.37170504953093,577.8754941209932,304.1424528467066
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2016,509.4198482246432,703.3476234621368,367.50694551645347
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2016,457.3706198692798,694.6209993257814,285.94145905274326
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2016,490.144967499122,763.1320173232185,309.2019666280047
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,304.8667429535466,474.28406888316186,180.0377486506126
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,417.44073542971535,624.2065913810023,250.90106268369877
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,492.8460596085228,714.4417202195067,306.2278409016853
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,590.8103413068301,865.0574319463998,369.0760198755189
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2016,3694.3945543813825,5086.910210496972,2496.940311605695
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2016,2800.257529358131,3921.794092177107,1846.3507784919611
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2016,2846.7944609631327,4030.5225737368414,1897.527870066273
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2016,1891.1876928271488,2712.681299638444,1224.2189889518995
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2016,1903.2765917727415,2669.00552424576,1211.5071322037022
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2016,1460.7740831359072,2043.9500654540745,943.4461819651754
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2016,1920.3551653363331,2600.6899945295345,1293.009642707638
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2016,1280.9948790121139,1739.8989292051835,861.7819145431648
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2016,1763.4208807901177,2375.907963718476,1247.4672160068526
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2016,1332.5709035003442,1836.721924203348,916.31492451512
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,2371.0484521231756,3201.937085507236,1682.8332737933938
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,1617.1500000315891,2259.0201022063866,1135.4066623105932
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2016,2383.216529945506,3114.288407253277,1720.2542696279115
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2016,1600.97356442292,2125.248487089639,1127.244405121199
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2016,2228.1664026937337,2923.094638160334,1584.1237748465435
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2016,1446.7876889517393,1928.363678178484,1021.414878774638
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2016,2300.5813006419075,3071.98220220014,1626.9323626611597
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2016,1529.3566430586961,2048.819426403944,1073.5429097142376
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2016,2046.9141034484048,2722.694827430895,1482.6730902166096
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2016,1314.1118858985956,1762.5029896511628,917.6955477047098
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,3072.260888935255,3904.5355360725694,2332.9107362519494
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,2706.7452006625554,3593.826700828106,1950.2821733117792
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2016,1888.6686027410528,2343.875670124585,1387.327921907991
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2016,2241.3993083989544,2908.968625681065,1560.2855244054715
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2016,889.6724696388998,1080.8571781104608,704.2180303908582
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2016,1774.5970247747703,2181.7214087120406,1395.7119498196842
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2016,31021.31109026342,34549.42326980394,27858.630146524334
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2016,25049.540873512386,28147.004040030784,22266.745996688616
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,762.2373628228265,1086.3859590324935,514.1082840767381
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,907.5857029288373,1321.8935725655742,617.6304168715808
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,14992.136164975407,17712.052570096366,12568.248870289737
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,10973.745429172062,13075.603926504682,9095.073854551705
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2016,8958.878336729553,10556.30409164303,7429.581769843183
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2016,5891.229782331951,7052.685664800929,4851.820617527981
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2016,5850.6019613152075,7070.088953541571,4604.25849084023
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2016,6722.741533836279,8367.51591101952,5097.38914788449
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2016,35.08555937089921,47.693933815378436,25.09691813957814
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2016,44.8185770186111,60.834276505450994,31.243013315248916
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2016,650.2813867678999,797.7142502280409,509.78080802045514
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2016,1190.5759926838898,1492.441805742673,901.1843251311892
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,187.50122141353526,229.48267919834322,148.90267288501565
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,444.246016737421,546.873783487001,349.9261388420199
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2016,44.838598369587665,56.88693834694047,34.33648397400243
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2016,118.70640238817442,150.53553676030376,91.1707329665017
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2016,29308.770403411643,32808.8379958425,26235.290275105268
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2016,22996.906404033467,25893.283234583098,20368.88789188293
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,1219.6946272432567,1625.7174853032104,906.389684235143
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,1461.8241281720916,1976.9436701643058,1089.9622928002598
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,12031.139225664807,14093.144688440752,10137.264340015787
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,8597.974982994507,10160.103722247542,7192.032974266597
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2016,0.11226039060403474,0.19610155708213767,0.04586554539903457
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2016,0.17754027138267284,0.2846373330863507,0.08806380115246026
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2016,25614.375849030264,28611.729065376876,22884.703471364366
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2016,20196.648874675335,22846.097448384968,17780.93524653717
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2016,1712.5406868517794,2190.4217140388905,1316.8205334307397
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2016,2052.634469478922,2680.1607185573284,1562.5165125412286
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2016,4492.107356943452,5965.95464771021,3228.570242992672
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2016,3808.508606094676,5077.145023813576,2747.1714391031824
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2016,239.39108287099992,296.213426347358,189.89185461336376
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2016,584.0210320908806,720.3827989243945,460.19219157977193
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,797.7128025620694,1122.6952543794732,533.6338500165476
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,1008.2510767365454,1411.5343520096126,672.9318150889974
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2016,17680.219437874457,20587.78560734369,15048.173686602711
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2016,12992.1597290247,15259.110585883876,10992.019834810215
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2016,914.82788428971,1278.7051327232148,658.5715121005594
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2016,1044.3833927423761,1465.9287167734697,757.3330443812633
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,1255.0834224313494,1665.8792790597497,909.9179141642023
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,1498.3960442356672,2026.5063252792202,1100.0350414435163
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2016,10857.666832062114,13326.136883945488,8523.622426722985
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2016,8024.02452564013,9891.431650259816,6284.333039113265
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,10804.895550985502,12843.348069679398,8955.240998251289
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,7582.677558507103,9131.716920954423,6203.211303448292
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2016,12426.263768099254,14569.717796532006,10554.370807093701
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2016,11012.997751745312,12975.909175722652,9110.836329097841
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2016,9308.42489576662,11116.166222072226,7643.186978897763
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2016,7791.613038018801,9407.37665273622,6198.7347897042255
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,5119.174992383659,6349.179715343058,3972.4353471108566
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,4020.857086561151,5136.473994621926,2972.8188319368364
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2016,2778.3410723799525,3380.862555649144,2114.9925088375
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2016,4015.996333173725,5034.119372955828,3010.8546889192025
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2016,7.051263087876996,9.338966540501582,4.960872504887907
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2016,21.068612965285126,28.535845219120425,14.682914257538208
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2016,2538.9499895089525,3128.3452196361677,1883.8164381729873
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2016,3431.975301082844,4360.743792078259,2506.068727905978
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2016,16882.506635312395,19705.883061317792,14298.893305139924
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2016,11983.908652288153,14158.443878507533,10105.94903665967
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,12374.37390664179,14508.582256470945,10500.502896723854
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,10873.22273639185,12833.962296342,8976.45488004382
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,10146.207503948055,12051.514685979173,8388.077677452544
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,9426.43504744011,11303.588783616564,7619.422196994979
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,7845.626203306147,9396.12823671046,6290.951875979059
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,7897.078404381415,9682.272843510671,6145.497617357828
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,5798.712099857742,7012.509835084189,4551.158108614902
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,6582.96651848282,8230.171192010834,4958.641005505612
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2016,2771.289809292075,3375.9370687547844,2108.130822076476
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2016,3994.92772020844,5007.202894094339,2991.6098982118992
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2016,25170.709128948216,28391.516566072693,22283.933959139424
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2016,18326.799339676105,20812.768229060865,16125.962881303258
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,17.672986432934554,31.61791428569861,8.969345432457734
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,21.496756707155757,37.38147043640242,10.604828290117421
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,6.109763318185146e-05,0.00010704999344887983,2.993100170157336e-05
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,7.707345613529715e-05,0.00013282563354563296,3.8537142489898414e-05
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.0042698417948682866,0.008704594594291222,0.0013440771732413982
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.006790478392164918,0.013216258490322796,0.002678682102679731
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1.3498378064483523,2.3531208260670247,0.6596444640665501
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1.7290273790401838,2.977110790851518,0.8648617461291495
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,16.318817687058157,29.384733174610275,8.13945808393525
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,19.760861776267273,34.354709561285496,9.731948292494321
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,17.64080401630676,33.310789616842946,8.647884374145113
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,18.973159156127526,35.64375897878426,9.369514733414244
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,11.76801092614661,22.35510494516098,5.514065086840474
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,16.080088282482247,29.722277590944405,7.75111858136944
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,18.947518754543193,35.0720019965359,8.923103304270379
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,22.793325221159172,42.53831224904347,11.002168553421374
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,141.48411281729588,252.04615430733224,67.93751622613863
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,107.48449031195506,189.22260849470788,51.39290584857524
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,108.33081909641076,195.4389625695096,52.36221890623177
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,72.6663612334409,131.94571479323875,34.16543433719362
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,72.53448908686373,131.58703026959338,32.75271224667018
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,56.0620125254343,101.47095906892176,24.646573896072002
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,72.71843931175734,127.41542604213089,36.594378055526114
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,49.031960709815955,84.25421628446668,25.31387502541176
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,66.81226163526435,116.68442893494856,35.04404036193067
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,50.98720316410322,88.41175606264989,26.684307464117396
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,89.91054498364107,153.69650632445308,47.67326902811723
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,61.80736110887308,106.4198319011967,33.066437244276095
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,90.48878398038183,152.97254290763811,48.29055002127436
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,61.218039050613605,104.80240132805515,31.911779300717445
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,84.94079976030287,145.54131939757713,43.97587970643661
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,55.22079327896194,96.62389797072612,27.98165289438793
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,87.26396171965355,150.68046535130028,42.939357346698664
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,58.16535315475469,101.44904238167807,28.864888331544563
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,77.58765852867832,136.40307499316907,40.162276897704366
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,50.167383727268664,89.48412702871101,25.169541950839825
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,116.84182776250628,201.13330140971874,62.90431722843694
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,103.51396738621717,180.07024212419543,53.41972196094853
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,72.25935662579315,122.77625692903267,38.17714649260212
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,86.12944330147862,147.80218058350238,44.82939187980812
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,34.23033038675028,58.44195314626362,18.533310702121504
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,68.70875657463851,117.54123186239715,36.4861472001922
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1181.4327058252306,1943.0638646560953,651.5530267404243
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,960.5064548944805,1607.4362106944475,531.235320713941
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,29.408814942453372,53.59704792965068,14.72179670457041
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,35.05324743860977,62.54550557079744,18.178124475000644
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,570.7381856857763,949.5140534064149,310.3129290093758
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,420.83271427478167,698.365500571779,230.51756504287653
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,340.2812039890165,569.516018875078,183.88950559804607
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,224.7715692115989,369.0882030511125,123.85273727383523
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,223.3315147750497,381.2374869395891,119.2112755214628
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,258.3521672623343,445.09190572428463,137.3435397156448
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1.3541687458764022,2.3600724973561555,0.6616434438553281
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1.7358949308884841,2.9902694709101816,0.8682177259209056
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,25.003124306286818,42.70674134670118,13.424118686158987
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,46.10230363804641,78.55470415146611,24.207761507164257
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,7.224672262968894,12.116947995514144,3.864021338115286
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,17.20008014900975,29.03986205814964,9.277563711119342
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1.7303030169714804,2.9194058868791415,0.905052654918269
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,4.592165741893064,7.761069072674566,2.4777515321560166
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1115.4033856952994,1840.0837111006742,612.744028017022
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,881.1631255275558,1465.1894124330984,487.75206141403703
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,47.081801375387926,83.26787472473336,24.913876063791548
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,56.550004145765534,99.22070078943842,29.948762792032113
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,457.1230317515228,763.6311641679199,253.62139760703292
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,328.285536597816,550.650307765718,184.0539083144094
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.004330939428050138,0.00881723976035375,0.0013814486183478722
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.006867551848300214,0.01334656654822942,0.002723141662952086
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,973.9192728780035,1611.3415076479073,535.9005432721965
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,773.6786352156007,1271.925531401662,432.4268090403756
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,66.02932012993112,116.9059221140489,34.69321951339542
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,79.3433293669247,136.2020280900582,42.336104383457766
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,172.19964249798568,303.7334137637152,84.93651578137838
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,146.35790381559644,253.99504086268664,73.14765723018263
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,9.227206080463464,15.437806706941936,4.917980700335799
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,22.606452936592095,38.11885458614503,12.208450548598268
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,30.715529680689805,56.26531387654356,15.484585052164174
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,38.873413503641416,69.54894936764487,19.438848334797925
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,672.9949805923047,1129.340702853859,365.4739951204055
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,498.1308416078775,827.1704641371302,274.3500308251482
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,35.313790449241324,64.96895228715316,18.417380252578575
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,40.46991586328328,73.08325812108414,20.59735504010795
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,48.35633369699656,84.55857155304186,25.192367566788768
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,57.84657265976895,99.92310501570536,30.97490618568854
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,414.0153790668709,701.8460744514819,218.92735870352396
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,308.0381500018054,525.3593957162118,161.68976559211524
+5,Prevalence,16,Philippines,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2016,11915.115229646086,17036.270691247548,8229.661630855895
+5,Prevalence,16,Philippines,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2016,12001.4593159977,16951.4038049692,8311.430222272345
+5,Prevalence,16,Philippines,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2016,0.1692208975326138,0.2502839154108074,0.1014684829055493
+5,Prevalence,16,Philippines,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2016,0.19301195102475646,0.27748098932462145,0.12086241732550401
+5,Prevalence,16,Philippines,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2016,3.1145588165012783,4.275088977251909,2.128248114913847
+5,Prevalence,16,Philippines,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2016,3.4236918798200686,4.663998174109311,2.3784048351220872
+5,Prevalence,16,Philippines,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2016,559.9648237924474,732.5130760213533,401.53262392446504
+5,Prevalence,16,Philippines,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2016,606.0100601436866,792.3158237770737,438.17060812172303
+5,Prevalence,16,Philippines,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2016,11351.866626139603,16282.007522869486,7750.330388152372
+5,Prevalence,16,Philippines,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2016,11391.832552023168,16228.973177538875,7823.595132961444
+5,Prevalence,16,Philippines,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2016,16430.64716347041,25132.312171123933,10591.16066622419
+5,Prevalence,16,Philippines,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2016,15257.951169634074,23258.464926561745,9842.544862393159
+5,Prevalence,16,Philippines,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,5614.632839041269,8158.920171884084,3596.2812015914074
+5,Prevalence,16,Philippines,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,5939.907739488874,8823.788018645224,3781.8864367548304
+5,Prevalence,16,Philippines,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,11504.050798155668,16207.81869473984,7355.5274311329795
+5,Prevalence,16,Philippines,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,11857.837113060248,16715.18133420146,7578.178830817464
+5,Prevalence,16,Philippines,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2016,22264.575615764636,31035.393521037746,14777.069892518302
+5,Prevalence,16,Philippines,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2016,21380.302359895246,29458.504923508153,14390.21634613976
+5,Prevalence,16,Philippines,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2016,24217.16131833826,33574.480851987515,16282.111377580095
+5,Prevalence,16,Philippines,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2016,19822.610900562428,27265.958705050223,13547.401374688088
+5,Prevalence,16,Philippines,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2016,17126.853646668278,23165.37999529501,11213.332927723246
+5,Prevalence,16,Philippines,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2016,12210.822848923006,16798.39875531408,7952.885334199466
+5,Prevalence,16,Philippines,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2016,15225.939436827386,20507.531088595748,10100.379906396143
+5,Prevalence,16,Philippines,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2016,10462.38145210176,13921.134547615868,6991.275083729538
+5,Prevalence,16,Philippines,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2016,14774.705516302067,20110.48820401239,9945.84190514569
+5,Prevalence,16,Philippines,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2016,8877.4159147225,12152.541401387149,5987.866965035602
+5,Prevalence,16,Philippines,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,16088.24064489282,22504.830600355348,10721.877579422087
+5,Prevalence,16,Philippines,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,9405.947769441236,13290.53668223577,6314.197739625083
+5,Prevalence,16,Philippines,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2016,12321.336953732718,16566.015406449576,8388.761282607113
+5,Prevalence,16,Philippines,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2016,5962.151955622347,8098.224700034445,3975.3073252756935
+5,Prevalence,16,Philippines,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2016,9249.252117587324,12545.953384737928,6295.359900715485
+5,Prevalence,16,Philippines,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2016,3953.057535779243,5376.1847695187835,2722.1389249003873
+5,Prevalence,16,Philippines,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2016,14577.554850501243,19822.165303915415,10056.771182494695
+5,Prevalence,16,Philippines,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2016,7348.085805396332,10037.71050798172,5016.228597493186
+5,Prevalence,16,Philippines,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2016,12307.570868362953,17235.796205880044,8130.696434608021
+5,Prevalence,16,Philippines,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2016,7867.638153189162,11035.736060370351,5223.325318869652
+5,Prevalence,16,Philippines,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,9925.977687523331,13093.037350665372,7084.226422845182
+5,Prevalence,16,Philippines,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,8672.784554623348,11462.241823743776,6225.854918086018
+5,Prevalence,16,Philippines,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2016,7165.511373689674,9067.260787418689,5071.386796399922
+5,Prevalence,16,Philippines,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2016,6318.137522643859,8006.379857371774,4510.063030288504
+5,Prevalence,16,Philippines,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2016,4645.361520846851,5625.810790547789,3777.0072820716177
+5,Prevalence,16,Philippines,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2016,5455.3416662292,6579.094427390099,4376.3047180980975
+5,Prevalence,16,Philippines,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2016,225354.487581351,253827.09280852322,199810.06961101983
+5,Prevalence,16,Philippines,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2016,172793.8337773106,195216.6468598036,151678.29960372546
+5,Prevalence,16,Philippines,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,22045.28000251168,31459.645832171023,15131.043923195915
+5,Prevalence,16,Philippines,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,21197.858909122944,30200.82977080788,14521.541933898467
+5,Prevalence,16,Philippines,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,121201.52697694913,143595.92380245618,100978.55122588677
+5,Prevalence,16,Philippines,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,94017.31835870641,111219.35255384985,77581.14801726448
+5,Prevalence,16,Philippines,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2016,48455.71479018424,59159.87080289034,39156.252625178735
+5,Prevalence,16,Philippines,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2016,25130.933449987082,30999.180416569594,20197.367768540433
+5,Prevalence,16,Philippines,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2016,21736.850582059855,26729.501097291748,16850.543418337023
+5,Prevalence,16,Philippines,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2016,20446.263743496405,25153.20661943623,15861.555008904863
+5,Prevalence,16,Philippines,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2016,563.2486035064812,736.7609527328852,403.80397489091814
+5,Prevalence,16,Philippines,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2016,609.6267639745315,797.2501323736088,440.6953959493738
+5,Prevalence,16,Philippines,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2016,2997.559307314751,3670.5327992567695,2315.685148461783
+5,Prevalence,16,Philippines,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2016,3448.8999069460565,4248.419418714425,2651.3646277970647
+5,Prevalence,16,Philippines,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,1109.661519225,1341.9658070201258,916.4931558990412
+5,Prevalence,16,Philippines,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,1505.04853409951,1810.985065760678,1218.4796299204677
+5,Prevalence,16,Philippines,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2016,424.67838925789437,519.0525094859308,336.72648155418506
+5,Prevalence,16,Philippines,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2016,453.44502755544835,549.9233470699012,361.0989961669208
+5,Prevalence,16,Philippines,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2016,179890.04155103755,205704.65435134465,158095.0670341592
+5,Prevalence,16,Philippines,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2016,127736.67843912965,146466.0473137311,111171.06481144577
+5,Prevalence,16,Philippines,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,33960.39523215777,45561.78551971418,25153.39784141322
+5,Prevalence,16,Philippines,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2016,33199.318225120645,44905.58666393615,24623.287942932675
+5,Prevalence,16,Philippines,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,58381.69247770757,70254.71956373985,47774.66297508713
+5,Prevalence,16,Philippines,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,33803.718004610426,40887.66971906491,27167.83738740048
+5,Prevalence,16,Philippines,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2016,3.2837797140338925,4.525218859785159,2.227268969252489
+5,Prevalence,16,Philippines,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2016,3.616703830844825,4.941418054567248,2.496881992127012
+5,Prevalence,16,Philippines,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2016,157625.4659352729,180181.39879141925,136904.91214303861
+5,Prevalence,16,Philippines,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2016,106356.37607923443,121706.13675542566,92352.9745892728
+5,Prevalence,16,Philippines,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2016,45464.44603031343,58173.411390341775,35159.14333370827
+5,Prevalence,16,Philippines,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2016,45057.1553381809,57241.708691083266,34879.2078112428
+5,Prevalence,16,Philippines,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2016,39383.25925296158,51577.097235039706,29060.40398497097
+5,Prevalence,16,Philippines,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2016,39178.04721244436,51219.04509850627,29206.503192203003
+5,Prevalence,16,Philippines,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2016,1647.8022135320996,1990.7735896205716,1347.7839964172808
+5,Prevalence,16,Philippines,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2016,2006.4417592831442,2411.0621487923695,1625.0170221827902
+5,Prevalence,16,Philippines,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,17118.68363719694,23018.091472776352,11742.564848058506
+5,Prevalence,16,Philippines,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,17797.74485254912,24251.993032440314,12092.737558957075
+5,Prevalence,16,Philippines,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2016,139137.49676972307,161420.63263755178,117562.74676165714
+5,Prevalence,16,Philippines,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2016,105919.37805381765,124944.67822200464,88114.75837071621
+5,Prevalence,16,Philippines,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2016,28345.762393116496,39676.27504625462,20102.95950168005
+5,Prevalence,16,Philippines,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2016,27259.410485631775,38413.32144491936,19358.193348132296
+5,Prevalence,16,Philippines,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,33549.33080066735,44400.564052014546,25001.709315054304
+5,Prevalence,16,Philippines,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2016,33055.6960221832,43133.97220040233,24827.291122498133
+5,Prevalence,16,Philippines,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2016,90338.58081575423,110397.22421406205,71842.81584941191
+5,Prevalence,16,Philippines,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2016,75733.95467454268,92557.68665427189,59911.14149871059
+5,Prevalence,16,Philippines,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,87432.90056302882,105151.01283355513,71125.5782912585
+5,Prevalence,16,Philippines,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2016,60779.178885750924,73448.64138484075,49088.284726154096
+5,Prevalence,16,Philippines,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2016,57871.228418511375,68933.56242054189,48079.83538937861
+5,Prevalence,16,Philippines,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2016,39615.045237861144,46897.24995204485,32756.880879463683
+5,Prevalence,16,Philippines,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2016,43976.6147800772,53655.779608510544,34952.79455773415
+5,Prevalence,16,Philippines,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2016,30206.6460358527,36583.980641401715,24121.62813661502
+5,Prevalence,16,Philippines,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,22233.548555886282,28524.687227900427,16247.612539819005
+5,Prevalence,16,Philippines,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2016,16540.422707812508,21205.35128634378,11889.524872094436
+5,Prevalence,16,Philippines,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2016,11810.872894536526,14420.053519308836,9047.073476675261
+5,Prevalence,16,Philippines,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2016,11773.47918887306,14375.762597434505,8966.941576462796
+5,Prevalence,16,Philippines,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2016,113.46230504920547,144.29876301383734,83.61531180630072
+5,Prevalence,16,Philippines,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2016,47.94819762818566,60.92822123814932,35.61442731590859
+5,Prevalence,16,Philippines,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2016,10163.070681004423,12649.116446388563,7435.138594082822
+5,Prevalence,16,Philippines,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2016,9767.037429589916,12215.144050933017,7238.621454746974
+5,Prevalence,16,Philippines,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2016,122018.81313252618,143596.32409601478,102496.85619987568
+5,Prevalence,16,Philippines,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2016,88121.63320126853,103999.68495424981,73380.91774308034
+5,Prevalence,16,Philippines,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,57333.08772420427,68397.1200903861,47513.071450024836
+5,Prevalence,16,Philippines,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,39113.65201267751,46375.67966927133,32292.781326121665
+5,Prevalence,16,Philippines,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,48083.83560661696,58111.943196177104,38825.39481946002
+5,Prevalence,16,Philippines,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,35160.594476898266,42060.429224663916,28374.762199076536
+5,Prevalence,16,Philippines,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,33506.28075611571,40960.994438160094,26136.130996905285
+5,Prevalence,16,Philippines,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,27812.508671501935,33862.89810669441,21872.967405403222
+5,Prevalence,16,Philippines,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,21198.709887752757,26135.021808482586,16354.692294685752
+5,Prevalence,16,Philippines,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2016,19944.870518312775,24650.954088574035,15364.200175194095
+5,Prevalence,16,Philippines,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2016,11697.41058948732,14291.094265005424,8905.308000607696
+5,Prevalence,16,Philippines,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2016,11725.530991244874,14327.202526610325,8923.04002485267
+5,Prevalence,16,Philippines,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2016,203617.63699929113,230513.10224157956,179123.6796087742
+5,Prevalence,16,Philippines,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2016,152347.57003381412,174419.74793221368,132375.81892978796
+5,Prevalence,16,Philippines,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,310.81770372440735,619.8694061861402,122.85518801597895
+5,Prevalence,16,Philippines,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,312.7830632203816,624.7567237098615,124.10954390040835
+5,Prevalence,16,Philippines,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.004379229326059705,0.009051455420795267,0.0017086906469806218
+5,Prevalence,16,Philippines,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.005004949815258714,0.010280926826207596,0.0019160493009171703
+5,Prevalence,16,Philippines,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.08087762335457059,0.16103010366766712,0.03245102282951287
+5,Prevalence,16,Philippines,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.08899920251214737,0.17659515694180358,0.035195998034392176
+5,Prevalence,16,Philippines,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,14.560597043370297,28.782682502061714,5.991563033282993
+5,Prevalence,16,Philippines,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,15.765179667931593,31.015737364996035,6.40638834588577
+5,Prevalence,16,Philippines,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,296.1718498283564,597.1396113996645,116.73667043337194
+5,Prevalence,16,Philippines,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,296.92387940012264,597.3658010674781,117.35103045483774
+5,Prevalence,16,Philippines,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,427.0616611256162,906.163884639787,162.6078710925437
+5,Prevalence,16,Philippines,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,395.8863804427458,835.4241410776273,149.94590267670168
+5,Prevalence,16,Philippines,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,146.50522691651716,303.83861294174903,56.06752116425092
+5,Prevalence,16,Philippines,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,154.51440935046,319.18907465974434,58.401698870235855
+5,Prevalence,16,Philippines,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,305.0304878586696,631.4771559220796,114.05286484092213
+5,Prevalence,16,Philippines,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,314.47844704214197,656.407979723996,119.17562164419189
+5,Prevalence,16,Philippines,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,586.7928708452287,1215.2938816551002,222.21691642079972
+5,Prevalence,16,Philippines,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,564.2618225710567,1162.8590266517256,216.85352282556954
+5,Prevalence,16,Philippines,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,636.2691949989717,1342.7998328798826,239.7935918901903
+5,Prevalence,16,Philippines,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,520.1432167731216,1085.3329683424288,197.69419685442676
+5,Prevalence,16,Philippines,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,449.8564373892398,894.873976206875,178.16608886379484
+5,Prevalence,16,Philippines,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,321.5138259007392,640.2799154872737,127.71324501321435
+5,Prevalence,16,Philippines,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,399.4180743808475,807.796857428952,158.38678402295162
+5,Prevalence,16,Philippines,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,275.23725206389116,563.0520972658458,107.34400871202523
+5,Prevalence,16,Philippines,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,389.0332435747311,766.9674864972998,152.65043894195057
+5,Prevalence,16,Philippines,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,233.74774983985122,461.4186222268055,90.06625722465948
+5,Prevalence,16,Philippines,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,423.4660957612556,842.9458578745857,166.84155440594898
+5,Prevalence,16,Philippines,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,248.01504912728805,499.45127102418104,97.34732144459498
+5,Prevalence,16,Philippines,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,323.4263290704041,637.4613633571755,130.08566535408272
+5,Prevalence,16,Philippines,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,158.18425702191954,326.0354885913643,62.59118153947228
+5,Prevalence,16,Philippines,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,245.1618810182098,505.4880229084156,96.19095573634064
+5,Prevalence,16,Philippines,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,105.79218983818019,219.94886187426258,41.06196590571676
+5,Prevalence,16,Philippines,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,385.3415600631833,790.7030853929291,148.5288583098598
+5,Prevalence,16,Philippines,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,195.1984608654811,397.4635473590492,74.47938643593908
+5,Prevalence,16,Philippines,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,324.054651063724,649.298361859868,126.08671382286879
+5,Prevalence,16,Philippines,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,208.16153630884418,415.5524324129755,81.97203764767984
+5,Prevalence,16,Philippines,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,260.960839414763,518.645201879036,101.13703546894453
+5,Prevalence,16,Philippines,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,229.91927828806325,453.90466246774804,90.16731488977412
+5,Prevalence,16,Philippines,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,188.76360458083636,366.3446115599133,76.5581583599884
+5,Prevalence,16,Philippines,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,167.18039536388662,323.05811637957163,68.02704170157094
+5,Prevalence,16,Philippines,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,121.82268397623643,224.7346437293047,52.33986090275877
+5,Prevalence,16,Philippines,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,144.83714167587874,272.0552953305878,60.53384972906992
+5,Prevalence,16,Philippines,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,5923.7825457628405,11144.734836587118,2573.2919082066855
+5,Prevalence,16,Philippines,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,4549.854475693932,8583.579037204208,1976.5484809284876
+5,Prevalence,16,Philippines,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,573.5668880421333,1179.198625333316,230.7889272724125
+5,Prevalence,16,Philippines,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,550.4007897932057,1119.1028276792804,223.27692316833057
+5,Prevalence,16,Philippines,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,3189.866404808944,6061.226730917923,1331.843568809245
+5,Prevalence,16,Philippines,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,2477.3973633180894,4723.315839031709,1028.478939997088
+5,Prevalence,16,Philippines,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1277.9844212155215,2465.2584322849552,534.9719619336279
+5,Prevalence,16,Philippines,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,667.3364440344249,1300.7598177523232,275.4887854940516
+5,Prevalence,16,Philippines,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,571.5471279718357,1086.1665751106623,236.2163000971167
+5,Prevalence,16,Philippines,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,541.9368153278286,1021.5184311874568,226.76898753674064
+5,Prevalence,16,Philippines,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,14.645853896050928,28.957456583630574,6.025694786698737
+5,Prevalence,16,Philippines,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,15.859183820258998,31.201603261405026,6.443613330638688
+5,Prevalence,16,Philippines,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,78.57867846499536,149.13374655734106,33.33118156364932
+5,Prevalence,16,Philippines,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,91.609323743933,174.85475509844008,38.24104979090714
+5,Prevalence,16,Philippines,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,29.058387156686173,54.20294799902468,12.608779105556486
+5,Prevalence,16,Philippines,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,39.98262240875758,73.87221323658225,16.74980359041228
+5,Prevalence,16,Philippines,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,11.18750988950079,21.7645291104869,4.676019052880853
+5,Prevalence,16,Philippines,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,12.005009221635486,22.5654342786225,5.073826871900263
+5,Prevalence,16,Philippines,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,4734.367466137631,8955.770773467471,2046.1130893767847
+5,Prevalence,16,Philippines,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,3372.192175638201,6357.7727161255325,1453.4444305094055
+5,Prevalence,16,Philippines,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,884.3845917665407,1758.522261416681,358.6747744579595
+5,Prevalence,16,Philippines,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,863.1838530135874,1709.0349086798817,354.8645760964895
+5,Prevalence,16,Philippines,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1538.945260630284,2953.248245325656,637.7067757226359
+5,Prevalence,16,Philippines,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,897.2557223224882,1740.1063244120462,376.9433569409666
+5,Prevalence,16,Philippines,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.0852568526806303,0.16990584131132247,0.03422062624300601
+5,Prevalence,16,Philippines,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.09400415232740608,0.18705978909176782,0.037140248451580864
+5,Prevalence,16,Philippines,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,4147.574595292403,7812.902894758469,1786.0330379680565
+5,Prevalence,16,Philippines,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,2807.9303530671446,5305.917977381807,1217.7560444181984
+5,Prevalence,16,Philippines,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1189.4150796252102,2345.521714056671,494.0088109205312
+5,Prevalence,16,Philippines,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1177.6623000557292,2280.773366006028,497.02756206360345
+5,Prevalence,16,Philippines,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1038.3285856204154,2051.080968839851,416.22680465785334
+5,Prevalence,16,Philippines,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1033.2546789636585,2055.6974156464967,416.3324826543781
+5,Prevalence,16,Philippines,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,43.24400551124107,81.710284319554,18.363522684878575
+5,Prevalence,16,Philippines,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,53.22781793194577,98.2721790864598,22.08920006418987
+5,Prevalence,16,Philippines,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,451.5357147751867,896.0490745264027,172.67361529025015
+5,Prevalence,16,Philippines,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,468.992856392602,914.0473211598447,181.26761961647355
+5,Prevalence,16,Philippines,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,3659.7979607958655,6988.784449745833,1562.8441873167853
+5,Prevalence,16,Philippines,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,2790.0960296904695,5366.872219791525,1173.2413730088458
+5,Prevalence,16,Philippines,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,737.8793648500235,1552.2957747756275,299.1448622021066
+5,Prevalence,16,Philippines,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,708.6694436631274,1463.444573885395,285.72236203966963
+5,Prevalence,16,Philippines,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,878.597375900803,1748.2176488596358,355.2191390233062
+5,Prevalence,16,Philippines,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,864.8792368353477,1698.521144507116,348.328496415034
+5,Prevalence,16,Philippines,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,2377.367065472957,4590.46274427331,979.496340921314
+5,Prevalence,16,Philippines,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1995.6345643509505,3847.7752784606437,823.8221245760342
+5,Prevalence,16,Philippines,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,2298.043046105046,4466.576014580971,964.4280780858758
+5,Prevalence,16,Philippines,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1598.6570937048914,3095.1251923852824,668.638343485501
+5,Prevalence,16,Philippines,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1526.105220116953,2869.6927581234218,644.3742224079368
+5,Prevalence,16,Philippines,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1051.089002340334,1983.759917624732,439.23266696433865
+5,Prevalence,16,Philippines,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1159.1206551225064,2207.9964609510744,484.14486622164355
+5,Prevalence,16,Philippines,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,800.4596708262751,1541.886608711763,331.7320052334315
+5,Prevalence,16,Philippines,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,585.015490478487,1131.9330413767032,233.97637191358152
+5,Prevalence,16,Philippines,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,438.0808145969075,846.5937355271088,175.3427543746767
+5,Prevalence,16,Philippines,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,310.5862885570728,594.1819307513738,130.99200362440433
+5,Prevalence,16,Philippines,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,312.0175370397654,595.3076165136546,127.94326790513502
+5,Prevalence,16,Philippines,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,2.9981084650541026,5.862091803616581,1.2053457256229967
+5,Prevalence,16,Philippines,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1.2401863015527042,2.385940149975578,0.5087742333036324
+5,Prevalence,16,Philippines,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,267.3422830458317,509.92796594804094,111.3917433912054
+5,Prevalence,16,Philippines,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,258.7897191078196,496.2878761648756,105.56016992060013
+5,Prevalence,16,Philippines,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,3208.2622460206785,6168.668462999685,1338.8705658619551
+5,Prevalence,16,Philippines,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,2321.1031732978677,4448.423946973306,970.8497246962759
+5,Prevalence,16,Philippines,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1511.9196017623979,2845.4080472029227,636.1195959916323
+5,Prevalence,16,Philippines,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1037.8438068171458,1961.4163178578885,432.9641850551481
+5,Prevalence,16,Philippines,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,1266.757720744188,2397.9212444879918,530.3582746926726
+5,Prevalence,16,Philippines,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,932.0516169789657,1779.2906028553916,388.16156030552537
+5,Prevalence,16,Philippines,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,881.4161606810048,1674.8482690712483,368.2220575039744
+5,Prevalence,16,Philippines,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,736.8531561134846,1390.1506188087858,308.03499591397514
+5,Prevalence,16,Philippines,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,557.3615096172808,1059.114047764542,228.71226318600606
+5,Prevalence,16,Philippines,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,528.6916198046404,1002.7551152143373,220.07917892645105
+5,Prevalence,16,Philippines,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,307.58818009201866,588.5211849642815,129.58991195413972
+5,Prevalence,16,Philippines,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,310.7773507382127,592.9805706377992,127.39069119508858
+5,Prevalence,16,Philippines,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,5352.235417791006,10110.888737379959,2311.819353880974
+5,Prevalence,16,Philippines,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,4007.917660366102,7583.698090020563,1723.6284711263115
+5,Prevalence,16,Philippines,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,24.964902371578443,49.82992341322995,9.856759749441593
+5,Prevalence,16,Philippines,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,25.104996459946385,50.168324603464285,9.957802652679943
+5,Prevalence,16,Philippines,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.0003503180975533113,0.0007238521819285062,0.00013645673245297156
+5,Prevalence,16,Philippines,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.0004000968760136931,0.0008219293393991594,0.0001529836942035052
+5,Prevalence,16,Philippines,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.006473096356658944,0.012887859358810476,0.0025942122689343273
+5,Prevalence,16,Philippines,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.007118945238204033,0.014130166119009392,0.0028109922830219783
+5,Prevalence,16,Philippines,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.1658443744785882,2.303794073983598,0.47840997723922984
+5,Prevalence,16,Philippines,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.261594211038835,2.4824040332995474,0.5119342232454968
+5,Prevalence,16,Philippines,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,23.792234582645644,48.044850776626895,9.37693737533527
+5,Prevalence,16,Philippines,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,23.835883206793337,48.02499468849618,9.41700914134966
+5,Prevalence,16,Philippines,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,34.13736462539107,72.52019107670313,12.977938323305233
+5,Prevalence,16,Philippines,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,31.644850124435827,66.82489014865118,11.954393410551864
+5,Prevalence,16,Philippines,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,11.677407186146489,24.224284585171937,4.46365744799213
+5,Prevalence,16,Philippines,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,12.29166641239887,25.40263284552162,4.637967449689492
+5,Prevalence,16,Philippines,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,24.826424320146355,51.51562425791206,9.269172440686122
+5,Prevalence,16,Philippines,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,25.57953567292878,53.463126469050124,9.673289438825215
+5,Prevalence,16,Philippines,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,47.093527552759,97.26837435488025,17.887659446893267
+5,Prevalence,16,Philippines,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,45.227647070041535,93.00180019214,17.38702271238148
+5,Prevalence,16,Philippines,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,51.17816576380293,107.75338801686019,19.38783634928317
+5,Prevalence,16,Philippines,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,41.8489404758435,87.08105489638417,15.977302402483415
+5,Prevalence,16,Philippines,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,36.09108424304913,71.82023685130483,14.301919051833705
+5,Prevalence,16,Philippines,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,25.717924343360774,51.31011884941032,10.244840363944967
+5,Prevalence,16,Philippines,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,32.02277245156337,64.74501443271781,12.690749870569165
+5,Prevalence,16,Philippines,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,22.037501015072746,45.00525090375586,8.612104630088503
+5,Prevalence,16,Philippines,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,31.186429662096458,61.436445729518,12.272932630991118
+5,Prevalence,16,Philippines,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,18.76846517867976,36.89692847581358,7.2644075790398155
+5,Prevalence,16,Philippines,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,33.98325421550157,67.59211235065823,13.38540773443236
+5,Prevalence,16,Philippines,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,19.89862347711325,40.11185870333491,7.830857641126644
+5,Prevalence,16,Philippines,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,25.995307455386815,51.232513242889816,10.456730892916575
+5,Prevalence,16,Philippines,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,12.741256889930348,26.216906003585308,5.050921752037904
+5,Prevalence,16,Philippines,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,19.78033937518193,40.68105040017341,7.780447673284867
+5,Prevalence,16,Philippines,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,8.549337920525376,17.719738677887474,3.3270698963389873
+5,Prevalence,16,Philippines,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,30.924962667285662,63.40042861672321,11.908150340654085
+5,Prevalence,16,Philippines,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,15.648857386134596,31.821420874553645,5.965325555884117
+5,Prevalence,16,Philippines,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,26.004634375910566,52.10255751962505,10.11544786248047
+5,Prevalence,16,Philippines,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,16.69715118739985,33.313980406338274,6.572565038799801
+5,Prevalence,16,Philippines,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,20.952824877520086,41.73975911254791,8.114155321887937
+5,Prevalence,16,Philippines,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,18.41952321636015,36.45376020674693,7.213050457842405
+5,Prevalence,16,Philippines,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,15.14273647288701,29.4015316936442,6.134431380715158
+5,Prevalence,16,Philippines,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,13.393066093274992,25.837775875105518,5.457779827344961
+5,Prevalence,16,Philippines,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,9.782635531044406,18.004719320259348,4.21196262452551
+5,Prevalence,16,Philippines,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,11.61437308804873,21.80411377828408,4.861777762159517
+5,Prevalence,16,Philippines,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2016,475.74477314725124,894.6014751735897,206.89266496860427
+5,Prevalence,16,Philippines,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2016,365.18371601149545,688.7646995718862,158.70009320003962
+5,Prevalence,16,Philippines,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,45.81477181153756,94.23726452182972,18.406846816376593
+5,Prevalence,16,Philippines,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,43.936516536834695,89.40598293512748,17.79906591988062
+5,Prevalence,16,Philippines,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,256.3816582089188,486.95598776612087,107.26886960627357
+5,Prevalence,16,Philippines,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,199.07863723304035,379.4079522831588,82.79938150304831
+5,Prevalence,16,Philippines,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,102.70524387376499,198.1809378391208,43.012829686399584
+5,Prevalence,16,Philippines,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,53.63660338399016,104.40369326597776,22.14311177678135
+5,Prevalence,16,Philippines,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,45.8781968814515,87.15144578848725,18.962009436253542
+5,Prevalence,16,Philippines,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,43.42696239768387,81.84323902065593,18.18233330843785
+5,Prevalence,16,Philippines,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.1726677889328008,2.3177937636511516,0.4811356449370246
+5,Prevalence,16,Philippines,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.2691132531530527,2.4972720534403203,0.5149044638789999
+5,Prevalence,16,Philippines,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,6.301462811208425,11.942303892718488,2.6773495996477306
+5,Prevalence,16,Philippines,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,7.346448815526539,14.012700234426912,3.0769090792492744
+5,Prevalence,16,Philippines,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,2.337771922180789,4.34881088963664,1.0210111882204043
+5,Prevalence,16,Philippines,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,3.205907520695258,5.914779458624868,1.3464084197528516
+5,Prevalence,16,Philippines,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.9014809107460867,1.7471444149647735,0.37895863177783434
+5,Prevalence,16,Philippines,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.9624921441125373,1.8080838072520753,0.4067625303912431
+5,Prevalence,16,Philippines,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,380.13867464398896,718.694643340835,164.4574554400558
+5,Prevalence,16,Philippines,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,270.56266734178564,509.56166846348736,116.83786489959729
+5,Prevalence,16,Philippines,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,70.779674183116,140.7586016442694,28.677097115661315
+5,Prevalence,16,Philippines,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,69.04151299678108,136.72655353717062,28.339303364643452
+5,Prevalence,16,Philippines,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,123.65806875128506,237.35359507755535,51.263367929130254
+5,Prevalence,16,Philippines,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,72.05612660035031,139.6851732775198,30.285599395964585
+5,Prevalence,16,Philippines,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.006823414454212257,0.013602991942319826,0.002735285181433766
+5,Prevalence,16,Philippines,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.007519042114217726,0.014966396605883475,0.0029665187281137395
+5,Prevalence,16,Philippines,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,333.0451470912299,627.2230300901756,143.61243159227362
+5,Prevalence,16,Philippines,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,225.33502027174407,425.4884107550576,97.89712160645769
+5,Prevalence,16,Philippines,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,95.60609850326234,188.67635988263672,39.66778547710964
+5,Prevalence,16,Philippines,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,94.62104866970986,183.11368221276626,39.85724888026039
+5,Prevalence,16,Philippines,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,83.59735905905184,164.77970032473516,33.577126526032565
+5,Prevalence,16,Philippines,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,83.09884915536918,165.27514704964565,33.488770806825485
+5,Prevalence,16,Philippines,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,3.4811727198359805,6.551685857290942,1.4878424853938104
+5,Prevalence,16,Philippines,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,4.267924272522189,7.8729270090799615,1.7746781509575513
+5,Prevalence,16,Philippines,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,36.50383150629285,72.42698861315614,13.921420185298825
+5,Prevalence,16,Philippines,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,37.871202085327646,73.75607912241023,14.615042485049853
+5,Prevalence,16,Philippines,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,294.0543728504521,560.7006422187413,125.76795453794169
+5,Prevalence,16,Philippines,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,224.11156053536956,430.9894007886623,94.41336624558467
+5,Prevalence,16,Philippines,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,59.10226699696951,124.37603316833807,23.91038553497395
+5,Prevalence,16,Philippines,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,56.74984658438222,117.25382032582041,22.83843678890815
+5,Prevalence,16,Philippines,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,70.64119613168391,140.43792595226515,28.509950787708693
+5,Prevalence,16,Philippines,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,69.51605220976349,136.41769645925714,27.943701331383032
+5,Prevalence,16,Philippines,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,191.2119743313208,368.9084586064377,78.94782304344012
+5,Prevalence,16,Philippines,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,160.41154857724737,308.62776066392536,66.29902957778
+5,Prevalence,16,Philippines,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,184.46170633601344,358.52769428049214,77.53257335661763
+5,Prevalence,16,Philippines,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,128.27145449007003,248.17592921791933,53.889115450441665
+5,Prevalence,16,Philippines,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,122.58813329982966,230.37579595434724,51.770492807833136
+5,Prevalence,16,Philippines,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,84.32230889174369,159.0180471236665,35.24510056766052
+5,Prevalence,16,Philippines,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,93.02515839360332,177.30103810870187,38.85759457960064
+5,Prevalence,16,Philippines,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,64.15859788316959,123.59056305670596,26.58154958088443
+5,Prevalence,16,Philippines,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,46.957459253430656,90.86956483750718,18.790964012852466
+5,Prevalence,16,Philippines,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,35.11667440376,67.81203489316331,14.052658737456452
+5,Prevalence,16,Philippines,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,24.925372003931418,47.68942372822092,10.514139449040375
+5,Prevalence,16,Philippines,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,25.007439181323722,47.717041634466874,10.275066109970641
+5,Prevalence,16,Philippines,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.24191988690910468,0.47050287846225847,0.09776009798411928
+5,Prevalence,16,Philippines,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.09952460771439411,0.1911891500205318,0.04082963223155022
+5,Prevalence,16,Philippines,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,21.444199284095433,40.89692332955534,8.932455160092884
+5,Prevalence,16,Philippines,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,20.73951490880153,39.715782098360016,8.483669237586298
+5,Prevalence,16,Philippines,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,257.5505413441592,494.3862194165603,107.69325854151744
+5,Prevalence,16,Philippines,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,186.24035845004192,356.5136132306003,78.14483747756286
+5,Prevalence,16,Philippines,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,121.44473250217447,228.42706497102554,51.101674315038586
+5,Prevalence,16,Philippines,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,83.26029213991676,157.2602034824932,34.75553278459688
+5,Prevalence,16,Philippines,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,101.66439312699254,192.53676930318522,42.574127745140395
+5,Prevalence,16,Philippines,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,74.71095421939138,142.6118425003449,31.118917135707765
+5,Prevalence,16,Philippines,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,70.73943045970687,134.36524145354443,29.563655140947272
+5,Prevalence,16,Philippines,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,59.06209683325679,111.36093101814434,24.711500558298205
+5,Prevalence,16,Philippines,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,44.73479608379631,84.96459089917651,18.356872769942278
+5,Prevalence,16,Philippines,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,42.36494564585694,80.33068521104568,17.644607604348703
+5,Prevalence,16,Philippines,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,24.68345211702231,47.1936557702779,10.400501880142233
+5,Prevalence,16,Philippines,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,24.907914573609325,47.530416040034815,10.237162148297594
+5,Prevalence,16,Philippines,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,429.86657626579984,811.5892649385477,185.84203795685502
+5,Prevalence,16,Philippines,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,321.7567536138116,609.8846482167179,138.4741621150831
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,410.30655411393724,680.2708417913256,222.85622627311315
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,290.5548987416675,484.5813671578663,157.60131180773962
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,473.12393478368443,798.5671481377492,263.7352291068562
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,421.90569742331957,712.056891629964,228.91296963407808
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,353.9528046366313,602.2150972554315,194.76714423061372
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,297.97614756971916,508.1917265839842,158.10277044657298
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,194.42948629118462,334.88846252825914,105.2660825288574
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,153.68135111348587,261.4840288113652,79.90942224821364
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,106.48968701254344,182.16902232813618,56.888414199553615
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,154.8381998761171,261.63106380659224,81.76739367591809
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.27223080052308996,0.4717765616734473,0.13815173536979858
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,0.8142070456892848,1.4007523134689561,0.4189369041341602
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,97.26248093207998,166.60940414380937,52.15375451696614
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,132.231746939525,225.62969201394068,70.6448081836089
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,642.2794509116151,1070.8896935996618,352.95705493737347
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,459.2574281042361,759.4444374658952,253.49930170843115
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,471.12140096618987,794.4201214859348,262.64436542587333
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,416.49932463573725,703.2519680514786,225.66572036272552
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,386.18060120588706,654.4393508861232,212.73766832927896
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,361.2785313567753,615.6465944774658,194.3117423801067
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,298.91663948623346,505.06442051937466,160.30162159679242
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,303.1131782020206,530.1400349732945,162.81042607431047
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,221.32898095755516,377.6598248097611,118.16643947215339
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,252.94579447475195,434.6580155232025,134.51440771849724
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,106.21745621202037,181.8459082330733,56.73033016544939
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,154.02399283042783,260.4320467621721,81.23560778508565
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,958.1011910501808,1598.8672289403457,524.0433973197092
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2016,702.1542876321462,1151.97519155604,387.5766445019575
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.4073844601082033,2.5126078594641417,0.7088621234024819
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.7194874984019024,2.9566283032132445,0.8371993709756553
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,4.865516009013488e-06,8.516578237580106e-06,2.3742369888955476e-06
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,6.150727627073313e-06,1.0564019053040335e-05,3.037714218504282e-06
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.0003435947519711947,0.0006910937984710554,0.0001088314815043628
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.0005476617054849132,0.0010521632538024516,0.00021465207448499387
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.10754532847276904,0.18706605261138087,0.05208846588254205
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.13816090043638077,0.23539875407983832,0.06823857406820416
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.2994906713674539,2.328653004142316,0.642959366740935
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.5807727855324099,2.7169537187495805,0.7705268294829103
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.4111052566916655,2.6436175993899615,0.6833762049945268
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.5243883803643385,2.8254245175346457,0.7396348268951025
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.9373435130408823,1.773112877784945,0.43613358220737003
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.2817095330407575,2.3516355723915003,0.6123666633153659
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.5342086009929645,2.7950306267217577,0.7053233870472525
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.828102339395293,3.385381833523103,0.8669024387001399
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,11.394807566938448,20.148795780839567,5.358994632567891
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,8.587483738495957,14.993117668669285,4.058884214692455
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,8.654215867709947,15.574412216065523,4.1434694462281625
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,5.788528135014673,10.453612298458197,2.707614934640551
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,5.806643926586461,10.500319471929155,2.5950535618760924
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,4.466681180659914,8.049425735858774,1.9496398193086806
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,5.807847991421091,10.145967983445269,2.902023565382356
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,3.9066810683487985,6.694932243672052,2.00195696675851
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,5.339681171469359,9.279277426255973,2.771656060710108
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,4.06148905022488,7.018716022489569,2.1113546483365266
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,7.189410729889358,12.256798159501104,3.77079649523537
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,4.922435542616023,8.451693326476217,2.6228074905958554
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,7.229328080293977,12.18390949064821,3.823181459914946
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,4.87681972611194,8.320626995215935,2.527481086803788
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,6.785961524099999,11.529155084100944,3.4822884816965174
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,4.4030046888183385,7.688155151272004,2.2160084694061184
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,6.988948619196155,11.970305327982087,3.392480220698975
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,4.636006119630197,8.057544093097341,2.2822635637409485
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,6.196433427281599,10.859542300562424,3.178303635178299
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,3.995508139929051,7.109425359125064,1.9916001202197755
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,9.312753755141312,15.982940207793378,4.974380552255541
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,8.244326989616725,14.30935941372019,4.2259325749918295
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,5.755393314394305,9.762153381102625,3.0167891083809795
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,6.858504611568764,11.731492378006019,3.5457933236515955
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,2.724719328890203,4.646450612432064,1.465826321768054
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,5.470532157296217,9.337480163546314,2.8876500112716736
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2016,94.47618713414593,154.94750597622814,51.60405828740554
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2016,76.57168889953377,127.78445436019406,42.033357075741996
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,2.348448769732548,4.24287219050964,1.1643838296979783
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,2.8060979134050963,4.945749728214554,1.4384011845618052
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,45.72681585500764,75.84133345903567,24.624435779138942
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,33.561401054755535,55.551106753839456,18.253198239106467
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,27.20067165087173,45.258459625889586,14.567368381845476
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,17.911338674489524,29.40819325456534,9.802444407283087
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,17.792866398425815,30.310956764571053,9.433670455894632
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,20.573363758481705,35.32106181992107,10.874643093408046
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.10789378874074927,0.1876214047521502,0.052250910260127334
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.13871471286949275,0.23652503465623834,0.06849625944995755
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.9903521922449297,3.403052645269352,1.0616744516869023
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,3.6704458780870155,6.2205237928540384,1.917827593484596
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.5749756078788384,0.9621815107467949,0.3053218665746794
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.369486475932687,2.3039672472560264,0.7333894196101699
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.13771605695961409,0.23182045849970864,0.0715403180797961
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.3657221172930948,0.6146410396031063,0.19612680987396708
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,89.1861453033122,146.52896126807832,48.5173972179782
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,70.21800114833147,116.45303551376628,38.588550945898945
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,3.7558332298407513,6.615582342774425,1.9663283094220474
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,4.525585411806999,7.861547586287279,2.378146598414392
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,36.51342540601305,60.8228921103172,20.098527682158462
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,26.15566566410625,43.75696906994203,14.565671555531516
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.00034846026798020826,0.0006993851063920447,0.00011168295591248531
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.0005538124331119865,0.0010624012124907664,0.0002181667697805786
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,77.79133773637376,128.3264586171001,42.456309080693146
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,61.63051740983551,101.11262667529367,34.246454968957494
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,5.290041830833716,9.283167151860694,2.7457044089259757
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,6.353687751202292,10.808293386220322,3.3533826964090223
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,13.866359680972295,24.275929694975343,6.7015291983912695
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,11.69729561093201,20.167185089756984,5.786542914082021
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.7343671366452736,1.2261302524698743,0.38844087890413964
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,1.8000862792092023,3.0201130969575556,0.9659412994942516
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,2.471552114033847,4.493026304454808,1.2228195704851244
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,3.1098118724360506,5.5255824614138564,1.5326495937774567
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,53.89348744834249,90.08710663654301,28.95037679230137
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,39.719930313908236,65.78775075661841,21.746482173810538
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,2.818489716799869,5.159575306023541,1.4575218783238535
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,3.2438758787662407,5.7899147809234695,1.6273010368843392
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,3.882657370725512,6.765607904236809,1.9880097199879792
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,4.6342002528003885,7.945349067367852,2.4548862458093144
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,33.197723953648904,56.0389178342927,17.359689859355925
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,24.57747646191464,41.77774657389888,12.784334316178176
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,32.797799687076214,54.34237485721625,17.635362778388977
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,23.145814976864283,38.484099215114455,12.474792227683736
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,37.76420996900357,63.579131830838314,20.88140865737399
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,33.60788270685929,56.54531393442861,18.107864961586056
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,28.25352911601337,47.93989228181245,15.437867212586175
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,23.734345860744735,40.448005485087066,12.509900366692284
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,15.50918718242291,26.628262843207334,8.348483008945383
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,12.239835129545776,20.76005256032428,6.317535022728733
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,8.480112643284508,14.484627620708874,4.495575806111229
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,12.329036768864981,20.77882490708798,6.466666396657296
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.021675471806821,0.037443853424159214,0.01089820638529605
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2016,0.0648776859834204,0.11125246360659263,0.0331359571825577
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,7.745745506639234,13.246762229236776,4.135931061064961
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,10.528950489655779,17.91413386141922,5.577174648055222
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,51.42193533430864,85.49427731696436,27.925884282972486
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,36.61011844147219,60.34608665372535,20.06164816384855
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,37.60481844023714,63.24945175635048,20.795229810086383
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,33.17728290358277,55.86594699432086,17.850674777326496
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,30.818856916137136,52.08862330267832,16.833230541218235
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,28.77427821476444,48.882505576073704,15.376624884780924
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,23.82990829694098,40.16702378915848,12.668473328886412
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,24.13827209513424,42.12066214479398,12.884942829742133
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,17.63347486965938,30.026853242666498,9.350905330808049
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,20.14276395520519,34.49205136874501,10.650281225531629
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,8.458437171477685,14.447562665030299,4.483517345850987
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,12.26415908288156,20.683707580250292,6.424661973172018
+5,Prevalence,7,Democratic People's Republic of Korea,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,76.6833207357201,127.54611185314049,41.460846287982754
+5,Prevalence,7,Democratic People's Republic of Korea,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2016,55.998325141052064,91.50678891939731,30.7031323907243

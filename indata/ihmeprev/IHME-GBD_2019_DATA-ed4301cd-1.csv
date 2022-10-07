@@ -1,0 +1,685 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,198,Zimbabwe,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2014,3331.966673854932,5357.760244085063,1841.108045773287
+5,Prevalence,198,Zimbabwe,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2014,5013.671918548889,8003.306419554337,3044.9877318021245
+5,Prevalence,198,Zimbabwe,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.011831138099344173,0.01657880412648199,0.00800041816797294
+5,Prevalence,198,Zimbabwe,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.017387096250452535,0.023892258256153792,0.011970814733057443
+5,Prevalence,198,Zimbabwe,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.17203931252294952,0.240445290237061,0.11700618394964625
+5,Prevalence,198,Zimbabwe,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.25375033827092586,0.34889045399095686,0.1767442062712207
+5,Prevalence,198,Zimbabwe,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2014,124.96202569173796,213.01957527338703,58.93211375346512
+5,Prevalence,198,Zimbabwe,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2014,244.67017807957475,381.36633533293485,139.4830746624507
+5,Prevalence,198,Zimbabwe,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2014,3206.8207777125713,5200.980938133663,1768.7497504888713
+5,Prevalence,198,Zimbabwe,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2014,4768.730603034794,7635.243636369903,2864.5011519689783
+5,Prevalence,198,Zimbabwe,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2014,2495.1903097334857,4662.459309376066,990.2878432152711
+5,Prevalence,198,Zimbabwe,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2014,4570.85228166138,7929.809206930135,2255.336807529859
+5,Prevalence,198,Zimbabwe,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,772.037937379242,1918.6189890072753,140.75159085844044
+5,Prevalence,198,Zimbabwe,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,2830.145890212754,4967.237623891054,1268.6252162376545
+5,Prevalence,198,Zimbabwe,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,3688.7536334570027,6230.682971788695,1823.712196083637
+5,Prevalence,198,Zimbabwe,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,5245.830400107257,8984.343756561928,2396.004894335733
+5,Prevalence,198,Zimbabwe,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2014,3997.18185488872,6750.069038674673,2105.059102086079
+5,Prevalence,198,Zimbabwe,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2014,8083.298726083796,14019.728843890369,3661.9934597284237
+5,Prevalence,198,Zimbabwe,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2014,3604.3129599886283,6563.215755014555,1428.288673673793
+5,Prevalence,198,Zimbabwe,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2014,4287.856594402602,9452.279787734316,795.6544676753698
+5,Prevalence,198,Zimbabwe,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2014,1623.5114435276405,4267.564365293677,371.33487697491887
+5,Prevalence,198,Zimbabwe,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2014,2382.182525403289,6963.029963252137,726.9351598162283
+5,Prevalence,198,Zimbabwe,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2014,949.9254902570342,2862.981950194744,375.3488030747765
+5,Prevalence,198,Zimbabwe,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2014,850.2306199027471,1698.5765662733384,495.40850434451255
+5,Prevalence,198,Zimbabwe,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2014,666.1609847733522,1848.6602052680566,324.9575770820303
+5,Prevalence,198,Zimbabwe,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2014,649.3017843497865,1446.7580892559542,361.9197608510791
+5,Prevalence,198,Zimbabwe,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,391.50087277929777,1113.5406456322266,210.28800136937858
+5,Prevalence,198,Zimbabwe,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,338.5005027923125,610.5521575759668,194.22985378029728
+5,Prevalence,198,Zimbabwe,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2014,313.11679231211315,1001.6070956226584,149.33813354426198
+5,Prevalence,198,Zimbabwe,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2014,282.974582026105,767.1651671919647,151.69493842726283
+5,Prevalence,198,Zimbabwe,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2014,314.1786817850926,1067.8230631847357,110.68582538173668
+5,Prevalence,198,Zimbabwe,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2014,208.05467281508027,560.0837340877829,117.45281737729903
+5,Prevalence,198,Zimbabwe,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2014,370.1500909835283,1053.8704420019249,78.65258960938041
+5,Prevalence,198,Zimbabwe,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2014,132.7962301057526,434.37667423211184,71.74780346238543
+5,Prevalence,198,Zimbabwe,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2014,216.72655011843125,583.8929446723513,43.75898698627503
+5,Prevalence,198,Zimbabwe,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2014,64.92863376334267,185.23176987014307,34.83877697853276
+5,Prevalence,198,Zimbabwe,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,366.83547277180304,655.3637443997751,133.09782046864814
+5,Prevalence,198,Zimbabwe,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,164.9620401393497,408.5697825016362,34.65988449569228
+5,Prevalence,198,Zimbabwe,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2014,306.5915501001127,507.62838985923446,157.2645655020725
+5,Prevalence,198,Zimbabwe,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2014,186.5939261339241,353.95886141390275,54.69293626471751
+5,Prevalence,198,Zimbabwe,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2014,291.91434219827954,400.79540876750673,205.74838982878035
+5,Prevalence,198,Zimbabwe,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2014,203.19240448069587,293.4237957994841,129.30582466060343
+5,Prevalence,198,Zimbabwe,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2014,23700.055640908697,29858.134739764257,19053.406709486135
+5,Prevalence,198,Zimbabwe,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2014,35495.37373292907,46203.52603952939,26768.398890446453
+5,Prevalence,198,Zimbabwe,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,3267.228247112728,5941.7442491585725,1384.6342113588628
+5,Prevalence,198,Zimbabwe,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,7400.998171874133,11600.664885013595,4189.670646873768
+5,Prevalence,198,Zimbabwe,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,14921.347239671673,20268.378468486415,10366.434449205584
+5,Prevalence,198,Zimbabwe,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,21837.201153041788,31322.67034010716,13766.592971522872
+5,Prevalence,198,Zimbabwe,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2014,1214.172115199165,2694.960783340503,513.8599806517427
+5,Prevalence,198,Zimbabwe,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2014,688.7541187102806,1431.0331363746689,444.50102059194575
+5,Prevalence,198,Zimbabwe,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2014,965.3413650701954,1492.919896615304,562.438349835735
+5,Prevalence,198,Zimbabwe,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2014,554.7483707539698,976.4912388060186,250.0875092755621
+5,Prevalence,198,Zimbabwe,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2014,125.14589614236026,213.2792330469769,59.05498193620179
+5,Prevalence,198,Zimbabwe,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2014,244.94131551409606,381.73055804583083,139.66682755413794
+5,Prevalence,198,Zimbabwe,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2014,192.96403901299104,271.9861493067418,131.5259467824342
+5,Prevalence,198,Zimbabwe,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2014,131.66703749642934,193.90595072671942,81.14876283313652
+5,Prevalence,198,Zimbabwe,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,77.56069253893462,104.54120027709762,55.877561787098735
+5,Prevalence,198,Zimbabwe,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,54.32280545493817,78.59007043730871,34.20461695208008
+5,Prevalence,198,Zimbabwe,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2014,18.30932004710594,26.459159544099094,12.220045059330829
+5,Prevalence,198,Zimbabwe,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2014,14.439707538912469,22.66459512824141,7.964917450031148
+5,Prevalence,198,Zimbabwe,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2014,13412.107086484033,18045.699822634597,9615.396305023665
+5,Prevalence,198,Zimbabwe,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2014,17834.873242398782,26689.630167615654,11011.714075919484
+5,Prevalence,198,Zimbabwe,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,6599.1949209676595,10343.887009477538,3868.2873977611684
+5,Prevalence,198,Zimbabwe,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,12414.670090423024,18416.79490800263,8090.563166040285
+5,Prevalence,198,Zimbabwe,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,1581.0075879709684,3101.1532699686286,770.4514552094746
+5,Prevalence,198,Zimbabwe,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,853.7161588496302,1669.8593196314564,527.0794463581151
+5,Prevalence,198,Zimbabwe,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.18387045062229368,0.25702409436354295,0.12501825160651167
+5,Prevalence,198,Zimbabwe,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.2711374345213784,0.3727712144119391,0.18879036458920603
+5,Prevalence,198,Zimbabwe,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2014,9414.925231595314,13647.563883803123,6166.567006753034
+5,Prevalence,198,Zimbabwe,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2014,9751.574516314988,17223.506547142857,4977.870019349926
+5,Prevalence,198,Zimbabwe,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2014,10287.948554424662,14561.393233889114,6819.272894365974
+5,Prevalence,198,Zimbabwe,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2014,17660.50049053028,24738.54135201848,12131.493392830836
+5,Prevalence,198,Zimbabwe,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2014,8457.973425724964,13097.65335004196,5088.998532044343
+5,Prevalence,198,Zimbabwe,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2014,16159.275016403808,24510.42084584009,9627.423437973992
+5,Prevalence,198,Zimbabwe,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2014,98.95030318528855,134.46342690474103,70.733822961242
+5,Prevalence,198,Zimbabwe,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2014,71.52536698426651,103.68828766672371,44.53192127842592
+5,Prevalence,198,Zimbabwe,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,4460.791570836244,7636.6070683396565,2257.570940204296
+5,Prevalence,198,Zimbabwe,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,8075.976290320011,12807.146631613454,4322.598770346914
+5,Prevalence,198,Zimbabwe,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2014,16006.50196936303,21403.1540178759,11392.595315579958
+5,Prevalence,198,Zimbabwe,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2014,24950.32162528065,35388.619863968,16796.79681147537
+5,Prevalence,198,Zimbabwe,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2014,5827.156983588418,9463.465341493435,3205.25199488266
+5,Prevalence,198,Zimbabwe,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2014,9584.52420021027,14707.0815026813,5897.0234669339225
+5,Prevalence,198,Zimbabwe,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,6955.98188056973,10495.380495638086,4099.662722867801
+5,Prevalence,198,Zimbabwe,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,12646.828571981388,18354.597701030172,8003.737748325463
+5,Prevalence,198,Zimbabwe,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2014,13863.685382119025,19421.83126675399,9119.932337313168
+5,Prevalence,198,Zimbabwe,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2014,20849.398865899693,30455.098516428552,12593.884519116118
+5,Prevalence,198,Zimbabwe,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,7235.411751325953,11651.734070741979,3940.091431943253
+5,Prevalence,198,Zimbabwe,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,8508.072026850738,15825.323082522573,3662.5879148076215
+5,Prevalence,198,Zimbabwe,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2014,1866.3966879572477,3294.385426642994,1031.1501052324315
+5,Prevalence,198,Zimbabwe,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2014,960.5279074381452,1612.0710321199588,574.7331335541796
+5,Prevalence,198,Zimbabwe,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2014,1260.3036639738752,2236.5695449774926,617.9515117038261
+5,Prevalence,198,Zimbabwe,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2014,549.280830142369,1023.8334647537174,254.1067066516464
+5,Prevalence,198,Zimbabwe,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,583.5620228902343,1137.402376306349,212.30834288889645
+5,Prevalence,198,Zimbabwe,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,229.89067390269238,529.9158170796677,76.90410066679763
+5,Prevalence,198,Zimbabwe,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2014,598.5058922983923,896.2537495056054,375.87558510750154
+5,Prevalence,198,Zimbabwe,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2014,389.78633061462,627.076919797581,193.87931764207053
+5,Prevalence,198,Zimbabwe,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2014,3.080290599247993,4.8715908480911105,1.6864109288971079
+5,Prevalence,198,Zimbabwe,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2014,2.7628539904158713,4.96315431707465,1.0413488985719646
+5,Prevalence,198,Zimbabwe,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2014,499.5555891131038,777.249329053101,298.3820172211666
+5,Prevalence,198,Zimbabwe,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2014,318.2609636303535,538.08105386688,138.4026705715794
+5,Prevalence,198,Zimbabwe,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2014,11545.710398526788,16463.099367225856,7438.5378421135465
+5,Prevalence,198,Zimbabwe,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2014,16874.34533496064,25747.335376710576,9935.269022461876
+5,Prevalence,198,Zimbabwe,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,1845.0070773108935,3259.455543393128,1014.1473542646108
+5,Prevalence,198,Zimbabwe,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,943.3253459088169,1595.3651907826986,562.0888774383785
+5,Prevalence,198,Zimbabwe,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,1530.828395525801,2512.824705753457,839.1864570843009
+5,Prevalence,198,Zimbabwe,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,735.2706730937366,1231.0950359363055,383.0846807218682
+5,Prevalence,198,Zimbabwe,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,1160.6783045422728,1827.1262702484553,659.5329593296818
+5,Prevalence,198,Zimbabwe,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,602.474442987984,1049.5170563571237,284.3319120926768
+5,Prevalence,198,Zimbabwe,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,943.9517544238416,1473.644820170733,545.5030952341216
+5,Prevalence,198,Zimbabwe,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,537.5458092246413,961.4357513806641,235.99781791129604
+5,Prevalence,198,Zimbabwe,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2014,595.4256016991443,894.3958589323868,373.05609278489203
+5,Prevalence,198,Zimbabwe,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2014,387.0234766242041,623.7021380142417,191.2390079267534
+5,Prevalence,198,Zimbabwe,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2014,22734.7142758385,28793.31693992194,18034.9290983598
+5,Prevalence,198,Zimbabwe,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2014,34940.6253621751,45926.05815144682,26184.33577996272
+5,Prevalence,191,Zambia,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,77.93427884374888,211.91783677395145,17.80045152406292
+5,Prevalence,191,Zambia,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,113.39722731422118,298.01631061567224,27.451808975317793
+5,Prevalence,191,Zambia,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.0002054178709454167,0.0005571915692198055,5.113422395534666e-05
+5,Prevalence,191,Zambia,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.00033808202074959515,0.0009090568748045222,8.60344319572249e-05
+5,Prevalence,191,Zambia,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.0029935116409799084,0.008080615150266979,0.0007469442473341246
+5,Prevalence,191,Zambia,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.004942299275090681,0.013376800830564922,0.0012607083657217354
+5,Prevalence,191,Zambia,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1.055033293193189,3.530632883229842,0.15132949010836186
+5,Prevalence,191,Zambia,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,4.088147602954668,12.102452364034294,0.8510091125294292
+5,Prevalence,191,Zambia,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,76.87604662104377,209.10035487543598,17.50251355792932
+5,Prevalence,191,Zambia,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,109.30379932997066,290.57729311527083,26.419334556550744
+5,Prevalence,191,Zambia,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,51.800065747547315,152.50910506113934,11.856139234006786
+5,Prevalence,191,Zambia,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,109.438222112177,306.34714306573784,27.65329136036619
+5,Prevalence,191,Zambia,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,8.415634026511093,28.38236436846389,1.5650536310778755
+5,Prevalence,191,Zambia,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,68.97223955044177,187.62397114602024,15.425596822980056
+5,Prevalence,191,Zambia,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,109.13027537799505,301.82459847175693,25.911329870051368
+5,Prevalence,191,Zambia,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,99.38988436879661,303.00156862444095,17.538797035148566
+5,Prevalence,191,Zambia,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,155.4942707640644,442.10869113148163,34.10282730175225
+5,Prevalence,191,Zambia,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,205.16200926907365,578.1827807541628,39.357690745732825
+5,Prevalence,191,Zambia,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,112.32194886093599,323.00173800701447,23.490889595405555
+5,Prevalence,191,Zambia,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,98.65675715960036,312.23091190283805,12.492891721192743
+5,Prevalence,191,Zambia,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,65.52859331377088,209.84425873330224,8.280168097723886
+5,Prevalence,191,Zambia,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,79.81603800006744,288.275104745787,8.748073649576762
+5,Prevalence,191,Zambia,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,31.595807735823524,118.89941168147536,4.383293148743964
+5,Prevalence,191,Zambia,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,22.166723673604785,82.91222027218441,4.177246212907635
+5,Prevalence,191,Zambia,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,30.976944631535844,111.4593740593634,3.900957931903988
+5,Prevalence,191,Zambia,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,19.418700044760012,70.9872714939635,3.2995463783203363
+5,Prevalence,191,Zambia,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,13.9156236153074,61.201069537612106,2.3663164538177135
+5,Prevalence,191,Zambia,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,7.554404365477497,25.78878991407857,1.5872887763140322
+5,Prevalence,191,Zambia,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,24.706583394073512,86.41220760632739,2.5392210042304413
+5,Prevalence,191,Zambia,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,12.804975453213409,50.458010946236236,1.6903376900102944
+5,Prevalence,191,Zambia,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,19.797225398674616,63.1070418738994,2.3203590561562883
+5,Prevalence,191,Zambia,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,17.32388795649592,62.196834324293874,1.7564232066231031
+5,Prevalence,191,Zambia,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,13.515987476557052,45.01563265444645,1.983074606841049
+5,Prevalence,191,Zambia,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,4.847661278813605,21.106223819131248,0.6594890052106439
+5,Prevalence,191,Zambia,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,4.703724552043712,16.632880307029005,0.4888989580214723
+5,Prevalence,191,Zambia,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1.0548317941338166,3.1043933069540337,0.23257520535585927
+5,Prevalence,191,Zambia,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,16.124847897069905,45.81037085408298,4.098521766956115
+5,Prevalence,191,Zambia,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,11.999162706981696,32.240006712987885,2.7722858002838415
+5,Prevalence,191,Zambia,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,14.996540508709913,43.82984867640623,3.5343469366595714
+5,Prevalence,191,Zambia,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,13.549682888866135,37.572797133962396,3.260334029554886
+5,Prevalence,191,Zambia,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,16.22312838753607,45.40535863164326,4.252949524773398
+5,Prevalence,191,Zambia,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,15.568181863198465,42.51052788408177,4.014752845612599
+5,Prevalence,191,Zambia,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,767.1814805319051,2122.263221660859,210.01589969298175
+5,Prevalence,191,Zambia,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,901.1205897999233,2442.951063983406,246.18543004322274
+5,Prevalence,191,Zambia,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,60.21569977405841,169.6402395620424,14.971170014712486
+5,Prevalence,191,Zambia,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,178.41046166261876,488.59465585740554,45.625094056790786
+5,Prevalence,191,Zambia,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,518.9634642994331,1456.2498630160094,139.71808451985532
+5,Prevalence,191,Zambia,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,532.1645168813802,1465.0599577592932,136.08001224442333
+5,Prevalence,191,Zambia,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,62.72352082134889,180.01618463922458,12.65154237482466
+5,Prevalence,191,Zambia,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,36.03135648265675,111.82277545721928,5.920493435310055
+5,Prevalence,191,Zambia,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,47.3445167933159,133.27836096427637,12.341744930861877
+5,Prevalence,191,Zambia,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,41.11702745904629,114.81549724707126,10.427118297123174
+5,Prevalence,191,Zambia,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1.0582322227051142,3.5361822737254838,0.15228262221356878
+5,Prevalence,191,Zambia,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,4.093427984250509,12.115134311152842,0.8539876893444375
+5,Prevalence,191,Zambia,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,10.833810061739296,30.363052517850885,2.732430745108695
+5,Prevalence,191,Zambia,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,10.071690979475484,27.326745454639568,2.507254765432075
+5,Prevalence,191,Zambia,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,4.113794679555079,10.98831625358094,1.0914353553199065
+5,Prevalence,191,Zambia,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,4.027153925478455,11.069532121430507,1.0512953450312723
+5,Prevalence,191,Zambia,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1.0927690708152686,3.067117978154654,0.29668369525540045
+5,Prevalence,191,Zambia,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1.2163960011750932,3.418976730247474,0.32952056188709644
+5,Prevalence,191,Zambia,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,519.9012265361027,1461.9165543415058,139.67852709364308
+5,Prevalence,191,Zambia,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,509.92301645428677,1458.5572209057543,130.97355247629324
+5,Prevalence,191,Zambia,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,138.14997861780728,378.22057803095475,35.826029629053956
+5,Prevalence,191,Zambia,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,291.8076889768399,778.5676589292708,80.54981248880023
+5,Prevalence,191,Zambia,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,78.84836871841878,218.2600608061152,18.17084976556427
+5,Prevalence,191,Zambia,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,48.03051918963845,147.35025701839962,9.940891839511684
+5,Prevalence,191,Zambia,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.003198929511925326,0.008637806719486782,0.0007986513119707485
+5,Prevalence,191,Zambia,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.0052803812958402765,0.014285857705369444,0.0013467427976789602
+5,Prevalence,191,Zambia,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,364.40695577203843,972.3293776175764,95.89193020793346
+5,Prevalence,191,Zambia,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,304.7610071852131,847.3433681017528,77.71372842926469
+5,Prevalence,191,Zambia,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,247.2802539958023,662.927881348749,65.97972667370362
+5,Prevalence,191,Zambia,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,391.1975733456366,1058.3085633847597,106.98721723459713
+5,Prevalence,191,Zambia,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,273.04018016857054,760.3670552437517,64.44986456692376
+5,Prevalence,191,Zambia,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,373.5241331883121,1050.6602476445291,90.39087592824276
+5,Prevalence,191,Zambia,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,5.389318325796779,14.4641303808214,1.4403738150655634
+5,Prevalence,191,Zambia,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,5.496490883722981,15.1370546907285,1.4421200254490616
+5,Prevalence,191,Zambia,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,117.54590940450613,319.9227708793422,27.818551714576575
+5,Prevalence,191,Zambia,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,168.3621239192384,467.59640550648976,39.54230172260932
+5,Prevalence,191,Zambia,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,552.0856817200176,1540.6715779835333,153.4647731717509
+5,Prevalence,191,Zambia,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,613.9417318850356,1691.2440503208354,163.6926014391667
+5,Prevalence,191,Zambia,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,129.73434459129618,352.32759698759133,31.853111501086516
+5,Prevalence,191,Zambia,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,222.8354494263982,606.0940585768425,55.819708837808456
+5,Prevalence,191,Zambia,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,169.34597515205343,454.2288477931651,45.916144157514694
+5,Prevalence,191,Zambia,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,277.8003460314154,759.8299708700026,75.5599599933964
+5,Prevalence,191,Zambia,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,474.0708960525899,1352.782474813408,120.20859820923722
+5,Prevalence,191,Zambia,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,505.1914124711428,1419.9410202633217,127.52282041837731
+5,Prevalence,191,Zambia,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,254.33891815737368,703.6476034466125,63.23945505720133
+5,Prevalence,191,Zambia,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,227.61262324351006,671.9873098141144,49.96268799274117
+5,Prevalence,191,Zambia,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,85.36145422059128,232.63300540898254,22.11951403367116
+5,Prevalence,191,Zambia,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,64.34340848848964,188.62663234150105,16.265267246357496
+5,Prevalence,191,Zambia,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,49.341100434380586,131.92159521555686,12.577053375129667
+5,Prevalence,191,Zambia,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,31.451338668795252,89.56656174533614,7.68884688241344
+5,Prevalence,191,Zambia,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,20.828572449113622,57.59007055037458,4.84111212036317
+5,Prevalence,191,Zambia,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,13.053994501115515,35.577749688214546,3.0331810404096196
+5,Prevalence,191,Zambia,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,31.219668896245985,86.81500091749639,7.794919972095332
+5,Prevalence,191,Zambia,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,29.117864752064598,81.80303006364845,7.3608061054127525
+5,Prevalence,191,Zambia,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.18275457542643042,0.4987988104267207,0.04766818705912513
+5,Prevalence,191,Zambia,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.25294095706943215,0.7141411257792842,0.06571582831704746
+5,Prevalence,191,Zambia,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,25.830350570449212,72.76010985636148,6.397677845816862
+5,Prevalence,191,Zambia,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,23.62137386834162,64.06067322081061,5.851024230571597
+5,Prevalence,191,Zambia,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,434.5397723155116,1238.412526839335,114.75490170853078
+5,Prevalence,191,Zambia,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,445.57960796579715,1253.0579487639786,108.50808452037134
+5,Prevalence,191,Zambia,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,84.08593057434958,230.03763907280918,21.757747215912005
+5,Prevalence,191,Zambia,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,62.87407153024511,185.49787012005604,15.762991415652124
+5,Prevalence,191,Zambia,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,64.28870517567496,170.42139416537572,16.630382972899522
+5,Prevalence,191,Zambia,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,45.550183573749194,131.86252104532338,11.797122507948535
+5,Prevalence,191,Zambia,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,50.77271769911791,146.26029670295347,13.648098488504802
+5,Prevalence,191,Zambia,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,40.70252229493559,112.40923442801245,10.358191064839724
+5,Prevalence,191,Zambia,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,46.0689931470742,130.75293188342658,12.039015712292528
+5,Prevalence,191,Zambia,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,39.64769050080178,110.64602641462479,10.12715813339502
+5,Prevalence,191,Zambia,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,31.03691432081955,86.33474348109145,7.731539855105014
+5,Prevalence,191,Zambia,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,28.864923794995168,80.74849962596257,7.289522135379156
+5,Prevalence,191,Zambia,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,719.8369637385894,1994.8664931461933,199.2044369360378
+5,Prevalence,191,Zambia,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,860.003562340877,2363.8883347479436,236.02853971907928
+5,Prevalence,191,Zambia,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.4131285976375141,1.1088011690767936,0.09621814724133351
+5,Prevalence,191,Zambia,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.5968257056526901,1.5760947750032948,0.14770002933528248
+5,Prevalence,191,Zambia,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.0778223901150184e-06,2.9412117267291584e-06,2.7164125798202323e-07
+5,Prevalence,191,Zambia,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.7736027056733982e-06,4.81952469772733e-06,4.530186638399038e-07
+5,Prevalence,191,Zambia,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.570775229774933e-05,4.2696763716388896e-05,4.011850753889033e-06
+5,Prevalence,191,Zambia,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.5922959927408507e-05,7.074980663053268e-05,6.613112475549055e-06
+5,Prevalence,191,Zambia,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.0055579829048565095,0.018583732445556826,0.0007998744747197866
+5,Prevalence,191,Zambia,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.021761732848432462,0.0633754704127388,0.004618014921690768
+5,Prevalence,191,Zambia,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.4075538291579697,1.0937348760897763,0.09466344670912961
+5,Prevalence,191,Zambia,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.5750362762416246,1.529106682311111,0.14194573171524655
+5,Prevalence,191,Zambia,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.2708658683721518,0.80418112380653,0.06305757769943977
+5,Prevalence,191,Zambia,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.5749547106606752,1.6114254703956226,0.14467301494135157
+5,Prevalence,191,Zambia,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.04300204945485892,0.1481450079706988,0.007571044150278519
+5,Prevalence,191,Zambia,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.36371125069175286,0.9887922997550994,0.08136175219239164
+5,Prevalence,191,Zambia,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.5744200900950208,1.603071462201452,0.13649605069080933
+5,Prevalence,191,Zambia,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.5337774440458098,1.5964842215899648,0.09484094482679446
+5,Prevalence,191,Zambia,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.8201840679321507,2.3337677315773013,0.17893298292516183
+5,Prevalence,191,Zambia,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.081883055094082,3.059801725193455,0.20670189106593484
+5,Prevalence,191,Zambia,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.5924510316008992,1.6992872188368284,0.12554201504965629
+5,Prevalence,191,Zambia,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.5214344353410898,1.6526052253845707,0.06716072579498854
+5,Prevalence,191,Zambia,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.34650797137260886,1.1135537045132728,0.04340223379640477
+5,Prevalence,191,Zambia,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.41906788561025304,1.5130600908875027,0.04597393863943346
+5,Prevalence,191,Zambia,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.16790835466881254,0.633505540836613,0.02270859233988226
+5,Prevalence,191,Zambia,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.11966581444091995,0.4510876385058339,0.021830549558516207
+5,Prevalence,191,Zambia,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.16404590631869304,0.5914313807048682,0.020294299831970276
+5,Prevalence,191,Zambia,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.10434275982231406,0.38231838429276194,0.017242146371960476
+5,Prevalence,191,Zambia,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.07335336712712406,0.32084371707821085,0.012649588100501312
+5,Prevalence,191,Zambia,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.04064533764890857,0.13974682060644147,0.008420825652338959
+5,Prevalence,191,Zambia,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.12977043507019753,0.4519078651281884,0.013703824807175193
+5,Prevalence,191,Zambia,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.06759508834255416,0.27162123871167254,0.00878714700328036
+5,Prevalence,191,Zambia,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.10370708760073066,0.33223235698747344,0.012414099725288844
+5,Prevalence,191,Zambia,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.09319644274869429,0.33690884726519815,0.009115451902236539
+5,Prevalence,191,Zambia,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.07282942834057136,0.24464981534909858,0.010157027847508202
+5,Prevalence,191,Zambia,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.025475713072191857,0.11149132788981106,0.0033770042503660494
+5,Prevalence,191,Zambia,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.025168591082159363,0.0902925990746356,0.0024790050498431303
+5,Prevalence,191,Zambia,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.005555754267362255,0.016308960519656805,0.0012350192611205563
+5,Prevalence,191,Zambia,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.08576677026426657,0.2401305327567501,0.021254132668577033
+5,Prevalence,191,Zambia,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.06352548993505559,0.1700082463468212,0.014408258098476187
+5,Prevalence,191,Zambia,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.07892256490832492,0.23057575658548154,0.018462825010100884
+5,Prevalence,191,Zambia,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.07196841208485202,0.1954726487530956,0.01690870295175863
+5,Prevalence,191,Zambia,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.08537600233803982,0.23981772394910178,0.022159868886383657
+5,Prevalence,191,Zambia,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.08303070573023762,0.22488485355242774,0.020749561335791512
+5,Prevalence,191,Zambia,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2014,4.047408184184125,11.206444826029612,1.1084323424279652
+5,Prevalence,191,Zambia,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2014,4.766656005189443,12.901270994911815,1.3048771701306048
+5,Prevalence,191,Zambia,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.31386791782701073,0.8912011551109111,0.07857920963669404
+5,Prevalence,191,Zambia,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.9386659613524281,2.566311277900211,0.23998445904743224
+5,Prevalence,191,Zambia,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.738870789115309,7.713435111486181,0.7420100771305191
+5,Prevalence,191,Zambia,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.8208167320033772,7.769690966567651,0.7182246519960603
+5,Prevalence,191,Zambia,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.33147554209365887,0.956952176899616,0.06624256605556246
+5,Prevalence,191,Zambia,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.19182299843080255,0.6027693779712943,0.030700303303319243
+5,Prevalence,191,Zambia,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.2500653375106313,0.7007309902201064,0.06445519098646008
+5,Prevalence,191,Zambia,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.2185246077501452,0.6034752200505276,0.054235454303798225
+5,Prevalence,191,Zambia,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.005574768479544374,0.01861293456919425,0.0008050214407493399
+5,Prevalence,191,Zambia,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.02178942941106555,0.06344225505068674,0.004633651628167218
+5,Prevalence,191,Zambia,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.056994031934958896,0.16087678856247717,0.014225936665333507
+5,Prevalence,191,Zambia,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.053681804563951455,0.14390749955427848,0.013010280380923857
+5,Prevalence,191,Zambia,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.021659328201937833,0.05813582692177223,0.005694767970428414
+5,Prevalence,191,Zambia,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.02149093952169313,0.058962092559801206,0.005520149466939178
+5,Prevalence,191,Zambia,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.005758605286853987,0.01617457990883868,0.001549559611761881
+5,Prevalence,191,Zambia,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.006503474777815457,0.018393747833578913,0.0017089086304908963
+5,Prevalence,191,Zambia,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.745991578624579,7.71814385478956,0.7387071251083335
+5,Prevalence,191,Zambia,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.697386894138515,7.7161824297763095,0.690037476388347
+5,Prevalence,191,Zambia,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.7269965154645248,1.9838359704290556,0.1915957351563431
+5,Prevalence,191,Zambia,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.5354916670051184,4.100083547495572,0.4293389590989468
+5,Prevalence,191,Zambia,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.41724231235792547,1.1512309011811064,0.09551587249758274
+5,Prevalence,191,Zambia,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.2553484883658582,0.7885034804592685,0.0516539430128971
+5,Prevalence,191,Zambia,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.678557468786435e-05,4.563799372650368e-05,4.288147081041309e-06
+5,Prevalence,191,Zambia,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.7696562633081906e-05,7.556933132826002e-05,7.066396636653479e-06
+5,Prevalence,191,Zambia,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.925807510692428,5.15539209330936,0.5108593903911536
+5,Prevalence,191,Zambia,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.6155038390444334,4.4943902463324115,0.4102702492311604
+5,Prevalence,191,Zambia,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.3014166055595455,3.4933402955048134,0.35000977443803966
+5,Prevalence,191,Zambia,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.0692691110509287,5.562515198263768,0.5707156010173001
+5,Prevalence,191,Zambia,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.4376062074820306,4.020699173818119,0.3379796009637736
+5,Prevalence,191,Zambia,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.9793717498316443,5.532007787107825,0.48252121113362
+5,Prevalence,191,Zambia,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.028381970403080926,0.07644329960541596,0.007481682000060378
+5,Prevalence,191,Zambia,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.029348901166286155,0.08042755341552081,0.00744149323489037
+5,Prevalence,191,Zambia,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.6174221395498797,1.6938309440594899,0.14556454591051102
+5,Prevalence,191,Zambia,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.8974886947375628,2.4565313834501494,0.21176060271432492
+5,Prevalence,191,Zambia,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.9116432736403652,8.14557839113578,0.811283222749739
+5,Prevalence,191,Zambia,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,3.252123071037684,8.95000559887938,0.8713741466109136
+5,Prevalence,191,Zambia,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.683994466009666,1.84852196001942,0.17208788125308497
+5,Prevalence,191,Zambia,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.1717804163133654,3.19800248699758,0.29563449369978234
+5,Prevalence,191,Zambia,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.8882880079220316,2.3904736470918215,0.24180693765992978
+5,Prevalence,191,Zambia,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.472443405398238,4.0087071944445825,0.3999789761223852
+5,Prevalence,191,Zambia,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.501471515669492,7.160090429511606,0.6394904800469078
+5,Prevalence,191,Zambia,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.6758286345321545,7.519269766621636,0.6771346946782008
+5,Prevalence,191,Zambia,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.3442666310881377,3.721780726009261,0.339778759906312
+5,Prevalence,191,Zambia,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.2051562328634855,3.5507078390611593,0.26375385149527625
+5,Prevalence,191,Zambia,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.4517704445340927,1.222243392743388,0.11496445807987356
+5,Prevalence,191,Zambia,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.34275251783839367,1.0069791055742456,0.08410959563995103
+5,Prevalence,191,Zambia,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.26268735459532216,0.7003799183951965,0.0646371502269743
+5,Prevalence,191,Zambia,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.16652536935946174,0.4727040539706436,0.039819431397901804
+5,Prevalence,191,Zambia,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.11093536134642594,0.30516578367291447,0.02508939175051473
+5,Prevalence,191,Zambia,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.06908124420241785,0.18739360550066034,0.01578673032269386
+5,Prevalence,191,Zambia,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.16429856724636474,0.4569124160695938,0.040786323328318295
+5,Prevalence,191,Zambia,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.15499911781508963,0.4297243731758651,0.038113491406455945
+5,Prevalence,191,Zambia,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.000964036914289102,0.002624643186893493,0.00024741898942456036
+5,Prevalence,191,Zambia,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.0013544868667775738,0.0037734801065050175,0.0003403751018319934
+5,Prevalence,191,Zambia,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.13591659684328383,0.3826392095133566,0.03346719024260763
+5,Prevalence,191,Zambia,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.12565021664880346,0.3338990996506203,0.030288204378505074
+5,Prevalence,191,Zambia,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.294221134090486,6.54538546270748,0.6097657326833527
+5,Prevalence,191,Zambia,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.3546343763001216,6.635013477160185,0.5724107448869332
+5,Prevalence,191,Zambia,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.4450478023329496,1.2085325856491216,0.11306507568188054
+5,Prevalence,191,Zambia,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.3348945561938006,0.9858917593970897,0.08180869357745968
+5,Prevalence,191,Zambia,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.34134071473221894,0.9000303012151899,0.0861307030977703
+5,Prevalence,191,Zambia,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.24169811344510628,0.6964967169725576,0.06128769872629029
+5,Prevalence,191,Zambia,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.26851128639164756,0.7692500817520025,0.07082611984489172
+5,Prevalence,191,Zambia,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.21622240037291446,0.591158735450508,0.05379866519598373
+5,Prevalence,191,Zambia,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.24334269530948818,0.6873701820996035,0.0628777859964812
+5,Prevalence,191,Zambia,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.21066664610555222,0.5815535501039173,0.052574294564491114
+5,Prevalence,191,Zambia,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.16333453033207565,0.45436586036025356,0.040456235992656714
+5,Prevalence,191,Zambia,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.15364463094831204,0.4240089032571362,0.03774417058645604
+5,Prevalence,191,Zambia,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,3.797342846673493,10.520069358028657,1.051780943137961
+5,Prevalence,191,Zambia,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,4.548131397439298,12.481894470084988,1.2553573451606992
+5,Prevalence,191,Zambia,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2014,2645.134426570437,4263.397913529077,1474.1868261737532
+5,Prevalence,191,Zambia,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2014,3984.6651964927437,6020.911014189094,2389.6021301321402
+5,Prevalence,191,Zambia,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.007363030090260272,0.010499141490106808,0.00494929257869508
+5,Prevalence,191,Zambia,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.011972563138595994,0.016775891766291177,0.008311006068448023
+5,Prevalence,191,Zambia,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.1072571776559429,0.15202279973266303,0.07265190686155085
+5,Prevalence,191,Zambia,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.17498772287576167,0.2441585627799799,0.12210526874601783
+5,Prevalence,191,Zambia,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2014,37.86751503504315,101.0549826931473,12.710738614141103
+5,Prevalence,191,Zambia,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2014,139.89708058610108,244.79109392496457,59.2641753167523
+5,Prevalence,191,Zambia,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2014,2607.152291327648,4175.479576836922,1461.65861012698
+5,Prevalence,191,Zambia,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2014,3844.581155620628,5861.319020675977,2303.136866264611
+5,Prevalence,191,Zambia,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2014,1955.7647225087937,3426.380542312017,890.0973971025518
+5,Prevalence,191,Zambia,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2014,4076.868253165434,6409.763649268862,2402.5410373393493
+5,Prevalence,191,Zambia,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,373.8332858819937,930.5282474709345,130.15523212124626
+5,Prevalence,191,Zambia,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,2585.496326044377,4324.743602043095,1305.5488685033495
+5,Prevalence,191,Zambia,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,3908.49985946095,6203.849031723944,2081.200048396554
+5,Prevalence,191,Zambia,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,3479.39498031037,6211.12978698236,1248.3484250518202
+5,Prevalence,191,Zambia,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2014,5599.319096100899,9028.127806309198,2996.762981866734
+5,Prevalence,191,Zambia,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2014,7861.193953370038,13762.385684203167,3453.7729374959613
+5,Prevalence,191,Zambia,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2014,4033.1745165803036,7087.8474951720245,1697.997987448326
+5,Prevalence,191,Zambia,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2014,3797.8132108413324,8461.710315789374,698.2529239111382
+5,Prevalence,191,Zambia,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2014,2681.271702866339,5608.543856748225,510.3417414584308
+5,Prevalence,191,Zambia,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2014,3368.2615996576856,7866.211802404505,658.7381252104044
+5,Prevalence,191,Zambia,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2014,1308.4042719246684,3417.780537164487,389.78382465490466
+5,Prevalence,191,Zambia,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2014,916.8801630908041,2667.3095889250153,427.5173802324116
+5,Prevalence,191,Zambia,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2014,1330.4699071890143,3683.223479102712,371.4674508562158
+5,Prevalence,191,Zambia,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2014,843.8987826457095,2664.103952840239,334.11895719682684
+5,Prevalence,191,Zambia,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,573.5058427479091,1937.6924912605114,230.75022933007594
+5,Prevalence,191,Zambia,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,311.7782863847762,892.6486961398014,169.14407310575334
+5,Prevalence,191,Zambia,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2014,1019.7535038881744,2487.8600140714716,207.94618443233983
+5,Prevalence,191,Zambia,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2014,557.9515006915162,1726.263744544597,162.96239764145926
+5,Prevalence,191,Zambia,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2014,790.3665733886014,1713.2088902051605,152.71885814963147
+5,Prevalence,191,Zambia,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2014,720.0607365065869,1640.0089796475988,130.48222967399082
+5,Prevalence,191,Zambia,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2014,535.2127574600776,1070.9064786437868,128.3335961784745
+5,Prevalence,191,Zambia,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2014,201.41929232255237,578.3588649693274,56.49600131372329
+5,Prevalence,191,Zambia,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2014,193.34016600973962,435.9698887794269,36.876248452204884
+5,Prevalence,191,Zambia,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2014,44.16419516373204,90.86926531248932,22.118560285708817
+5,Prevalence,191,Zambia,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,626.9938191292521,939.6787669570281,328.0372708580858
+5,Prevalence,191,Zambia,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,480.6421421829269,797.805121684557,223.55916201071423
+5,Prevalence,191,Zambia,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2014,577.9985443758816,861.8195391876943,338.046903247951
+5,Prevalence,191,Zambia,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2014,531.6278930155265,828.1152190352332,309.9459932527449
+5,Prevalence,191,Zambia,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2014,583.3681948124882,772.0812942033245,431.02857412559575
+5,Prevalence,191,Zambia,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2014,564.0349739670668,756.0228688638416,409.7649967333623
+5,Prevalence,191,Zambia,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2014,28736.411190895524,34384.97622720213,23948.26998431578
+5,Prevalence,191,Zambia,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2014,34326.151485853174,43040.339593462995,27178.989773519526
+5,Prevalence,191,Zambia,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,2329.5980083907875,3961.058618549503,1097.1030215044002
+5,Prevalence,191,Zambia,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,6662.3645792098105,10051.119161147017,4151.932100600649
+5,Prevalence,191,Zambia,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,19434.645196870086,25651.357140729215,13927.948149770322
+5,Prevalence,191,Zambia,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,20579.220976300716,28832.228690538774,13053.523215499898
+5,Prevalence,191,Zambia,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2014,2538.673000746593,4624.478499694233,1021.6381344431568
+5,Prevalence,191,Zambia,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2014,1523.5957246843875,3318.8630581026564,494.2531391835235
+5,Prevalence,191,Zambia,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2014,1788.3605583176222,2433.860095693648,1175.728769939732
+5,Prevalence,191,Zambia,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2014,1576.3050091655198,2273.004544611416,1037.1707021927934
+5,Prevalence,191,Zambia,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2014,37.98213524278934,101.22833923008521,12.789607397822596
+5,Prevalence,191,Zambia,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2014,140.0840408721154,245.06163180313618,59.396903888628096
+5,Prevalence,191,Zambia,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2014,389.976955981978,527.4938865084532,280.1031023037367
+5,Prevalence,191,Zambia,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2014,365.7034258521162,503.05920586904176,256.8526989238111
+5,Prevalence,191,Zambia,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,147.6624479298712,193.45410074459195,109.82930428010788
+5,Prevalence,191,Zambia,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,145.37928003679247,195.79922047318564,107.6492418031105
+5,Prevalence,191,Zambia,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2014,39.18352972270407,53.029829113086464,27.469640832737074
+5,Prevalence,191,Zambia,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2014,43.83853972234668,60.170484235863015,30.65673314671519
+5,Prevalence,191,Zambia,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2014,19853.17889647335,25239.707983581768,15101.68132102795
+5,Prevalence,191,Zambia,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2014,20199.72672984025,28083.720749793367,13653.238728147655
+5,Prevalence,191,Zambia,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,4974.732434961224,7666.264101601743,2937.6497984252383
+5,Prevalence,191,Zambia,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2014,10647.029775702555,14984.635442801944,7290.10897709211
+5,Prevalence,191,Zambia,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,3165.666819875845,5268.172534295663,1573.7669880428768
+5,Prevalence,191,Zambia,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,2004.2378668673143,3849.3414299843876,913.1443779078855
+5,Prevalence,191,Zambia,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.11462020774620317,0.16257355336564328,0.07760119944024593
+5,Prevalence,191,Zambia,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2014,0.1869602860143577,0.26088368128521894,0.13042960391011987
+5,Prevalence,191,Zambia,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2014,14253.85980037245,19200.960661891542,9975.405127105922
+5,Prevalence,191,Zambia,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2014,12338.532776470214,18988.458418529033,7293.830199901934
+5,Prevalence,191,Zambia,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2014,8883.232294422176,12216.39139508767,5934.242559970615
+5,Prevalence,191,Zambia,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2014,14126.424756012924,19248.98373159325,9771.119318272418
+5,Prevalence,191,Zambia,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2014,9881.652241443842,14817.290195461846,6325.349903117664
+5,Prevalence,191,Zambia,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2014,13926.085259724785,21403.735763240576,8168.402979108387
+5,Prevalence,191,Zambia,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2014,193.39123883051042,255.25820529274642,142.9376095024401
+5,Prevalence,191,Zambia,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2014,198.3315481149504,264.07342316503235,146.00233752325803
+5,Prevalence,191,Zambia,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,4282.333145342944,6746.12178728924,2288.0987202173287
+5,Prevalence,191,Zambia,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,6064.891306354747,9476.756172214518,3074.1061203404015
+5,Prevalence,191,Zambia,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2014,20828.23198664025,27006.90443105944,15656.406773466691
+5,Prevalence,191,Zambia,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2014,23722.66880303661,32220.11559304355,16238.249187511694
+5,Prevalence,191,Zambia,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2014,4600.899149079231,7200.250212965398,2662.886288229
+5,Prevalence,191,Zambia,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2014,8061.533449658178,11828.261000845576,5141.969430297424
+5,Prevalence,191,Zambia,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,6238.097867851738,9021.59648079745,3910.5757710494113
+5,Prevalence,191,Zambia,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2014,10141.759559520182,14695.021848913488,6508.152717181716
+5,Prevalence,191,Zambia,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2014,17530.669446933163,23893.584364052334,11988.724457748891
+5,Prevalence,191,Zambia,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2014,19423.543907270232,27921.98649403163,11782.716507121077
+5,Prevalence,191,Zambia,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,9926.826241308234,14917.261259104502,5679.952807694105
+5,Prevalence,191,Zambia,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2014,9238.632042620307,16086.51019018317,4138.093635351568
+5,Prevalence,191,Zambia,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2014,3307.280055176041,4767.815300521827,2128.292921365604
+5,Prevalence,191,Zambia,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2014,2541.949233158391,3818.0636280067874,1558.3425477747558
+5,Prevalence,191,Zambia,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2014,1933.5452869749506,2802.7434251758846,1194.9150664918475
+5,Prevalence,191,Zambia,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2014,1257.8535226847378,1891.1071791369359,728.3560806208853
+5,Prevalence,191,Zambia,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,820.3339851389917,1315.6819466300199,410.6496087328096
+5,Prevalence,191,Zambia,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2014,524.8063373466589,864.1720459855394,249.33967524307607
+5,Prevalence,191,Zambia,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2014,1161.3667391883698,1606.2450395359251,779.9587765653938
+5,Prevalence,191,Zambia,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2014,1095.6628669825932,1568.5476900831027,739.845232587076
+5,Prevalence,191,Zambia,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2014,6.545261177935159,9.714050339203753,4.020670087555593
+5,Prevalence,191,Zambia,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2014,9.113728355811292,13.494905031585196,5.448904793783213
+5,Prevalence,191,Zambia,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2014,967.9755003578596,1385.2145934840926,613.9235308304335
+5,Prevalence,191,Zambia,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2014,897.3313188676427,1327.5746874428505,569.9665994081507
+5,Prevalence,191,Zambia,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2014,16545.89884129731,22312.41997198986,11567.800375143517
+5,Prevalence,191,Zambia,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2014,17657.77749668186,25448.013712594744,10812.589725235795
+5,Prevalence,191,Zambia,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,3261.551264275402,4713.132879157284,2084.1066962894115
+5,Prevalence,191,Zambia,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,2488.996965080233,3765.49314146122,1508.2323434334476
+5,Prevalence,191,Zambia,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,2471.1846908867997,3387.746481733198,1658.645096797117
+5,Prevalence,191,Zambia,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,1768.9362285736463,2511.7512118336267,1136.220073605821
+5,Prevalence,191,Zambia,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,1935.9719334267224,2651.048504013657,1267.9391591887934
+5,Prevalence,191,Zambia,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,1567.5169362510942,2250.7141714031295,1012.0942880948543
+5,Prevalence,191,Zambia,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,1742.631767416983,2376.9153036142216,1142.405314398117
+5,Prevalence,191,Zambia,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2014,1523.3527410873621,2200.374913182946,984.4278498268086
+5,Prevalence,191,Zambia,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2014,1154.8214780104347,1600.4043542446063,773.2800295041195
+5,Prevalence,191,Zambia,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2014,1086.5491386267818,1562.4383159448546,729.2478658731926
+5,Prevalence,191,Zambia,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2014,26948.050632577902,32771.640946985666,22110.77031947104
+5,Prevalence,191,Zambia,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2014,32749.846476687653,41652.31965671923,25444.23610834279
+5,Prevalence,198,Zimbabwe,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,177.2610585644651,607.0013296992229,23.718792158239907
+5,Prevalence,198,Zimbabwe,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,265.7772823078784,863.3949249556255,36.398365740027906
+5,Prevalence,198,Zimbabwe,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.0006312427286758009,0.002047957664113452,8.877467448882604e-05
+5,Prevalence,198,Zimbabwe,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.0009266401697503493,0.0029187733703953003,0.00012808747366471713
+5,Prevalence,198,Zimbabwe,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.009177099864114704,0.029908583529868773,0.0012898498043769256
+5,Prevalence,198,Zimbabwe,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.013520010000619937,0.042579446792337015,0.0018614839167088494
+5,Prevalence,198,Zimbabwe,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,6.6483629812568195,23.314954160194237,0.8564329300770386
+5,Prevalence,198,Zimbabwe,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,12.998016474667526,41.92818913606222,1.7975868758942324
+5,Prevalence,198,Zimbabwe,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,170.6028872406155,581.7018525289946,23.103707226320886
+5,Prevalence,198,Zimbabwe,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,252.76481918304052,825.4173396825361,33.72676558542874
+5,Prevalence,198,Zimbabwe,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,128.00364095794757,481.484529393587,14.680462637022062
+5,Prevalence,198,Zimbabwe,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,236.4107858544678,824.0667792025992,29.238828625547526
+5,Prevalence,198,Zimbabwe,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,39.05150316817455,158.5120986720566,2.9548734694963006
+5,Prevalence,198,Zimbabwe,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,147.5573797198268,545.857200117607,18.244442463351852
+5,Prevalence,198,Zimbabwe,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,192.93270666540064,654.4846708942223,22.323822409875717
+5,Prevalence,198,Zimbabwe,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,267.36331286647925,920.6198034639772,30.909605511601
+5,Prevalence,198,Zimbabwe,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,193.1693536585975,680.9691238205311,23.74581162134656
+5,Prevalence,198,Zimbabwe,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,364.23371395057893,1335.5678669098768,42.909246384307544
+5,Prevalence,198,Zimbabwe,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,161.4659559161794,607.6809644089332,18.322634840317708
+5,Prevalence,198,Zimbabwe,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,189.2193822126659,791.8582946709298,14.331307922151368
+5,Prevalence,198,Zimbabwe,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,77.27493434483314,354.13628044371836,5.3816357191837305
+5,Prevalence,198,Zimbabwe,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,111.77842596897766,521.2804377667766,8.701143931328367
+5,Prevalence,198,Zimbabwe,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,42.5297496146689,189.44530074048419,4.232535633973151
+5,Prevalence,198,Zimbabwe,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,38.419502332401954,145.5896484890852,4.612972108168487
+5,Prevalence,198,Zimbabwe,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,29.701978355407547,111.60029344390732,3.492535494997177
+5,Prevalence,198,Zimbabwe,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,28.95448757301007,101.89568609078968,3.6418436982377966
+5,Prevalence,198,Zimbabwe,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,17.388045326270536,66.7545072471627,2.047330392762086
+5,Prevalence,198,Zimbabwe,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,15.054670822820844,52.19613891146286,1.8808710837786224
+5,Prevalence,198,Zimbabwe,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,14.260923867338825,57.96177660609895,1.4616398248520421
+5,Prevalence,198,Zimbabwe,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,12.466723104667597,46.866656432623884,1.4872145630303033
+5,Prevalence,198,Zimbabwe,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,14.60768863056579,68.34657647909697,1.2364332755708027
+5,Prevalence,198,Zimbabwe,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,9.101493736676437,31.626897490685803,1.0767675144403857
+5,Prevalence,198,Zimbabwe,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,18.388353038514666,87.58245015579165,1.3701355952698264
+5,Prevalence,198,Zimbabwe,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,5.984783123116155,25.019472824738614,0.702453054821668
+5,Prevalence,198,Zimbabwe,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,10.936766083383993,46.75964471519717,0.7504795666578403
+5,Prevalence,198,Zimbabwe,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,2.9027553171403495,11.113487354146832,0.36707311657637487
+5,Prevalence,198,Zimbabwe,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,18.103615976687212,62.77974005265731,2.0821298300150057
+5,Prevalence,198,Zimbabwe,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,7.467484568975247,28.969176240047442,0.49671069005583807
+5,Prevalence,198,Zimbabwe,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,15.06778725161964,48.93568781769527,1.958314118770629
+5,Prevalence,198,Zimbabwe,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,8.44300714967347,28.656275000558118,0.8705437983837823
+5,Prevalence,198,Zimbabwe,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,15.464605855586383,50.89785478501968,2.043613968673892
+5,Prevalence,198,Zimbabwe,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,10.500617982044941,34.02096860896803,1.397941400731326
+5,Prevalence,198,Zimbabwe,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1165.6086672756417,3986.804363010948,156.72725428990248
+5,Prevalence,198,Zimbabwe,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1721.6358085914019,5946.310716570854,234.98372217082212
+5,Prevalence,198,Zimbabwe,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,167.05514412612212,615.5991879972787,21.282228087217305
+5,Prevalence,198,Zimbabwe,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,383.96816557429463,1397.7503713245344,52.99501001480166
+5,Prevalence,198,Zimbabwe,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,714.4627238813576,2453.296194361105,97.20395572849998
+5,Prevalence,198,Zimbabwe,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1015.0234957269346,3629.0943440376886,130.44723468528173
+5,Prevalence,198,Zimbabwe,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,58.19373161980327,224.76123132258178,6.48547651260585
+5,Prevalence,198,Zimbabwe,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,30.455755281600542,108.34910386841453,4.131348803213046
+5,Prevalence,198,Zimbabwe,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,48.63600908389323,157.92697910543862,6.530899172477386
+5,Prevalence,198,Zimbabwe,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,26.41110970069366,87.70117010893972,3.200349412169647
+5,Prevalence,198,Zimbabwe,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,6.6581713238496105,23.349257989190974,0.8576738634855392
+5,Prevalence,198,Zimbabwe,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,13.012463124837897,41.96963590317314,1.799783418656836
+5,Prevalence,198,Zimbabwe,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,10.216065102381439,32.99865137866646,1.3527047794516074
+5,Prevalence,198,Zimbabwe,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,6.792481695041461,22.128661542134427,0.8705315160370362
+5,Prevalence,198,Zimbabwe,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,4.11506039673355,13.935208633300856,0.5453607127279763
+5,Prevalence,198,Zimbabwe,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,2.8142197445971187,9.179086033180052,0.36274259664534175
+5,Prevalence,198,Zimbabwe,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.9706056756971805,3.3097544920737847,0.1274437358037463
+5,Prevalence,198,Zimbabwe,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.7501753349255039,2.556867169681716,0.09667188651867514
+5,Prevalence,198,Zimbabwe,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,628.3597579196536,2109.375790714675,88.23887630742082
+5,Prevalence,198,Zimbabwe,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,804.5270478427495,2856.5697918382757,105.41159656631024
+5,Prevalence,198,Zimbabwe,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,344.3162026905872,1167.931881400941,47.245160926293906
+5,Prevalence,198,Zimbabwe,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,649.745447882173,2209.9850822051367,92.32045874307195
+5,Prevalence,198,Zimbabwe,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,76.29734759649048,275.1943073258989,9.25498122243307
+5,Prevalence,198,Zimbabwe,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,37.92323985057579,129.48979536357422,4.614743240483366
+5,Prevalence,198,Zimbabwe,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.009808342592790505,0.03195704229997332,0.0013786244788657515
+5,Prevalence,198,Zimbabwe,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.014446650170370286,0.04549822016273232,0.001989214005610658
+5,Prevalence,198,Zimbabwe,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,435.190404261056,1520.9747199048159,57.44378552846848
+5,Prevalence,198,Zimbabwe,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,440.2933338921706,1547.362240260722,50.364128235786254
+5,Prevalence,198,Zimbabwe,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,537.2489093559878,1859.7817376822445,72.85980756755059
+5,Prevalence,198,Zimbabwe,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,917.1087607486523,3151.176557639414,123.633401142561
+5,Prevalence,198,Zimbabwe,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,425.15356349217274,1486.3717781083822,51.75703626212849
+5,Prevalence,198,Zimbabwe,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,779.1544065368851,2846.621836013072,103.16209207826117
+5,Prevalence,198,Zimbabwe,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,5.248540753204943,17.460794516506933,0.7056204404451938
+5,Prevalence,198,Zimbabwe,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,3.708136287003482,12.131643731686538,0.4843469420487765
+5,Prevalence,198,Zimbabwe,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,231.9842098335752,829.6300049931596,26.681612772438115
+5,Prevalence,198,Zimbabwe,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,414.92069258630613,1400.6765892832298,52.94494425052592
+5,Prevalence,198,Zimbabwe,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,767.775150916871,2580.8766337574925,104.20870053906603
+5,Prevalence,198,Zimbabwe,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1175.0475985514288,4139.224106258967,154.99221294889085
+5,Prevalence,198,Zimbabwe,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,305.2646995224127,1073.2250510474528,40.927483892561646
+5,Prevalence,198,Zimbabwe,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,502.1880681623462,1709.950484535296,69.26524053459099
+5,Prevalence,198,Zimbabwe,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,359.9878507915227,1235.150624794586,43.31426441351057
+5,Prevalence,198,Zimbabwe,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,651.3314784407739,2297.0988265639885,85.19403425750399
+5,Prevalence,198,Zimbabwe,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,667.3727001996797,2314.3858972267662,88.76880708733889
+5,Prevalence,198,Zimbabwe,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,971.0143373311038,3508.994305660787,121.52685529586222
+5,Prevalence,198,Zimbabwe,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,328.3606635573596,1113.4626142238994,41.6891250519532
+5,Prevalence,198,Zimbabwe,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,383.4264689098764,1384.3722367503776,43.059559964926976
+5,Prevalence,198,Zimbabwe,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,92.5688168363577,317.88840917030467,11.665354314544453
+5,Prevalence,198,Zimbabwe,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,44.4001418776266,143.25666097839255,5.591789485657157
+5,Prevalence,198,Zimbabwe,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,62.49652235020552,211.5219745236923,7.728988670894442
+5,Prevalence,198,Zimbabwe,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,24.79803015890522,81.4958662323179,2.960506247954002
+5,Prevalence,198,Zimbabwe,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,29.040382060071206,100.28807586254196,3.276038493984727
+5,Prevalence,198,Zimbabwe,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,10.370239886115597,39.79092338897203,1.0176085233855456
+5,Prevalence,198,Zimbabwe,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,30.532393107206023,100.759937169888,4.146880087925599
+5,Prevalence,198,Zimbabwe,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,18.94362513171841,61.64628307346355,2.381379180178616
+5,Prevalence,198,Zimbabwe,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.16287468077421238,0.5689036713738557,0.020638051498984036
+5,Prevalence,198,Zimbabwe,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,0.14374120748085858,0.5133247186181288,0.014947321905132113
+5,Prevalence,198,Zimbabwe,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,25.28385235400108,82.94624076917334,3.227471864514875
+5,Prevalence,198,Zimbabwe,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,15.235488844714931,49.7699825933182,1.9335967672466263
+5,Prevalence,198,Zimbabwe,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,535.7909410832959,1836.419652951343,74.1674782404981
+5,Prevalence,198,Zimbabwe,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,760.126905965123,2745.859053472723,99.05755075466244
+5,Prevalence,198,Zimbabwe,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,91.43533647988629,313.38832272047415,11.54519831068908
+5,Prevalence,198,Zimbabwe,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,43.506225335220236,140.68569773223763,5.450213687290192
+5,Prevalence,198,Zimbabwe,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,76.8276478493205,249.43691029417366,10.215542598476782
+5,Prevalence,198,Zimbabwe,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,34.404731598543805,108.30652788097007,4.314328803863365
+5,Prevalence,198,Zimbabwe,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,58.43929481080583,190.00718214689837,7.370627701796286
+5,Prevalence,198,Zimbabwe,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,28.419948475427645,93.47254536079109,3.5486973055170083
+5,Prevalence,198,Zimbabwe,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,47.50252872742184,155.03639690443129,6.333910541830471
+5,Prevalence,198,Zimbabwe,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,25.517193158287295,84.80961752115496,3.1238616644289428
+5,Prevalence,198,Zimbabwe,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,30.369518426431814,100.19904440250264,4.113064411889545
+5,Prevalence,198,Zimbabwe,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,18.799883924237555,61.45960442531794,2.3665092667664505
+5,Prevalence,198,Zimbabwe,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1116.9726581917482,3824.9167462491737,148.43920700390447
+5,Prevalence,198,Zimbabwe,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2014,1695.2246988907082,5866.9365771760895,230.1854400214406
+5,Prevalence,198,Zimbabwe,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.9344346803141034,3.2016107953117094,0.12616645608502172
+5,Prevalence,198,Zimbabwe,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.3998798131460013,4.538971293390968,0.1907051753773648
+5,Prevalence,198,Zimbabwe,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,3.31135898028897e-06,1.0728175477830423e-05,4.6684618204840353e-07
+5,Prevalence,198,Zimbabwe,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,4.80575026402953e-06,1.516035900209954e-05,6.659628632249089e-07
+5,Prevalence,198,Zimbabwe,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,4.813732150468178e-05,0.00015577230302527632,6.8402365669224325e-06
+5,Prevalence,198,Zimbabwe,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,7.013552757121608e-05,0.00022062009080264387,9.722323029985313e-06
+5,Prevalence,198,Zimbabwe,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.03516023074354,0.1224629289579003,0.004599422429547218
+5,Prevalence,198,Zimbabwe,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.06837953272146796,0.2212482868988927,0.009438093615670618
+5,Prevalence,198,Zimbabwe,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.8992230008900784,3.076414837209389,0.121414821842771
+5,Prevalence,198,Zimbabwe,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.3314253391466977,4.3460356037589705,0.17715755372319558
+5,Prevalence,198,Zimbabwe,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.6732921193364444,2.5307012464782934,0.07696479472957828
+5,Prevalence,198,Zimbabwe,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.246672215007034,4.350080176064422,0.15276990255520156
+5,Prevalence,198,Zimbabwe,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.20399336414501795,0.8267793781246023,0.015358026786104522
+5,Prevalence,198,Zimbabwe,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.782202010476395,2.8757544772537518,0.09653862093051381
+5,Prevalence,198,Zimbabwe,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.020085131285034,3.445824826962587,0.11727473353060319
+5,Prevalence,198,Zimbabwe,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.407013497206676,4.842887089900533,0.16437041439514305
+5,Prevalence,198,Zimbabwe,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.011360902425666,3.586130180678211,0.1249773859775094
+5,Prevalence,198,Zimbabwe,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.9175469451527984,6.997974720485703,0.22761858075074307
+5,Prevalence,198,Zimbabwe,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.8485750137873199,3.192153326875002,0.09645535486376194
+5,Prevalence,198,Zimbabwe,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.9933755591075265,4.097498541838979,0.07456014543303972
+5,Prevalence,198,Zimbabwe,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.4067465395146172,1.8591388685156232,0.0280396213918351
+5,Prevalence,198,Zimbabwe,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.5882149391623602,2.69507417016943,0.04523620473039112
+5,Prevalence,198,Zimbabwe,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.22254484036822414,1.0018346210727667,0.02222654745640138
+5,Prevalence,198,Zimbabwe,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.19803405541296587,0.740786956211949,0.023718382331202326
+5,Prevalence,198,Zimbabwe,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.15511099056972347,0.5746827608256261,0.01863510931888117
+5,Prevalence,198,Zimbabwe,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.149818300884098,0.5234980791194848,0.01896093988036593
+5,Prevalence,198,Zimbabwe,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.09179193869452183,0.35263039912799865,0.010850353491511937
+5,Prevalence,198,Zimbabwe,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.07768691309062879,0.26836357314387604,0.009849158934393643
+5,Prevalence,198,Zimbabwe,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.07497424300232304,0.3047605658851354,0.0077062126109295
+5,Prevalence,198,Zimbabwe,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.06453270453937324,0.24026707965407676,0.007912007709628974
+5,Prevalence,198,Zimbabwe,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.07748337351274091,0.3681764295605627,0.006470236948586407
+5,Prevalence,198,Zimbabwe,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.047044466365219154,0.1630604706316331,0.005644174220529812
+5,Prevalence,198,Zimbabwe,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.09937452045469897,0.4734861690969396,0.007403774391269813
+5,Prevalence,198,Zimbabwe,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.030995809586416984,0.12934295150080752,0.0036932473316545643
+5,Prevalence,198,Zimbabwe,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.058885359117579195,0.25214939578881956,0.004028204934862059
+5,Prevalence,198,Zimbabwe,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.015376423153593267,0.05865480873747888,0.001957222903111986
+5,Prevalence,198,Zimbabwe,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.094999089958072,0.32929104361998923,0.01105510416016516
+5,Prevalence,198,Zimbabwe,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.038571784151920696,0.1499545285895174,0.002570887208278259
+5,Prevalence,198,Zimbabwe,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.07932579955859609,0.25896121618026674,0.010271909573164052
+5,Prevalence,198,Zimbabwe,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.04347424731005523,0.1477162989324961,0.004495006964150584
+5,Prevalence,198,Zimbabwe,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.08206743485944787,0.27034759842707945,0.010788219574489222
+5,Prevalence,198,Zimbabwe,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.053912425132528766,0.17505558750269007,0.0071757370340931135
+5,Prevalence,198,Zimbabwe,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2014,6.135045340904131,21.063091775010914,0.824298392441313
+5,Prevalence,198,Zimbabwe,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2014,9.054352108885592,31.20456786595069,1.2348885840291015
+5,Prevalence,198,Zimbabwe,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.8772854834814625,3.2620983823069087,0.1111714625529151
+5,Prevalence,198,Zimbabwe,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.028874225483429,7.365387543090218,0.27825709191272036
+5,Prevalence,198,Zimbabwe,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,3.7562153566451064,12.922966015295323,0.5125654381110538
+5,Prevalence,198,Zimbabwe,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,5.331690210017054,19.09055470165338,0.6861339716467753
+5,Prevalence,198,Zimbabwe,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.31071749608734206,1.2075687220682705,0.03435957262516871
+5,Prevalence,198,Zimbabwe,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.15794940364460264,0.5598844399481407,0.02166927652375693
+5,Prevalence,198,Zimbabwe,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.256392324376116,0.8363021080210621,0.03430835236749157
+5,Prevalence,198,Zimbabwe,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.1359584565945047,0.451429132962984,0.016429574470914705
+5,Prevalence,198,Zimbabwe,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.03521167942402496,0.12264071338751915,0.004607677068682288
+5,Prevalence,198,Zimbabwe,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.06845447399930321,0.22144924099503246,0.009449564825542473
+5,Prevalence,198,Zimbabwe,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.05413202199881433,0.1750933717216546,0.0071125296706045305
+5,Prevalence,198,Zimbabwe,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.03487869869087062,0.11372656240059362,0.004482976809647462
+5,Prevalence,198,Zimbabwe,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.02188288267001183,0.07405512523912976,0.0028738577315498854
+5,Prevalence,198,Zimbabwe,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.014444950848316944,0.04741548846337092,0.0018615576250743256
+5,Prevalence,198,Zimbabwe,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.005180721278142371,0.0177749743157283,0.00066837644249067
+5,Prevalence,198,Zimbabwe,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.003850688142300518,0.013102872798256456,0.0004965696009701993
+5,Prevalence,198,Zimbabwe,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,3.3032400458235305,11.136444880371025,0.4614842662822704
+5,Prevalence,198,Zimbabwe,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,4.218584573049486,14.99055896976037,0.5535027412450645
+5,Prevalence,198,Zimbabwe,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.811720163795566,6.196103342577324,0.24803247028757816
+5,Prevalence,198,Zimbabwe,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,3.4287540386294295,11.729072266195516,0.4869969787171604
+5,Prevalence,198,Zimbabwe,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.40571658604541416,1.467764875872272,0.049000405122588096
+5,Prevalence,198,Zimbabwe,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.19652118779652336,0.6659187723471772,0.02417233430179696
+5,Prevalence,198,Zimbabwe,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,5.1448680484970746e-05,0.00016650355574908036,7.3070132826632075e-06
+5,Prevalence,198,Zimbabwe,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2014,7.494127783524561e-05,0.0002357804498047434,1.038828589321022e-05
+5,Prevalence,198,Zimbabwe,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.291879143397865,7.989835909292532,0.30184537617568524
+5,Prevalence,198,Zimbabwe,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.301037627896687,8.005684582425648,0.2614577703438412
+5,Prevalence,198,Zimbabwe,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.8318052950806,9.794190462013356,0.38380988068871263
+5,Prevalence,198,Zimbabwe,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,4.835767535836107,16.59250305174247,0.6516329053244642
+5,Prevalence,198,Zimbabwe,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.235439397855718,7.899800170717968,0.27323358130574016
+5,Prevalence,198,Zimbabwe,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,4.106762452835869,14.97805835887214,0.5436190827570916
+5,Prevalence,198,Zimbabwe,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.027935412860633554,0.09363612710313408,0.003771706598166584
+5,Prevalence,198,Zimbabwe,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.019033726441658152,0.06252299936884242,0.002500586867705642
+5,Prevalence,198,Zimbabwe,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.224078495430052,4.3171095682981155,0.14062813324579065
+5,Prevalence,198,Zimbabwe,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.1892155076830715,7.44583035165954,0.27916662628546096
+5,Prevalence,198,Zimbabwe,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,4.0351829637924475,13.591691432478036,0.5451546327607656
+5,Prevalence,198,Zimbabwe,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,6.178424925032823,21.65146808446089,0.8134976802931337
+5,Prevalence,198,Zimbabwe,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.6077267996505478,5.66270107663675,0.21470368850349983
+5,Prevalence,198,Zimbabwe,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.6465520281530353,9.019208516018091,0.36527887603966247
+5,Prevalence,198,Zimbabwe,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.8973706147664962,6.507481112807318,0.22752549040881648
+5,Prevalence,198,Zimbabwe,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,3.435887722690105,12.092349082700506,0.4490597461536545
+5,Prevalence,198,Zimbabwe,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,3.509312427380862,12.21943274430756,0.4653663978117742
+5,Prevalence,198,Zimbabwe,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,5.104184996042328,18.395942690902217,0.6401911577600979
+5,Prevalence,198,Zimbabwe,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,1.7247693229344068,5.8611746373544795,0.2190762128950647
+5,Prevalence,198,Zimbabwe,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.0071297676575797,7.1549270853889375,0.223319942217732
+5,Prevalence,198,Zimbabwe,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.49213557746113507,1.698515447008564,0.06204370302554735
+5,Prevalence,198,Zimbabwe,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.22937515569973407,0.7395124114926415,0.029107284837700746
+5,Prevalence,198,Zimbabwe,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.33258476908894624,1.131516920967394,0.040729237770840775
+5,Prevalence,198,Zimbabwe,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.12841826420198618,0.42371823897396754,0.0154202533971509
+5,Prevalence,198,Zimbabwe,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.15388444907565116,0.5289587760036162,0.01738588790865428
+5,Prevalence,198,Zimbabwe,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.05394820730551396,0.20680557706712027,0.005300059738171533
+5,Prevalence,198,Zimbabwe,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.16139323441804396,0.5333046681833741,0.021831369640490265
+5,Prevalence,198,Zimbabwe,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.097386672442584,0.31564905426501966,0.012322691179508452
+5,Prevalence,198,Zimbabwe,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.0008718089124793492,0.003009254145558799,0.00010757525253750715
+5,Prevalence,198,Zimbabwe,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.0007380874510406923,0.0026301801096889244,7.65895831044626e-05
+5,Prevalence,198,Zimbabwe,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.13345782155741043,0.4378905030406802,0.016968203397040565
+5,Prevalence,198,Zimbabwe,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.07835294600092585,0.25462186369392054,0.009994126474912388
+5,Prevalence,198,Zimbabwe,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,2.8111044683623954,9.650369301867627,0.38949495809784723
+5,Prevalence,198,Zimbabwe,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,3.9892094173497514,14.412589036591779,0.5182276286744729
+5,Prevalence,198,Zimbabwe,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.4860830472705134,1.6753688827034383,0.06140680968109992
+5,Prevalence,198,Zimbabwe,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.22478638010639287,0.7263057704004616,0.02837836005390742
+5,Prevalence,198,Zimbabwe,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.4085996737577724,1.3354928062285325,0.05436814160688165
+5,Prevalence,198,Zimbabwe,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.17774191374117373,0.5641922685866378,0.022345014262298554
+5,Prevalence,198,Zimbabwe,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.3092251533030734,1.0000495028882914,0.03892011471592692
+5,Prevalence,198,Zimbabwe,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.14674610415475675,0.48239532392112333,0.018386001726042125
+5,Prevalence,198,Zimbabwe,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.2503397941854943,0.8208809117985263,0.033268575866127005
+5,Prevalence,198,Zimbabwe,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.13136968100116347,0.43658209286354815,0.016105436099771147
+5,Prevalence,198,Zimbabwe,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.1605214255055646,0.5303104937603496,0.0216518707220744
+5,Prevalence,198,Zimbabwe,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,0.09664858499154332,0.31468626075685024,0.012246336833647259
+5,Prevalence,198,Zimbabwe,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,5.878653016528014,20.20325455241155,0.7784590939033644
+5,Prevalence,198,Zimbabwe,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2014,8.918393652291089,30.795622274558873,1.213007062076666

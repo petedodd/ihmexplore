@@ -1,0 +1,343 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,6,China,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2010,12555.446161174497,17149.257542710147,9028.710456409564
+5,Prevalence,6,China,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2010,11024.386410956486,15159.047471925574,7915.646080018654
+5,Prevalence,6,China,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2010,0.10776960417722131,0.19510250208574365,0.051386896738382086
+5,Prevalence,6,China,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2010,0.10834763203071293,0.20311009603689123,0.05135037516284051
+5,Prevalence,6,China,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2010,4.0138271614453735,6.136877184598926,2.424430563314968
+5,Prevalence,6,China,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2010,4.208348784449228,6.278233143077759,2.6199958932622582
+5,Prevalence,6,China,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2010,863.3847993952882,1189.1176393003175,608.6391595332487
+5,Prevalence,6,China,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2010,847.2779040686779,1162.789601530657,596.0653840923926
+5,Prevalence,6,China,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2010,11687.939765013587,16168.606363167422,8349.20650808257
+5,Prevalence,6,China,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2010,10172.79181047133,14241.339739308123,7245.675721290146
+5,Prevalence,6,China,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2010,12993.03888110772,20193.492448510682,8564.993997681051
+5,Prevalence,6,China,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2010,10376.863037071958,16336.604269817943,6641.268895156812
+5,Prevalence,6,China,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2010,5218.242085573915,7958.6774341729715,3153.8992464107246
+5,Prevalence,6,China,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2010,6572.765538446175,10065.708372727282,4036.4306573331496
+5,Prevalence,6,China,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2010,9825.84380604785,13810.578814138413,6695.592157746968
+5,Prevalence,6,China,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2010,10779.499489123202,15187.197819678764,7181.976213891132
+5,Prevalence,6,China,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2010,91992.37204426758,128418.83477238835,63102.79775506268
+5,Prevalence,6,China,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2010,58601.293144888165,83478.4294039808,38806.137830446634
+5,Prevalence,6,China,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2010,60566.709687921466,89350.8626056122,39696.14127404778
+5,Prevalence,6,China,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2010,41387.4004060853,62844.210456660745,26970.633942806144
+5,Prevalence,6,China,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2010,48542.42929076514,68337.07234995454,31565.60522149683
+5,Prevalence,6,China,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2010,30360.25237282864,44213.0156158275,18892.651487818992
+5,Prevalence,6,China,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2010,76341.33499309237,106357.10589492245,50111.10954365281
+5,Prevalence,6,China,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2010,29720.585693858608,42405.376452371,19564.713837837648
+5,Prevalence,6,China,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2010,60676.86811001316,84679.93849310988,40657.81144444642
+5,Prevalence,6,China,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2010,32563.042108968668,47495.75947353228,20902.3804860125
+5,Prevalence,6,China,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2010,68614.48941211717,98010.61124216476,45348.93952306979
+5,Prevalence,6,China,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2010,26798.21858316683,39824.53257323168,16903.63585506363
+5,Prevalence,6,China,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2010,55001.19246699436,75088.78453506819,37157.884592974784
+5,Prevalence,6,China,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2010,21588.076222117346,30037.28781823843,13959.535780755989
+5,Prevalence,6,China,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2010,78720.88500779819,109353.1413067388,53750.530121088625
+5,Prevalence,6,China,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2010,24721.128809687856,34843.99863642289,16146.371032095725
+5,Prevalence,6,China,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2010,78782.91738406215,109277.73908567269,55119.25660441145
+5,Prevalence,6,China,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2010,27469.25885365507,38918.35147245094,18545.159855588685
+5,Prevalence,6,China,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2010,76844.38134460329,105272.5791660603,53377.79039156216
+5,Prevalence,6,China,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2010,26360.452913823465,37092.66299509886,17833.324444822912
+5,Prevalence,6,China,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2010,130199.27741808533,174568.31314279969,92304.28174760766
+5,Prevalence,6,China,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2010,47802.27336378814,65396.143955986896,33162.68349308148
+5,Prevalence,6,China,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2010,85013.1822298042,113894.54235052144,60643.66019077322
+5,Prevalence,6,China,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2010,33000.678055934004,45084.298708830516,23109.24507073484
+5,Prevalence,6,China,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2010,45009.38223982515,55957.547201025016,35129.98939964417
+5,Prevalence,6,China,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2010,23448.47500973632,29512.779320344853,18081.628242095932
+5,Prevalence,6,China,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2010,996897.9925632535,1125471.429870744,889277.0094921978
+5,Prevalence,6,China,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2010,462574.6500141363,525110.9294964898,412402.22591280966
+5,Prevalence,6,China,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2010,18211.280966681636,26394.736613604662,12884.410047545647
+5,Prevalence,6,China,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2010,16949.62857551813,24666.260376997718,11814.435175151832
+5,Prevalence,6,China,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2010,416560.0473442247,495876.51300686394,349666.1667070219
+5,Prevalence,6,China,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2010,230210.29179891944,276039.0958890231,189519.30677050952
+5,Prevalence,6,China,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2010,289349.37620345806,356236.601582665,235368.8081899353
+5,Prevalence,6,China,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2010,100138.91679928375,125526.41902155915,80112.919799725
+5,Prevalence,6,China,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2010,260221.84188771466,326657.0893671154,200405.65706048976
+5,Prevalence,6,China,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2010,104251.42642945847,131489.60752594183,80749.49068134768
+5,Prevalence,6,China,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2010,867.5063961609106,1195.3546703549491,611.1150106869309
+5,Prevalence,6,China,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2010,851.5946004851578,1169.2951348339425,598.9220465912566
+5,Prevalence,6,China,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2010,34930.96911548718,43980.98904965877,26706.498245461044
+5,Prevalence,6,China,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2010,15697.180000880875,20244.651388761093,11868.652990329805
+5,Prevalence,6,China,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2010,8926.729379420809,11029.698477729293,7116.579705947556
+5,Prevalence,6,China,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2010,5832.822048014863,7318.4921080958065,4579.3310927330285
+5,Prevalence,6,China,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2010,1030.9610270117353,1316.3856739357757,784.3993044706045
+5,Prevalence,6,China,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2010,1636.7260021618076,2091.7943548122644,1230.2005349510287
+5,Prevalence,6,China,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2010,956305.4216293496,1085754.8558447629,851499.1527441993
+5,Prevalence,6,China,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2010,423821.1355385384,483272.39629331866,375036.95228229614
+5,Prevalence,6,China,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2010,30766.727127856135,41762.19783633675,23202.94706027706
+5,Prevalence,6,China,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2010,27974.01498647462,38171.76912629991,21168.977925106807
+5,Prevalence,6,China,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2010,419548.65362154343,507836.88984518655,345716.4090740148
+5,Prevalence,6,China,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2010,147941.19016307188,179862.26100721656,120558.82722075841
+5,Prevalence,6,China,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2010,4.121596765622594,6.323351153880709,2.474529526803529
+5,Prevalence,6,China,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2010,4.316696416479941,6.477410900206923,2.6777218426796816
+5,Prevalence,6,China,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2010,864313.0495850821,982617.1707493827,763909.2974970933
+5,Prevalence,6,China,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2010,365219.84239365027,417860.4534844839,320661.9734353993
+5,Prevalence,6,China,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2010,40592.570933903975,52544.70553242151,32204.091998672546
+5,Prevalence,6,China,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2010,38753.51447559782,50163.310690136466,30758.132625381717
+5,Prevalence,6,China,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2010,107036.45793588935,146276.4157245106,76830.05538613872
+5,Prevalence,6,China,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2010,75953.55817245755,103143.17036382717,54160.489849643454
+5,Prevalence,6,China,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2010,10078.413124337963,12457.254440553008,8035.143819606472
+5,Prevalence,6,China,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2010,7751.295008855447,9670.184696883864,6056.964263808128
+5,Prevalence,6,China,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2010,15044.085891621762,20042.266626258173,10769.058820263415
+5,Prevalence,6,China,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2010,17352.265027569378,22829.193507053773,12305.11087299678
+5,Prevalence,6,China,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2010,476779.481896793,558419.5026801733,406037.79889221373
+5,Prevalence,6,China,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2010,258371.13355948293,305736.2367267395,216506.45150742756
+5,Prevalence,6,China,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2010,25548.48504228222,35626.11975901615,18420.23943598474
+5,Prevalence,6,China,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2010,21401.249448028444,30447.210596439247,15408.490578639181
+5,Prevalence,6,China,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2010,28037.124772729483,37639.96354605247,21299.21532351549
+5,Prevalence,6,China,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2010,27729.128064641332,36423.98486494919,20847.226889022266
+5,Prevalence,6,China,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2010,287268.68982209446,350100.6238958455,231233.76799554992
+5,Prevalence,6,China,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2010,170849.03110678392,211067.55939181385,135581.09745292054
+5,Prevalence,6,China,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2010,314741.8314939093,385053.5495854132,260304.06956143954
+5,Prevalence,6,China,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2010,160829.49916490805,197421.48540554757,128900.6292485707
+5,Prevalence,6,China,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2010,494570.0256241783,585255.2601383118,413574.0833616526
+5,Prevalence,6,China,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2010,182802.26700662487,218103.25934072887,151645.08174311797
+5,Prevalence,6,China,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2010,370839.758376555,449177.96356070315,300322.33988813387
+5,Prevalence,6,China,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2010,134632.66318720067,165060.05743412641,107905.3856210732
+5,Prevalence,6,China,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2010,207043.65876268863,266774.507553483,155390.7527012547
+5,Prevalence,6,China,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2010,74162.72627761161,97583.50416875932,55016.44032177011
+5,Prevalence,6,China,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2010,130022.56446962933,168378.9330027026,97177.9984910403
+5,Prevalence,6,China,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2010,56449.153065670325,73274.59672308511,42050.52067447197
+5,Prevalence,6,China,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2010,120.7227179054191,166.194741025042,83.78750389618197
+5,Prevalence,6,China,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2010,281.74695867877637,383.8963449757956,193.4001716024368
+5,Prevalence,6,China,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2010,119944.15134529136,156520.39738818185,88873.58248021059
+5,Prevalence,6,China,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2010,48697.85805681488,64910.85633725489,35036.21015426532
+5,Prevalence,6,China,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2010,461735.39600517123,541339.7154098505,392486.0455941128
+5,Prevalence,6,China,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2010,241018.86853191358,287007.50751734176,199557.4484270879
+5,Prevalence,6,China,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2010,493418.34187926113,584216.8441564012,412572.83137165755
+5,Prevalence,6,China,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2010,180883.7940457843,216053.6449802635,149702.75613231907
+5,Prevalence,6,China,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2010,414697.4568714629,498494.68221766385,338300.7165913752
+5,Prevalence,6,China,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2010,156162.66523609642,189595.55443828646,127256.30548223629
+5,Prevalence,6,China,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2010,335914.5394874008,412144.01861547696,268806.7478951141
+5,Prevalence,6,China,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2010,128693.40638244135,159068.06018976797,102135.95199757327
+5,Prevalence,6,China,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2010,259070.1581427975,325441.0609107758,198865.3308280796
+5,Prevalence,6,China,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2010,102332.95346861788,129356.65459243725,78916.53833252333
+5,Prevalence,6,China,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2010,129901.84175172391,168259.3090299848,97078.69015300878
+5,Prevalence,6,China,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2010,56167.40610699155,73027.78416660037,41769.79971859546
+5,Prevalence,6,China,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2010,736676.1506755388,835598.1519676753,649703.3149337586
+5,Prevalence,6,China,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2010,358323.22358467773,410572.161811898,314028.99260694464
+5,Prevalence,6,China,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,706.7572667111801,1280.155697025344,357.33594014908186
+5,Prevalence,6,China,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,617.014121571449,1191.6056360931939,305.1810485397403
+5,Prevalence,6,China,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,0.006237973399600099,0.013069489905559086,0.0021734225713402984
+5,Prevalence,6,China,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,0.0062375106926277745,0.013524561042322374,0.0022070433126620322
+5,Prevalence,6,China,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,0.22759911831969754,0.4248089737308162,0.1006070176011516
+5,Prevalence,6,China,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,0.23685397480791323,0.4618058643960442,0.10625211138579783
+5,Prevalence,6,China,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,48.636423219487725,87.5201205866043,24.63547154521742
+5,Prevalence,6,China,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,47.484540920490815,87.88200797141684,24.003505339582535
+5,Prevalence,6,China,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,657.8870063999731,1209.177572605611,331.5872230643836
+5,Prevalence,6,China,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,569.2864891654576,1107.9781184849835,282.2348762703451
+5,Prevalence,6,China,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,730.3197587591071,1429.896776460422,346.63974282148416
+5,Prevalence,6,China,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,580.3412171593172,1205.0252549792144,255.03685761861635
+5,Prevalence,6,China,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,292.10391002560283,559.908867453301,131.79395778825847
+5,Prevalence,6,China,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,366.1559957610108,752.0985980446451,158.27380195918516
+5,Prevalence,6,China,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,554.0475893897249,1009.9347946306756,269.70455894477413
+5,Prevalence,6,China,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,604.600252581059,1154.4818038799174,284.77162348016907
+5,Prevalence,6,China,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,5188.464156755463,9406.373940490239,2639.99484550117
+5,Prevalence,6,China,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,3295.2498809234908,6415.060104220742,1576.3145661026977
+5,Prevalence,6,China,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,3389.6846773678885,6304.92090124172,1737.2040267760788
+5,Prevalence,6,China,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,2310.5871630998076,4308.030868877534,1156.7979380424765
+5,Prevalence,6,China,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,2713.6811327070272,5000.738385033467,1310.22685182274
+5,Prevalence,6,China,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1695.7429600721014,3244.4068177695817,780.3241164459915
+5,Prevalence,6,China,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,4252.702241215823,7607.470636181688,2110.6569517084927
+5,Prevalence,6,China,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1660.4823002286237,3228.1862902562348,789.5829849239303
+5,Prevalence,6,China,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,3376.4194556397974,6234.386230388255,1799.814252331323
+5,Prevalence,6,China,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1813.349861270154,3602.783495149313,893.2452873997313
+5,Prevalence,6,China,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,3840.754211681726,6922.20151240673,1882.2586757865574
+5,Prevalence,6,China,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1498.5397620217313,2894.0780713281283,697.970801813127
+5,Prevalence,6,China,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,3097.6191467632175,5632.943056673358,1530.976831567698
+5,Prevalence,6,China,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1210.9788026457297,2266.100086347756,571.4154299608659
+5,Prevalence,6,China,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,4414.946962333523,7790.419134771635,2172.7728991139315
+5,Prevalence,6,China,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1383.122942369904,2514.4689516031503,675.8975949711964
+5,Prevalence,6,China,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,4413.099494317862,7928.5892239191835,2210.1003439241185
+5,Prevalence,6,China,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1532.3264198988668,2798.432208626854,730.2549946266025
+5,Prevalence,6,China,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,4312.654497161035,7425.79761643315,2180.785489577539
+5,Prevalence,6,China,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1473.6572953008902,2728.7982077702954,696.813931271642
+5,Prevalence,6,China,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,7334.405507922994,13694.567385433667,3833.876888464809
+5,Prevalence,6,China,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,2685.927423574217,5129.383822494421,1309.9447763470987
+5,Prevalence,6,China,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,4766.133586246607,8473.954624789822,2532.4291566307684
+5,Prevalence,6,China,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1849.9949467297672,3369.435210914791,916.1914276830419
+5,Prevalence,6,China,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,2544.550526402706,4431.347218487389,1423.3742256475616
+5,Prevalence,6,China,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1317.8484477280174,2260.1420843526525,705.639540754573
+5,Prevalence,6,China,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,55928.34412140128,94502.02837352006,32082.243383654237
+5,Prevalence,6,China,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,25895.91979293614,45174.37934379405,14181.917669625878
+5,Prevalence,6,China,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1022.4236687847101,1875.9827670032444,502.276578375067
+5,Prevalence,6,China,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,946.4972129203279,1861.1879291718499,453.2130592519593
+5,Prevalence,6,China,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,23315.75346475745,39908.43814979307,13383.918545369386
+5,Prevalence,6,China,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,12878.552180196966,23155.267048840036,7030.581943845345
+5,Prevalence,6,China,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,16238.320100575636,27415.570936180535,8939.909619805185
+5,Prevalence,6,China,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,5600.08546021539,9640.199879018308,2914.2214747321664
+5,Prevalence,6,China,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,14645.08962057231,26107.761963865876,7920.1490699984915
+5,Prevalence,6,China,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,5853.770818032001,10456.658098721628,3085.2337470477314
+5,Prevalence,6,China,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,48.870260311207026,87.88279450998667,24.728378339716773
+5,Prevalence,6,China,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,47.72763240599136,88.37798005054796,24.108872437650845
+5,Prevalence,6,China,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1975.2568320831106,3455.757748406622,1102.8394612602062
+5,Prevalence,6,China,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,882.8083410782509,1545.917680323201,465.1412953946296
+5,Prevalence,6,China,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,505.39176473918263,864.9939261628209,279.17016689745014
+5,Prevalence,6,China,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,328.0879332218235,557.3341643778853,179.74026358606974
+5,Prevalence,6,China,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,57.44346378666739,96.90805356987771,30.167094278530037
+5,Prevalence,6,China,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,91.46681568951496,157.06697720503686,48.15103013983451
+5,Prevalence,6,China,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,53645.11559651567,90007.50310195461,30790.846519620485
+5,Prevalence,6,China,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,23727.808205863297,41522.25987201315,13142.191095740825
+5,Prevalence,6,China,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1729.18093549589,3182.0183061491684,909.3754025143479
+5,Prevalence,6,China,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1563.511334491777,2959.55229343125,786.3857314298716
+5,Prevalence,6,China,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,23572.725608498633,40563.71885860933,12971.802982296082
+5,Prevalence,6,China,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,8286.012883789606,14529.185843081268,4300.739283410397
+5,Prevalence,6,China,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,0.23383709171929762,0.43709738093941153,0.10271478955459808
+5,Prevalence,6,China,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,0.24309148550054105,0.4722755950548251,0.10788885780693416
+5,Prevalence,6,China,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,48456.65143976021,80871.65569748932,27744.554525599902
+5,Prevalence,6,China,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,20432.55832493981,35596.00091451776,11189.577375970823
+5,Prevalence,6,China,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,2283.2285248856147,4066.9413182574976,1209.043494251583
+5,Prevalence,6,China,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,2168.111587072836,4112.799634242453,1131.7831068230805
+5,Prevalence,6,China,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,6034.61565617079,10903.871074191526,3109.8687697146615
+5,Prevalence,6,China,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,4266.006129265561,8129.179688608156,2193.1635394093755
+5,Prevalence,6,China,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,569.293694319596,972.5853321292193,313.351527993712
+5,Prevalence,6,China,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,435.04010664976647,748.078750215761,234.76586468210579
+5,Prevalence,6,China,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,846.1514994153279,1539.5970235332115,440.56505081980833
+5,Prevalence,6,China,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,970.7562483420699,1902.9565849102216,483.98806292846945
+5,Prevalence,6,China,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,26705.47652154627,45882.42075406926,15488.403163735265
+5,Prevalence,6,China,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,14455.686978603708,25826.403909476907,7831.834615436047
+5,Prevalence,6,China,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1437.077025470287,2692.4062265289467,738.9880896488147
+5,Prevalence,6,China,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1197.355338730766,2347.97325436742,592.1530233478223
+5,Prevalence,6,China,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1576.471258174435,2859.776993645256,825.7954085143973
+5,Prevalence,6,China,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,1551.097465501387,2955.3066653646756,774.4103584979223
+5,Prevalence,6,China,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,16098.579797435928,28305.07305026056,8923.353144079298
+5,Prevalence,6,China,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,9566.662556905083,17444.68618264884,5137.9865701004555
+5,Prevalence,6,China,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,17573.241718612262,30944.584291823478,10104.635067286972
+5,Prevalence,6,China,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,8978.702046692417,16262.929951975515,4864.388539953555
+5,Prevalence,6,China,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,27785.790574384726,47120.87925859873,15376.706586982962
+5,Prevalence,6,China,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,10242.877475601663,17632.101179207988,5429.606196385451
+5,Prevalence,6,China,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,20826.293085648496,35177.46867385013,11395.86649263012
+5,Prevalence,6,China,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,7541.9060855037405,13346.999962241296,4032.536826547079
+5,Prevalence,6,China,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,11647.060005084028,20344.395129791843,6149.390903333453
+5,Prevalence,6,China,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,4159.584718875107,7653.187120339775,2125.1744970101304
+5,Prevalence,6,China,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,7310.684112649315,12723.197163410276,4011.4730195820152
+5,Prevalence,6,China,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,3167.8433944577846,5575.933854461374,1675.6016760377709
+5,Prevalence,6,China,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,6.458465793746053,11.39428286282994,3.374858209943316
+5,Prevalence,6,China,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,15.485357738427977,27.32570188652821,7.973193995509368
+5,Prevalence,6,China,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,6741.390418329717,11796.29624023572,3660.3660848870386
+5,Prevalence,6,China,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,2732.803287808018,4930.968557929957,1412.2282033928657
+5,Prevalence,6,China,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,25859.325022130943,44481.203208765306,14946.095178865336
+5,Prevalence,6,China,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,13484.930730261638,24031.515206838885,7258.949958377758
+5,Prevalence,6,China,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,27721.888644804312,47026.90051095034,15340.691821102957
+5,Prevalence,6,China,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,10135.925302173719,17474.738008911012,5362.742434586503
+5,Prevalence,6,China,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,23306.94168247079,39346.90223672567,12911.788881779315
+5,Prevalence,6,China,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,8752.802359803814,15256.342223622596,4713.885057309521
+5,Prevalence,6,China,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,18893.84218815293,32983.679793896714,10373.080072935247
+5,Prevalence,6,China,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,7220.475939904949,12617.804597930488,3867.9009550208298
+5,Prevalence,6,China,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,14581.187690991896,26017.330073342648,7881.700241099651
+5,Prevalence,6,China,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,5746.818644604058,10273.020112285689,3021.2546213526093
+5,Prevalence,6,China,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,7304.225646855567,12717.34732166045,4007.74980067355
+5,Prevalence,6,China,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,3152.3580367193563,5553.755594100328,1667.6627593710741
+5,Prevalence,6,China,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,41283.25450082898,69443.27754396535,23366.250295338104
+5,Prevalence,6,China,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2010,20042.148974904136,35318.29469281745,11032.668339447206
+5,Prevalence,6,China,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,41.6942893660788,75.5389638608491,21.091774447994275
+5,Prevalence,6,China,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,36.399727242647145,70.2646298215688,18.012465363336453
+5,Prevalence,6,China,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2010,0.0003680060879440295,0.000771340897897735,0.00012816020795455006
+5,Prevalence,6,China,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2010,0.00036797840060483173,0.0007979415679424034,0.00013018513939338591
+5,Prevalence,6,China,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2010,0.013427614047017755,0.025061178970999024,0.00593347980902321
+5,Prevalence,6,China,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2010,0.013972898151379589,0.027223140264297403,0.006262429900662709
+5,Prevalence,6,China,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2010,2.869251290041625,5.159399423259291,1.4533985008173502
+5,Prevalence,6,China,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2010,2.8012988386042235,5.186144761059309,1.4166816688992343
+5,Prevalence,6,China,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,38.81124245590221,71.34214876933261,19.55993895070615
+5,Prevalence,6,China,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,33.584087527490944,65.3912326272208,16.66088152707264
+5,Prevalence,6,China,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,43.08481224900161,84.26394607102799,20.44228381475633
+5,Prevalence,6,China,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,34.237108867417525,71.0683006814918,15.032055454026608
+5,Prevalence,6,China,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,17.231842602493213,33.04155804136158,7.778763070803634
+5,Prevalence,6,China,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,21.60095667065189,44.38439972358738,9.341337625114837
+5,Prevalence,6,China,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,32.68503713680641,59.53005981540791,15.921705995672559
+5,Prevalence,6,China,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,35.66766645996526,68.1182840210997,16.801192243589362
+5,Prevalence,6,China,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,306.09097769022327,555.0212940477667,155.87973848042614
+5,Prevalence,6,China,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,194.40165105924106,378.3786252234455,92.95834539743802
+5,Prevalence,6,China,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,199.97201842191262,371.781906239743,102.50656149595123
+5,Prevalence,6,China,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,136.30992002468196,254.0423716848203,68.20313891466954
+5,Prevalence,6,China,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,160.08899510180927,295.02395950340247,77.27296419358535
+5,Prevalence,6,China,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,100.03861415594784,191.33214316421427,46.02578963518519
+5,Prevalence,6,China,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,250.88658778757826,449.1826612255823,124.47663607734067
+5,Prevalence,6,China,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,97.96033908862879,190.38479982263718,46.5545936678488
+5,Prevalence,6,China,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,199.18659028555444,367.82244423522764,106.16357366926815
+5,Prevalence,6,China,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,106.97901176691565,212.61062587765244,52.68413600331423
+5,Prevalence,6,China,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,226.58580695586483,408.169951407461,111.06531431814686
+5,Prevalence,6,China,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,88.40512729281362,170.71424209528413,41.17822399956609
+5,Prevalence,6,China,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,182.741487575362,332.3587740159131,90.31898626917022
+5,Prevalence,6,China,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,71.43986726877992,133.74457209438944,33.700491288742654
+5,Prevalence,6,China,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,260.4580581194321,459.6270680608981,128.1497319173869
+5,Prevalence,6,China,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,81.5960067183803,148.2130635762924,39.862102224847014
+5,Prevalence,6,China,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,260.34850078123725,467.7950916677747,130.41516133359715
+5,Prevalence,6,China,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,90.39770361263759,165.07028371873292,43.05828830967021
+5,Prevalence,6,China,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,254.42044718582363,438.15770440037494,128.62716681449265
+5,Prevalence,6,China,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,86.93731829880348,160.92692713411353,41.10244481625313
+5,Prevalence,6,China,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,432.69023388257926,808.0152044372512,226.247222283474
+5,Prevalence,6,China,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,158.45512175170035,302.6036470090905,77.26079939037969
+5,Prevalence,6,China,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,281.17597171918896,499.9835281679799,149.3511396372005
+5,Prevalence,6,China,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,109.13960171299006,198.7327778134802,54.03746510159845
+5,Prevalence,6,China,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,150.11493833880442,261.4086180983468,83.9658924226628
+5,Prevalence,6,China,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,77.74477840597058,133.37193827985269,41.64481155789712
+5,Prevalence,6,China,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2010,3299.45659519975,5574.925257552211,1892.6438217937337
+5,Prevalence,6,China,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2010,1527.710520398173,2664.9777015735176,836.8032664537399
+5,Prevalence,6,China,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,60.316654851494825,110.6545613203462,29.61288220425719
+5,Prevalence,6,China,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,55.83806553806942,109.82785728961726,26.72037171940707
+5,Prevalence,6,China,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1375.496013379749,2354.5169528902907,789.4389992411574
+5,Prevalence,6,China,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,759.7623298481941,1365.9309331967852,414.8018531761382
+5,Prevalence,6,China,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,957.9684936618551,1616.9787117498986,527.2604446868334
+5,Prevalence,6,China,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,330.3708958986013,568.624081975595,171.91026801449595
+5,Prevalence,6,China,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,863.9811439405727,1540.112353370903,467.431993685263
+5,Prevalence,6,China,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,345.33950187066097,616.8909427692008,182.02659183432206
+5,Prevalence,6,China,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2010,2.8830469101765868,5.180788963316278,1.458877817518842
+5,Prevalence,6,China,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2010,2.8156397151562076,5.214192086004083,1.4228961609754802
+5,Prevalence,6,China,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,116.52975048623898,203.84666058836274,65.07725972840693
+5,Prevalence,6,China,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,52.08037815715818,91.17513888853975,27.44574549234933
+5,Prevalence,6,China,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,29.815278684494057,51.025262983924165,16.464157029817223
+5,Prevalence,6,China,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,19.354966426783466,32.88202140894559,10.60979724655889
+5,Prevalence,6,China,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,3.388900557531663,5.71801072801921,1.7794540982104357
+5,Prevalence,6,China,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,5.395889145173768,9.273645965455584,2.841026526681181
+5,Prevalence,6,China,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,3164.7606138453707,5309.699209291243,1816.4658136080086
+5,Prevalence,6,China,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1399.8050611574913,2449.849426453528,775.3974340997183
+5,Prevalence,6,China,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,102.01094421757364,187.67326258373402,53.67995226757993
+5,Prevalence,6,China,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,92.23779278071657,174.57475455685875,46.397170353080654
+5,Prevalence,6,China,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1390.6587275444344,2392.801365012534,765.0701655972721
+5,Prevalence,6,China,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,488.82601765030165,857.1794473439011,253.7100148368232
+5,Prevalence,6,China,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2010,0.013795620134961785,0.025773088127998733,0.006064719545816243
+5,Prevalence,6,China,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2010,0.014340876551984419,0.027915067224902945,0.006358951432154637
+5,Prevalence,6,China,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,2858.669636155147,4770.697023388935,1636.6385086929579
+5,Prevalence,6,China,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1205.4034100982503,2099.7891111182844,660.2309831425558
+5,Prevalence,6,China,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,134.69598135438002,239.9022808618772,71.32991410443813
+5,Prevalence,6,China,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,127.90545924068181,242.6220620266785,66.77381881020248
+5,Prevalence,6,China,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,356.0078574295229,643.2780949273275,183.29826045048264
+5,Prevalence,6,China,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,251.67027418985822,479.9376829815171,129.4473330500463
+5,Prevalence,6,China,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,33.58518785256545,57.37005572992875,18.4851524831176
+5,Prevalence,6,China,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,25.664400248812402,44.14350018329935,13.852240596780812
+5,Prevalence,6,China,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,49.91687973929962,90.84629389448952,25.999234921040525
+5,Prevalence,6,China,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,57.26862313061715,112.2327942983854,28.558585349794733
+5,Prevalence,6,China,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1575.4693435576044,2706.7251340710477,913.5979543421397
+5,Prevalence,6,China,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,852.803153787626,1523.6228295458775,462.081728737961
+5,Prevalence,6,China,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,84.7791016150804,158.776407737471,43.58979014951488
+5,Prevalence,6,China,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,70.63683611006468,138.44181312059587,34.93932238123032
+5,Prevalence,6,China,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,93.00169198830123,168.66960972506598,48.717935385873794
+5,Prevalence,6,China,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,91.50573199803466,174.30460312793832,45.69737305937152
+5,Prevalence,6,China,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,949.7236161383297,1669.4850953117698,526.5928098615534
+5,Prevalence,6,China,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,564.378190788465,1028.8942702880036,303.02305060118357
+5,Prevalence,6,China,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1036.7199985527193,1825.4509904477325,596.1365947714747
+5,Prevalence,6,China,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,529.6930123289878,959.2811393448143,286.96624159503494
+5,Prevalence,6,China,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1639.2081500270656,2780.1651969453173,907.1854493835638
+5,Prevalence,6,China,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,604.2705305004824,1040.2293220895795,320.3891793345273
+5,Prevalence,6,China,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1228.6351535688289,2075.076421501041,672.0724774783556
+5,Prevalence,6,China,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,444.9297453761314,787.4015902357489,237.93985136074636
+5,Prevalence,6,China,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,687.110681068403,1200.1593299360625,362.6827091176335
+5,Prevalence,6,China,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,245.3924400505038,451.4392963233266,125.41790450192724
+5,Prevalence,6,China,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,431.2909100579934,750.6265337543527,236.68944287535632
+5,Prevalence,6,China,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,186.88438011896062,328.9815586874809,98.81720251268784
+5,Prevalence,6,China,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,0.3810086105397293,0.6721661607108329,0.19904899095220271
+5,Prevalence,6,China,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2010,0.9135446768551674,1.6115537717134212,0.47021823345714625
+5,Prevalence,6,China,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,397.70572220542795,695.9919796395282,215.93648471714795
+5,Prevalence,6,China,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,161.21997987014822,290.9499502150116,83.30407138065581
+5,Prevalence,6,China,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1525.5524638183047,2624.1035659826084,881.6070552845445
+5,Prevalence,6,China,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,795.5345306570089,1417.7501568047926,428.301318316446
+5,Prevalence,6,China,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1635.4382408589945,2774.6208673473116,905.0621871266543
+5,Prevalence,6,China,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,597.9610966784534,1030.8652292234174,316.44554960405424
+5,Prevalence,6,China,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1374.9801827395622,2321.039574831844,761.8370996643789
+5,Prevalence,6,China,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,516.3650899600731,900.0407329233273,278.1162224308277
+5,Prevalence,6,China,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1114.6316819583246,1945.708243169177,611.8792684061987
+5,Prevalence,6,China,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,425.96738634743554,744.3253570658387,228.13573042972106
+5,Prevalence,6,China,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,860.2112347725011,1534.7760786475283,465.16414453416587
+5,Prevalence,6,China,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,339.0300680486321,606.0555506615192,178.17318154139502
+5,Prevalence,6,China,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,430.90990144745365,750.281382074244,236.41155828616655
+5,Prevalence,6,China,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,185.97083544210543,327.67256759427187,98.3491392239363
+5,Prevalence,6,China,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,2435.4754512591776,4096.78472869768,1378.5484941340699
+5,Prevalence,6,China,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2010,1182.371018527512,2083.2809264810217,650.8733601201358

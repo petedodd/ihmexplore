@@ -1,0 +1,685 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,161,Bangladesh,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2015,2845.8115085746704,3837.6300860376255,2040.7198033446068
+5,Prevalence,161,Bangladesh,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2015,5649.619879895672,7599.621536928536,3918.275005070454
+5,Prevalence,161,Bangladesh,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2015,0.009393802660596313,0.013041397322336468,0.006466482985379857
+5,Prevalence,161,Bangladesh,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2015,0.016270298783364504,0.02275101202561252,0.010780213560166084
+5,Prevalence,161,Bangladesh,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2015,0.6815360691535377,1.2190068183772829,0.23792046004670758
+5,Prevalence,161,Bangladesh,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2015,1.6936567067464143,2.6440545213410385,0.9535313256280232
+5,Prevalence,161,Bangladesh,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2015,201.42846213723163,278.5594672867533,141.2653435457436
+5,Prevalence,161,Bangladesh,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2015,363.5486752653959,507.8215821761862,247.88992308291643
+5,Prevalence,161,Bangladesh,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2015,2643.692116565625,3580.592100054783,1866.475709689173
+5,Prevalence,161,Bangladesh,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2015,5284.361277624746,7163.076220299296,3665.1651730947283
+5,Prevalence,161,Bangladesh,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2015,4552.133537980798,6438.634439507355,3310.383106095852
+5,Prevalence,161,Bangladesh,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2015,10277.947791326244,13855.995076316904,7578.390825556591
+5,Prevalence,161,Bangladesh,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,5223.128469838189,7009.896355944085,3865.835438432872
+5,Prevalence,161,Bangladesh,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,14227.540700646647,18867.97159950301,10521.201275796893
+5,Prevalence,161,Bangladesh,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,6038.935204702577,8597.27378403601,3944.8305406216928
+5,Prevalence,161,Bangladesh,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,14774.84887674106,21519.879135376777,9528.205890011726
+5,Prevalence,161,Bangladesh,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2015,12366.307927220705,18792.638224424005,7675.4714044820985
+5,Prevalence,161,Bangladesh,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2015,15599.135615187266,24026.74857244811,9405.273672569156
+5,Prevalence,161,Bangladesh,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2015,10845.062867918346,16474.3574441393,6537.500966327116
+5,Prevalence,161,Bangladesh,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2015,15347.509448618126,23571.79791700013,9186.074466582475
+5,Prevalence,161,Bangladesh,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2015,14314.446604805753,21975.945098111173,8823.74198458335
+5,Prevalence,161,Bangladesh,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2015,13934.85852995693,21403.166668651258,8360.021966629227
+5,Prevalence,161,Bangladesh,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2015,14047.035375041618,21314.346385374487,8441.628349519244
+5,Prevalence,161,Bangladesh,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2015,13051.290353193082,19917.46698088104,7862.81292298629
+5,Prevalence,161,Bangladesh,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2015,14140.863932302982,21115.62337550798,8382.358433420372
+5,Prevalence,161,Bangladesh,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2015,11947.041628388766,17972.28440302435,6945.388168421832
+5,Prevalence,161,Bangladesh,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,12301.994361007688,19495.034903126012,7352.7318403031695
+5,Prevalence,161,Bangladesh,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,9407.879480310221,15050.142649302894,5373.199613633473
+5,Prevalence,161,Bangladesh,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2015,12119.408001969348,17693.929811660222,7289.706573906311
+5,Prevalence,161,Bangladesh,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2015,9408.159575787398,14081.877982687754,5690.3501794619415
+5,Prevalence,161,Bangladesh,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2015,11598.523258568877,17619.519580544482,7237.140031728787
+5,Prevalence,161,Bangladesh,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2015,8029.497950523665,11994.695559486072,4960.309227216026
+5,Prevalence,161,Bangladesh,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2015,10444.679348128471,15849.071733412937,6620.649156059721
+5,Prevalence,161,Bangladesh,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2015,7049.732075040892,10978.448228543693,4258.1346444057945
+5,Prevalence,161,Bangladesh,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2015,8527.123352189654,13104.850225232813,5260.685290668474
+5,Prevalence,161,Bangladesh,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2015,5548.723131116708,8634.089798873283,3243.7242799875157
+5,Prevalence,161,Bangladesh,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,11570.753047564425,16757.36968550364,7412.870771983375
+5,Prevalence,161,Bangladesh,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,8172.982861501835,11690.224729066404,5152.168387698582
+5,Prevalence,161,Bangladesh,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2015,8412.701901025594,12072.778859923113,5515.56672302537
+5,Prevalence,161,Bangladesh,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2015,6777.611819295819,10112.71812735605,4356.024654233789
+5,Prevalence,161,Bangladesh,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2015,7588.557892791397,9986.583642643343,5742.4170215579725
+5,Prevalence,161,Bangladesh,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2015,5354.041326403927,7238.245954988476,3953.237538638674
+5,Prevalence,161,Bangladesh,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2015,166937.4665916311,195150.98404109103,145295.03249268365
+5,Prevalence,161,Bangladesh,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2015,174558.42104393424,201281.5563947251,151664.1402536359
+5,Prevalence,161,Bangladesh,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,9775.262007818987,12476.640835474822,7730.742986102974
+5,Prevalence,161,Bangladesh,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,24505.488491972887,31027.633211017695,18972.549936843694
+5,Prevalence,161,Bangladesh,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,84054.64627299966,105402.10729984246,66859.18502197073
+5,Prevalence,161,Bangladesh,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,94062.56393239545,116922.97673070354,75165.5576751058
+5,Prevalence,161,Bangladesh,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2015,42689.73396085635,55966.95852043221,32208.62425119454
+5,Prevalence,161,Bangladesh,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2015,30036.112732468664,39034.623044519896,22294.65763315122
+5,Prevalence,161,Bangladesh,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2015,27572.012841381416,36279.91543553381,19849.661584670524
+5,Prevalence,161,Bangladesh,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2015,20304.63600720158,27525.1846660345,14763.970089316826
+5,Prevalence,161,Bangladesh,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2015,202.11939200904575,279.67360338973236,141.43050452204207
+5,Prevalence,161,Bangladesh,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2015,365.2586022709257,510.58611282761603,248.86309609414775
+5,Prevalence,161,Bangladesh,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2015,5072.085423960311,6780.784203502431,3735.156670761604
+5,Prevalence,161,Bangladesh,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2015,3753.483547160944,5175.108096099918,2695.684668424756
+5,Prevalence,161,Bangladesh,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,2008.1135109377844,2635.8677200399943,1526.3662145205114
+5,Prevalence,161,Bangladesh,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,1277.7152672808863,1701.1566642722262,958.9343113763816
+5,Prevalence,161,Bangladesh,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2015,416.3788260533321,574.183197025647,299.51839458028036
+5,Prevalence,161,Bangladesh,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2015,265.95380808303725,361.9286304975607,192.55796998787463
+5,Prevalence,161,Bangladesh,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2015,148277.45787053482,175372.30993767243,127335.5227829662
+5,Prevalence,161,Bangladesh,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2015,129628.46379532464,154616.74392706776,109245.50806971341
+5,Prevalence,161,Bangladesh,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,12621.073516393657,15636.059802013897,10262.011799276743
+5,Prevalence,161,Bangladesh,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,30155.10837186856,37486.18366445288,24283.797814489335
+5,Prevalence,161,Bangladesh,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,54260.48700842078,69102.25886216204,42236.20862002685
+5,Prevalence,161,Bangladesh,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,38209.0955939705,49173.38236119383,29441.512553315784
+5,Prevalence,161,Bangladesh,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2015,0.690929871814134,1.2325369876732981,0.24434636782645275
+5,Prevalence,161,Bangladesh,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2015,1.7099270055297784,2.667042909580475,0.9642922924681493
+5,Prevalence,161,Bangladesh,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2015,135911.14994331417,161359.18415058943,115953.25014644013
+5,Prevalence,161,Bangladesh,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2015,114029.32818013737,136916.47365164338,95692.29550157058
+5,Prevalence,161,Bangladesh,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2015,18660.008721096237,22499.085577550217,15337.311900503917
+5,Prevalence,161,Bangladesh,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2015,44929.95724860962,55241.763576849386,36378.87291432264
+5,Prevalence,161,Bangladesh,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2015,23628.371601761468,31544.39228568478,17234.48424566468
+5,Prevalence,161,Bangladesh,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2015,44601.52519257497,58564.60748890107,33617.34117146998
+5,Prevalence,161,Bangladesh,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2015,2516.4724688310857,3317.189021166663,1892.2081700434549
+5,Prevalence,161,Bangladesh,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2015,1600.5577792429817,2132.1592119020843,1194.7164828667792
+5,Prevalence,161,Bangladesh,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,11262.063674540766,14552.362768637822,8438.44194706515
+5,Prevalence,161,Bangladesh,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,29002.389577387705,37997.33605802553,21793.3877361944
+5,Prevalence,161,Bangladesh,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2015,101397.18274480721,125170.5615364528,83057.63682319033
+5,Prevalence,161,Bangladesh,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2015,117698.2642088295,142649.0842288647,98112.42396267537
+5,Prevalence,161,Bangladesh,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2015,7397.945046555467,9787.822640960483,5657.955301058846
+5,Prevalence,161,Bangladesh,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2015,15927.567671221916,20749.71169239598,12235.26774283212
+5,Prevalence,161,Bangladesh,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,15814.197212521562,19367.487858444998,12626.866203997703
+5,Prevalence,161,Bangladesh,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,39280.33736871395,48908.58109760851,31306.110123534672
+5,Prevalence,161,Bangladesh,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2015,57611.78797968899,73875.75975126983,43940.70749969505
+5,Prevalence,161,Bangladesh,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2015,72707.64282369647,94522.02264567484,56007.27569733716
+5,Prevalence,161,Bangladesh,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,65649.40314107639,86113.70920917123,50598.11038698616
+5,Prevalence,161,Bangladesh,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,63688.579440467125,82291.4292186969,48824.295255569916
+5,Prevalence,161,Bangladesh,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2015,58142.33880026842,72134.99944384974,46661.03508142382
+5,Prevalence,161,Bangladesh,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2015,40932.589163882854,51448.73014182629,31904.15220199526
+5,Prevalence,161,Bangladesh,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2015,38955.25764890815,50550.16864424011,29330.98119616603
+5,Prevalence,161,Bangladesh,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2015,27549.049886955254,35839.03573306995,20438.603657525236
+5,Prevalence,161,Bangladesh,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,20097.87639975408,28244.868287800804,13698.264376234847
+5,Prevalence,161,Bangladesh,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,13721.705992618543,19708.021717785512,9053.501142948471
+5,Prevalence,161,Bangladesh,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2015,16001.25979381699,21770.197802420225,11476.280884195288
+5,Prevalence,161,Bangladesh,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2015,12131.653145699745,17079.490773889,8550.274607638692
+5,Prevalence,161,Bangladesh,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2015,91.98013183996943,135.2352895394881,57.06475511678309
+5,Prevalence,161,Bangladesh,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2015,56.888703879057836,83.64533295216461,36.501443857683405
+5,Prevalence,161,Bangladesh,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2015,13484.787324985902,18822.98125527489,9297.054913790755
+5,Prevalence,161,Bangladesh,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2015,10531.095366456764,15105.042364609437,7190.6568760947675
+5,Prevalence,161,Bangladesh,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2015,90135.11907026645,112776.6657991361,72839.72869871609
+5,Prevalence,161,Bangladesh,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2015,88695.87463144178,110100.19526373222,71573.58391903035
+5,Prevalence,161,Bangladesh,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,57633.97984237511,71616.73762334595,46217.92550220878
+5,Prevalence,161,Bangladesh,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,40609.74665192075,51105.755343942445,31580.012372058718
+5,Prevalence,161,Bangladesh,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,46035.45658380624,59128.33007116482,35652.3674461716
+5,Prevalence,161,Bangladesh,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,32580.248701397082,41319.70007154235,24855.346130202433
+5,Prevalence,161,Bangladesh,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,35590.777235677764,47227.512415643534,26560.961139279345
+5,Prevalence,161,Bangladesh,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,25530.51662635619,33452.84428824374,18807.490568154983
+5,Prevalence,161,Bangladesh,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,27063.653883488118,35737.25872936214,19399.540768987375
+5,Prevalence,161,Bangladesh,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,19981.793495239486,27170.6320928446,14463.115432786957
+5,Prevalence,161,Bangladesh,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2015,15909.279661977022,21700.445072739738,11357.731565526714
+5,Prevalence,161,Bangladesh,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2015,12074.764441820687,17028.710880155282,8463.724719965381
+5,Prevalence,161,Bangladesh,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2015,139365.4537502497,165646.01401005097,119040.12312484125
+5,Prevalence,161,Bangladesh,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2015,154253.78503673268,181136.30172519697,131843.08372963633
+5,Prevalence,180,Kenya,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2015,1660.2306977123267,2718.7057834966727,869.75190018063
+5,Prevalence,180,Kenya,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2015,2666.1229893668374,4133.50299167408,1545.815797630236
+5,Prevalence,180,Kenya,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2015,0.0047303526380932945,0.006404376645071349,0.003312558795844585
+5,Prevalence,180,Kenya,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2015,0.0082424148268658,0.011300897760181323,0.005673071886966804
+5,Prevalence,180,Kenya,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2015,0.07261252498826817,0.09856364837318853,0.0502710944880893
+5,Prevalence,180,Kenya,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2015,0.12961730907606966,0.17944241708386094,0.0891099224895242
+5,Prevalence,180,Kenya,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2015,37.62394088271513,59.78986399525497,21.056776793758193
+5,Prevalence,180,Kenya,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2015,96.36851841695572,150.0219511999756,56.619794091550325
+5,Prevalence,180,Kenya,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2015,1622.5294139519851,2675.146850621742,843.8482835730873
+5,Prevalence,180,Kenya,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2015,2569.6166112259784,4008.6938574380056,1477.7986332001547
+5,Prevalence,180,Kenya,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2015,1259.2341117474605,2371.0244176222895,480.57843127856444
+5,Prevalence,180,Kenya,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2015,3068.1096687478775,5263.543300741831,1626.204998824743
+5,Prevalence,180,Kenya,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,311.3003844816686,732.4932806921856,142.92449642864239
+5,Prevalence,180,Kenya,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,2399.8350049071487,4306.529849157117,1034.321486481489
+5,Prevalence,180,Kenya,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,8703.19629848247,13419.094312146966,5213.825149955338
+5,Prevalence,180,Kenya,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,6730.422666658486,11069.250254479693,3539.28019155046
+5,Prevalence,180,Kenya,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2015,15994.548603907204,23795.209808097825,10010.421501221608
+5,Prevalence,180,Kenya,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2015,17004.457692871776,26706.09256540834,9794.474115983556
+5,Prevalence,180,Kenya,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2015,10691.889657520722,16757.17998236726,6263.234378673952
+5,Prevalence,180,Kenya,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2015,12582.43173354536,21122.15497746308,6027.796245558481
+5,Prevalence,180,Kenya,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2015,10577.530817990706,16001.583170540142,5668.1951111551325
+5,Prevalence,180,Kenya,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2015,13137.634450368898,21433.167181719822,6085.44964790064
+5,Prevalence,180,Kenya,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2015,7105.039788645817,11117.700154158547,3417.0102444465697
+5,Prevalence,180,Kenya,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2015,6822.596540569965,12120.487911584716,2491.985825236218
+5,Prevalence,180,Kenya,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2015,7144.9070595964495,11584.330833569102,3248.27814602606
+5,Prevalence,180,Kenya,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2015,5339.077405158666,10245.389527946867,1696.3111112993238
+5,Prevalence,180,Kenya,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,4510.293032684867,8248.843875894352,1782.5320440464143
+5,Prevalence,180,Kenya,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,2266.8579211254278,5131.692716631557,707.4414724126958
+5,Prevalence,180,Kenya,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2015,5840.215928739144,9269.34466899601,2839.67199044834
+5,Prevalence,180,Kenya,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2015,3416.701384019725,6159.19004536394,1346.7798032321093
+5,Prevalence,180,Kenya,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2015,4119.886427106158,6413.46273173207,2155.3677862492877
+5,Prevalence,180,Kenya,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2015,3342.27538442956,5457.446025607278,1581.9791262867939
+5,Prevalence,180,Kenya,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2015,1972.5288984414326,3084.302002661941,1111.5401050581127
+5,Prevalence,180,Kenya,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2015,622.9363772006451,1197.9938116837784,246.21687146122275
+5,Prevalence,180,Kenya,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2015,691.7437476925312,1103.601296177002,353.65138034724805
+5,Prevalence,180,Kenya,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2015,117.9137132125927,246.0215579911986,50.55097349006374
+5,Prevalence,180,Kenya,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,1748.2809900023087,2393.7417255767095,1147.2686625482065
+5,Prevalence,180,Kenya,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,1314.4206803545937,1878.8346392260287,781.1835992068118
+5,Prevalence,180,Kenya,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2015,1346.8323008062719,1782.6143547996874,895.7758622271185
+5,Prevalence,180,Kenya,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2015,1489.448951267878,2107.632283073025,966.272707179892
+5,Prevalence,180,Kenya,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2015,1293.3273906296463,1592.278636362099,1011.8841197424159
+5,Prevalence,180,Kenya,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2015,1880.1351642371076,2421.4788417618865,1438.8148590410146
+5,Prevalence,180,Kenya,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2015,84970.9861361872,99339.93226986489,72564.30849812682
+5,Prevalence,180,Kenya,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2015,84201.37772804254,100169.73423367356,70055.47330277499
+5,Prevalence,180,Kenya,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,1570.534496229129,2828.2587921729128,695.1027714282731
+5,Prevalence,180,Kenya,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,5467.944673655026,8740.046326238331,3048.437648158302
+5,Prevalence,180,Kenya,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,64727.405258828236,79007.59754774396,52021.81419100322
+5,Prevalence,180,Kenya,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,63883.47841029858,80873.5779525932,48410.737009741075
+5,Prevalence,180,Kenya,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2015,12624.375001979268,17620.181241244205,8228.074157439942
+5,Prevalence,180,Kenya,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2015,7499.826858862523,11673.79229306076,4090.879496005282
+5,Prevalence,180,Kenya,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2015,4388.440681438227,5514.271587080996,3269.7859578380107
+5,Prevalence,180,Kenya,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2015,4684.00479585958,6082.638486422004,3416.137360438653
+5,Prevalence,180,Kenya,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2015,37.7012837603415,59.88721247601636,21.1138958245951
+5,Prevalence,180,Kenya,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2015,96.50637814085866,150.2125927529236,56.71074591813938
+5,Prevalence,180,Kenya,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2015,831.4428474659636,1040.0799719772808,634.8840278537158
+5,Prevalence,180,Kenya,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2015,1103.4973666778692,1440.4866996647927,819.715883541159
+5,Prevalence,180,Kenya,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,342.28251837553955,423.4462778778667,269.2409876720136
+5,Prevalence,180,Kenya,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,537.9839022010125,686.3736468876128,414.80810238269055
+5,Prevalence,180,Kenya,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2015,97.94742171859063,125.69127556786071,73.49042765803901
+5,Prevalence,180,Kenya,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2015,188.1324012074871,246.11581969495845,138.22959125737052
+5,Prevalence,180,Kenya,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2015,73037.02464376324,86424.1164912907,60940.958083865786
+5,Prevalence,180,Kenya,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2015,69336.8873983622,85226.15975477442,55828.34674695238
+5,Prevalence,180,Kenya,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,3230.765193941456,5207.983235712809,1798.8580992777672
+5,Prevalence,180,Kenya,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2015,8134.067663021864,12047.667860043115,5123.23593377733
+5,Prevalence,180,Kenya,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,14372.655991981575,19363.991526370006,9994.200032275381
+5,Prevalence,180,Kenya,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,8814.247539217116,13017.74574686946,5474.867226869513
+5,Prevalence,180,Kenya,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2015,0.07734287762636145,0.10497097326977829,0.05356748342478755
+5,Prevalence,180,Kenya,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2015,0.13785972390293547,0.19059334447000884,0.09472447247841709
+5,Prevalence,180,Kenya,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2015,57042.47603985605,68252.80994369894,46416.04218046437
+5,Prevalence,180,Kenya,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2015,52332.42970549042,67427.34256573391,39591.33692304003
+5,Prevalence,180,Kenya,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2015,11933.961492423925,16981.843374992204,7825.215302319777
+5,Prevalence,180,Kenya,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2015,14864.49032968035,20541.879971089696,10004.292781261645
+5,Prevalence,180,Kenya,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2015,25009.045286871344,35483.27906127928,16829.419039027973
+5,Prevalence,180,Kenya,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2015,26134.715364437412,37701.73767363111,17176.08267095167
+5,Prevalence,180,Kenya,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2015,461.8845431636828,575.1328540058892,360.6642857691374
+5,Prevalence,180,Kenya,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2015,776.6377975592386,993.4704230199743,589.7663008023761
+5,Prevalence,180,Kenya,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,9014.496682964138,13951.782447230606,5450.6766445982
+5,Prevalence,180,Kenya,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,9130.257671565636,14205.625214228941,5143.283619849561
+5,Prevalence,180,Kenya,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2015,70878.92157204905,85292.45054908507,58352.83917493882
+5,Prevalence,180,Kenya,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2015,69700.01479922545,86399.89028303987,54511.41372279245
+5,Prevalence,180,Kenya,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2015,2919.464809459787,4833.208085269405,1548.1948481184656
+5,Prevalence,180,Kenya,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2015,5734.2326581147145,8938.566647244232,3423.7500021711403
+5,Prevalence,180,Kenya,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,10273.730794711599,15109.042798879605,6468.112320407726
+5,Prevalence,180,Kenya,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2015,12198.367340313513,17725.389600591214,7714.70634060144
+5,Prevalence,180,Kenya,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2015,53072.20516654691,67030.79660768843,40659.02965488074
+5,Prevalence,180,Kenya,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2015,56277.54308401448,74677.1928064668,40931.803899601655
+5,Prevalence,180,Kenya,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,40029.66035643856,50771.26217426104,30185.4827698269
+5,Prevalence,180,Kenya,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2015,40148.59805076831,55784.34184364181,27407.40735102998
+5,Prevalence,180,Kenya,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2015,11172.59975467835,14304.558487866232,8603.099986015579
+5,Prevalence,180,Kenya,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2015,8767.130270702379,11500.265846107284,6502.18092888099
+5,Prevalence,180,Kenya,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2015,5759.385936942544,7451.148169258748,4272.5444523393535
+5,Prevalence,180,Kenya,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2015,3544.7197220357098,4711.129254290545,2436.2897319541526
+5,Prevalence,180,Kenya,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,2440.02473769484,3291.1850650974175,1607.2363752210058
+5,Prevalence,180,Kenya,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2015,1432.3343935671865,2028.0172907801307,855.149714367217
+5,Prevalence,180,Kenya,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2015,2640.1596914359184,3349.3175997197322,1957.932033276654
+5,Prevalence,180,Kenya,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2015,3369.5841155049857,4449.465651211768,2490.499809922154
+5,Prevalence,180,Kenya,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2015,21.65460306955264,29.30466504164041,14.50884541326549
+5,Prevalence,180,Kenya,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2015,50.521494150739116,71.65901485928569,32.46180278868068
+5,Prevalence,180,Kenya,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2015,2178.275148272236,2826.7431834252206,1554.163592173408
+5,Prevalence,180,Kenya,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2015,2592.9463179457466,3526.202346411123,1802.6488627486863
+5,Prevalence,180,Kenya,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2015,61864.424889084905,75027.82618873153,49905.172757879496
+5,Prevalence,180,Kenya,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2015,60569.75712765982,77422.25421677588,45996.87844500569
+5,Prevalence,180,Kenya,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,11052.997729890207,14179.436079723435,8489.636280956767
+5,Prevalence,180,Kenya,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,8528.47637534415,11224.934279329098,6268.084175944714
+5,Prevalence,180,Kenya,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,6933.111302784048,8754.314009170375,5297.810189517763
+5,Prevalence,180,Kenya,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,5186.200990914591,6670.067997714508,3799.8822612558415
+5,Prevalence,180,Kenya,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,4960.582404342614,6248.882520319146,3701.370786337975
+5,Prevalence,180,Kenya,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,4563.264613713946,5962.473926952563,3273.9339483196745
+5,Prevalence,180,Kenya,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,4268.838656650083,5390.393882305988,3160.1575004226793
+5,Prevalence,180,Kenya,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2015,4445.350900501354,5791.444515456614,3184.7796065254684
+5,Prevalence,180,Kenya,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2015,2618.505088366366,3334.1358001549825,1940.0093862842227
+5,Prevalence,180,Kenya,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2015,3319.0626213542464,4388.529803517548,2436.11101494609
+5,Prevalence,180,Kenya,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2015,80582.54545474896,95065.94726027621,68491.16283120541
+5,Prevalence,180,Kenya,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2015,79517.37293218297,95583.8138051473,65037.25041416863
+5,Prevalence,161,Bangladesh,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,89.78670021009832,188.4926632800613,31.1717659054121
+5,Prevalence,161,Bangladesh,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,178.56345667158433,374.62345837620774,62.3833273967707
+5,Prevalence,161,Bangladesh,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.0002971096583084202,0.0006233071691532316,0.00010219966470452901
+5,Prevalence,161,Bangladesh,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.0005144054330056606,0.0011165743220344917,0.0001819046533521776
+5,Prevalence,161,Bangladesh,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.021592079871874042,0.052620768357587215,0.005103681765897292
+5,Prevalence,161,Bangladesh,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.053680270402713066,0.12096057701533457,0.01671894246088291
+5,Prevalence,161,Bangladesh,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,6.367642827884683,13.283431040838748,2.1562559595500126
+5,Prevalence,161,Bangladesh,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,11.508403353628713,24.688644508205368,4.0800338673297425
+5,Prevalence,161,Bangladesh,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,83.39716819268347,173.66120157361308,28.71565531404152
+5,Prevalence,161,Bangladesh,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,167.00085864211988,353.0361452378995,58.61512546987623
+5,Prevalence,161,Bangladesh,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,143.12862566289957,312.28468716742844,51.95868477186232
+5,Prevalence,161,Bangladesh,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,324.5778805160069,670.8936293995454,115.71512647627857
+5,Prevalence,161,Bangladesh,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,164.91591095355224,344.7729793619349,58.26812603588721
+5,Prevalence,161,Bangladesh,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,449.6691333315496,948.5531824232313,159.77778541639586
+5,Prevalence,161,Bangladesh,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,190.5485018379907,403.5256213944811,63.55391033911719
+5,Prevalence,161,Bangladesh,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,466.57232270517625,975.7275165133888,145.00053928129577
+5,Prevalence,161,Bangladesh,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,389.05542304054154,852.7166592595528,132.09671637542206
+5,Prevalence,161,Bangladesh,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,492.09232375946596,1090.2121520113867,162.12805173218982
+5,Prevalence,161,Bangladesh,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,341.26909612927875,760.0314236805469,113.55703216204093
+5,Prevalence,161,Bangladesh,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,483.4343841448516,1085.5338125119788,154.8085900146537
+5,Prevalence,161,Bangladesh,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,449.7372802085566,988.7914275188703,147.79428280175978
+5,Prevalence,161,Bangladesh,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,438.43991967529115,982.353448730664,142.50160477084435
+5,Prevalence,161,Bangladesh,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,439.97162558822714,970.5256446799125,152.32685842584416
+5,Prevalence,161,Bangladesh,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,409.1453469872359,906.9122182869411,133.6555123532131
+5,Prevalence,161,Bangladesh,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,445.1032552782337,987.1105679889043,143.98734744512024
+5,Prevalence,161,Bangladesh,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,376.20021099441107,855.4870174793492,119.40514209745992
+5,Prevalence,161,Bangladesh,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,389.9272467515163,897.3190059676848,129.16994951246724
+5,Prevalence,161,Bangladesh,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,297.48515479164683,688.217908734641,97.34052083542579
+5,Prevalence,161,Bangladesh,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,384.430047507625,865.1950329330781,130.769973530245
+5,Prevalence,161,Bangladesh,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,297.79108356432465,669.5548293773626,99.1695636377643
+5,Prevalence,161,Bangladesh,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,367.33141650329577,783.8846677506197,122.43414815860886
+5,Prevalence,161,Bangladesh,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,253.40562132377374,585.9103537524617,85.5877246462529
+5,Prevalence,161,Bangladesh,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,331.7618582026153,741.3193066131868,110.10667361668914
+5,Prevalence,161,Bangladesh,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,223.673747872027,500.69860045457267,74.18772827002365
+5,Prevalence,161,Bangladesh,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,268.7938652599083,620.692947589481,90.98211852413812
+5,Prevalence,161,Bangladesh,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,174.78673806254736,402.9252205032939,58.76426652456064
+5,Prevalence,161,Bangladesh,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,363.20212333237316,772.3297148019861,129.57908616751257
+5,Prevalence,161,Bangladesh,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,256.3638932225911,542.8149370945373,93.33663010233727
+5,Prevalence,161,Bangladesh,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,265.17457257324855,576.4390570487561,88.46862768065712
+5,Prevalence,161,Bangladesh,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,213.6164046339643,457.63000726928533,70.25575837366458
+5,Prevalence,161,Bangladesh,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,239.50328617811894,477.85230462008775,85.7003858718747
+5,Prevalence,161,Bangladesh,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,169.0451404262433,351.0288535978535,61.1700197498241
+5,Prevalence,161,Bangladesh,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,5263.64083521808,10617.017814145878,1971.9325879492892
+5,Prevalence,161,Bangladesh,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,5504.862762682691,11214.130151353093,2066.1686643360295
+5,Prevalence,161,Bangladesh,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,308.04453661645175,644.518577915154,113.984861709189
+5,Prevalence,161,Bangladesh,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,774.2470138475564,1651.305511609284,289.429037491711
+5,Prevalence,161,Bangladesh,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,2645.612428834345,5256.9477766451955,975.9404362368513
+5,Prevalence,161,Bangladesh,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,2963.369663058079,6098.672074461266,1054.129006330648
+5,Prevalence,161,Bangladesh,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1352.3171874734442,2874.7124256409943,489.2791949862377
+5,Prevalence,161,Bangladesh,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,949.6571908226726,2052.4516520499405,349.5981674086692
+5,Prevalence,161,Bangladesh,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,867.8799820837406,1772.225011175178,316.1413760962558
+5,Prevalence,161,Bangladesh,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,639.0254382827987,1327.112639091306,235.85614581921394
+5,Prevalence,161,Bangladesh,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,6.389532017414866,13.328998395901577,2.16285738028529
+5,Prevalence,161,Bangladesh,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,11.562598029464432,24.829062278404876,4.09801598544429
+5,Prevalence,161,Bangladesh,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,160.1318674182609,323.8763390218217,56.28915475882829
+5,Prevalence,161,Bangladesh,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,118.54095395000132,247.42954164212003,42.060147912474974
+5,Prevalence,161,Bangladesh,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,63.346162130556515,126.41365799087666,23.02902667520833
+5,Prevalence,161,Bangladesh,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,40.32408810976357,83.00797703125453,14.75353558736049
+5,Prevalence,161,Bangladesh,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,13.126766505558335,27.03573847734503,4.74848345363867
+5,Prevalence,161,Bangladesh,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,8.387127369925187,17.278026207972886,2.9337141827957254
+5,Prevalence,161,Bangladesh,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,4675.261096553539,9433.046972383292,1761.048502177805
+5,Prevalence,161,Bangladesh,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,4085.4799694583744,8249.108768367683,1521.1305766328405
+5,Prevalence,161,Bangladesh,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,397.8312368265501,829.3303825943907,149.39704649138815
+5,Prevalence,161,Bangladesh,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,952.8104705191408,1987.5177809661716,347.7318540906946
+5,Prevalence,161,Bangladesh,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1715.5193108058174,3644.758290606688,631.376532685148
+5,Prevalence,161,Bangladesh,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1206.021084045264,2579.7795858762915,442.1156238496076
+5,Prevalence,161,Bangladesh,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.021889189530182467,0.053234381791605875,0.0051949413580928
+5,Prevalence,161,Bangladesh,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.054194675835718714,0.12201253262438316,0.01690877729201094
+5,Prevalence,161,Bangladesh,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,4286.205673512997,8595.00019724545,1610.485096557309
+5,Prevalence,161,Bangladesh,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,3593.387645698908,7467.572465141969,1321.048332040371
+5,Prevalence,161,Bangladesh,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,588.3797386645408,1228.3823070400665,209.41152919546533
+5,Prevalence,161,Bangladesh,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1419.382793224317,2953.9587930428333,502.650609271016
+5,Prevalence,161,Bangladesh,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,744.5198358320845,1555.648603513784,265.7254195545561
+5,Prevalence,161,Bangladesh,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1408.3337797961917,2836.355652778607,497.2430205777956
+5,Prevalence,161,Bangladesh,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,79.37141875985803,158.84084355993036,28.77256512761124
+5,Prevalence,161,Bangladesh,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,50.50418647624198,104.26546577603705,18.28297724276512
+5,Prevalence,161,Bangladesh,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,355.4644127915429,736.2317976244749,123.91987156604432
+5,Prevalence,161,Bangladesh,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,916.2414560367258,1896.4995327360457,321.7239144082783
+5,Prevalence,161,Bangladesh,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,3194.958387295522,6515.09115203869,1201.2530243699955
+5,Prevalence,161,Bangladesh,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,3710.8298799539534,7647.349186891916,1345.1261792213352
+5,Prevalence,161,Bangladesh,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,232.9153258729979,489.5458388420263,84.41880752931378
+5,Prevalence,161,Bangladesh,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,503.14133718759126,1076.2700372555275,179.982038126188
+5,Prevalence,161,Bangladesh,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,498.5930384544425,1044.3093689196273,179.5431514885407
+5,Prevalence,161,Bangladesh,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1240.8193365527327,2567.6168206544985,443.5277642467527
+5,Prevalence,161,Bangladesh,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1810.5819268045948,3716.5606934584375,665.9933676607803
+5,Prevalence,161,Bangladesh,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,2289.684297272021,4680.03005436282,809.0592853662317
+5,Prevalence,161,Bangladesh,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,2066.0085039558126,4200.306958545579,762.1201958570273
+5,Prevalence,161,Bangladesh,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,2004.7050165934368,4166.0151938360605,719.3379160765646
+5,Prevalence,161,Bangladesh,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1835.76712204956,3762.735190107107,681.7709983940049
+5,Prevalence,161,Bangladesh,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1290.8915455411468,2667.9473801903905,476.2983951426579
+5,Prevalence,161,Bangladesh,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1228.932419368145,2543.562954117692,446.7736274602249
+5,Prevalence,161,Bangladesh,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,868.4407837911298,1790.9117040376786,324.23419314675175
+5,Prevalence,161,Bangladesh,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,631.9959885922815,1356.1646401457056,229.7690014034532
+5,Prevalence,161,Bangladesh,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,431.1506312851385,923.7013563329773,158.6959935699958
+5,Prevalence,161,Bangladesh,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,504.6778587513674,1043.3500750106675,176.2420239972031
+5,Prevalence,161,Bangladesh,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,382.6615450602077,809.2672407727421,134.27493669332833
+5,Prevalence,161,Bangladesh,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,2.8984901237431853,6.025938158534916,1.012219523177786
+5,Prevalence,161,Bangladesh,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1.7929709965532266,3.806342695822678,0.6034167976279453
+5,Prevalence,161,Bangladesh,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,425.3064399915094,899.2935536803024,146.9314755271527
+5,Prevalence,161,Bangladesh,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,332.1573585839656,713.3175952968779,113.03358078346558
+5,Prevalence,161,Bangladesh,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,2839.4939745039787,5793.880754475664,1070.0096729422494
+5,Prevalence,161,Bangladesh,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,2794.5884239172274,5888.566053687246,1004.2748871683646
+5,Prevalence,161,Bangladesh,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1819.7418654202584,3739.2239131710717,674.576582870981
+5,Prevalence,161,Bangladesh,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1280.7114471746686,2645.0911847435627,473.2595795924698
+5,Prevalence,161,Bangladesh,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1452.4104489169624,2973.672842384603,527.9209939667868
+5,Prevalence,161,Bangladesh,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1027.3058258508947,2087.589026848155,389.40389148868076
+5,Prevalence,161,Bangladesh,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1120.6485907143472,2292.1011360248567,412.08879126424927
+5,Prevalence,161,Bangladesh,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,803.6320779788676,1680.2898301841897,298.88245695768177
+5,Prevalence,161,Bangladesh,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,851.854725454439,1747.845830574803,309.0031460952302
+5,Prevalence,161,Bangladesh,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,628.8453399163203,1307.556939608829,231.01936117867965
+5,Prevalence,161,Bangladesh,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,501.77936862762425,1037.9617030372697,175.3343571281796
+5,Prevalence,161,Bangladesh,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,380.8685740636544,806.9668016164964,133.13947667474082
+5,Prevalence,161,Bangladesh,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,4395.760853134338,8919.156331055328,1658.11368022084
+5,Prevalence,161,Bangladesh,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,4865.837324399892,9835.296711357052,1827.1703894422587
+5,Prevalence,161,Bangladesh,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.8677570683531586,3.9194573271279336,0.6480412023406313
+5,Prevalence,161,Bangladesh,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.714626538167839,7.768372686890407,1.3023327793832984
+5,Prevalence,161,Bangladesh,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,6.180728291444217e-06,1.2965370742495294e-05,2.127013211421698e-06
+5,Prevalence,161,Bangladesh,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.0701499104998468e-05,2.3205194934593138e-05,3.7812198786110587e-06
+5,Prevalence,161,Bangladesh,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.00044918948448606093,0.0010903236309607537,0.00010649148487320122
+5,Prevalence,161,Bangladesh,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.001116681664172802,0.0025134359430450245,0.0003477076761883514
+5,Prevalence,161,Bangladesh,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.13247999790121895,0.276223030133877,0.04483815571879158
+5,Prevalence,161,Bangladesh,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.23938545489725485,0.5139558019480118,0.08499808168588241
+5,Prevalence,161,Bangladesh,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.7348217002391622,3.6109981434968104,0.5970660296672947
+5,Prevalence,161,Bangladesh,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.474113700107307,7.3594115207770265,1.2239333808479762
+5,Prevalence,161,Bangladesh,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,2.9773302768260246,6.49584426795297,1.0810940817378873
+5,Prevalence,161,Bangladesh,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,6.75249365680622,13.995275431928285,2.408125605046878
+5,Prevalence,161,Bangladesh,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.4305200001098437,7.166302891660976,1.2099392291604993
+5,Prevalence,161,Bangladesh,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,9.354823442257203,19.7533631882692,3.331268888585276
+5,Prevalence,161,Bangladesh,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.9643757743543704,8.365685644811526,1.3194792808614637
+5,Prevalence,161,Bangladesh,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,9.705761866946958,20.279414043320344,3.016962423707348
+5,Prevalence,161,Bangladesh,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,8.09427288040899,17.759707290073408,2.743742645720327
+5,Prevalence,161,Bangladesh,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,10.237387124515436,22.676157530733292,3.3776833835813775
+5,Prevalence,161,Bangladesh,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,7.099642774274331,15.792402296719041,2.354579468624825
+5,Prevalence,161,Bangladesh,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,10.05739688620206,22.560196784163335,3.223264031647877
+5,Prevalence,161,Bangladesh,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,9.356166915412098,20.57273301170146,3.0770971939341956
+5,Prevalence,161,Bangladesh,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,9.121362014698327,20.457634197137814,2.9727379712784074
+5,Prevalence,161,Bangladesh,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,9.15268250704697,20.187912094903844,3.1725303226545045
+5,Prevalence,161,Bangladesh,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,8.511059138221606,18.85630823228937,2.7763506062353596
+5,Prevalence,161,Bangladesh,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,9.258879759256375,20.52667592325242,2.9985618371658522
+5,Prevalence,161,Bangladesh,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,7.8259366810059845,17.80303030762638,2.4863579559348485
+5,Prevalence,161,Bangladesh,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,8.111903323210935,18.678422577601403,2.6864109529368974
+5,Prevalence,161,Bangladesh,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,6.188524312494114,14.321407870315044,2.023266346488057
+5,Prevalence,161,Bangladesh,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,7.99720409724073,17.99398740085887,2.7195143963489525
+5,Prevalence,161,Bangladesh,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,6.194696811489117,13.935026852472198,2.063721786177885
+5,Prevalence,161,Bangladesh,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,7.641618233904788,16.296082148870752,2.5470785281617947
+5,Prevalence,161,Bangladesh,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.271693609679844,12.200684150227017,1.7788931006264808
+5,Prevalence,161,Bangladesh,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,6.901597760481644,15.418382613536677,2.290899573809883
+5,Prevalence,161,Bangladesh,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.652965378018422,10.406263865074346,1.544434916157378
+5,Prevalence,161,Bangladesh,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.591612426586236,12.907050205230265,1.8860654349192127
+5,Prevalence,161,Bangladesh,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.635978409489123,8.376558429915304,1.2237507049444587
+5,Prevalence,161,Bangladesh,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,7.555862307544806,16.11705026728242,2.690282006392039
+5,Prevalence,161,Bangladesh,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.33330891007615,11.29798884811281,1.9371379370087896
+5,Prevalence,161,Bangladesh,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.51679954142733,12.025362905578163,1.8393578777418569
+5,Prevalence,161,Bangladesh,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.443925228768082,9.491477863614827,1.4585231114941277
+5,Prevalence,161,Bangladesh,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.982442145835294,9.948029979636916,1.7839322384103002
+5,Prevalence,161,Bangladesh,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.5165909442455057,7.29292183348876,1.2728037375273147
+5,Prevalence,161,Bangladesh,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2015,109.50066779227392,220.97944825364306,41.072850087587234
+5,Prevalence,161,Bangladesh,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2015,114.51853095308199,233.37434694535602,42.96862790666904
+5,Prevalence,161,Bangladesh,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,6.407850276935869,13.403500850419194,2.372590435443198
+5,Prevalence,161,Bangladesh,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,16.107317099063426,34.307351646413856,6.018168565663593
+5,Prevalence,161,Bangladesh,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,55.03792393396408,109.39668110588842,20.305535287805903
+5,Prevalence,161,Bangladesh,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,61.64742802408448,126.87219523025009,21.91981287408816
+5,Prevalence,161,Bangladesh,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,28.132032518213396,59.80276881232743,10.188420372474466
+5,Prevalence,161,Bangladesh,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,19.75533420867651,42.698959682655136,7.273366385888391
+5,Prevalence,161,Bangladesh,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,18.05510399480743,36.90477709634325,6.586698688081581
+5,Prevalence,161,Bangladesh,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,13.293825083089738,27.623493909083457,4.910921723175367
+5,Prevalence,161,Bangladesh,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.13293536811399645,0.27721860877496907,0.04497561054276158
+5,Prevalence,161,Bangladesh,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.24051283806053267,0.516533025770526,0.08537205014883306
+5,Prevalence,161,Bangladesh,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.331275216014784,6.742805748322197,1.172425259349015
+5,Prevalence,161,Bangladesh,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,2.4659399649230638,5.159921293540109,0.872886685490535
+5,Prevalence,161,Bangladesh,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.3177994733392395,2.625836235893697,0.4801849275921029
+5,Prevalence,161,Bangladesh,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.8388707010849361,1.7262436286837102,0.3075608912211329
+5,Prevalence,161,Bangladesh,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.2730739579804521,0.5632304708495837,0.09866671388343005
+5,Prevalence,161,Bangladesh,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.17448014488864375,0.3592951262507789,0.06112979786128584
+5,Prevalence,161,Bangladesh,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,97.26068467263053,196.3062748967232,36.677733288877306
+5,Prevalence,161,Bangladesh,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,84.99082544890378,171.68905295989765,31.623620097733728
+5,Prevalence,161,Bangladesh,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,8.275607345289027,17.252276849916846,3.1127851290028117
+5,Prevalence,161,Bangladesh,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,19.82194363723126,41.346015574675675,7.228218794555833
+5,Prevalence,161,Bangladesh,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,35.6878948257582,75.77313609965535,13.135271342368007
+5,Prevalence,161,Bangladesh,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,25.088643118752653,53.6722820275147,9.200383845588027
+5,Prevalence,161,Bangladesh,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.00045537021277750517,0.0011030279632642677,0.00010839111075475189
+5,Prevalence,161,Bangladesh,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.0011273831632778006,0.00253535868470961,0.00035166218268725213
+5,Prevalence,161,Bangladesh,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,89.16641179222154,178.89383391669034,33.51517881275427
+5,Prevalence,161,Bangladesh,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,74.75343832438834,155.45497372124305,27.495367482296427
+5,Prevalence,161,Bangladesh,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,12.2399831196434,25.538060844083848,4.3526948865816015
+5,Prevalence,161,Bangladesh,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,29.527705504178222,61.54732818661363,10.461851669207128
+5,Prevalence,161,Bangladesh,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,15.489168654873206,32.38831396648589,5.523316691081345
+5,Prevalence,161,Bangladesh,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,29.297972433719593,58.92173900532054,10.340135353700719
+5,Prevalence,161,Bangladesh,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.6511669298205092,3.3022048290932404,0.5997283110493544
+5,Prevalence,161,Bangladesh,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.0506509793224414,2.164405325441319,0.3803303242380123
+5,Prevalence,161,Bangladesh,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,7.394895774464214,15.290926864646837,2.576398293954391
+5,Prevalence,161,Bangladesh,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,19.060585309204157,39.50875637118803,6.7031130664178695
+5,Prevalence,161,Bangladesh,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,66.46564803131466,135.506665560477,25.003697469605214
+5,Prevalence,161,Bangladesh,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,77.19694827783081,159.0718500462293,27.980428839261968
+5,Prevalence,161,Bangladesh,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.845087345179183,10.192494297447185,1.7567957166685484
+5,Prevalence,161,Bangladesh,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,10.46712019497406,22.3835996274106,3.743374817767774
+5,Prevalence,161,Bangladesh,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,10.37222605129024,21.71878852059177,3.73172213229982
+5,Prevalence,161,Bangladesh,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,25.81307896601038,53.36858914584619,9.231837673655866
+5,Prevalence,161,Bangladesh,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,37.667140851496754,77.33115628926392,13.847710627815763
+5,Prevalence,161,Bangladesh,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,47.63296703058439,97.40370155146518,16.846086029850262
+5,Prevalence,161,Bangladesh,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,42.97927527920071,87.37890681343222,15.854883565743446
+5,Prevalence,161,Bangladesh,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,41.70427903262208,86.62299495395371,14.957748244033647
+5,Prevalence,161,Bangladesh,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,38.18993241578009,78.33770616130236,14.170582565262423
+5,Prevalence,161,Bangladesh,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,26.854462480277128,55.515916601060766,9.916619128955007
+5,Prevalence,161,Bangladesh,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,25.565872036040016,52.93681316123251,9.291351395424146
+5,Prevalence,161,Bangladesh,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,18.066177926351777,37.25111025069268,6.745101096669931
+5,Prevalence,161,Bangladesh,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,13.14747473413104,28.259180069154013,4.776042931447879
+5,Prevalence,161,Bangladesh,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,8.969287319565273,19.217746153379426,3.296362328107335
+5,Prevalence,161,Bangladesh,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,10.499241687262623,21.715581067880727,3.6693550383010036
+5,Prevalence,161,Bangladesh,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,7.960516173013588,16.831676035850535,2.7963725023813217
+5,Prevalence,161,Bangladesh,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.060293498500817576,0.12555936026616482,0.02105479375235286
+5,Prevalence,161,Bangladesh,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.037300133348861675,0.07921226711069289,0.01253829656480819
+5,Prevalence,161,Bangladesh,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,8.848074757442115,18.76642980136485,3.050892247644071
+5,Prevalence,161,Bangladesh,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,6.909865193691147,14.831577926648247,2.351508958883917
+5,Prevalence,161,Bangladesh,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,59.07075225685043,120.57526995400379,22.26943149545593
+5,Prevalence,161,Bangladesh,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,58.13636296862665,122.51551802470084,20.891049307479843
+5,Prevalence,161,Bangladesh,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,37.85656495929883,77.84873746700843,14.020859948831069
+5,Prevalence,161,Bangladesh,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,26.64268220203962,55.04053664574947,9.853265164508233
+5,Prevalence,161,Bangladesh,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,30.214946725394036,61.80957581924794,10.979661013457171
+5,Prevalence,161,Bangladesh,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,21.37098859235978,43.47142847552436,8.102894538227801
+5,Prevalence,161,Bangladesh,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,23.313348964912397,47.70194026644882,8.562975542833147
+5,Prevalence,161,Bangladesh,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,16.718023214341358,34.95486242967255,6.220851620147196
+5,Prevalence,161,Bangladesh,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,17.721736538326155,36.38077270744259,6.438403396624838
+5,Prevalence,161,Bangladesh,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,13.08204480485223,27.25487922122122,4.810300943658498
+5,Prevalence,161,Bangladesh,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,10.438948188761806,21.611873362658972,3.650507214154619
+5,Prevalence,161,Bangladesh,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,7.923216039664725,16.78380951015186,2.774579996725472
+5,Prevalence,161,Bangladesh,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,91.44556379746649,185.58180263573726,34.5420524472221
+5,Prevalence,161,Bangladesh,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,101.22470586999225,204.70248334597892,38.03019009696989
+5,Prevalence,180,Kenya,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,22.219727820619323,43.87935997183448,9.640470398435221
+5,Prevalence,180,Kenya,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,35.497425983893635,67.73934162064614,17.213881295471
+5,Prevalence,180,Kenya,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,6.226575744959639e-05,0.00011082306654107866,3.138029899197658e-05
+5,Prevalence,180,Kenya,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.00010899142259725175,0.00019321515035637253,5.446503984836032e-05
+5,Prevalence,180,Kenya,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.0009634035190649355,0.001766811229674774,0.0004708262377389996
+5,Prevalence,180,Kenya,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.0017344583809920495,0.003242550845415303,0.000828654367245982
+5,Prevalence,180,Kenya,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.525411650995145,1.0579059251113425,0.21083965286024117
+5,Prevalence,180,Kenya,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1.3274359192893566,2.572702174872562,0.5574993652233557
+5,Prevalence,180,Kenya,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,21.69329050034766,42.91136540187469,9.355821543114685
+5,Prevalence,180,Kenya,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,34.16814661480069,65.64568065986062,16.508581546373026
+5,Prevalence,180,Kenya,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,16.24573128496382,35.00077257389927,4.739675339767904
+5,Prevalence,180,Kenya,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,39.69000500351729,81.17099629119551,16.207225645283277
+5,Prevalence,180,Kenya,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,3.9223746871961787,11.53690311098564,1.2195692388992272
+5,Prevalence,180,Kenya,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,31.417296336529322,66.00596807854822,10.936135903664857
+5,Prevalence,180,Kenya,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,115.59284729199679,219.0797188093282,56.10590695406546
+5,Prevalence,180,Kenya,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,88.81953957577963,170.01162684312294,39.479175289001375
+5,Prevalence,180,Kenya,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,213.57537836976002,384.1998591844609,104.5583257687336
+5,Prevalence,180,Kenya,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,221.43549486457476,424.4761102532367,100.33899116329175
+5,Prevalence,180,Kenya,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,142.91003184375148,267.3501541841959,67.11888001702505
+5,Prevalence,180,Kenya,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,156.68977803423243,313.2036021229536,65.40757363442907
+5,Prevalence,180,Kenya,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,140.66363635734982,269.44035478234855,62.18385586474013
+5,Prevalence,180,Kenya,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,157.35978507381313,318.5648579402221,61.38680260358856
+5,Prevalence,180,Kenya,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,94.2885954475421,183.31995102953132,37.38583703305949
+5,Prevalence,180,Kenya,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,80.88309299698754,167.84431129832544,25.672591955694344
+5,Prevalence,180,Kenya,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,94.04671010501289,193.33651535457682,33.95351540482041
+5,Prevalence,180,Kenya,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,63.693142701943636,152.45087869816817,16.70928693300885
+5,Prevalence,180,Kenya,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,59.44167420390134,128.255038286559,19.965679503489692
+5,Prevalence,180,Kenya,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,27.56333556761046,72.64365252541154,6.847278026977253
+5,Prevalence,180,Kenya,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,77.57480536800037,157.4471227413737,29.97999260262831
+5,Prevalence,180,Kenya,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,42.664204642232896,93.67508113158527,13.54809142600172
+5,Prevalence,180,Kenya,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,55.05491474190924,114.5489665385157,23.645091735944582
+5,Prevalence,180,Kenya,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,42.60264015575011,89.35884426571974,16.318168027547546
+5,Prevalence,180,Kenya,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,26.304116181141268,51.95935513659712,11.73558500893239
+5,Prevalence,180,Kenya,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,8.115433575808785,18.786446994260032,2.440293426512547
+5,Prevalence,180,Kenya,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,9.260510516183015,18.526849518049296,3.592897944559794
+5,Prevalence,180,Kenya,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1.5656305824807601,3.8908514840401085,0.48608247469509985
+5,Prevalence,180,Kenya,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,23.271645015104813,42.160717561903745,11.343435724033593
+5,Prevalence,180,Kenya,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,17.2490564525554,33.32351903254485,7.6372460456585864
+5,Prevalence,180,Kenya,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,17.967313925820307,33.53857935348025,8.958710099505373
+5,Prevalence,180,Kenya,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,19.58071509206303,37.08690416883984,9.611370046125716
+5,Prevalence,180,Kenya,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,17.811118217126996,31.311208753132334,9.64042687176901
+5,Prevalence,180,Kenya,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,25.42478736179212,45.761591329518275,13.137883942136085
+5,Prevalence,180,Kenya,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1130.15113137738,1892.8152121393255,647.3428790863422
+5,Prevalence,180,Kenya,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1060.251364001565,1718.1657565954038,608.287849008315
+5,Prevalence,180,Kenya,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,20.168105972159996,43.299708901289634,6.974596939367087
+5,Prevalence,180,Kenya,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,71.10730134004662,141.11093406894216,31.351582884693286
+5,Prevalence,180,Kenya,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,860.5188736193145,1424.7899749292028,462.2916463560271
+5,Prevalence,180,Kenya,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,796.4441688149416,1301.341501704126,437.1059108129294
+5,Prevalence,180,Kenya,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,168.19434680723387,321.57784188117085,82.62157215454081
+5,Prevalence,180,Kenya,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,94.94790895627254,195.47888459252297,40.56251211475655
+5,Prevalence,180,Kenya,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,59.050077158052126,106.2289822501431,31.653576720539117
+5,Prevalence,180,Kenya,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,62.254558906410544,115.56026973580107,31.82214020329628
+5,Prevalence,180,Kenya,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.5264373202716597,1.0590940772353832,0.2113419048112225
+5,Prevalence,180,Kenya,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1.329279369092946,2.575690797072175,0.5585784691442954
+5,Prevalence,180,Kenya,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,11.436293775524712,20.661401305283647,6.135197900363478
+5,Prevalence,180,Kenya,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,14.942715745254896,26.878596290374897,7.728375437782043
+5,Prevalence,180,Kenya,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,4.726850336477937,8.41898441589639,2.4288719967338204
+5,Prevalence,180,Kenya,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,7.2664381452967435,13.119652022844281,3.662485164848722
+5,Prevalence,180,Kenya,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1.3503772421531401,2.4669123458812163,0.660800879451761
+5,Prevalence,180,Kenya,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,2.5340004561293052,4.565778596162801,1.2478049825291175
+5,Prevalence,180,Kenya,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,972.1704502926038,1663.8682303970484,550.1572326499705
+5,Prevalence,180,Kenya,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,864.8270971018451,1432.1391018622528,493.9063395705905
+5,Prevalence,180,Kenya,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,42.38783379277932,83.02004140171566,18.80274985858704
+5,Prevalence,180,Kenya,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,106.60472732394025,200.6225347033162,52.61745026894943
+5,Prevalence,180,Kenya,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,191.46599182233868,356.4881545036566,97.76341254179752
+5,Prevalence,180,Kenya,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,112.19696540882794,223.15101552189367,52.28775442621025
+5,Prevalence,180,Kenya,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.0010256692765145319,0.0018686116294556882,0.0005019305082876703
+5,Prevalence,180,Kenya,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.0018434498035893013,0.0034140691001562514,0.0008827440580298683
+5,Prevalence,180,Kenya,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,758.5950719228437,1307.250960257778,420.6771462884179
+5,Prevalence,180,Kenya,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,643.3916022372704,1094.4666888806246,352.393270721133
+5,Prevalence,180,Kenya,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,157.9806810847761,284.94996483647583,84.33483479515134
+5,Prevalence,180,Kenya,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,195.4242668997199,342.7223280252572,103.4488351755473
+5,Prevalence,180,Kenya,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,333.09060034895305,594.2610957679597,172.10022256014378
+5,Prevalence,180,Kenya,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,341.6723307768837,618.5337287281933,174.81093528430225
+5,Prevalence,180,Kenya,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,6.374824441602287,11.443610816229105,3.2946943151690062
+5,Prevalence,180,Kenya,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,10.482071616537224,19.094801712280923,5.243416930820958
+5,Prevalence,180,Kenya,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,119.51522197919296,226.96344229060742,58.67825779884977
+5,Prevalence,180,Kenya,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,120.23683591230896,225.74428743033613,54.70196901242025
+5,Prevalence,180,Kenya,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,942.0160536745109,1575.4478931845038,521.4652911201892
+5,Prevalence,180,Kenya,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,870.5256697937039,1418.8188982728705,492.79795317153815
+5,Prevalence,180,Kenya,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,38.46545910558314,75.27343836619988,16.913436291782602
+5,Prevalence,180,Kenya,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,75.18743098741092,143.21875033260963,36.508866254209785
+5,Prevalence,180,Kenya,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,135.76095326415677,248.9020583218517,70.25596933647809
+5,Prevalence,180,Kenya,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,159.92684091582623,285.7923027059665,81.80129938673193
+5,Prevalence,180,Kenya,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,707.0304893104002,1184.1013729522112,391.9337300417066
+5,Prevalence,180,Kenya,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,705.1876905453875,1160.096909945551,391.51729852571606
+5,Prevalence,180,Kenya,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,531.3506479575576,915.079251270369,280.9320644719467
+5,Prevalence,180,Kenya,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,486.1891343745872,837.0768700986365,256.91959788484746
+5,Prevalence,180,Kenya,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,149.66961859728562,268.8519319170627,78.96020042407062
+5,Prevalence,180,Kenya,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,114.5382632204502,212.63999833869477,58.70944444064794
+5,Prevalence,180,Kenya,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,76.80358563824942,140.50364281399854,39.81195704794006
+5,Prevalence,180,Kenya,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,46.510835702907976,87.60976291029816,22.708126175697114
+5,Prevalence,180,Kenya,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,32.53215553128783,60.57316524947164,15.233127078228033
+5,Prevalence,180,Kenya,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,18.814687035036158,36.904660617650464,8.438181223507971
+5,Prevalence,180,Kenya,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,35.7784321429473,65.57292971301331,18.856007444224154
+5,Prevalence,180,Kenya,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,45.00550245385515,81.90048993038495,23.290053576981148
+5,Prevalence,180,Kenya,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.29759686297120874,0.5595408303526811,0.13336502282904775
+5,Prevalence,180,Kenya,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,0.6816330151111758,1.2741859629269712,0.30848024651335093
+5,Prevalence,180,Kenya,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,29.40360770134502,53.205334378288896,15.10448924987607
+5,Prevalence,180,Kenya,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,34.523430837317925,63.17265238429148,17.520085439375716
+5,Prevalence,180,Kenya,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,822.500831695318,1403.6264781763568,453.66407393625605
+5,Prevalence,180,Kenya,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,750.2888338813948,1240.8439449809389,412.938665841192
+5,Prevalence,180,Kenya,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,148.02164449216127,266.9953421620372,77.70992216113842
+5,Prevalence,180,Kenya,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,111.32262974920972,207.99590075354985,56.574369490869756
+5,Prevalence,180,Kenya,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,92.96672975025206,167.55609564812576,49.187714061114185
+5,Prevalence,180,Kenya,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,68.71998959345962,128.15053881178451,35.05650889040106
+5,Prevalence,180,Kenya,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,66.66261356911077,118.11053936656006,35.16416360368089
+5,Prevalence,180,Kenya,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,60.60455601765083,113.05963685920605,30.75285541824096
+5,Prevalence,180,Kenya,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,57.40210305292777,103.18254520977135,30.815969364949936
+5,Prevalence,180,Kenya,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,59.038925435170064,110.07021388448321,29.944629288501492
+5,Prevalence,180,Kenya,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,35.48083527997609,65.11009061097538,18.664588056103177
+5,Prevalence,180,Kenya,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,44.323869438743976,80.73155014234186,22.89219650454685
+5,Prevalence,180,Kenya,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,1071.1010542193278,1796.5623540397953,614.5302094624276
+5,Prevalence,180,Kenya,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2015,997.9968050951543,1633.0352951181544,575.2126362671421
+5,Prevalence,180,Kenya,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.12199688963700703,0.24085183185975242,0.05291397911608685
+5,Prevalence,180,Kenya,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.1948995485463358,0.37184456441000285,0.09453111757353012
+5,Prevalence,180,Kenya,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.4187491889974765e-07,6.083251299984819e-07,1.7232777140828422e-07
+5,Prevalence,180,Kenya,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.98438557776523e-07,1.060428600060275e-06,2.990259862026507e-07
+5,Prevalence,180,Kenya,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.289565447803614e-06,9.703045667342485e-06,2.5848129167450397e-06
+5,Prevalence,180,Kenya,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,9.523043173790743e-06,1.7784323909185465e-05,4.549162651863524e-06
+5,Prevalence,180,Kenya,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.002884800840855327,0.005811675653913924,0.0011566880044763406
+5,Prevalence,180,Kenya,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.007288719604873176,0.014122686091784558,0.0030614761622533584
+5,Prevalence,180,Kenya,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.119106457355785,0.2355531520822769,0.05135141883877169
+5,Prevalence,180,Kenya,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.18760070745973104,0.36035507037067965,0.09064122296174475
+5,Prevalence,180,Kenya,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.08920065104282739,0.19207765241948585,0.026012950056927133
+5,Prevalence,180,Kenya,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.21791554346558578,0.44567808226810846,0.08892444248860436
+5,Prevalence,180,Kenya,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.021536507122456486,0.06339981645929413,0.006697137492817223
+5,Prevalence,180,Kenya,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.1724991827160855,0.3623524623896724,0.06001602006835372
+5,Prevalence,180,Kenya,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.6346766214723171,1.2030686547014404,0.30801234325271293
+5,Prevalence,180,Kenya,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.48766376472102,0.933448410225493,0.21671703661785705
+5,Prevalence,180,Kenya,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.172664126620322,2.109349555658617,0.5739859688144211
+5,Prevalence,180,Kenya,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.2158232021444337,2.3302169131180315,0.5506523536142897
+5,Prevalence,180,Kenya,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.7846735275057285,1.4677521023113813,0.3685458779390039
+5,Prevalence,180,Kenya,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.8603094407991038,1.7197413586171004,0.3590861293960069
+5,Prevalence,180,Kenya,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.7723271975884577,1.4799869764107352,0.34146998601314754
+5,Prevalence,180,Kenya,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.8639837779299785,1.7494577601630423,0.337083921490787
+5,Prevalence,180,Kenya,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.5176934129244506,1.0062608669313653,0.20524522315182342
+5,Prevalence,180,Kenya,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.44408625061844736,0.9214030597910128,0.14096990062265208
+5,Prevalence,180,Kenya,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.5163685754401875,1.0620857236201984,0.18645199911584268
+5,Prevalence,180,Kenya,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.34971255424131514,0.8366501229515648,0.09173345509850472
+5,Prevalence,180,Kenya,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.32636661308206316,0.7043287262531378,0.10963094900461977
+5,Prevalence,180,Kenya,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.15133862616775307,0.3989329542221955,0.03759070873130792
+5,Prevalence,180,Kenya,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.42592674487703164,0.8644866053393737,0.1647091043844755
+5,Prevalence,180,Kenya,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.2342493570041998,0.5144639398986859,0.07437724129279043
+5,Prevalence,180,Kenya,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.30227582528367475,0.6285387674000038,0.1298458352000422
+5,Prevalence,180,Kenya,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.23391233551249987,0.49064278637171754,0.08962739420184479
+5,Prevalence,180,Kenya,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.14442241882141726,0.2852005876439429,0.06443940801964393
+5,Prevalence,180,Kenya,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.0445585159427842,0.10313975791482982,0.013389642389772177
+5,Prevalence,180,Kenya,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.0508443129087695,0.10164440254391967,0.019737195683458667
+5,Prevalence,180,Kenya,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.008596040355816188,0.021369307105819187,0.002666543743998981
+5,Prevalence,180,Kenya,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.12777297616304917,0.23151291125306217,0.06228672595176105
+5,Prevalence,180,Kenya,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.09470690584620602,0.18293804115425363,0.04190945755502522
+5,Prevalence,180,Kenya,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.09865150279596038,0.18414381665996304,0.049200556363060005
+5,Prevalence,180,Kenya,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.10750903766611296,0.20356900850224904,0.05275473084531632
+5,Prevalence,180,Kenya,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.09779300212382845,0.1719015389411211,0.05292522613886428
+5,Prevalence,180,Kenya,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.1395965875389597,0.25143261427267116,0.07211373114397027
+5,Prevalence,180,Kenya,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2015,6.205190905409548,10.393412202969067,3.5540609579122324
+5,Prevalence,180,Kenya,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.821360671216637,9.434231983198645,3.3402644605518885
+5,Prevalence,180,Kenya,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.11073715816528387,0.23781397916949076,0.038338668188818814
+5,Prevalence,180,Kenya,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.3904147261816713,0.7747665051844981,0.1720241800642983
+5,Prevalence,180,Kenya,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.724770074633526,7.823248143637858,2.5381695261300634
+5,Prevalence,180,Kenya,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.372917616622052,7.145659076385589,2.400561769007106
+5,Prevalence,180,Kenya,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.9234693018908932,1.7651703630236875,0.4536470141952512
+5,Prevalence,180,Kenya,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.5213162488153001,1.072257537572353,0.22275351300889015
+5,Prevalence,180,Kenya,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.324217481082838,0.5832551848855029,0.1737967756722279
+5,Prevalence,180,Kenya,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.3418125310512787,0.6345507424515853,0.17469635290575342
+5,Prevalence,180,Kenya,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.0028904322812220297,0.005818202454567233,0.0011594448722168189
+5,Prevalence,180,Kenya,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.007298841086604744,0.014139089631962563,0.003067394512872479
+5,Prevalence,180,Kenya,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.06279198894304416,0.11333761253030925,0.033679422317229264
+5,Prevalence,180,Kenya,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.08204446907119138,0.14758780437508515,0.04242235948417939
+5,Prevalence,180,Kenya,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.025952690358823687,0.04623291585372387,0.013332238571617208
+5,Prevalence,180,Kenya,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.039896407530518534,0.07206111962552143,0.020118114143772705
+5,Prevalence,180,Kenya,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.00741436335343481,0.013538182896826472,0.0036277402010093697
+5,Prevalence,180,Kenya,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.013913182234862738,0.02506078572194321,0.006852360832212005
+5,Prevalence,180,Kenya,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.3377802361349405,9.134131131386274,3.020535999446093
+5,Prevalence,180,Kenya,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.74838263176761,7.863175173597059,2.711771368489471
+5,Prevalence,180,Kenya,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.2327340478022909,0.4558686613269639,0.10319154009820815
+5,Prevalence,180,Kenya,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.5853142747280071,1.101552643066334,0.2887657954690989
+5,Prevalence,180,Kenya,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.0512422780539423,1.9570613692359555,0.5367797756661551
+5,Prevalence,180,Kenya,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.6160231546615061,1.2253552402155765,0.2871098777552786
+5,Prevalence,180,Kenya,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.631440366703362e-06,1.0265140625885793e-05,2.755350525058447e-06
+5,Prevalence,180,Kenya,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.0121481731567267e-05,1.8737251176808133e-05,4.84588243662546e-06
+5,Prevalence,180,Kenya,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.165116109514618,7.178810751263103,2.310238946137653
+5,Prevalence,180,Kenya,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.5325594296231766,6.009661035531616,1.9350960835811246
+5,Prevalence,180,Kenya,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.867410669274608,1.5651351505179816,0.4630469820551822
+5,Prevalence,180,Kenya,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.072978039449027,1.8819860767947507,0.5680381628160169
+5,Prevalence,180,Kenya,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.8288772552150954,3.262761910985179,0.9448333788641787
+5,Prevalence,180,Kenya,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,1.8759861495815393,3.3956976600525035,0.9596010833110765
+5,Prevalence,180,Kenya,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.035001013180784295,0.06279815184769667,0.018093167956791816
+5,Prevalence,180,Kenya,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.05755211846776832,0.10481029902195187,0.02879268506314566
+5,Prevalence,180,Kenya,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.6562131285947732,1.2458995556536065,0.3220773568803354
+5,Prevalence,180,Kenya,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.6601629474371055,1.2396936658111843,0.3002594827320532
+5,Prevalence,180,Kenya,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.172233326633014,8.651365304766417,2.862847902197633
+5,Prevalence,180,Kenya,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.779666156342337,7.7896361358846145,2.705213359922821
+5,Prevalence,180,Kenya,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.2111975406798344,0.4132675345321699,0.09282410384430519
+5,Prevalence,180,Kenya,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.4128150920119215,0.7865903683959085,0.2004824108290929
+5,Prevalence,180,Kenya,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.7454137796376008,1.3668065571349537,0.385841804824977
+5,Prevalence,180,Kenya,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.8780784909026912,1.5685633131849304,0.44919256403369856
+5,Prevalence,180,Kenya,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.882034886111276,6.501401325694138,2.1518851686235054
+5,Prevalence,180,Kenya,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,3.8718664362129833,6.370181614167387,2.149636403704911
+5,Prevalence,180,Kenya,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,2.917429326540888,5.024748291047296,1.5427516650738937
+5,Prevalence,180,Kenya,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,2.6694306497565976,4.599000043633346,1.41038220799592
+5,Prevalence,180,Kenya,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.8217600380966994,1.4759828912116486,0.4335061853666424
+5,Prevalence,180,Kenya,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.628879422862379,1.167660945693639,0.32230224855548206
+5,Prevalence,180,Kenya,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.42169121068919635,0.7716492703106114,0.21860937977157166
+5,Prevalence,180,Kenya,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.25537049981091936,0.48106842000261213,0.12468090359244326
+5,Prevalence,180,Kenya,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.17861728907181867,0.332570044660942,0.08364357753654063
+5,Prevalence,180,Kenya,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.10330294620202221,0.20261865241060514,0.0463199393087349
+5,Prevalence,180,Kenya,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.19644450491978885,0.3602003388146923,0.10354599080206005
+5,Prevalence,180,Kenya,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.24710562520507268,0.4496900463780926,0.12785213882721516
+5,Prevalence,180,Kenya,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.0016339594685257986,0.003071431560801335,0.0007318847086083191
+5,Prevalence,180,Kenya,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.003742528702387045,0.00699439582402961,0.0016938459090021893
+5,Prevalence,180,Kenya,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.16144349173900455,0.2922140735636346,0.0829649991704766
+5,Prevalence,180,Kenya,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.18955350673730434,0.3468367517136465,0.09617953797678151
+5,Prevalence,180,Kenya,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.516020198038241,7.707275418923995,2.49101218518475
+5,Prevalence,180,Kenya,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,4.119503208905231,6.814035270530437,2.2672656654047554
+5,Prevalence,180,Kenya,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.812711715274739,1.4659995463500903,0.42663987009277293
+5,Prevalence,180,Kenya,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.6112237119251293,1.1421647747078167,0.31058415284404034
+5,Prevalence,180,Kenya,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.5104358899910642,0.9201025098236589,0.2700735388144825
+5,Prevalence,180,Kenya,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.3773113764126293,0.7036853798499224,0.19250209715288477
+5,Prevalence,180,Kenya,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.3660134711696469,0.6487589339902072,0.1930684941011417
+5,Prevalence,180,Kenya,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.3327528604698451,0.6207356147569397,0.16880111700709474
+5,Prevalence,180,Kenya,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.31516915826087744,0.566540454011386,0.16924033279333317
+5,Prevalence,180,Kenya,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.32415682011402897,0.604455762020648,0.1643636737370162
+5,Prevalence,180,Kenya,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.19481054545126306,0.3574877928528715,0.10249542319886888
+5,Prevalence,180,Kenya,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,0.24336309650268564,0.4432872518350511,0.12566859262954114
+5,Prevalence,180,Kenya,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.880973424326711,9.86337731639716,3.3739585614786596
+5,Prevalence,180,Kenya,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2015,5.479548140165359,8.965958008190283,3.157469279405575

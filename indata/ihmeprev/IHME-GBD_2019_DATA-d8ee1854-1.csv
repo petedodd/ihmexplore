@@ -1,0 +1,685 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,194,Lesotho,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2019,607.9471015536787,935.3114105076432,374.2800340877172
+5,Prevalence,194,Lesotho,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2019,820.0880075219642,1242.131760801334,505.7447059670642
+5,Prevalence,194,Lesotho,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.00196889880540288,0.0027187056108091347,0.0013625330926741906
+5,Prevalence,194,Lesotho,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.0026614074707462187,0.0036895975107562613,0.0018627423444057037
+5,Prevalence,194,Lesotho,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.02854034773665579,0.039306949605843744,0.019894271823823938
+5,Prevalence,194,Lesotho,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.03873816812783065,0.05375510522898533,0.027178990631599606
+5,Prevalence,194,Lesotho,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2019,25.370831893044024,41.581379083744785,12.446025761392184
+5,Prevalence,194,Lesotho,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2019,41.83235249358197,63.72863664955922,24.67362902137246
+5,Prevalence,194,Lesotho,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2019,582.5457604140927,900.5549384792707,354.12867254750836
+5,Prevalence,194,Lesotho,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2019,778.2142554527836,1194.696946069557,475.9145959450876
+5,Prevalence,194,Lesotho,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2019,587.0267652715672,996.2440716119312,307.97428921930367
+5,Prevalence,194,Lesotho,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2019,871.7844973414501,1414.010964808088,478.7837075182893
+5,Prevalence,194,Lesotho,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,186.89057090942532,410.1439050133525,27.8401958019008
+5,Prevalence,194,Lesotho,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,521.2332060345755,898.1494323608694,227.33573724632043
+5,Prevalence,194,Lesotho,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,893.8372091792263,1444.1436741860464,484.45248530597974
+5,Prevalence,194,Lesotho,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,1120.2432878142506,1903.409339057205,510.09854231572234
+5,Prevalence,194,Lesotho,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2019,1120.7662691296246,1885.4976297858793,590.9608885523216
+5,Prevalence,194,Lesotho,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2019,2298.054448487801,4024.050995794705,1005.2518728794419
+5,Prevalence,194,Lesotho,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2019,946.9990473373365,1887.0125963398748,290.1353843024639
+5,Prevalence,194,Lesotho,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2019,1266.63100539513,2932.9779384360145,212.40155266471746
+5,Prevalence,194,Lesotho,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2019,684.7279905755853,1623.0632697595306,143.29009267822244
+5,Prevalence,194,Lesotho,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2019,1005.6203630029902,2570.7807562009134,219.63149511054442
+5,Prevalence,194,Lesotho,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2019,407.86120526296816,1156.652164885816,150.01661186798816
+5,Prevalence,194,Lesotho,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2019,297.38340864708243,841.5134396065225,158.82436776888107
+5,Prevalence,194,Lesotho,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2019,354.3786323325557,1040.4840981878885,132.269655745236
+5,Prevalence,194,Lesotho,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2019,201.23918405727667,493.0001578434836,112.94527884170594
+5,Prevalence,194,Lesotho,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,141.25830725604004,391.7679524681793,75.7112290447868
+5,Prevalence,194,Lesotho,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,103.28717769274678,156.6789373528582,62.68740838865683
+5,Prevalence,194,Lesotho,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2019,135.26364029642346,423.7813445661654,66.69339315811291
+5,Prevalence,194,Lesotho,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2019,90.95771840178413,132.37941408886144,55.594364113464216
+5,Prevalence,194,Lesotho,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2019,94.1675794740399,285.1173335970289,45.96895432201477
+5,Prevalence,194,Lesotho,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2019,62.96372844375066,89.28030092848195,41.622320605842575
+5,Prevalence,194,Lesotho,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2019,68.54016350181558,211.42775543172002,28.469001408849365
+5,Prevalence,194,Lesotho,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2019,37.46396522291083,52.90776790772241,25.299734919319786
+5,Prevalence,194,Lesotho,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2019,26.59042394475617,75.40347748498128,14.40387876751169
+5,Prevalence,194,Lesotho,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2019,19.693551208867383,27.71040545048444,12.681161528168115
+5,Prevalence,194,Lesotho,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,43.874350504308225,100.43277342735472,10.551015237843572
+5,Prevalence,194,Lesotho,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,19.730450240256587,39.69234655168755,12.587408357555635
+5,Prevalence,194,Lesotho,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2019,39.32965553503812,75.78338552841257,7.191763584804057
+5,Prevalence,194,Lesotho,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2019,26.367249624254434,74.8120795622954,8.453678112256815
+5,Prevalence,194,Lesotho,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2019,39.915195710283385,57.150909299631536,24.96274588613243
+5,Prevalence,194,Lesotho,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2019,43.9979006868867,73.33396312088585,20.815371545533186
+5,Prevalence,194,Lesotho,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2019,6379.374107774672,7855.092903580899,5111.939001085575
+5,Prevalence,194,Lesotho,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2019,8806.739149823978,11816.991479747343,6427.656087245218
+5,Prevalence,194,Lesotho,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,773.9173361809926,1285.088905958753,397.14514722470994
+5,Prevalence,194,Lesotho,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,1393.0177033760253,2156.323928555713,809.4557838254325
+5,Prevalence,194,Lesotho,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,4549.828661073337,6111.044179632548,3155.2566867406686
+5,Prevalence,194,Lesotho,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,6292.458875097278,9242.78884705688,3891.5711964595416
+5,Prevalence,194,Lesotho,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2019,324.5618072170351,735.5108704530855,184.0009911370489
+5,Prevalence,194,Lesotho,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2019,211.07896327731302,270.2697003085366,158.68703405288682
+5,Prevalence,194,Lesotho,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2019,123.11920174962972,216.99695906871125,49.19253898575521
+5,Prevalence,194,Lesotho,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2019,90.09560055139771,178.97162506419937,44.9064125168178
+5,Prevalence,194,Lesotho,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2019,25.401341139586084,41.62208702135422,12.46819697820721
+5,Prevalence,194,Lesotho,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2019,41.873752069180554,63.78879941672977,24.70545746062852
+5,Prevalence,194,Lesotho,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2019,28.0331582198865,41.35045522755556,16.45835902341674
+5,Prevalence,194,Lesotho,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2019,32.21993970381112,53.31102504814935,15.366151717662984
+5,Prevalence,194,Lesotho,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,9.354099600561032,13.333474676439284,6.00112408557458
+5,Prevalence,194,Lesotho,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,9.560771625438807,16.472653006732557,3.836921814458807
+5,Prevalence,194,Lesotho,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2019,2.1526888101029424,3.207953055958336,1.2337552401792116
+5,Prevalence,194,Lesotho,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2019,1.9195480080994385,3.8099197988895566,0.40115983102190295
+5,Prevalence,194,Lesotho,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2019,4103.672460860775,5473.021861294514,2887.636508517262
+5,Prevalence,194,Lesotho,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2019,5473.3901511117365,8231.147491798298,3381.3508051740137
+5,Prevalence,194,Lesotho,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,1381.8644377346714,2069.2152050778377,879.2465420720591
+5,Prevalence,194,Lesotho,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,2213.10571089799,3169.9689177164246,1445.2403216408015
+5,Prevalence,194,Lesotho,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,368.4361577213433,792.8900308206838,214.45413567826
+5,Prevalence,194,Lesotho,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,230.8094135175696,293.48418305944267,177.23776619712925
+5,Prevalence,194,Lesotho,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.03050924654205867,0.04202565521665288,0.02125553502946227
+5,Prevalence,194,Lesotho,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.041399575598576877,0.057430291353278505,0.029041885132423475
+5,Prevalence,194,Lesotho,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2019,2982.90619173115,4338.6888606461625,1789.5283595807823
+5,Prevalence,194,Lesotho,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2019,3175.3357026239364,5512.738222622299,1520.349602490545
+5,Prevalence,194,Lesotho,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2019,2275.7016469138975,3207.324495864226,1583.7798246198922
+5,Prevalence,194,Lesotho,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2019,3333.3489987122407,4566.384985567422,2242.024916582218
+5,Prevalence,194,Lesotho,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2019,2201.4940492182764,3331.001763573692,1401.582776970224
+5,Prevalence,194,Lesotho,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2019,3939.5309423366275,6003.1702720312915,2288.5767902642733
+5,Prevalence,194,Lesotho,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2019,11.88203749039688,16.980412949021385,7.416328376808011
+5,Prevalence,194,Lesotho,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2019,11.777960983075584,20.81204000424763,4.293804559747397
+5,Prevalence,194,Lesotho,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,1080.7277800886516,1727.210309673623,572.4006498502257
+5,Prevalence,194,Lesotho,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,1641.4764938488263,2622.7626038120634,845.5378804215017
+5,Prevalence,194,Lesotho,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2019,4871.982872279184,6368.130249890018,3528.6729802720233
+5,Prevalence,194,Lesotho,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2019,6904.649799533638,9920.885624921259,4446.669166477784
+5,Prevalence,194,Lesotho,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2019,1194.973866825246,1834.3186569048783,746.614849844512
+5,Prevalence,194,Lesotho,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2019,1691.8725048634144,2530.9242704434214,1080.8413415502635
+5,Prevalence,194,Lesotho,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,1667.7545453602188,2464.2171049947565,1060.674047445056
+5,Prevalence,194,Lesotho,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,2513.260991190276,3614.653609195971,1546.141884506122
+5,Prevalence,194,Lesotho,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2019,4054.191721484741,5688.672925326077,2576.798436685041
+5,Prevalence,194,Lesotho,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2019,5987.932513347254,8959.134834832274,3580.5046696265613
+5,Prevalence,194,Lesotho,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,2535.2251827644855,3977.9418539841668,1323.5836938692298
+5,Prevalence,194,Lesotho,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,2874.1611387952257,5194.853730187799,1231.8590443125022
+5,Prevalence,194,Lesotho,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2019,312.41736867024144,581.1698990558705,176.16876597215705
+5,Prevalence,194,Lesotho,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2019,210.21684542692662,301.4516668754453,152.59816355683455
+5,Prevalence,194,Lesotho,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2019,178.3345934859181,351.2038498560029,82.26581904688423
+5,Prevalence,194,Lesotho,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2019,103.25521629628923,165.2314220275893,70.57365693844899
+5,Prevalence,194,Lesotho,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,70.4647744490644,149.61683175618018,27.813179242424866
+5,Prevalence,194,Lesotho,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,39.42400144912397,64.82207986666302,26.99089639356459
+5,Prevalence,194,Lesotho,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2019,79.24485124532151,132.13307092839597,34.415964778597726
+5,Prevalence,194,Lesotho,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2019,70.36515031114115,144.1154246618561,29.77481940129687
+5,Prevalence,194,Lesotho,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2019,0.37524907973290433,0.6278392630185103,0.16846374957718055
+5,Prevalence,194,Lesotho,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2019,0.29764134953733595,0.7342417670700921,0.0605557372894395
+5,Prevalence,194,Lesotho,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2019,67.3628137549246,117.10534754756398,24.47774965623007
+5,Prevalence,194,Lesotho,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2019,58.58718932806556,126.99675567016429,24.349798470258115
+5,Prevalence,194,Lesotho,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2019,3791.2550921905336,5194.411465588745,2500.1182683760776
+5,Prevalence,194,Lesotho,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2019,5263.173305684811,8029.305489049909,3131.7192898415565
+5,Prevalence,194,Lesotho,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,309.8894307804055,578.4904366949114,174.1285715576334
+5,Prevalence,194,Lesotho,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,207.99965606928984,297.76173196076473,151.16763930364806
+5,Prevalence,194,Lesotho,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,215.72185130636564,383.8734742580941,106.68244883423435
+5,Prevalence,194,Lesotho,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,145.0359276255392,227.9573496808026,94.22984089999532
+5,Prevalence,194,Lesotho,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,147.18168780455005,263.1327912451999,67.87165466997914
+5,Prevalence,194,Lesotho,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,107.57196240262833,193.36042128090156,61.334919936508065
+5,Prevalence,194,Lesotho,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,120.59126385979388,213.63649189347396,47.424087187563
+5,Prevalence,194,Lesotho,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,87.87841119376095,174.51534022660792,43.991820089177125
+5,Prevalence,194,Lesotho,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2019,78.86960216558859,131.80370179147835,33.98976542019583
+5,Prevalence,194,Lesotho,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2019,70.0675089616038,143.65609403882672,29.63655532747095
+5,Prevalence,194,Lesotho,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2019,6256.254906025043,7725.94305006082,4962.672882108013
+5,Prevalence,194,Lesotho,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2019,8716.64354927258,11761.594993549503,6261.608455175538
+5,Prevalence,184,Mozambique,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2019,3941.1157172448516,7052.462748478155,1634.907894204041
+5,Prevalence,184,Mozambique,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2019,5840.606976984964,9841.236703613646,2984.433455960355
+5,Prevalence,184,Mozambique,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.014323923481471408,0.02052573027198056,0.009290180125561648
+5,Prevalence,184,Mozambique,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.02077589477199928,0.02918117493783029,0.014120033998379805
+5,Prevalence,184,Mozambique,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.2080673388726165,0.29812390258532306,0.1367066149841057
+5,Prevalence,184,Mozambique,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.3028877492887763,0.4231686985536402,0.20739394094056623
+5,Prevalence,184,Mozambique,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2019,46.11963103592123,137.2848957003417,23.43202565495924
+5,Prevalence,184,Mozambique,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2019,162.5742284817076,338.18731710088775,36.09227636749524
+5,Prevalence,184,Mozambique,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2019,3894.7736949465757,7016.657985210408,1608.5265146044449
+5,Prevalence,184,Mozambique,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2019,5677.709084859194,9600.735810346278,2900.0023068615005
+5,Prevalence,184,Mozambique,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2019,3738.312528153706,6929.595821465297,1414.867495889445
+5,Prevalence,184,Mozambique,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2019,7777.253041409141,13429.924481170125,3851.076843922157
+5,Prevalence,184,Mozambique,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,386.9003673639788,1383.2796324911844,142.61059700301516
+5,Prevalence,184,Mozambique,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,3988.6295994375123,7184.216077915886,1802.871323777916
+5,Prevalence,184,Mozambique,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,7658.293463699882,12192.201187473833,4114.7819858030225
+5,Prevalence,184,Mozambique,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,5755.509901187523,11219.39851082629,1507.0681074625272
+5,Prevalence,184,Mozambique,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2019,10595.087042786286,16951.320816903568,5692.65193388722
+5,Prevalence,184,Mozambique,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2019,14102.361562727501,25872.112821622894,6068.659212741543
+5,Prevalence,184,Mozambique,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2019,6825.224707257409,12919.37042347419,2467.8628638120344
+5,Prevalence,184,Mozambique,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2019,5044.097649073236,12968.638081524059,1076.979285376748
+5,Prevalence,184,Mozambique,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2019,5607.81193529954,11405.22519825685,1285.664806904274
+5,Prevalence,184,Mozambique,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2019,6589.522208862696,14413.158133321947,1144.305063376163
+5,Prevalence,184,Mozambique,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2019,3082.4951890182333,7222.5074771575655,660.0912224694501
+5,Prevalence,184,Mozambique,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2019,1738.494885091402,5302.274455083165,726.9905765901046
+5,Prevalence,184,Mozambique,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2019,4313.675221793378,8963.89667048716,718.6433458032656
+5,Prevalence,184,Mozambique,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2019,1795.5951537901574,5376.082104789208,586.9590553789952
+5,Prevalence,184,Mozambique,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,1911.5534312707462,5076.687068957081,396.864753740487
+5,Prevalence,184,Mozambique,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,552.7422147898122,1770.1352800599145,293.1312840701376
+5,Prevalence,184,Mozambique,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2019,3552.164838893415,6650.950985974679,1107.2036566526895
+5,Prevalence,184,Mozambique,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2019,1207.133626830893,3481.8087629237903,307.98212179784616
+5,Prevalence,184,Mozambique,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2019,2713.582773667747,4672.04807857241,1136.9077230893881
+5,Prevalence,184,Mozambique,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2019,1429.940938366895,3186.6506835564296,243.46768522970052
+5,Prevalence,184,Mozambique,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2019,1751.3577438431935,2898.5150215751382,861.7458497249684
+5,Prevalence,184,Mozambique,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2019,443.312531161307,1192.3218084449127,121.80398320875896
+5,Prevalence,184,Mozambique,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2019,503.6002028940679,950.5117827028149,117.4581477352434
+5,Prevalence,184,Mozambique,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2019,77.05174493245175,214.15837829498636,44.91694378748918
+5,Prevalence,184,Mozambique,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,1274.52502529838,1891.8337594123932,727.836528745937
+5,Prevalence,184,Mozambique,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,973.6348579665099,1602.0013490330452,442.81391254575476
+5,Prevalence,184,Mozambique,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2019,913.0257114128738,1387.8057189880662,549.299927690563
+5,Prevalence,184,Mozambique,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2019,974.5249407927112,1505.9789828619705,549.2037067065021
+5,Prevalence,184,Mozambique,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2019,782.4542256249798,1028.6771257539258,582.5273009686746
+5,Prevalence,184,Mozambique,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2019,1245.7521285122666,1667.0097136387571,891.5245298087306
+5,Prevalence,184,Mozambique,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2019,59551.18012552267,71390.91960068655,49611.80897980534
+5,Prevalence,184,Mozambique,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2019,59536.16396191698,75260.4297679732,46872.053724386606
+5,Prevalence,184,Mozambique,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,4125.212895517685,7666.117158764569,1656.600296006005
+5,Prevalence,184,Mozambique,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,11765.88264084665,18947.100235670383,6506.523501042384
+5,Prevalence,184,Mozambique,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,39994.14099112548,52122.30526726292,29496.099924050777
+5,Prevalence,184,Mozambique,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,35578.323575522336,52266.09154163402,21956.845653496024
+5,Prevalence,184,Mozambique,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2019,8520.705559298423,13153.033676954235,4776.693501462755
+5,Prevalence,184,Mozambique,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2019,3157.438841291547,6745.783681124945,939.9489133719245
+5,Prevalence,184,Mozambique,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2019,2970.004962336234,4097.044377495645,2024.2049013498497
+5,Prevalence,184,Mozambique,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2019,3193.911927271487,4452.509007504294,2071.644275041821
+5,Prevalence,184,Mozambique,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2019,46.34202229827532,137.61176962534776,23.583760237177227
+5,Prevalence,184,Mozambique,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2019,162.89789212576838,338.63393664362155,36.33423081943684
+5,Prevalence,184,Mozambique,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2019,522.5417710689273,711.7984280488604,377.7485194835842
+5,Prevalence,184,Mozambique,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2019,745.5525895260644,1028.1072997735132,512.7430949628153
+5,Prevalence,184,Mozambique,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,193.10722700895369,253.1991769332408,145.42082024511112
+5,Prevalence,184,Mozambique,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,342.0561457431521,455.77318649878765,246.11583054200023
+5,Prevalence,184,Mozambique,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2019,55.4672883477978,75.73239694664214,39.777127978168636
+5,Prevalence,184,Mozambique,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2019,122.86364798347044,168.62397040960218,86.70864040140447
+5,Prevalence,184,Mozambique,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2019,43826.558049060244,55593.09238995432,34081.7258653063
+5,Prevalence,184,Mozambique,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2019,36174.16444289784,51071.81031735945,24935.724983428147
+5,Prevalence,184,Mozambique,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,8066.328612762536,13538.568019548156,3913.9423755734265
+5,Prevalence,184,Mozambique,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2019,17606.48961783162,26733.502683326242,10858.44995314179
+5,Prevalence,184,Mozambique,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,9795.230584596806,14461.131321364097,5977.500208159214
+5,Prevalence,184,Mozambique,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,4131.073699258057,7757.756162596995,1867.3205031196583
+5,Prevalence,184,Mozambique,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.2223912623540879,0.31861803902420066,0.14602841594604646
+5,Prevalence,184,Mozambique,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2019,0.3236636440607756,0.4522234955198493,0.22152270100070465
+5,Prevalence,184,Mozambique,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2019,33231.47100627397,43869.038421474914,24399.365069266256
+5,Prevalence,184,Mozambique,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2019,22071.802880170337,33807.35427735448,12886.46119983855
+5,Prevalence,184,Mozambique,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2019,15724.622076462418,21961.906615084106,10180.552408209984
+5,Prevalence,184,Mozambique,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2019,23361.999519019137,33637.899477223844,14827.932811229673
+5,Prevalence,184,Mozambique,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2019,18640.280873850148,27527.353087296615,11222.041665886054
+5,Prevalence,184,Mozambique,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2019,23846.501063352534,38344.90701725247,13168.000151490365
+5,Prevalence,184,Mozambique,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2019,259.9124545560525,341.9985176472726,191.93893810255625
+5,Prevalence,184,Mozambique,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2019,500.199538986202,672.2055930179346,358.4942371113429
+5,Prevalence,184,Mozambique,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,8045.193831063861,12732.696483542912,4299.670685751757
+5,Prevalence,184,Mozambique,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,9744.139500625035,16493.170379481566,4312.923780601032
+5,Prevalence,184,Mozambique,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2019,43933.206197382875,55934.1105668764,33648.09626186448
+5,Prevalence,184,Mozambique,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2019,40774.08680179073,57209.93452636257,27663.455842169948
+5,Prevalence,184,Mozambique,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2019,7679.428245398558,12853.97652872443,3552.048159895894
+5,Prevalence,184,Mozambique,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2019,13617.860018394103,21488.948038791656,7620.088737715163
+5,Prevalence,184,Mozambique,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,11783.506359217567,17306.135218010208,7284.7563353961905
+5,Prevalence,184,Mozambique,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2019,17521.392542034177,26536.549941822504,10643.127888445671
+5,Prevalence,184,Mozambique,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2019,33768.912338061346,46064.92648442287,22882.496840539854
+5,Prevalence,184,Mozambique,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2019,33229.986206942354,49974.32668467466,19567.281675931918
+5,Prevalence,184,Mozambique,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,21740.760484639308,32055.783955916766,13249.35156227783
+5,Prevalence,184,Mozambique,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2019,15720.452111607305,28264.91996432601,6389.8475714866945
+5,Prevalence,184,Mozambique,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2019,7938.545682741242,10702.207669793355,5556.296422270192
+5,Prevalence,184,Mozambique,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2019,5144.2171417321415,7477.218362719898,3245.0851218444645
+5,Prevalence,184,Mozambique,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2019,4442.5086834485155,6097.218119057312,2966.384371388121
+5,Prevalence,184,Mozambique,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2019,2468.5240748529795,3682.6234600880757,1455.604794729535
+5,Prevalence,184,Mozambique,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,1778.1252281924478,2663.2786222946697,959.6198420966972
+5,Prevalence,184,Mozambique,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2019,1050.6866028989616,1707.6415364922302,500.1938230197732
+5,Prevalence,184,Mozambique,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2019,1695.4799370378535,2390.0738763616223,1179.5079538288946
+5,Prevalence,184,Mozambique,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2019,2220.2770693049774,3125.781178811491,1461.1595504025508
+5,Prevalence,184,Mozambique,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2019,11.337939199301047,16.86554797487888,6.9430876890734865
+5,Prevalence,184,Mozambique,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2019,35.27974525957947,53.09515760794576,21.115668905298538
+5,Prevalence,184,Mozambique,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2019,1435.5674824818009,2077.2397704387154,936.0289161518014
+5,Prevalence,184,Mozambique,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2019,1720.0775303187756,2530.890185205958,1063.4837266547327
+5,Prevalence,184,Mozambique,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2019,35888.01236631901,47820.81223605453,26226.147613980414
+5,Prevalence,184,Mozambique,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2019,31029.9473011657,46090.86013813025,19254.856522529277
+5,Prevalence,184,Mozambique,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,7871.740455194144,10625.072375286476,5497.282024477115
+5,Prevalence,184,Mozambique,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,4986.0737484890915,7314.811263938551,3105.228132648937
+5,Prevalence,184,Mozambique,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,5158.157681526396,6932.595622817922,3594.5379464386956
+5,Prevalence,184,Mozambique,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,3556.1328101221966,4968.198138411718,2319.3078534460556
+5,Prevalence,184,Mozambique,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,3406.799937683202,4681.5686513987,2282.9934911534615
+5,Prevalence,184,Mozambique,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,3112.820278960889,4340.996990762878,1977.7613862212781
+5,Prevalence,184,Mozambique,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,2903.1997347891347,4032.742513410203,1965.9430171485542
+5,Prevalence,184,Mozambique,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2019,3035.7685340284374,4265.924716028177,1923.6233131956542
+5,Prevalence,184,Mozambique,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2019,1684.1419978385525,2378.070407087332,1164.8146243856079
+5,Prevalence,184,Mozambique,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2019,2184.9973240453983,3091.4474789035503,1428.9721988692145
+5,Prevalence,184,Mozambique,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2019,56581.17516318644,68567.91380686426,46577.88484646896
+5,Prevalence,184,Mozambique,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2019,56342.25203464549,72068.6255465917,43434.91390742424
+5,Prevalence,184,Mozambique,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,222.05865331503634,574.539512326147,51.733101597420266
+5,Prevalence,184,Mozambique,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,328.27073129775,819.9144810897146,85.54645884787423
+5,Prevalence,184,Mozambique,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.000805348948480741,0.0019118319518710513,0.0002429214723027116
+5,Prevalence,184,Mozambique,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.001170536518494784,0.0028388872122008797,0.0003503756707995138
+5,Prevalence,184,Mozambique,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.011698061113205661,0.02767834468657968,0.003567902278522324
+5,Prevalence,184,Mozambique,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.01706268603944185,0.04127864928250112,0.005128559456310745
+5,Prevalence,184,Mozambique,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2.6187793829761388,9.427689337813284,0.5801750399072727
+5,Prevalence,184,Mozambique,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,9.207301184964807,27.573135770531124,1.4223125283743474
+5,Prevalence,184,Mozambique,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,219.4273705219985,569.963925024062,50.84249476544817
+5,Prevalence,184,Mozambique,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,319.04519689022726,794.6621853781251,83.40766416847968
+5,Prevalence,184,Mozambique,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,199.9635673149507,560.8952422158195,44.66979376876845
+5,Prevalence,184,Mozambique,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,414.8204954935329,1076.001381109354,112.88618659920688
+5,Prevalence,184,Mozambique,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,20.477684997350437,91.11063257843051,3.491688322333471
+5,Prevalence,184,Mozambique,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,212.59997410779184,534.3185746186738,50.87967149735893
+5,Prevalence,184,Mozambique,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,423.8085316616492,1019.4308353481487,121.74196124977215
+5,Prevalence,184,Mozambique,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,311.45406997542665,850.2244657531771,55.67384282634302
+5,Prevalence,184,Mozambique,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,579.7250426638702,1386.730801278396,150.53997112835745
+5,Prevalence,184,Mozambique,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,738.7288020796836,1736.0345086879627,171.4050346052646
+5,Prevalence,184,Mozambique,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,361.53142477544253,898.1248373954322,77.46819827291678
+5,Prevalence,184,Mozambique,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,251.52948831637792,835.7673869297812,27.697814264001828
+5,Prevalence,184,Mozambique,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,284.7268581697896,811.5273381654432,42.22790796276756
+5,Prevalence,184,Mozambique,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,312.4478474635205,975.0012759861257,37.79904428132684
+5,Prevalence,184,Mozambique,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,149.05805881552863,471.0006405162062,17.48612885980705
+5,Prevalence,184,Mozambique,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,80.93462244084195,309.40818142258695,16.85396011062269
+5,Prevalence,184,Mozambique,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,206.02854641370655,593.9317762168395,23.74326338507601
+5,Prevalence,184,Mozambique,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,82.94678385372698,312.2537207533979,14.340034779177863
+5,Prevalence,184,Mozambique,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,93.57994828897829,320.9637845282585,10.84390510169036
+5,Prevalence,184,Mozambique,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,26.243511674504894,82.50997787025125,6.550236753326061
+5,Prevalence,184,Mozambique,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,177.8543853257333,464.83817846894493,34.196968575740534
+5,Prevalence,184,Mozambique,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,56.36488574473877,195.49741861823628,7.164242391901415
+5,Prevalence,184,Mozambique,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,139.21320153750838,344.7953234567014,33.70922207830601
+5,Prevalence,184,Mozambique,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,67.45240305650825,193.50451600726385,8.495574011361148
+5,Prevalence,184,Mozambique,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,91.94653884027558,238.59816592275175,24.426613668349425
+5,Prevalence,184,Mozambique,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,21.718003117099325,80.24594586456283,3.328147123637662
+5,Prevalence,184,Mozambique,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,26.576198301228164,72.42569415514787,4.579630601672442
+5,Prevalence,184,Mozambique,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3.8165625424641756,11.449536838760219,1.04499121987731
+5,Prevalence,184,Mozambique,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,66.37068304259033,159.46677907036457,19.98140538927812
+5,Prevalence,184,Mozambique,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,48.26780406803738,113.28260529585721,12.632090546699803
+5,Prevalence,184,Mozambique,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,47.55848337944694,113.73357085760503,14.065179332742067
+5,Prevalence,184,Mozambique,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,49.1562327466068,120.75360913844652,13.670572695474371
+5,Prevalence,184,Mozambique,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,43.237168792712616,99.17676026510445,13.366855089426503
+5,Prevalence,184,Mozambique,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,67.75331119537132,150.18780107352777,21.513966597887034
+5,Prevalence,184,Mozambique,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3133.7149756357976,6758.424720133223,992.3695150230965
+5,Prevalence,184,Mozambique,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3074.505529173983,6905.611012576486,970.9927725978014
+5,Prevalence,184,Mozambique,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,220.44125231230112,616.0299941101903,51.229371792351124
+5,Prevalence,184,Mozambique,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,627.4204696013247,1596.9399203846672,179.63222389093673
+5,Prevalence,184,Mozambique,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2098.4584107889655,4686.6896423003745,629.1835282887731
+5,Prevalence,184,Mozambique,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1804.2851258040826,4181.352561701511,522.6276976399133
+5,Prevalence,184,Mozambique,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,435.59032400474536,1036.3608988940964,121.34831982780425
+5,Prevalence,184,Mozambique,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,149.35185446081056,414.8094127694154,27.981111042197966
+5,Prevalence,184,Mozambique,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,157.16633521474992,367.3005646210863,48.22584067468557
+5,Prevalence,184,Mozambique,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,165.1773480100155,380.40755035069475,50.90159946697855
+5,Prevalence,184,Mozambique,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2.6312827930378253,9.452978425076754,0.5841294856736167
+5,Prevalence,184,Mozambique,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,9.225534407522744,27.612721118441122,1.42848353872061
+5,Prevalence,184,Mozambique,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,28.829749802858146,65.983028856561,8.810669800502371
+5,Prevalence,184,Mozambique,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,40.441298247546875,92.9065010706137,12.54725060727861
+5,Prevalence,184,Mozambique,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,10.696911369529271,24.793960602151177,3.389213101594237
+5,Prevalence,184,Mozambique,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,18.654580058867644,41.39645090978957,6.089975835058031
+5,Prevalence,184,Mozambique,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3.0800218864251994,7.093242832832981,0.9716350181638914
+5,Prevalence,184,Mozambique,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,6.723014570515398,14.982255802380578,2.1564710875779536
+5,Prevalence,184,Mozambique,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2267.406538346811,4911.143464404104,717.9646094826569
+5,Prevalence,184,Mozambique,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1807.3602582994818,4135.463310990013,536.5993677917129
+5,Prevalence,184,Mozambique,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,442.4999056273375,1131.0744584182335,111.45511220777594
+5,Prevalence,184,Mozambique,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,955.6912008990748,2271.3160293138194,279.2367408965124
+5,Prevalence,184,Mozambique,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,501.9610070473357,1161.3115786955188,151.45705430536267
+5,Prevalence,184,Mozambique,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,197.6196585288479,500.11892146690695,49.0230389073774
+5,Prevalence,184,Mozambique,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.012503410061686402,0.02959017663845073,0.003810823750825036
+5,Prevalence,184,Mozambique,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.01823322255793663,0.04411753649470201,0.005478935127110259
+5,Prevalence,184,Mozambique,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1687.6814956829407,3783.725766252294,524.7350071647786
+5,Prevalence,184,Mozambique,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1068.6314562197983,2674.976669911084,304.51460586999866
+5,Prevalence,184,Mozambique,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,866.3084372889867,2023.3170057717937,265.8866379611671
+5,Prevalence,184,Mozambique,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1267.1452708745012,3019.813108697983,396.2054312618842
+5,Prevalence,184,Mozambique,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1024.01125932287,2384.7964461418005,303.8670178129034
+5,Prevalence,184,Mozambique,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1262.7828461629022,2906.949712547819,342.6092893866699
+5,Prevalence,184,Mozambique,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,14.407418989854479,32.94000378156266,4.613995910069784
+5,Prevalence,184,Mozambique,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,27.31201294782445,60.04000373730712,8.833397748619921
+5,Prevalence,184,Mozambique,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,444.2862166589997,1083.7484684209294,127.35528761872476
+5,Prevalence,184,Mozambique,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,524.0540440832185,1303.7596283685004,125.57316210989126
+5,Prevalence,184,Mozambique,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2296.790481112049,5079.431287115758,696.1295612600117
+5,Prevalence,184,Mozambique,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2073.249985656613,4725.840252051138,620.0267239131758
+5,Prevalence,184,Mozambique,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,422.0222206299871,1088.3473112821991,105.09287488334668
+5,Prevalence,184,Mozambique,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,743.0912267912829,1779.7790939800818,206.80604858616303
+5,Prevalence,184,Mozambique,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,644.2497839739505,1524.7369545503966,197.4243308799052
+5,Prevalence,184,Mozambique,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,938.8745395767514,2230.1009627659723,278.7504170722148
+5,Prevalence,184,Mozambique,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1798.8499160862802,4149.060794922038,531.9348814379885
+5,Prevalence,184,Mozambique,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1695.0948302758507,3960.128739148613,474.36625083240307
+5,Prevalence,184,Mozambique,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1094.9248364634457,2589.729669798907,304.24730394035635
+5,Prevalence,184,Mozambique,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,754.1022537489722,2036.9392216292079,164.3413486323983
+5,Prevalence,184,Mozambique,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,414.902273893762,926.635073265958,135.80926361906756
+5,Prevalence,184,Mozambique,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,258.16431672608724,603.6948167394718,79.70773656456501
+5,Prevalence,184,Mozambique,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,232.451903563541,546.7260646907118,72.32741600368469
+5,Prevalence,184,Mozambique,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,122.95860247420767,296.09914015591227,36.59325857221126
+5,Prevalence,184,Mozambique,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,92.9468813438185,219.89165224525902,26.936553958711084
+5,Prevalence,184,Mozambique,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,52.08436661050156,123.33884967738463,14.141294784608712
+5,Prevalence,184,Mozambique,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,90.79565217215956,208.12848072042684,27.688050332655006
+5,Prevalence,184,Mozambique,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,116.90954394197813,268.8872966727842,35.797906328136165
+5,Prevalence,184,Mozambique,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.6304857339000091,1.4626759780739342,0.18967233149453425
+5,Prevalence,184,Mozambique,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.9344183184414119,4.497755751525863,0.5808543091979319
+5,Prevalence,184,Mozambique,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,76.38823318230509,177.95189363175135,23.03786360856274
+5,Prevalence,184,Mozambique,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,89.59753099415367,211.7591512364635,26.764774422431156
+5,Prevalence,184,Mozambique,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1852.5042644530488,4082.6776469998385,562.1539654678634
+5,Prevalence,184,Mozambique,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1549.1959415733945,3541.3333452722086,434.7863260429534
+5,Prevalence,184,Mozambique,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,411.19176627343677,921.8026848538689,134.2865444150685
+5,Prevalence,184,Mozambique,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,249.50688383713043,589.770054801945,75.80288037395034
+5,Prevalence,184,Mozambique,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,271.97856473592844,622.0561165677144,87.43829159270031
+5,Prevalence,184,Mozambique,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,182.05448078062219,424.4770507685265,55.2543600553213
+5,Prevalence,184,Mozambique,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,180.03202589565285,417.7315133779365,57.32109724495454
+5,Prevalence,184,Mozambique,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,160.33647766352288,368.8506554597917,49.136714440079615
+5,Prevalence,184,Mozambique,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,153.4558275944247,358.53836349782125,47.164593940968814
+5,Prevalence,184,Mozambique,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,156.51991512105866,362.6162407665426,47.924487751669595
+5,Prevalence,184,Mozambique,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,90.16516643825956,206.48590163701687,27.50473271943156
+5,Prevalence,184,Mozambique,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,114.97512562353671,265.43365165798303,34.97449654004481
+5,Prevalence,184,Mozambique,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2976.548640421048,6418.088912752333,931.6552861042227
+5,Prevalence,184,Mozambique,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2909.328181163968,6618.377321191153,913.8711338510656
+5,Prevalence,184,Mozambique,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.4326441719739402,3.6982428496206943,0.33389098291968927
+5,Prevalence,184,Mozambique,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.117712806983889,5.2831120774727385,0.5519523378062833
+5,Prevalence,184,Mozambique,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,5.1952143062764875e-06,1.2313493927305078e-05,1.5653799187848146e-06
+5,Prevalence,184,Mozambique,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,7.5508067754107274e-06,1.8260165795206592e-05,2.258445588888432e-06
+5,Prevalence,184,Mozambique,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,7.547296242886451e-05,0.00017857047998985054,2.2970562993784142e-05
+5,Prevalence,184,Mozambique,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.00011007605409792564,0.0002658251198681066,3.314800624200848e-05
+5,Prevalence,184,Mozambique,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.016894215853749377,0.0605480942866666,0.00373423331758149
+5,Prevalence,184,Mozambique,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.05939458754811688,0.17781342071337516,0.009157354634738948
+5,Prevalence,184,Mozambique,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.4156692879434558,3.6690303428005797,0.3281403190163867
+5,Prevalence,184,Mozambique,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.058200592574899,5.127598613117383,0.5386441319033426
+5,Prevalence,184,Mozambique,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.2900539996947737,3.6230989916980305,0.2891539967891449
+5,Prevalence,184,Mozambique,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.6761487279691134,6.935054212114386,0.7288877471123378
+5,Prevalence,184,Mozambique,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.13210287792287742,0.5872473572282074,0.022627700859814675
+5,Prevalence,184,Mozambique,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.371687508618043,3.4405296183021115,0.32794645126338723
+5,Prevalence,184,Mozambique,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.734249339942543,6.5792562913234205,0.7858287539069385
+5,Prevalence,184,Mozambique,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.009439525463526,5.4852230067092025,0.3592533717781838
+5,Prevalence,184,Mozambique,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,3.740251753500763,8.940740919577886,0.9720535326651907
+5,Prevalence,184,Mozambique,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,4.766083362700758,11.19654277718123,1.1062421891077179
+5,Prevalence,184,Mozambique,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.332466949358548,5.79495205586018,0.5000721320412514
+5,Prevalence,184,Mozambique,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.6228761786838675,5.390201824509474,0.17841160157339875
+5,Prevalence,184,Mozambique,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.836998393177575,5.2343719877258605,0.2728633046557587
+5,Prevalence,184,Mozambique,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.015879609425809,6.2872529495370815,0.2439642737429218
+5,Prevalence,184,Mozambique,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.9616718432921463,3.037735030855752,0.11256768794325023
+5,Prevalence,184,Mozambique,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.5221735762122012,1.9982516797073027,0.10856926996243656
+5,Prevalence,184,Mozambique,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.3291954063896583,3.8318620380408417,0.15318146188055606
+5,Prevalence,184,Mozambique,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.5350963895056162,2.0122653037362475,0.09253415643266792
+5,Prevalence,184,Mozambique,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.603750920040326,2.069441673065778,0.0698009844535368
+5,Prevalence,184,Mozambique,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.16931182989737942,0.5307454670331951,0.04210705733508591
+5,Prevalence,184,Mozambique,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.1474521309805783,2.9994016930208813,0.22059704670238545
+5,Prevalence,184,Mozambique,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.3636353675951583,1.2610830231024053,0.04613558214399785
+5,Prevalence,184,Mozambique,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.898096139113559,2.2240200700851314,0.21748771635310404
+5,Prevalence,184,Mozambique,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.4351488315376167,1.2491059574086865,0.05473658423427317
+5,Prevalence,184,Mozambique,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.593200398311998,1.5389801168898793,0.15748883137171954
+5,Prevalence,184,Mozambique,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.1401270281990927,0.5185808561625779,0.0214645097100949
+5,Prevalence,184,Mozambique,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.17144866417975438,0.4670437456432053,0.029495548986815553
+5,Prevalence,184,Mozambique,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.024623315689828024,0.07390376185357792,0.006741291785400834
+5,Prevalence,184,Mozambique,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.4281982860358032,1.0260923329468739,0.12867538253882746
+5,Prevalence,184,Mozambique,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.31139624535272176,0.7308655744739145,0.08155367440811127
+5,Prevalence,184,Mozambique,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.30686417812025796,0.7356479093109317,0.09085011272176508
+5,Prevalence,184,Mozambique,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.3171316104780526,0.7789560521498037,0.08790001479344484
+5,Prevalence,184,Mozambique,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.27895577940210237,0.6405427685837757,0.08620288492688832
+5,Prevalence,184,Mozambique,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.437111660753223,0.9690663178122015,0.13880209973647215
+5,Prevalence,184,Mozambique,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2019,20.217601231437207,43.60426425360976,6.402924435113378
+5,Prevalence,184,Mozambique,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2019,19.835583575065897,44.54904703491272,6.260954499180426
+5,Prevalence,184,Mozambique,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.422156877617651,3.9694075451663844,0.3313449205060745
+5,Prevalence,184,Mozambique,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,4.047836236587156,10.29456275383043,1.1579460033349334
+5,Prevalence,184,Mozambique,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,13.538584605701558,30.240246032315085,4.060209152732199
+5,Prevalence,184,Mozambique,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,11.640860471889159,26.95962768679424,3.369458692874633
+5,Prevalence,184,Mozambique,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.81019733258589,6.68484496961189,0.7837655930415693
+5,Prevalence,184,Mozambique,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.9635345430216957,2.676915167119452,0.1804483528567967
+5,Prevalence,184,Mozambique,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.0140182435581635,2.367061446526293,0.3117398059755131
+5,Prevalence,184,Mozambique,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.0656395165839971,2.454547651337772,0.32854834073543493
+5,Prevalence,184,Mozambique,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.016974884030484517,0.060805325984975,0.0037596707103634184
+5,Prevalence,184,Mozambique,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.05951221440899021,0.17806806186054625,0.009212439442436481
+5,Prevalence,184,Mozambique,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.18600088398660844,0.4254457367781409,0.05693152219237294
+5,Prevalence,184,Mozambique,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.2609019224553563,0.5989671736785358,0.08087900336241224
+5,Prevalence,184,Mozambique,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.06901648317548884,0.16033242588073607,0.021854060171929122
+5,Prevalence,184,Mozambique,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.12035419172195093,0.266806598943661,0.03921694202407837
+5,Prevalence,184,Mozambique,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.019870689240370665,0.045729253209722,0.006270498946632966
+5,Prevalence,184,Mozambique,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.04337621745952303,0.0965980932362498,0.013922930533634775
+5,Prevalence,184,Mozambique,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,14.62855084190307,31.681942685405875,4.629528795810411
+5,Prevalence,184,Mozambique,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,11.660595006031324,26.684032731479547,3.4604497156018974
+5,Prevalence,184,Mozambique,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.8548010495915914,7.295525619685378,0.7174098968187577
+5,Prevalence,184,Mozambique,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,6.165549043571045,14.655493049510145,1.8026387275267066
+5,Prevalence,184,Mozambique,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,3.2383956186216927,7.4895526247662625,0.9753317763403906
+5,Prevalence,184,Mozambique,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.2749307883744172,3.2273110122907203,0.31608518458679413
+5,Prevalence,184,Mozambique,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,8.066817673514099e-05,0.00019088397391715564,2.4535942912568952e-05
+5,Prevalence,184,Mozambique,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.00011762686087333638,0.0002841855437618854,3.540645183089691e-05
+5,Prevalence,184,Mozambique,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,10.888299088402308,24.415674393859792,3.387337256187945
+5,Prevalence,184,Mozambique,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,6.894511643330566,17.252641747883203,1.9649989220724848
+5,Prevalence,184,Mozambique,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,5.589050389534133,13.066351415234829,1.7155203496380784
+5,Prevalence,184,Mozambique,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,8.174988569034571,19.490056047334257,2.5553627981953615
+5,Prevalence,184,Mozambique,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,6.606603971366183,15.389058999599335,1.9599886224718939
+5,Prevalence,184,Mozambique,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,8.147210396782326,18.751560234154645,2.208112859865809
+5,Prevalence,184,Mozambique,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.09295489541549401,0.21272507261271523,0.029788604095077983
+5,Prevalence,184,Mozambique,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.17620973829786662,0.38651657552397517,0.05710126256285436
+5,Prevalence,184,Mozambique,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.8663522178654204,6.98832755271373,0.8219409583329409
+5,Prevalence,184,Mozambique,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,3.381127034081568,8.412629200240119,0.8095759036235403
+5,Prevalence,184,Mozambique,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,14.818139614605016,32.772483265672186,4.4907894282247955
+5,Prevalence,184,Mozambique,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,13.37618334810236,30.474029458666738,3.9975564246344555
+5,Prevalence,184,Mozambique,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.7226981716687138,7.012997168295683,0.6802185713411385
+5,Prevalence,184,Mozambique,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,4.793861534953002,11.476681853499404,1.3333010222605035
+5,Prevalence,184,Mozambique,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,4.156406217560194,9.849768474224971,1.2720422193908039
+5,Prevalence,184,Mozambique,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,6.057275762050682,14.408641497650686,1.7993888071150725
+5,Prevalence,184,Mozambique,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,11.605638279271576,26.77208422477304,3.431491514006646
+5,Prevalence,184,Mozambique,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,10.936452252486161,25.5555551100865,3.062294835259354
+5,Prevalence,184,Mozambique,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,7.064083512258254,16.706644414818474,1.962869897232884
+5,Prevalence,184,Mozambique,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,4.865337583724873,13.140699677089353,1.0609415969012823
+5,Prevalence,184,Mozambique,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.6767634451634748,5.96818813404703,0.8760259220957134
+5,Prevalence,184,Mozambique,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.6655386920105348,3.893580186196727,0.5140623067104051
+5,Prevalence,184,Mozambique,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.4997115266478136,3.5240694827793426,0.4663653187809016
+5,Prevalence,184,Mozambique,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.793278199719695,1.9109705319722707,0.23614829705718304
+5,Prevalence,184,Mozambique,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.5996469502155576,1.4187622566052642,0.17397171183031546
+5,Prevalence,184,Mozambique,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.33601956104254976,0.7956913164339857,0.09129237143041814
+5,Prevalence,184,Mozambique,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.5858199575223604,1.3407261979211709,0.17865909939869692
+5,Prevalence,184,Mozambique,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.7542432712312757,1.7346751373705795,0.23054577251478034
+5,Prevalence,184,Mozambique,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.004067722999634505,0.009420829136301018,0.001223948043433947
+5,Prevalence,184,Mozambique,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.012479329116392688,0.029009502343247704,0.003750800364149681
+5,Prevalence,184,Mozambique,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.4928650621068664,1.1461429386310646,0.1486089850662192
+5,Prevalence,184,Mozambique,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.578033532933409,1.3703144362330613,0.1728164945996076
+5,Prevalence,184,Mozambique,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,11.951787396739595,26.349029047998176,3.6231642053860864
+5,Prevalence,184,Mozambique,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,9.995056314020792,22.843882636352713,2.8026808361653117
+5,Prevalence,184,Mozambique,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.6528250329234697,5.937007903062516,0.8656859452024024
+5,Prevalence,184,Mozambique,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.6096831454346188,3.8040368706077294,0.48904949556843014
+5,Prevalence,184,Mozambique,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.7547288938099108,4.008520198314227,0.5641278846949428
+5,Prevalence,184,Mozambique,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.1745343138970024,2.7375672028813964,0.3561308678205923
+5,Prevalence,184,Mozambique,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.1615284954979128,2.697207528762986,0.3693261660407498
+5,Prevalence,184,Mozambique,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.0344072856979096,2.380523964169431,0.3169766913509956
+5,Prevalence,184,Mozambique,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.9900798313181586,2.313475829514818,0.3048990714640189
+5,Prevalence,184,Mozambique,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.0097839700080817,2.3447896581183967,0.30918162611544964
+5,Prevalence,184,Mozambique,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.5817522345227258,1.3301204933046737,0.17747530926747992
+5,Prevalence,184,Mozambique,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.741763942114883,1.7125449271164301,0.22523167385095869
+5,Prevalence,184,Mozambique,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,19.203582987879038,41.39023648437188,6.0121790185564965
+5,Prevalence,184,Mozambique,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,18.769944058481897,42.69443365502688,5.892623623589068
+5,Prevalence,194,Lesotho,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,28.963653778160957,69.5750494126809,9.465746475542343
+5,Prevalence,194,Lesotho,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,39.07564795250488,86.23248454972364,12.641018900806923
+5,Prevalence,194,Lesotho,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,9.421666201514044e-05,0.00020586651148827813,3.255255162178428e-05
+5,Prevalence,194,Lesotho,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.0001279230305940348,0.0002943791958817966,4.309504494980802e-05
+5,Prevalence,194,Lesotho,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.0013656021477433601,0.0029848968597825662,0.00047179779440087433
+5,Prevalence,194,Lesotho,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.0018617172439011798,0.0042626200326185,0.0006253108764908224
+5,Prevalence,194,Lesotho,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.2163142083890026,2.877660569679753,0.33775577752278163
+5,Prevalence,194,Lesotho,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2.0119980902960384,4.7561363872820275,0.623346439208763
+5,Prevalence,194,Lesotho,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,27.745879750962196,67.01104115512892,8.942390137724152
+5,Prevalence,194,Lesotho,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,37.061660221934346,82.79536096280366,12.062757097931401
+5,Prevalence,194,Lesotho,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,27.69905827964316,68.84870035905985,8.498509314047961
+5,Prevalence,194,Lesotho,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,40.990615897192995,99.25121910058128,12.593415132534126
+5,Prevalence,194,Lesotho,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,8.566633495302868,24.513642037340382,0.9492694030080793
+5,Prevalence,194,Lesotho,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,23.942635157282844,58.52455994513462,5.681023431084892
+5,Prevalence,194,Lesotho,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,41.55727744490471,96.7433802157573,12.314976946388597
+5,Prevalence,194,Lesotho,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,51.92436538302025,130.8198942900728,13.684365638196077
+5,Prevalence,194,Lesotho,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,50.88336545522933,121.05865067446827,14.702778396575823
+5,Prevalence,194,Lesotho,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,101.60676868258986,246.35475276140136,27.28430645960985
+5,Prevalence,194,Lesotho,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,41.016761853876744,110.63223771951243,7.363532910953477
+5,Prevalence,194,Lesotho,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,52.070800851617676,161.68459199660825,6.6766232466551605
+5,Prevalence,194,Lesotho,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,28.952252587809163,90.33667057924569,4.133136023082122
+5,Prevalence,194,Lesotho,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,39.983380325418736,137.89702427526467,5.784570601018247
+5,Prevalence,194,Lesotho,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,16.632291163973324,57.1420568481333,3.5466147583109637
+5,Prevalence,194,Lesotho,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,11.793748056305029,38.29773941873627,3.219137994489418
+5,Prevalence,194,Lesotho,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,14.465356192338676,56.19383630233235,3.016496412293062
+5,Prevalence,194,Lesotho,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,7.9906459779391525,22.815403282021112,2.40997340629084
+5,Prevalence,194,Lesotho,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,5.747356506750884,18.94394144976836,1.6241957075933016
+5,Prevalence,194,Lesotho,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,4.151085608506063,10.563030155231223,1.3075322388591986
+5,Prevalence,194,Lesotho,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,5.586858683267143,19.27416558069497,1.4912188451852857
+5,Prevalence,194,Lesotho,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3.629856600948049,8.490147640635312,1.1865937271116862
+5,Prevalence,194,Lesotho,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3.9047667487567077,14.279241429680525,0.9703347180398075
+5,Prevalence,194,Lesotho,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2.5222579278217316,6.186009264684362,0.7826836740063688
+5,Prevalence,194,Lesotho,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2.8591058002418848,10.497122696339938,0.6092976525875301
+5,Prevalence,194,Lesotho,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.4992872721469157,3.3261527367407964,0.4937111821334904
+5,Prevalence,194,Lesotho,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.1217413692366736,3.4283383417029953,0.2892482804877942
+5,Prevalence,194,Lesotho,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.7870366043230669,1.776561791606582,0.2522924328225899
+5,Prevalence,194,Lesotho,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.827182821440833,5.254345786237387,0.26529621297801637
+5,Prevalence,194,Lesotho,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.7858961074511617,1.8810395170033964,0.2434170472872507
+5,Prevalence,194,Lesotho,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.6157670399526314,4.431174076532401,0.2312427465831032
+5,Prevalence,194,Lesotho,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.0588798908315407,3.8752374754448264,0.18349047988223346
+5,Prevalence,194,Lesotho,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.851381476826545,4.092324256970578,0.5614245689168236
+5,Prevalence,194,Lesotho,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.9613079922386614,4.721617022238555,0.49815987406484835
+5,Prevalence,194,Lesotho,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,283.2508106977122,611.9798998370501,93.47065405595326
+5,Prevalence,194,Lesotho,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,385.77421628813863,850.3239916977648,128.47481005904845
+5,Prevalence,194,Lesotho,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,36.26569177494603,90.37711671385453,10.968046498684439
+5,Prevalence,194,Lesotho,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,64.93325105447585,152.07379438124954,21.220216096864235
+5,Prevalence,194,Lesotho,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,199.25466120488284,426.8124590704109,63.709032215798786
+5,Prevalence,194,Lesotho,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,269.5207948853967,609.0637167597683,83.02283453650767
+5,Prevalence,194,Lesotho,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,13.472472601502409,40.11995745697201,3.7471585615768026
+5,Prevalence,194,Lesotho,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,8.438438405239761,19.62078270306662,2.8399453156775536
+5,Prevalence,194,Lesotho,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,5.294331338220011,13.097084346741438,1.2523037273571709
+5,Prevalence,194,Lesotho,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3.806083990521364,9.951555407018999,1.0256320591840977
+5,Prevalence,194,Lesotho,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.2177740271987614,2.8808501243084526,0.3381560217126131
+5,Prevalence,194,Lesotho,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2.0139877305705336,4.760635546528025,0.6241499602777919
+5,Prevalence,194,Lesotho,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.297869902282323,2.895692074563162,0.37548759010079746
+5,Prevalence,194,Lesotho,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.4325091628427238,3.4943132712233584,0.36450794714062007
+5,Prevalence,194,Lesotho,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.43544819464968293,0.9624778279755642,0.13567048183994956
+5,Prevalence,194,Lesotho,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.4289590650770222,1.0641138489811677,0.09608508498484226
+5,Prevalence,194,Lesotho,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.10051660427529595,0.2316826505396259,0.03022018285874592
+5,Prevalence,194,Lesotho,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.08642858291522185,0.2281948764813015,0.014147187440968085
+5,Prevalence,194,Lesotho,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,176.46418769970052,381.2673571740991,57.725233322682044
+5,Prevalence,194,Lesotho,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,229.84095189813763,517.2735767921185,69.82509560373383
+5,Prevalence,194,Lesotho,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,65.22934555310698,157.4073850950291,22.499412125332128
+5,Prevalence,194,Lesotho,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,104.00889900698073,243.03479956092173,36.6346903980471
+5,Prevalence,194,Lesotho,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,15.29965542294324,41.99694832204513,4.307599380472546
+5,Prevalence,194,Lesotho,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,9.224334512690927,21.384760818487663,3.08364831881118
+5,Prevalence,194,Lesotho,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.0014598188097585006,0.003189894501193679,0.0005043503460226586
+5,Prevalence,194,Lesotho,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.0019896402744952147,0.004556999228500297,0.0006684059214406305
+5,Prevalence,194,Lesotho,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,125.58082224447121,286.5784280482158,36.78406167740311
+5,Prevalence,194,Lesotho,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,128.2341832155478,313.123678334777,33.98362681360729
+5,Prevalence,194,Lesotho,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,106.78662299801171,243.80610781482662,35.73685808920066
+5,Prevalence,194,Lesotho,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,155.93326439000094,356.84437881164524,53.76291612629106
+5,Prevalence,194,Lesotho,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,101.0072763954369,226.38659148924836,30.277444213645563
+5,Prevalence,194,Lesotho,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,177.47376922289294,417.2125434148375,54.0078249217896
+5,Prevalence,194,Lesotho,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.553511574544222,1.2209564771464674,0.17240047224444996
+5,Prevalence,194,Lesotho,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.5287988293959379,1.3380788971197708,0.11798979688239415
+5,Prevalence,194,Lesotho,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,50.12391094020758,118.8639974489791,14.659987012448386
+5,Prevalence,194,Lesotho,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,75.8670005403031,185.6097247196895,21.460680941080586
+5,Prevalence,194,Lesotho,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,213.40815338345286,461.26999272365424,67.78338503542658
+5,Prevalence,194,Lesotho,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,297.0932866436276,661.9159430944467,90.55718892517277
+5,Prevalence,194,Lesotho,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,56.662712057804114,136.58120128116659,19.2378656091972
+5,Prevalence,194,Lesotho,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,80.06626384969789,188.59374814622416,27.0167375874001
+5,Prevalence,194,Lesotho,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,77.82296921985072,175.02114004890723,25.080657528059586
+5,Prevalence,194,Lesotho,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,116.85761643749609,269.4496809068679,39.17637866919414
+5,Prevalence,194,Lesotho,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,179.04194850579327,392.04390773763714,55.7461817437258
+5,Prevalence,194,Lesotho,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,257.37906329895156,584.1081711312502,77.49199064009501
+5,Prevalence,194,Lesotho,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,106.8140183047488,254.2864901662835,29.19740857504822
+5,Prevalence,194,Lesotho,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,115.98966081978665,292.28191974682136,28.653227594475588
+5,Prevalence,194,Lesotho,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,13.179945256455277,34.31114604928339,3.9544186028477806
+5,Prevalence,194,Lesotho,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,8.614665794813078,20.139804082323664,2.885275066100111
+5,Prevalence,194,Lesotho,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,7.423797030872024,18.737029574845796,1.9653448294372828
+5,Prevalence,194,Lesotho,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,4.131099874752685,10.015530803134961,1.3169372562592014
+5,Prevalence,194,Lesotho,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2.9489241906775066,7.973891686177715,0.6474173996290263
+5,Prevalence,194,Lesotho,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,1.5729327117742284,3.5444000594475797,0.5161853917298801
+5,Prevalence,194,Lesotho,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3.467148516779177,8.32495763371677,0.8707046104660582
+5,Prevalence,194,Lesotho,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3.0201878830702023,8.055513147744005,0.6904247829914301
+5,Prevalence,194,Lesotho,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.017546775619243185,0.04308380209459035,0.004566581262289314
+5,Prevalence,194,Lesotho,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,0.013411181403693751,0.04118670721282123,0.001735203056214252
+5,Prevalence,194,Lesotho,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2.9136369422349544,7.299075712898168,0.6730375957227842
+5,Prevalence,194,Lesotho,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,2.491389053674265,7.012929016856515,0.5513163049638433
+5,Prevalence,194,Lesotho,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,163.28424244324526,350.33110984638233,51.73034552429139
+5,Prevalence,194,Lesotho,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,221.22628610332455,497.1430991040474,66.72325528917672
+5,Prevalence,194,Lesotho,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,13.061881876560737,34.10635230071441,3.9108363803510056
+5,Prevalence,194,Lesotho,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,8.514826030494163,19.97980758231876,2.837552785016916
+5,Prevalence,194,Lesotho,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,9.157115127804026,22.352161353760767,2.5516132635358337
+5,Prevalence,194,Lesotho,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,5.992568102672431,13.967506134499164,1.8759797173493251
+5,Prevalence,194,Lesotho,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,6.298009327562144,14.88766893894522,1.614186817914
+5,Prevalence,194,Lesotho,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,4.493280830525515,11.157833127108454,1.3021066624016873
+5,Prevalence,194,Lesotho,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,5.176267958325471,12.888109439350986,1.1923125658963232
+5,Prevalence,194,Lesotho,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3.706244226202448,9.598693745828678,0.9756148289525716
+5,Prevalence,194,Lesotho,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3.4496017411599333,8.297340463934532,0.8658533819348618
+5,Prevalence,194,Lesotho,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,3.006776701666509,8.039185596090217,0.6872389304912822
+5,Prevalence,194,Lesotho,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,277.9564793594922,604.6045098854381,92.31380881921764
+5,Prevalence,194,Lesotho,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,381.9681322976173,841.4375548103864,127.2934908532747
+5,Prevalence,194,Lesotho,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.18685685799354645,0.44902844214818494,0.06106605474670918
+5,Prevalence,194,Lesotho,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.2520913752937914,0.556069421023805,0.08151657393710376
+5,Prevalence,194,Lesotho,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,6.077764012744863e-07,1.327811707667483e-06,2.0974300875562952e-07
+5,Prevalence,194,Lesotho,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,8.253542315514363e-07,1.9002162965359714e-06,2.780332492449281e-07
+5,Prevalence,194,Lesotho,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,8.809955954961678e-06,1.9198015045297563e-05,3.036179228739183e-06
+5,Prevalence,194,Lesotho,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.2010423609357116e-05,2.7559127629147165e-05,4.027327784348161e-06
+5,Prevalence,194,Lesotho,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.007846430480733968,0.018576049574465594,0.0021758768177633633
+5,Prevalence,194,Lesotho,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.012980407739369211,0.030770026468868582,0.0040330585926254174
+5,Prevalence,194,Lesotho,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.17900100978045622,0.4325216025442657,0.05763824758497448
+5,Prevalence,194,Lesotho,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.2390981317765813,0.5344962788231379,0.0778233327217429
+5,Prevalence,194,Lesotho,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.1786996178908233,0.44426014868937147,0.054834473631090126
+5,Prevalence,194,Lesotho,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.2644711262033921,0.6406970987687455,0.0812387170987821
+5,Prevalence,194,Lesotho,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.05526539807360477,0.15773290608208035,0.006125735638560768
+5,Prevalence,194,Lesotho,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.15448778151044315,0.37744187210995295,0.036720001132885496
+5,Prevalence,194,Lesotho,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.26811707555713826,0.624145485387475,0.0794457524751185
+5,Prevalence,194,Lesotho,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.33501394211968716,0.8437687137271457,0.08828411751828848
+5,Prevalence,194,Lesotho,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.3283070819969973,0.7809578998536139,0.09485259463908646
+5,Prevalence,194,Lesotho,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.6555640325739484,1.5896519083493263,0.17649525190560406
+5,Prevalence,194,Lesotho,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.264640748913958,0.7140462699386825,0.04745043175841622
+5,Prevalence,194,Lesotho,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.3359273317442405,1.0455204953638986,0.043059381808138356
+5,Prevalence,194,Lesotho,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.18678699002174481,0.5827099843212633,0.026678233941601487
+5,Prevalence,194,Lesotho,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.2579339821027771,0.8902569636412837,0.037277410689828656
+5,Prevalence,194,Lesotho,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.10729017900806026,0.3682815629146488,0.02284659768853957
+5,Prevalence,194,Lesotho,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.07608242815434794,0.24692056393085918,0.02076151368250241
+5,Prevalence,194,Lesotho,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.09332271103856503,0.36280118328396316,0.019482517441069835
+5,Prevalence,194,Lesotho,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.051549710035395956,0.14719836429515076,0.015536613700387177
+5,Prevalence,194,Lesotho,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.03707731452951219,0.12230688998802942,0.010482559511301415
+5,Prevalence,194,Lesotho,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.026779812880625246,0.06817470989578812,0.008450045434236478
+5,Prevalence,194,Lesotho,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.036044763321341516,0.12423597602926344,0.009626983672935541
+5,Prevalence,194,Lesotho,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.023416885707329214,0.054844953503487,0.0076367754396303375
+5,Prevalence,194,Lesotho,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.025191792246881596,0.09222806991527771,0.006249764482069181
+5,Prevalence,194,Lesotho,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.016273446620339055,0.0398679496446994,0.005036714383652096
+5,Prevalence,194,Lesotho,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.01844476292928697,0.06775240767977245,0.003940728436621621
+5,Prevalence,194,Lesotho,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.00967244707017907,0.021436553418854542,0.0031719334662986746
+5,Prevalence,194,Lesotho,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.007237248660048026,0.022077181229311186,0.0018724426193161298
+5,Prevalence,194,Lesotho,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.005078013931461617,0.011456142291591098,0.0016349217643538904
+5,Prevalence,194,Lesotho,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.011788442938056221,0.033888746441469775,0.0017187855416575361
+5,Prevalence,194,Lesotho,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.005070250243856113,0.012139996682312033,0.0015717970146750869
+5,Prevalence,194,Lesotho,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.010424289027656098,0.028604245996607814,0.0014898044789899904
+5,Prevalence,194,Lesotho,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.0068316882627402565,0.024956045739532202,0.001185547509101421
+5,Prevalence,194,Lesotho,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.011944343897646934,0.026398851162996003,0.003613918882147483
+5,Prevalence,194,Lesotho,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.01265313271155458,0.0304819708346913,0.003211172616544151
+5,Prevalence,194,Lesotho,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.8274396180448678,3.947773351461705,0.6027236358994255
+5,Prevalence,194,Lesotho,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.488897387166109,5.490476010130583,0.8293595291306736
+5,Prevalence,194,Lesotho,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.23396501596442806,0.5826014740994542,0.07065998361418283
+5,Prevalence,194,Lesotho,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.4189589077138352,0.9808323782449948,0.1369187676301802
+5,Prevalence,194,Lesotho,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.285542101065976,2.753056498482837,0.4111041138347735
+5,Prevalence,194,Lesotho,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.7388512396110223,3.929311139145625,0.5355433060802657
+5,Prevalence,194,Lesotho,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.08691856715755814,0.25875553028645515,0.024156571447889085
+5,Prevalence,194,Lesotho,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.05444079332930896,0.1265286114949799,0.018322684650128436
+5,Prevalence,194,Lesotho,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.034157075863359254,0.08453998295453112,0.008074599030829075
+5,Prevalence,194,Lesotho,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.02455507121815095,0.06418731121296421,0.006621314877061568
+5,Prevalence,194,Lesotho,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.007855848213090206,0.018596571056868173,0.0021784497391266642
+5,Prevalence,194,Lesotho,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.012993243517210118,0.030799056295479535,0.004038246127444185
+5,Prevalence,194,Lesotho,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.00837328163652258,0.018680549003324252,0.0024280022179235753
+5,Prevalence,194,Lesotho,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.009241289983992023,0.02256443417090559,0.0023531069138585047
+5,Prevalence,194,Lesotho,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.002809366176092883,0.006210493042579889,0.0008784134615777418
+5,Prevalence,194,Lesotho,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.0027677230929402394,0.0068685007390356,0.0006198999278230377
+5,Prevalence,194,Lesotho,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.0006484930326567535,0.0014942965607743425,0.0001950079100759511
+5,Prevalence,194,Lesotho,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.0005575987125311544,0.0014735172851850981,9.108927835078676e-05
+5,Prevalence,194,Lesotho,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.138500668529755,2.4598985635616395,0.37260504337720396
+5,Prevalence,194,Lesotho,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.482833162038795,3.3343453735589152,0.45084337184172407
+5,Prevalence,194,Lesotho,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.4208218739579745,1.0152312446578162,0.1452106066682648
+5,Prevalence,194,Lesotho,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.6710502830076266,1.568911792895083,0.2363611562990557
+5,Prevalence,194,Lesotho,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.09870701009561433,0.27084256887154695,0.027769701622517053
+5,Prevalence,194,Lesotho,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.05951104357316508,0.1379376694906028,0.019926923225677153
+5,Prevalence,194,Lesotho,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,9.417732356236164e-06,2.0525826752965046e-05,3.2459222374948127e-06
+5,Prevalence,194,Lesotho,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.2835777840908554e-05,2.9459343925683143e-05,4.30536103359309e-06
+5,Prevalence,194,Lesotho,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.8101935865327576,1.8479936537696025,0.23737740407120686
+5,Prevalence,194,Lesotho,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.8272691294648467,2.023872309082203,0.21930333067612373
+5,Prevalence,194,Lesotho,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.6889389495151128,1.5722265198964556,0.2305856544787239
+5,Prevalence,194,Lesotho,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.006064225127314,2.302914378706116,0.3465234410545301
+5,Prevalence,194,Lesotho,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.6516895556277404,1.459647518806227,0.19534638559784873
+5,Prevalence,194,Lesotho,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.1450657562040787,2.696194655242219,0.3480474896702173
+5,Prevalence,194,Lesotho,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.0035710622611243564,0.007877826229087134,0.0011101719191264165
+5,Prevalence,194,Lesotho,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.0034118427275625592,0.008640249045782554,0.0007607540806504481
+5,Prevalence,194,Lesotho,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.3233824736307431,0.766997468108082,0.09463163284575869
+5,Prevalence,194,Lesotho,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.4895017236301303,1.197138229679143,0.1383964506572184
+5,Prevalence,194,Lesotho,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.3768522624609223,2.975478313966318,0.4369802571610645
+5,Prevalence,194,Lesotho,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.9167559068287947,4.27245987202773,0.5843844659946746
+5,Prevalence,194,Lesotho,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.3655564758843697,0.8811617408018012,0.12402649648220167
+5,Prevalence,194,Lesotho,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.5165625014971835,1.21646377075544,0.1742744177666843
+5,Prevalence,194,Lesotho,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.5020820915215664,1.1297521291232422,0.1618386768548143
+5,Prevalence,194,Lesotho,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.7539728498335223,1.7382229766912307,0.25258034867883056
+5,Prevalence,194,Lesotho,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.1551420754978987,2.5295936837492516,0.35964872167000916
+5,Prevalence,194,Lesotho,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.660521716695001,3.768478598085856,0.49991099182924303
+5,Prevalence,194,Lesotho,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.6891179435118403,1.640582999185703,0.18831806191185438
+5,Prevalence,194,Lesotho,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.7482732649173868,1.8894499778325644,0.18480226392229948
+5,Prevalence,194,Lesotho,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.08503087969957585,0.22133121840754008,0.02551248808699303
+5,Prevalence,194,Lesotho,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.055578978840130695,0.13012393265944225,0.018614377772188467
+5,Prevalence,194,Lesotho,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.04789474355504731,0.1209100114131122,0.012696208404642983
+5,Prevalence,194,Lesotho,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.02665239950823706,0.06455480517243237,0.008494560318660527
+5,Prevalence,194,Lesotho,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.019025691598104244,0.05150949386348556,0.00418054566997166
+5,Prevalence,194,Lesotho,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.010148264175317731,0.022869615974977525,0.0033321720134411852
+5,Prevalence,194,Lesotho,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.02236863292530303,0.05371277370280387,0.005612000092767249
+5,Prevalence,194,Lesotho,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.01948482097429484,0.051971400421031405,0.004451970051788139
+5,Prevalence,194,Lesotho,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.0001132030523747194,0.0002779155280485333,2.9474586228901383e-05
+5,Prevalence,194,Lesotho,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2019,8.65209220911654e-05,0.0002656068421370685,1.1225879820665816e-05
+5,Prevalence,194,Lesotho,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.018797570664178677,0.04709151635383546,0.004342448312629364
+5,Prevalence,194,Lesotho,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.016072978246732282,0.04525829919980316,0.0035543061508353556
+5,Prevalence,194,Lesotho,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.053469788830179,2.260096939054601,0.3332824130679095
+5,Prevalence,194,Lesotho,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.4272541831986645,3.2078578544362895,0.43046644506458587
+5,Prevalence,194,Lesotho,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.08426918361454437,0.22000967163900434,0.025231374163626516
+5,Prevalence,194,Lesotho,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.05493485920550838,0.1288368513026268,0.018332700029156518
+5,Prevalence,194,Lesotho,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.05907739136766278,0.14411048249405045,0.016457091654362613
+5,Prevalence,194,Lesotho,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.038661412585169315,0.0901201705269173,0.012100602589259152
+5,Prevalence,194,Lesotho,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.04063262843837581,0.09603236128137688,0.010415571119287453
+5,Prevalence,194,Lesotho,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.02898896551499025,0.07196860494059741,0.008383856180576228
+5,Prevalence,194,Lesotho,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.03339537977832778,0.08319179152663027,0.007687248660803224
+5,Prevalence,194,Lesotho,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.02391095158352863,0.061911270669571986,0.00628607041166773
+5,Prevalence,194,Lesotho,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.02225542987292831,0.053534616829912,0.0055804673123598676
+5,Prevalence,194,Lesotho,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,0.019398300052203672,0.05186601588747439,0.004433973604340629
+5,Prevalence,194,Lesotho,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,1.7932825421815086,3.9005048254764176,0.5952613489184079
+5,Prevalence,194,Lesotho,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2019,2.464342315947958,5.4331693575640925,0.8217648109205937

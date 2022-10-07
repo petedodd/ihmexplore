@@ -34,6 +34,7 @@ CLZ <- c('WHO'=who.col,'IHME'=ihme.col)
 load(here('data/prev.rda'))
 load(here('data/hbc30key.rda'))
 load(here('data/N.rda'))
+load(here('data/aprev,Rdata'))
 
 ## IHME CSV data
 HT <- rh('indata/IHME-GBD_2019_DATA-8e052381-1.csv') #tot TB
@@ -48,6 +49,15 @@ HY <- Reduce(merge,list(HS[,.(location_name,sex_name,age_name,measure_name,year,
                         HX[,.(location_name,sex_name,age_name,measure_name,year,dx=val)]))
 HY[,val:=ds+dm+dx] #sum over DST
 
+
+## prevalence snapshots
+flz <- dir(path=here('indata/ihmeprev'),full.names = TRUE)
+IP <- lapply(flz,fread)
+IP <- rbindlist(IP)
+IP <- merge(IP,agekey,by.x='age_name',by.y = 'age_group_name')
+IP <- IP[,.(val=sum(val)),by=.(location_name,year,age)]
+IP[,agey:=age]
+IP[age=='65plus',agey:='65+']
 
 ## WHO CSV data
 TBA <- rh('indata/TB_burden_age_sex_2020-10-15.csv')
@@ -467,11 +477,13 @@ CFY <- merge(CFY,hbc30key,by='location_name')
 CFY <- merge(CFY,TBN[,.(iso3,year,c_newinc)],
              by=c('iso3','year'),all.x=TRUE,all.y=FALSE)
 CFY[,CDR:=c_newinc/Incidence]
+CFY[year==2019,iso:=iso3]
 
 m <- max(CFY$CDR)
 
 aF8 <- ggplot(CFY,
-               aes(CDR,CFR,label=iso3,col=year,group=iso3))+
+              aes(CDR,CFR,label=iso,col=year,group=iso3))+
+  geom_vline(xintercept=1,col='darkgrey')+
   geom_point()+ geom_line()+
   scale_x_continuous(label=percent,limits = c(0,m))+
   scale_y_continuous(label=percent,limits = c(0,1))+
@@ -529,10 +541,24 @@ aF7 <- ggplot(HH,aes(location_name,PI,col=HIV))+
 ggsave(aF7,file=here('plots/aF7.pdf'),h=8,w=10)
 
 
-
 ## prevalence survey by age/sex
+aprev[,agey:=gsub('plus','+',age)]
+aprev[agey!='65+',
+      agey:=paste(substr(agey,start=1,stop=2),
+                  substr(agey,start=3,stop=4),sep='-')]
 
+IP <- merge(IP,hbc30key,by='location_name',all.y=FALSE,all.x=TRUE)
+IP[,age:=NULL]
+IP <- merge(IP,aprev,by=c('iso3','year','agey'),all.x=FALSE,all.y=FALSE)
+IP[,isoy:=paste0(iso3,', ',year)]
 
-## TODO
-## - prevalence survey age/sex 3
-## - any published data from previous rounds in prevalence survey countries?
+aF3 <- ggplot(IP,aes(agey,y=prev,ymin=prev.lo,ymax=prev.hi,group=isoy))+
+  geom_point()+geom_errorbar(width=0)+geom_line()+
+  geom_point(aes(y=1e5*val/pop),shape=4,col=2,stroke=1)+
+  geom_line(aes(agey,1e5*val/pop,group=isoy),col=2)+
+  facet_wrap(~isoy,scales='free')+
+  theme_light()+rot45+
+  xlab('Age group (years)')+
+  ylab('TB prevalence per 100,000')
+
+ggsave(aF3,file=here('plots/aF3.pdf'),h=15,w=15)

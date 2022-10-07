@@ -1,0 +1,343 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,11,Indonesia,1,Male,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2013,5023.421283583709,7822.372757467697,2996.5270058165493
+5,Prevalence,11,Indonesia,2,Female,1,<5 years,934,Drug-susceptible tuberculosis,1,Number,2013,8486.944493154338,12772.353531970612,5282.427999799173
+5,Prevalence,11,Indonesia,1,Male,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2013,0.015144372849525144,0.02009150620847958,0.010645529972347509
+5,Prevalence,11,Indonesia,2,Female,2,0-6 days,934,Drug-susceptible tuberculosis,1,Number,2013,0.022371850660346772,0.02993629120731903,0.015576303556563888
+5,Prevalence,11,Indonesia,1,Male,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2013,0.24550266111673863,0.35176372689957075,0.16090860713211
+5,Prevalence,11,Indonesia,2,Female,3,7-27 days,934,Drug-susceptible tuberculosis,1,Number,2013,0.42070812162726473,0.6051881533596305,0.2626337554455672
+5,Prevalence,11,Indonesia,1,Male,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2013,93.78893535480448,141.43170656772304,59.85485882659398
+5,Prevalence,11,Indonesia,2,Female,4,28-364 days,934,Drug-susceptible tuberculosis,1,Number,2013,187.4150605340405,312.03030497117794,106.40160727553648
+5,Prevalence,11,Indonesia,1,Male,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2013,4929.371701194938,7659.236970248414,2922.430503902151
+5,Prevalence,11,Indonesia,2,Female,5,1-4 years,934,Drug-susceptible tuberculosis,1,Number,2013,8299.08635264801,12496.9824319119,5174.228448240167
+5,Prevalence,11,Indonesia,1,Male,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2013,17531.810557949953,27095.390234675433,11089.945212045935
+5,Prevalence,11,Indonesia,2,Female,6,5-9 years,934,Drug-susceptible tuberculosis,1,Number,2013,15245.07771673078,23634.099946380462,9457.84399524038
+5,Prevalence,11,Indonesia,1,Male,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2013,8734.537366343873,13395.503091359891,5142.315452052904
+5,Prevalence,11,Indonesia,2,Female,7,10-14 years,934,Drug-susceptible tuberculosis,1,Number,2013,7747.606621021759,11843.732315623396,4542.010871822342
+5,Prevalence,11,Indonesia,1,Male,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2013,1033.1231804119477,2040.6148336334045,456.22385447854816
+5,Prevalence,11,Indonesia,2,Female,8,15-19 years,934,Drug-susceptible tuberculosis,1,Number,2013,13164.79133511964,21425.404741566148,6078.611861788177
+5,Prevalence,11,Indonesia,1,Male,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2013,23019.449681887425,38935.056583692814,9355.635134006496
+5,Prevalence,11,Indonesia,2,Female,9,20-24 years,934,Drug-susceptible tuberculosis,1,Number,2013,38802.603166316614,59137.498528337426,21528.089353831303
+5,Prevalence,11,Indonesia,1,Male,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2013,20917.83746649071,39112.23609192456,7148.6070756453255
+5,Prevalence,11,Indonesia,2,Female,10,25-29 years,934,Drug-susceptible tuberculosis,1,Number,2013,25267.081871514692,43740.82939441345,10985.800873037193
+5,Prevalence,11,Indonesia,1,Male,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2013,9763.289782851261,20024.332632578513,3168.334198340089
+5,Prevalence,11,Indonesia,2,Female,11,30-34 years,934,Drug-susceptible tuberculosis,1,Number,2013,9797.798324184187,19364.88377183623,2640.644116262036
+5,Prevalence,11,Indonesia,1,Male,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2013,8987.229372129075,17168.303734153287,2714.254594895616
+5,Prevalence,11,Indonesia,2,Female,12,35-39 years,934,Drug-susceptible tuberculosis,1,Number,2013,12492.493071589099,21134.209017406596,4889.9501997263815
+5,Prevalence,11,Indonesia,1,Male,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2013,12349.269121662344,22221.62463434617,4462.010320048633
+5,Prevalence,11,Indonesia,2,Female,13,40-44 years,934,Drug-susceptible tuberculosis,1,Number,2013,16390.23078904482,25675.245853136,8703.727757191456
+5,Prevalence,11,Indonesia,1,Male,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2013,19893.849995054294,31946.102319366462,10243.325414194607
+5,Prevalence,11,Indonesia,2,Female,14,45-49 years,934,Drug-susceptible tuberculosis,1,Number,2013,21141.03919428505,32203.187418408517,12547.678321083162
+5,Prevalence,11,Indonesia,1,Male,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2013,16398.665076793375,23909.561227595546,9645.513727764177
+5,Prevalence,11,Indonesia,2,Female,15,50-54 years,934,Drug-susceptible tuberculosis,1,Number,2013,13598.044666883714,19411.240733142025,8299.528570931556
+5,Prevalence,11,Indonesia,1,Male,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2013,12234.967714881695,17542.707241634533,7896.5704349071075
+5,Prevalence,11,Indonesia,2,Female,16,55-59 years,934,Drug-susceptible tuberculosis,1,Number,2013,8040.283685600987,11607.161627642436,5180.650121443385
+5,Prevalence,11,Indonesia,1,Male,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2013,26117.92730093404,36392.53126791357,17466.355474662912
+5,Prevalence,11,Indonesia,2,Female,17,60-64 years,934,Drug-susceptible tuberculosis,1,Number,2013,16867.818254499456,23674.77897419281,11258.117478757691
+5,Prevalence,11,Indonesia,1,Male,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2013,25141.7175046954,36171.752701543155,16463.33408679082
+5,Prevalence,11,Indonesia,2,Female,18,65-69 years,934,Drug-susceptible tuberculosis,1,Number,2013,18773.451829270933,26969.008969527775,12183.660300906491
+5,Prevalence,11,Indonesia,1,Male,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2013,25498.656371692276,34153.852153177024,17447.25118295413
+5,Prevalence,11,Indonesia,2,Female,19,70-74 years,934,Drug-susceptible tuberculosis,1,Number,2013,24540.99636365692,32900.23577815019,17042.644520852762
+5,Prevalence,11,Indonesia,1,Male,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2013,16481.33322146764,21595.32616260704,11301.714728959143
+5,Prevalence,11,Indonesia,2,Female,20,75-79 years,934,Drug-susceptible tuberculosis,1,Number,2013,20254.65757660667,26327.58570369908,13948.203230003184
+5,Prevalence,11,Indonesia,1,Male,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2013,14175.007040796525,17526.999965793846,11139.732374893314
+5,Prevalence,11,Indonesia,2,Female,21,80+ years,934,Drug-susceptible tuberculosis,1,Number,2013,17330.147481806824,21309.641030066527,13563.520068004538
+5,Prevalence,11,Indonesia,1,Male,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2013,263302.09203962557,300060.82804676564,232714.30939265463
+5,Prevalence,11,Indonesia,2,Female,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2013,287941.06644128653,327645.04016176146,251372.12027740214
+5,Prevalence,11,Indonesia,1,Male,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2013,26266.34792429383,38049.95551641543,17338.661403345082
+5,Prevalence,11,Indonesia,2,Female,23,5-14 years,934,Drug-susceptible tuberculosis,1,Number,2013,22992.684337752544,33347.16326131463,15209.16094650313
+5,Prevalence,11,Indonesia,1,Male,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2013,95964.04860048705,125240.26318426189,69433.67422371992
+5,Prevalence,11,Indonesia,2,Female,24,15-49 years,934,Drug-susceptible tuberculosis,1,Number,2013,137056.0377520541,172421.9410445289,105895.52050475909
+5,Prevalence,11,Indonesia,1,Male,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2013,79893.27759730452,101153.14991980845,63172.18149540817
+5,Prevalence,11,Indonesia,2,Female,25,50-69 years,934,Drug-susceptible tuberculosis,1,Number,2013,57279.59843625509,72364.01653326071,45500.871287369504
+5,Prevalence,11,Indonesia,1,Male,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2013,56154.99663395644,70936.63270892439,42104.00442680708
+5,Prevalence,11,Indonesia,2,Female,26,70+ years,934,Drug-susceptible tuberculosis,1,Number,2013,62125.80142207041,77715.86515202798,47193.088166851034
+5,Prevalence,11,Indonesia,1,Male,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2013,94.04958238877077,141.78100586229567,60.01831269447315
+5,Prevalence,11,Indonesia,2,Female,28,<1 year,934,Drug-susceptible tuberculosis,1,Number,2013,187.8581405063281,312.638197942869,106.693734646796
+5,Prevalence,11,Indonesia,1,Male,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2013,9207.66558052346,11592.70543176773,7017.593353017833
+5,Prevalence,11,Indonesia,2,Female,30,80-84 years,934,Drug-susceptible tuberculosis,1,Number,2013,11433.349729377638,14316.23024806523,8601.378053991688
+5,Prevalence,11,Indonesia,1,Male,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2013,3728.340411000231,4573.83379872016,2966.476866616431
+5,Prevalence,11,Indonesia,2,Female,31,85-89 years,934,Drug-susceptible tuberculosis,1,Number,2013,4402.414195648692,5399.922156886202,3495.866061345674
+5,Prevalence,11,Indonesia,1,Male,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2013,1036.7935731632792,1308.8507995304199,789.7755618033387
+5,Prevalence,11,Indonesia,2,Female,32,90-94 years,934,Drug-susceptible tuberculosis,1,Number,2013,1218.2744459106068,1521.0650172802725,927.3773195653378
+5,Prevalence,11,Indonesia,1,Male,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2013,230979.19965133604,268938.9589933683,199123.39870197247
+5,Prevalence,11,Indonesia,2,Female,37,20+ years,934,Drug-susceptible tuberculosis,1,Number,2013,243296.64627525996,282698.4824331557,208182.11056388757
+5,Prevalence,11,Indonesia,1,Male,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2013,31289.769207877533,43462.37921594665,21694.931682949715
+5,Prevalence,11,Indonesia,2,Female,39,0-14 years,934,Drug-susceptible tuberculosis,1,Number,2013,31479.628830906877,43495.35421123652,22322.06568054363
+5,Prevalence,11,Indonesia,1,Male,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2013,105391.93396899679,129876.41657887853,84437.64513901263
+5,Prevalence,11,Indonesia,2,Female,41,50-74 years,934,Drug-susceptible tuberculosis,1,Number,2013,81820.59479991201,100722.66581887401,65225.89470318207
+5,Prevalence,11,Indonesia,1,Male,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2013,0.26064703396626376,0.3718155477435664,0.17152664430946854
+5,Prevalence,11,Indonesia,2,Female,42,<28 days,934,Drug-susceptible tuberculosis,1,Number,2013,0.4430799722876114,0.6346223975088288,0.278198435304019
+5,Prevalence,11,Indonesia,1,Male,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2013,207959.74996944863,241897.9704679454,178495.88562600978
+5,Prevalence,11,Indonesia,2,Female,157,25+ years,934,Drug-susceptible tuberculosis,1,Number,2013,204494.04310894336,238708.30368615157,175127.0170703419
+5,Prevalence,11,Indonesia,1,Male,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2013,32322.892388289485,44798.670185001596,22503.46983014374
+5,Prevalence,11,Indonesia,2,Female,158,<20 years,934,Drug-susceptible tuberculosis,1,Number,2013,44644.42016602652,59090.91161944738,32164.105386184947
+5,Prevalence,11,Indonesia,1,Male,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2013,32787.11022864324,49211.99532087342,18633.79028215397
+5,Prevalence,11,Indonesia,2,Female,159,10-24 years,934,Drug-susceptible tuberculosis,1,Number,2013,59715.00112245801,84460.5273945416,38612.53673968703
+5,Prevalence,11,Indonesia,1,Male,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2013,4967.3414602730645,6122.733507712731,3908.600730092546
+5,Prevalence,11,Indonesia,2,Female,160,85+ years,934,Drug-susceptible tuberculosis,1,Number,2013,5896.797752429182,7201.07324845642,4652.095908856688
+5,Prevalence,11,Indonesia,1,Male,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2013,9767.660546755818,14820.198071420891,5944.199811494909
+5,Prevalence,11,Indonesia,2,Female,162,10-19 years,934,Drug-susceptible tuberculosis,1,Number,2013,20912.3979561414,31733.342198825798,11945.618785628247
+5,Prevalence,11,Indonesia,1,Male,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2013,121097.25104362432,151674.02238164088,93935.08536448315
+5,Prevalence,11,Indonesia,2,Female,169,10 - 54 years,934,Drug-susceptible tuberculosis,1,Number,2013,158401.68903995957,194423.82390514202,126393.37620118773
+5,Prevalence,11,Indonesia,1,Male,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2013,22555.231841533663,33564.54847057352,15249.452113237787
+5,Prevalence,11,Indonesia,2,Female,172,0-9 years,934,Drug-susceptible tuberculosis,1,Number,2013,23732.02220988512,34813.28953827842,16216.986814436324
+5,Prevalence,11,Indonesia,1,Male,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2013,27299.47110470577,39018.77425061834,18377.258388918028
+5,Prevalence,11,Indonesia,2,Female,188,5-19 years,934,Drug-susceptible tuberculosis,1,Number,2013,36157.47567287218,49285.98671223205,25192.902180412606
+5,Prevalence,11,Indonesia,1,Male,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2013,63720.929483770415,92056.48433706356,37396.992743789226
+5,Prevalence,11,Indonesia,2,Female,197,15-39 years,934,Drug-susceptible tuberculosis,1,Number,2013,99524.76776872424,132681.67261870307,68521.17945635392
+5,Prevalence,11,Indonesia,1,Male,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2013,71911.47573818768,97798.63682601297,49401.17892794819
+5,Prevalence,11,Indonesia,2,Female,206,25-49 years,934,Drug-susceptible tuberculosis,1,Number,2013,85088.64325061785,111541.57652620626,62076.88580677608
+5,Prevalence,11,Indonesia,1,Male,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2013,119649.60915446759,146207.1347513982,96794.15254198104
+5,Prevalence,11,Indonesia,2,Female,228,55+ years,934,Drug-susceptible tuberculosis,1,Number,2013,105807.35519144179,127832.15176712476,85414.70116927853
+5,Prevalence,11,Indonesia,1,Male,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2013,93239.63439878935,116074.81827510735,72425.55342420131
+5,Prevalence,11,Indonesia,2,Female,230,60-79 years,934,Drug-susceptible tuberculosis,1,Number,2013,80436.92402403397,100367.5328256345,62978.194017434835
+5,Prevalence,11,Indonesia,1,Male,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2013,50640.373876387675,66919.57194204915,35976.16704819228
+5,Prevalence,11,Indonesia,2,Female,232,65-74 years,934,Drug-susceptible tuberculosis,1,Number,2013,43314.448192927855,57169.683336609574,30652.771798333728
+5,Prevalence,11,Indonesia,1,Male,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2013,30656.340262264162,38948.19336123802,22741.018344992153
+5,Prevalence,11,Indonesia,2,Female,234,75+ years,934,Drug-susceptible tuberculosis,1,Number,2013,37584.80505841349,47095.00130089673,27891.805724434587
+5,Prevalence,11,Indonesia,1,Male,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2013,202.20747610955354,271.2862328005323,139.79674539050146
+5,Prevalence,11,Indonesia,2,Female,235,95+ years,934,Drug-susceptible tuberculosis,1,Number,2013,276.10911086988324,366.5294264943202,193.01136508121408
+5,Prevalence,11,Indonesia,1,Male,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2013,25688.9988019911,33064.30709973675,18337.779537486305
+5,Prevalence,11,Indonesia,2,Female,243,75-84 years,934,Drug-susceptible tuberculosis,1,Number,2013,31688.007305984313,40148.313115763296,22925.955449134883
+5,Prevalence,11,Indonesia,1,Male,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2013,111329.59049686849,141940.1872413664,84736.22767951289
+5,Prevalence,11,Indonesia,2,Female,284,20-54 years,934,Drug-susceptible tuberculosis,1,Number,2013,137489.29108381819,171465.90218055705,107137.62235414871
+5,Prevalence,11,Indonesia,1,Male,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2013,118410.60810519474,145008.3632221737,95475.59796997643
+5,Prevalence,11,Indonesia,2,Female,285,55-89 years,934,Drug-susceptible tuberculosis,1,Number,2013,104312.9716346613,126250.26234306364,83908.3488845394
+5,Prevalence,11,Indonesia,1,Male,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2013,106175.64039031303,130417.4838488502,83792.68771242406
+5,Prevalence,11,Indonesia,2,Female,286,60-89 years,934,Drug-susceptible tuberculosis,1,Number,2013,96272.68794906032,117190.30227320828,76653.77704226492
+5,Prevalence,11,Indonesia,1,Male,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2013,80057.71308937902,100375.31827455037,61359.93548523654
+5,Prevalence,11,Indonesia,2,Female,287,65-89 years,934,Drug-susceptible tuberculosis,1,Number,2013,79404.86969456085,98859.33976521625,61193.831701276176
+5,Prevalence,11,Indonesia,1,Male,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2013,54915.995584683595,69620.90576954556,41132.429798192854
+5,Prevalence,11,Indonesia,2,Female,288,70-89 years,934,Drug-susceptible tuberculosis,1,Number,2013,60631.41786528993,76037.43499199484,45871.16572691858
+5,Prevalence,11,Indonesia,1,Male,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2013,30454.13278615461,38713.28974992043,22523.803941617844
+5,Prevalence,11,Indonesia,2,Female,289,75-94 years,934,Drug-susceptible tuberculosis,1,Number,2013,37308.69594754361,46757.425212783724,27650.92505771108
+5,Prevalence,11,Indonesia,1,Male,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2013,207147.0954056691,240116.34144571013,178684.5765807147
+5,Prevalence,11,Indonesia,2,Female,420,<70 years,934,Drug-susceptible tuberculosis,1,Number,2013,225815.26501921605,262578.1352850974,191553.435114857
+5,Prevalence,11,Indonesia,1,Male,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,26.465989796929644,113.6144860515131,2.904005588835419
+5,Prevalence,11,Indonesia,2,Female,1,<5 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,45.051476954445896,189.16140854915955,5.109808402914347
+5,Prevalence,11,Indonesia,1,Male,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,8.154370807966473e-05,0.00036400727863407774,9.81252484287692e-06
+5,Prevalence,11,Indonesia,2,Female,2,0-6 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,0.00012059498324063575,0.0005444727627065892,1.4622757703651824e-05
+5,Prevalence,11,Indonesia,1,Male,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,0.0013113266040498442,0.005634644953243843,0.00015620735300325657
+5,Prevalence,11,Indonesia,2,Female,3,7-27 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,0.0021999774360320777,0.009098897748352654,0.00025699105841178727
+5,Prevalence,11,Indonesia,1,Male,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,0.5044396382141538,2.1355999978389097,0.05545437478478498
+5,Prevalence,11,Indonesia,2,Female,4,28-364 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1.0127099949289875,4.285883491942223,0.10103547283745898
+5,Prevalence,11,Indonesia,1,Male,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,25.96015728840336,112.22278936219584,2.8501779569283427
+5,Prevalence,11,Indonesia,2,Female,5,1-4 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,44.03644638709764,183.21424523516072,4.961136421881214
+5,Prevalence,11,Indonesia,1,Male,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,99.19471438862597,417.40660704509935,11.568237946444105
+5,Prevalence,11,Indonesia,2,Female,6,5-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,82.4058470143477,338.62119370046247,9.251610054854064
+5,Prevalence,11,Indonesia,1,Male,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,50.281119454036556,196.22928087923373,6.674587588383889
+5,Prevalence,11,Indonesia,2,Female,7,10-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,39.41203230263462,159.06220972265618,5.111249993386978
+5,Prevalence,11,Indonesia,1,Male,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,5.4185853976292,24.529623816005202,0.5853180555274135
+5,Prevalence,11,Indonesia,2,Female,8,15-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,78.52714337198098,339.5121897971653,8.890469543513122
+5,Prevalence,11,Indonesia,1,Male,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,110.73483052705514,536.8687745507644,11.63150311432588
+5,Prevalence,11,Indonesia,2,Female,9,20-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,195.1468475120607,883.8673605659784,23.639732004072663
+5,Prevalence,11,Indonesia,1,Male,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,103.0344603546438,479.72670795677806,9.86406690005117
+5,Prevalence,11,Indonesia,2,Female,10,25-29 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,123.91651902664188,569.2251212804682,13.684832747145348
+5,Prevalence,11,Indonesia,1,Male,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,47.78699286104608,239.069196526463,4.389652770997014
+5,Prevalence,11,Indonesia,2,Female,11,30-34 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,49.86393735631331,237.48004873263403,4.348536851561572
+5,Prevalence,11,Indonesia,1,Male,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,43.59263386101923,202.50315996820464,3.934809600281212
+5,Prevalence,11,Indonesia,2,Female,12,35-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,64.3171257616137,284.116530548716,6.324593492374762
+5,Prevalence,11,Indonesia,1,Male,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,59.40560021583333,243.7432971868708,6.272737783979766
+5,Prevalence,11,Indonesia,2,Female,13,40-44 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,84.99208107047306,320.2728678955067,10.637728653310324
+5,Prevalence,11,Indonesia,1,Male,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,100.66543504900686,404.54223968441875,11.860270604543578
+5,Prevalence,11,Indonesia,2,Female,14,45-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,110.35109033361258,439.7386930184147,14.031813671314918
+5,Prevalence,11,Indonesia,1,Male,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,85.58021759213085,331.71314730914753,10.904379779919795
+5,Prevalence,11,Indonesia,2,Female,15,50-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,72.65076348501597,280.42609736830144,9.360205802199191
+5,Prevalence,11,Indonesia,1,Male,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,63.302343202272965,248.74695337518833,8.580298622888543
+5,Prevalence,11,Indonesia,2,Female,16,55-59 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,42.43892858343035,168.39242848747145,5.607913112403995
+5,Prevalence,11,Indonesia,1,Male,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,134.06848162534013,511.1348469687464,16.449662307997436
+5,Prevalence,11,Indonesia,2,Female,17,60-64 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,87.84365087299592,334.53793323027463,10.879886396144412
+5,Prevalence,11,Indonesia,1,Male,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,131.37570089711411,533.8665819286919,15.968744274963026
+5,Prevalence,11,Indonesia,2,Female,18,65-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,98.36568821162285,405.70867245215993,11.746809613917934
+5,Prevalence,11,Indonesia,1,Male,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,133.6029966668053,560.7148882866029,17.169566101205966
+5,Prevalence,11,Indonesia,2,Female,19,70-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,129.2959400267674,538.8967453057464,16.531513839605047
+5,Prevalence,11,Indonesia,1,Male,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,84.32090603556696,354.5717737763414,10.569835600364941
+5,Prevalence,11,Indonesia,2,Female,20,75-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,106.13414580400303,455.37484848323527,13.416049509927761
+5,Prevalence,11,Indonesia,1,Male,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,73.40116057663164,307.9543054213819,9.388413054454027
+5,Prevalence,11,Indonesia,2,Female,21,80+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,90.34145749235458,382.8441149927975,11.448298060870146
+5,Prevalence,11,Indonesia,1,Male,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1352.2321685016877,5704.524441565191,178.0502196808665
+5,Prevalence,11,Indonesia,2,Female,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1501.0546751803145,6180.182655032519,198.39268794273286
+5,Prevalence,11,Indonesia,1,Male,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,149.47583384266252,594.2074595198388,18.473295369299265
+5,Prevalence,11,Indonesia,2,Female,23,5-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,121.81787931698231,481.95629202407474,14.259890180461044
+5,Prevalence,11,Indonesia,1,Male,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,470.63853826623364,2087.755205525377,64.75097404473252
+5,Prevalence,11,Indonesia,2,Female,24,15-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,707.1147444326962,3178.709580525499,96.2380398071817
+5,Prevalence,11,Indonesia,1,Male,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,414.3267433168581,1631.9437438026853,54.25964633602868
+5,Prevalence,11,Indonesia,2,Female,25,50-69 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,301.2990311530651,1194.675446627472,39.877923917049934
+5,Prevalence,11,Indonesia,1,Male,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,291.3250632790039,1195.3942073170933,36.62231253575411
+5,Prevalence,11,Indonesia,2,Female,26,70+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,325.771543323125,1372.764996657322,41.62647171338001
+5,Prevalence,11,Indonesia,1,Male,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,0.5058325085262833,2.1409448023552606,0.05558632016766018
+5,Prevalence,11,Indonesia,2,Female,28,<1 year,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1.0150305673482602,4.295326217890604,0.10130735443029211
+5,Prevalence,11,Indonesia,1,Male,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,47.67732617535237,201.36576442501615,6.064760758712002
+5,Prevalence,11,Indonesia,2,Female,30,80-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,59.624571260631654,252.81294823926262,7.367899622160124
+5,Prevalence,11,Indonesia,1,Male,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,19.29765339743853,81.09371061142147,2.546678324975919
+5,Prevalence,11,Indonesia,2,Female,31,85-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,22.937124797726764,97.58628772798222,2.9656862383182596
+5,Prevalence,11,Indonesia,1,Male,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,5.376719759440684,22.1722431308508,0.72393972192139
+5,Prevalence,11,Indonesia,2,Female,32,90-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,6.346659096738431,26.49433951532156,0.8184843816190062
+5,Prevalence,11,Indonesia,1,Male,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1170.8717594644665,4932.247417825996,153.0967787791418
+5,Prevalence,11,Indonesia,2,Female,37,20+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1255.6581755369054,5224.530744508631,162.0399535299464
+5,Prevalence,11,Indonesia,1,Male,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,175.94182363959214,709.3534036902649,22.532430945177513
+5,Prevalence,11,Indonesia,2,Female,39,0-14 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,166.86935627142822,670.1273230693722,20.350003836463397
+5,Prevalence,11,Indonesia,1,Male,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,547.9297399836635,2197.8812129188373,72.99242011052048
+5,Prevalence,11,Indonesia,2,Female,41,50-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,430.5949711798325,1771.0375886905128,57.96358523483502
+5,Prevalence,11,Indonesia,1,Male,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,0.0013928703121295087,0.006010950070385403,0.00016549678833872406
+5,Prevalence,11,Indonesia,2,Female,42,<28 days,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,0.0023205724192727132,0.009643589749940194,0.0002725466203432128
+5,Prevalence,11,Indonesia,1,Male,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1060.1369289374113,4437.744975877105,138.4220796898005
+5,Prevalence,11,Indonesia,2,Female,157,25+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1060.5113280248447,4498.342136493146,137.70408534259238
+5,Prevalence,11,Indonesia,1,Male,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,181.3604090372214,722.2512972181926,23.0611336920603
+5,Prevalence,11,Indonesia,2,Female,158,<20 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,245.39649964340921,1014.1726055640883,31.988048885631088
+5,Prevalence,11,Indonesia,1,Male,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,166.4345353787209,729.8646922995665,20.742866497527128
+5,Prevalence,11,Indonesia,2,Female,159,10-24 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,313.0860231866763,1356.8823462469695,39.10102246513384
+5,Prevalence,11,Indonesia,1,Male,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,25.723834401279273,107.27501158238788,3.4557917676126704
+5,Prevalence,11,Indonesia,2,Female,160,85+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,30.716886231722917,130.11412072231826,4.052016908359897
+5,Prevalence,11,Indonesia,1,Male,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,55.69970485166575,223.30212842454526,7.369009055079212
+5,Prevalence,11,Indonesia,2,Female,162,10-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,117.9391756746156,503.8452934012323,14.707039362986322
+5,Prevalence,11,Indonesia,1,Male,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,606.499875312401,2668.4303976873107,81.7032096739697
+5,Prevalence,11,Indonesia,2,Female,169,10 - 54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,819.1775402203467,3608.062190264604,111.77435088559393
+5,Prevalence,11,Indonesia,1,Male,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,125.6607041855556,519.5658993294336,14.690764244608037
+5,Prevalence,11,Indonesia,2,Female,172,0-9 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,127.45732396879359,514.9701839929083,14.982951669102192
+5,Prevalence,11,Indonesia,1,Male,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,154.89441924029168,607.0166069906995,19.32747674328277
+5,Prevalence,11,Indonesia,2,Female,188,5-19 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,200.3450226889633,825.2377838805688,26.229312069556777
+5,Prevalence,11,Indonesia,1,Male,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,310.56750300139345,1487.2462127697431,38.95464430531355
+5,Prevalence,11,Indonesia,2,Female,197,15-39 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,511.7715730286106,2306.376222520631,67.55469071077745
+5,Prevalence,11,Indonesia,1,Male,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,354.4851223415493,1560.2964706689665,46.65556612881054
+5,Prevalence,11,Indonesia,2,Female,206,25-49 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,433.44075354865447,1897.9481533890557,58.99258400565089
+5,Prevalence,11,Indonesia,1,Male,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,620.071589003731,2522.48124846566,80.34653386417511
+5,Prevalence,11,Indonesia,2,Female,228,55+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,554.4198109911741,2156.4596106117506,71.7508907568797
+5,Prevalence,11,Indonesia,1,Male,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,483.3680852248266,1972.1722628709115,60.88806590692072
+5,Prevalence,11,Indonesia,2,Female,230,60-79 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,421.63942491538916,1702.2598843069702,53.0447650641744
+5,Prevalence,11,Indonesia,1,Male,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,264.97869756391947,1092.358513881193,33.20676169954852
+5,Prevalence,11,Indonesia,2,Female,232,65-74 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,227.66162823839022,953.8555892641822,28.637667874035376
+5,Prevalence,11,Indonesia,1,Male,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,157.7220666121986,662.2004049558775,19.81513535720061
+5,Prevalence,11,Indonesia,2,Female,234,75+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,196.47560329635758,830.793109995023,24.59255112023721
+5,Prevalence,11,Indonesia,1,Male,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1.04946124440006,4.250117319991351,0.13481372131784886
+5,Prevalence,11,Indonesia,2,Female,235,95+ years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1.4331023372577256,5.650725265811316,0.17624180997781871
+5,Prevalence,11,Indonesia,1,Male,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,131.99823221091935,549.00128525734,16.80737078811059
+5,Prevalence,11,Indonesia,2,Female,243,75-84 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,165.75871706463465,708.4162809336161,20.634881800114606
+5,Prevalence,11,Indonesia,1,Male,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,550.8001704607352,2424.7871768459904,74.85827967852948
+5,Prevalence,11,Indonesia,2,Female,284,20-54 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,701.2383645457312,3130.2185436054697,95.89523360655791
+5,Prevalence,11,Indonesia,1,Male,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,613.6454079998904,2492.6280202459593,79.46244053985231
+5,Prevalence,11,Indonesia,2,Female,285,55-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,546.6400495571778,2136.4240667978543,70.77543267886058
+5,Prevalence,11,Indonesia,1,Male,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,550.3430647976174,2223.8125745760426,70.55197776815342
+5,Prevalence,11,Indonesia,2,Female,286,60-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,504.20112097374755,1980.8997282078342,64.32265950928956
+5,Prevalence,11,Indonesia,1,Male,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,416.2745831722773,1675.6961235063254,53.09511830620735
+5,Prevalence,11,Indonesia,2,Female,287,65-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,416.3574701007517,1663.2616381823173,53.63886733505089
+5,Prevalence,11,Indonesia,1,Male,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,284.8988822751632,1176.118503190291,35.75231221091663
+5,Prevalence,11,Indonesia,2,Female,288,70-89 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,317.99178188912884,1332.3738524268197,40.54167759666073
+5,Prevalence,11,Indonesia,1,Male,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,156.67260536779852,659.2704081750156,19.735280111435657
+5,Prevalence,11,Indonesia,2,Female,289,75-94 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,195.04250095909984,823.9412657696671,24.397416344277286
+5,Prevalence,11,Indonesia,1,Male,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1060.9071052226839,4478.338310704727,141.462408199969
+5,Prevalence,11,Indonesia,2,Female,420,<70 years,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2013,1175.2831318571896,4928.84843857891,157.2035086325712
+5,Prevalence,11,Indonesia,1,Male,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,1.853733645646899,7.886868883179681,0.20468987910497702
+5,Prevalence,11,Indonesia,2,Female,1,<5 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,3.1292983960746295,13.173328661210668,0.357923317770404
+5,Prevalence,11,Indonesia,1,Male,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2013,5.627757810757304e-06,2.5407312422711744e-05,6.771502480296519e-07
+5,Prevalence,11,Indonesia,2,Female,2,0-6 days,947,Extensively drug-resistant tuberculosis,1,Number,2013,8.329949572137417e-06,3.783941504580449e-05,1.0078527551097627e-06
+5,Prevalence,11,Indonesia,1,Male,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2013,9.096747351194484e-05,0.00038969255255482576,1.077779301069474e-05
+5,Prevalence,11,Indonesia,2,Female,3,7-27 days,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.0001544248534739239,0.0006385535709646044,1.820504224648389e-05
+5,Prevalence,11,Indonesia,1,Male,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.03488215365068754,0.14688760169807757,0.0038450781520164077
+5,Prevalence,11,Indonesia,2,Female,4,28-364 days,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.07014618929674919,0.29625623494351894,0.006986343144810302
+5,Prevalence,11,Indonesia,1,Male,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,1.8187548967648883,7.825985333722591,0.20097618556883656
+5,Prevalence,11,Indonesia,2,Female,5,1-4 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,3.058989451974834,12.73099550860836,0.3478017327057442
+5,Prevalence,11,Indonesia,1,Male,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,6.8516631815410385,28.923451981396163,0.8002502650394586
+5,Prevalence,11,Indonesia,2,Female,6,5-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,5.651000518025089,23.251665074814447,0.6331426431856649
+5,Prevalence,11,Indonesia,1,Male,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,3.4663886307963923,13.524519278468391,0.46065211281884605
+5,Prevalence,11,Indonesia,2,Female,7,10-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,2.712231546100305,10.967041733531316,0.35568641670078516
+5,Prevalence,11,Indonesia,1,Male,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.38513682567643653,1.7347944619929976,0.04138799849861396
+5,Prevalence,11,Indonesia,2,Female,8,15-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,5.418573382593617,23.486747703467596,0.6174403027114912
+5,Prevalence,11,Indonesia,1,Male,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,7.742079057874233,37.373995439487906,0.8150031873921353
+5,Prevalence,11,Indonesia,2,Female,9,20-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,13.707488681989998,61.83001590619833,1.6711908559640432
+5,Prevalence,11,Indonesia,1,Male,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,7.139285231804648,33.06128782922373,0.6846561392586938
+5,Prevalence,11,Indonesia,2,Female,10,25-29 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,8.528460941932408,39.349390735533596,0.9442646154813399
+5,Prevalence,11,Indonesia,1,Male,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,3.2953541996088718,16.525903484691884,0.3022884900297428
+5,Prevalence,11,Indonesia,2,Female,11,30-34 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,3.4134570359117826,16.28657288218817,0.2975753509542591
+5,Prevalence,11,Indonesia,1,Male,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,2.9987430376168183,13.654802626070701,0.2726772913458339
+5,Prevalence,11,Indonesia,2,Female,12,35-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,4.413771743673865,19.53417660313291,0.434672843280003
+5,Prevalence,11,Indonesia,1,Male,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,4.085986036512127,16.751391487224012,0.4322645790069721
+5,Prevalence,11,Indonesia,2,Female,13,40-44 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,5.849226335153887,22.038135981451383,0.7359376874932997
+5,Prevalence,11,Indonesia,1,Male,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,6.929947284221746,27.940243519638397,0.818297489027691
+5,Prevalence,11,Indonesia,2,Female,14,45-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,7.590100494995233,30.337986288681876,0.9668934321328602
+5,Prevalence,11,Indonesia,1,Male,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,6.008345225383204,23.455641967726258,0.7741539173182259
+5,Prevalence,11,Indonesia,2,Female,15,50-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,5.101252451303076,19.84786263667211,0.6642869782222193
+5,Prevalence,11,Indonesia,1,Male,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,4.4972138027977,17.63632672593319,0.6130988985422162
+5,Prevalence,11,Indonesia,2,Female,16,55-59 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,2.995463660001407,11.856556643370741,0.3988014719965344
+5,Prevalence,11,Indonesia,1,Male,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,9.429742091887778,35.84690765287911,1.1681868717644504
+5,Prevalence,11,Indonesia,2,Female,17,60-64 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,6.130474522152784,23.36101169653761,0.7673282035185597
+5,Prevalence,11,Indonesia,1,Male,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,9.13901133968529,37.31979913296375,1.122722405646333
+5,Prevalence,11,Indonesia,2,Female,18,65-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,6.811934955838262,28.33187538190612,0.8185437156714931
+5,Prevalence,11,Indonesia,1,Male,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,9.388623042278304,39.251396890584644,1.2164514660884138
+5,Prevalence,11,Indonesia,2,Female,19,70-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,9.022592623310036,37.64505365619464,1.1585135638632231
+5,Prevalence,11,Indonesia,1,Male,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,5.973950097621705,25.115614169761937,0.7550119544645536
+5,Prevalence,11,Indonesia,2,Female,20,75-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,7.4323690878924555,31.898040414524903,0.9475737867032027
+5,Prevalence,11,Indonesia,1,Male,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,5.196621370741152,21.726782668120748,0.6680504959295492
+5,Prevalence,11,Indonesia,2,Female,21,80+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,6.343873979257293,26.788830077886285,0.8099237220567946
+5,Prevalence,11,Indonesia,1,Male,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2013,94.38182410169433,398.42375876106206,12.467107273606013
+5,Prevalence,11,Indonesia,2,Female,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2013,104.25157035620613,430.5002465498569,13.82269528699388
+5,Prevalence,11,Indonesia,1,Male,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,10.318051812337432,41.1617778646714,1.275925096440373
+5,Prevalence,11,Indonesia,2,Female,23,5-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,8.363232064125393,33.290557768077775,0.9798980091545457
+5,Prevalence,11,Indonesia,1,Male,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,32.57653167331488,144.34193353290863,4.4884317467930295
+5,Prevalence,11,Indonesia,2,Female,24,15-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,48.92107861625079,220.37068742402337,6.668587275086259
+5,Prevalence,11,Indonesia,1,Male,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,29.074312459753973,114.72342454635631,3.8205548308331387
+5,Prevalence,11,Indonesia,2,Female,25,50-69 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,21.03912558929553,83.53617681238215,2.8033080187970913
+5,Prevalence,11,Indonesia,1,Male,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,20.55919451064116,84.16076935832024,2.600156025768662
+5,Prevalence,11,Indonesia,2,Female,26,70+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,22.798835690459786,96.2460636967612,2.938313713053319
+5,Prevalence,11,Indonesia,1,Male,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.03497874888201024,0.1472741985589309,0.003854232644780705
+5,Prevalence,11,Indonesia,2,Female,28,<1 year,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.07030894409979527,0.2969198000649858,0.007005327635075229
+5,Prevalence,11,Indonesia,1,Male,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,3.3760877167834087,14.154985310454059,0.4327896880698599
+5,Prevalence,11,Indonesia,2,Female,30,80-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,4.18467141634017,17.571766179204293,0.5221128948921687
+5,Prevalence,11,Indonesia,1,Male,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,1.3660426798058656,5.746631693237725,0.18077541331819072
+5,Prevalence,11,Indonesia,2,Female,31,85-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,1.6118900130978633,6.833208366937238,0.2094681276612371
+5,Prevalence,11,Indonesia,1,Male,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.38032067941160086,1.553357928977279,0.05145303642485846
+5,Prevalence,11,Indonesia,2,Female,32,90-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.44645211763987774,1.860976219494961,0.05801279042354913
+5,Prevalence,11,Indonesia,1,Male,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,81.82490181803357,344.1678749884385,10.735395928964378
+5,Prevalence,11,Indonesia,2,Female,37,20+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,87.34046651341248,363.38043694196534,11.31112613676957
+5,Prevalence,11,Indonesia,1,Male,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,12.17178545798433,49.214591686780274,1.5616405387985648
+5,Prevalence,11,Indonesia,2,Female,39,0-14 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,11.492530460200022,46.24978364373166,1.4024237563158044
+5,Prevalence,11,Indonesia,1,Male,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,38.46293550203228,154.06550779390923,5.1538995160126655
+5,Prevalence,11,Indonesia,2,Female,41,50-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,30.061718212605562,122.74920330085101,4.071077255018971
+5,Prevalence,11,Indonesia,1,Male,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2013,9.659523132270213e-05,0.00041565738139415784,1.1483715830360912e-05
+5,Prevalence,11,Indonesia,2,Female,42,<28 days,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.00016275480304606132,0.0006764095088688545,1.9110463175877428e-05
+5,Prevalence,11,Indonesia,1,Male,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,74.08282276015936,309.340646052323,9.741060526086338
+5,Prevalence,11,Indonesia,2,Female,157,25+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,73.6329778314225,310.5289422397765,9.634355036655714
+5,Prevalence,11,Indonesia,1,Male,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,12.556922283660766,50.13223961830853,1.5992585972427733
+5,Prevalence,11,Indonesia,2,Female,158,<20 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,16.91110384279364,69.9419227529956,2.2101683591556838
+5,Prevalence,11,Indonesia,1,Male,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,11.593604514347062,51.024355259876096,1.4458395979402756
+5,Prevalence,11,Indonesia,2,Female,159,10-24 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,21.838293610683923,94.6745131846956,2.7387374029449467
+5,Prevalence,11,Indonesia,1,Male,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,1.8205336539577424,7.604271443254302,0.2454057584548629
+5,Prevalence,11,Indonesia,2,Female,160,85+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,2.1592025629171228,9.145899157151916,0.2858958714871856
+5,Prevalence,11,Indonesia,1,Male,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,3.8515254564728294,15.447225503822448,0.5090986896654777
+5,Prevalence,11,Indonesia,2,Female,162,10-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,8.130804928693923,34.23232495045948,1.019127880078606
+5,Prevalence,11,Indonesia,1,Male,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,42.05126552949448,184.72862292756943,5.675230073164591
+5,Prevalence,11,Indonesia,2,Female,169,10 - 54 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,56.73456261365418,250.33491722706722,7.770814851378232
+5,Prevalence,11,Indonesia,1,Male,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,8.705396827187936,35.974285148911285,1.0221086212402217
+5,Prevalence,11,Indonesia,2,Female,172,0-9 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,8.780298914099719,35.484014214255275,1.033666913417747
+5,Prevalence,11,Indonesia,1,Male,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,10.703188638013868,42.07089637804479,1.3372179163672098
+5,Prevalence,11,Indonesia,2,Female,188,5-19 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,13.781805446719012,56.77847995147202,1.8076418500742897
+5,Prevalence,11,Indonesia,1,Male,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,21.560598352581007,103.5065376852131,2.6919919703757915
+5,Prevalence,11,Indonesia,2,Female,197,15-39 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,35.48175178610167,159.7499223679048,4.706922043526531
+5,Prevalence,11,Indonesia,1,Male,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,24.449315789764213,105.89981188385136,3.212263886853569
+5,Prevalence,11,Indonesia,2,Female,206,25-49 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,29.795016551667178,130.74443255374104,4.060020202660995
+5,Prevalence,11,Indonesia,1,Male,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,43.62516174501193,176.8574710961978,5.7004628672353155
+5,Prevalence,11,Indonesia,2,Female,228,55+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,38.73670882845223,150.74653989036256,5.052262951232767
+5,Prevalence,11,Indonesia,1,Male,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,33.93132657147308,138.8875525282576,4.322646374854376
+5,Prevalence,11,Indonesia,2,Female,230,60-79 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,29.39737118919354,118.81359873704194,3.721535926274478
+5,Prevalence,11,Indonesia,1,Male,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,18.527634381963594,76.34605057836967,2.3396941449445787
+5,Prevalence,11,Indonesia,2,Female,232,65-74 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,15.834527579148299,66.45846116295655,2.0048173310181454
+5,Prevalence,11,Indonesia,1,Male,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,11.170571468362855,46.61090982763643,1.4126128437470575
+5,Prevalence,11,Indonesia,2,Female,234,75+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,13.776243067149746,58.14818410784156,1.7327739556964052
+5,Prevalence,11,Indonesia,1,Male,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.07417029474027563,0.29677606810090307,0.009578603074846667
+5,Prevalence,11,Indonesia,2,Female,235,95+ years,947,Extensively drug-resistant tuberculosis,1,Number,2013,0.10086043217938165,0.3969000527192843,0.012439581107475582
+5,Prevalence,11,Indonesia,1,Male,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,9.350037814405114,38.77737116161303,1.1988338455745522
+5,Prevalence,11,Indonesia,2,Female,243,75-84 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,11.617040504232627,49.473987201786485,1.452628826045787
+5,Prevalence,11,Indonesia,1,Male,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,38.199740073021644,168.69321888642602,5.193760747879986
+5,Prevalence,11,Indonesia,2,Female,284,20-54 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,48.603757684960264,217.05905789705898,6.678541684296327
+5,Prevalence,11,Indonesia,1,Male,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,43.17067077086005,175.1418712534079,5.641217530563855
+5,Prevalence,11,Indonesia,2,Female,285,55-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,38.18939627863298,149.34259012943687,4.9812823605625765
+5,Prevalence,11,Indonesia,1,Male,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,38.673456968062354,155.85408402495682,5.0044532694902735
+5,Prevalence,11,Indonesia,2,Female,286,60-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,35.19393261863157,138.3957836884933,4.523913156354012
+5,Prevalence,11,Indonesia,1,Male,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,29.243714876174575,117.57146828849868,3.757990616374314
+5,Prevalence,11,Indonesia,2,Female,287,65-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,29.06345809647879,116.20620285156305,3.757866155737081
+5,Prevalence,11,Indonesia,1,Male,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,20.104703536489282,82.47637603422086,2.538219693303541
+5,Prevalence,11,Indonesia,2,Female,288,70-89 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,22.251523140640526,93.43428239820456,2.861471229205741
+5,Prevalence,11,Indonesia,1,Male,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,11.09640117362258,46.40367830435869,1.4069435152104186
+5,Prevalence,11,Indonesia,2,Female,289,75-94 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,13.675382634970365,57.66597608572327,1.7175777067506008
+5,Prevalence,11,Indonesia,1,Male,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,73.82262959105317,306.20869991448376,9.8690514323967
+5,Prevalence,11,Indonesia,2,Female,420,<70 years,947,Extensively drug-resistant tuberculosis,1,Number,2013,81.45273466574633,341.71637839967815,10.926228801008694
