@@ -482,21 +482,20 @@ CFY[year==2019,iso:=iso3]
 m <- max(CFY$CDR)
 
 aF8 <- ggplot(CFY,
-              aes(CDR,CFR,label=iso,col=year,group=iso3))+
-  geom_vline(xintercept=1,col='darkgrey')+
+              aes(CFR,CDR,label=iso,col=year,group=iso3))+
+  geom_hline(yintercept=1,col='darkgrey')+
   geom_point()+ geom_line()+
-  scale_x_continuous(label=percent,limits = c(0,m))+
-  scale_y_continuous(label=percent,limits = c(0,1))+
+  scale_x_continuous(label=percent,limits = c(0,1))+
+  scale_y_continuous(label=percent,limits = c(0,m))+
   scale_color_viridis_c(direction = -1)+
   coord_fixed()+
   geom_abline(intercept = 0,slope=1,col=2)+
   geom_text_repel(max.overlaps =  20 )+
   theme_light()+
-  xlab('New & relapse notifications/Incidence (Case Detection Ratio)') +
-  ylab('Mortality/Incidence (case fatality ratio)')
+  ylab('Case Detection Ratio (New & relapse notifications/Incidence)') +
+  xlab('Case Fatality Ratio (Mortality/Incidence)')
 
-sf <- 0.7
-ggsave(aF8,file=here('plots/aF8.pdf'),h=15*sf,w=20*sf)
+ggsave(aF8,file=here('plots/aF8.pdf'),w=10,h=15)
 
 
 
