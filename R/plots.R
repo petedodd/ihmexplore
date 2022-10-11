@@ -456,6 +456,8 @@ CFM$sex <- factor(CFM$sex,levels=c('M','F'),ordered=FALSE)
 CFM$agey <- CFM$age
 CFM[age=='65plus',agey:='65+']
 
+
+## TODO WHO include
 aF4 <- ggplot(CFM,aes(agey,Deaths/Incidence,col=sex,group=paste(name,sex)))+
   geom_line() +
   facet_wrap(~name)+
@@ -561,3 +563,32 @@ aF3 <- ggplot(IP,aes(agey,y=prev,ymin=prev.lo,ymax=prev.hi,group=isoy))+
   ylab('TB prevalence per 100,000')
 
 ggsave(aF3,file=here('plots/aF3.pdf'),h=10,w=10)
+
+
+
+## WHO vs IHME by HIV
+HHI <- TBC[iso3 %in% hbc30key$iso3
+           & year==2019
+          ,.(iso3,e_inc_num,e_inc_tbhiv_num)]
+HHI[is.na(e_inc_tbhiv_num),e_inc_tbhiv_num:=0]
+HHI <- HHI[,.(iso3,`-ve`=e_inc_num-e_inc_tbhiv_num,`+ve`=e_inc_tbhiv_num)]
+HHI <- melt(HHI,id='iso3')
+names(HHI)[3] <- 'WHO'
+names(HHI)[2] <- 'HIV'
+HHI <- merge(HHI,hbc30key,by='iso3')
+
+HHI <- merge(HHI,HH[,.(location_name,HIV,IHME=Incidence)],by=c('location_name','HIV'))
+
+aF9 <- ggplot(HHI,aes(HIV,abs(WHO/IHME-1),col=HIV,label=iso3))+
+  geom_line(aes(group=iso3),col='grey',alpha=0.7)+
+  geom_point(shape=1)+
+  geom_boxplot(outlier.shape=NA,alpha=0.0)+
+  geom_text_repel(show.legend=FALSE)+
+  scale_colour_manual(values=c('blue','red'))+
+  scale_y_sqrt()+
+  theme_classic()+ggpubr::grids()+
+  theme(legend.position = 'top')+
+  xlab('Country')+
+  ylab('Incidence estimates in 2019: |WHO/IHME-1| (square root scale) ')
+
+ggsave(aF9,file=here('plots/aF9.pdf'),h=7,w=7)
