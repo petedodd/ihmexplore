@@ -34,7 +34,7 @@ CLZ <- c('WHO'=who.col,'IHME'=ihme.col)
 load(here('data/prev.rda'))
 load(here('data/hbc30key.rda'))
 load(here('data/N.rda'))
-load(here('data/aprev,Rdata'))
+load(here('data/aprev.Rdata'))
 
 ## IHME CSV data
 HT <- rh('indata/IHME-GBD_2019_DATA-8e052381-1.csv') #tot TB

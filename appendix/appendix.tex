@@ -27,21 +27,80 @@
 \begin{document}
 
 \maketitle
-\tableofcontents
+% \tableofcontents
 
 \listoffigures
 
+\newpage
 
-\section{Preamble}
+\section*{Preamble}
 \label{sec:orga0b5156}
 
-TODO
+The figures are generated with
+publicly available data from WHO and IHME's Global Burden of Disease Collaborative
+Network Global Burden of Disease Study 2019 (GBD 2019). They are available from:
+
+\begin{itemize}
+\item \url{https://www.who.int/teams/global-tuberculosis-programme/data}
+\item \url{https://vizhub.healthdata.org/gbd-results/},
+\end{itemize}
+and are also included in the GitHub repository:
+
+\begin{itemize}
+\item \url{https://github.com/petedodd/ihmexplore}
+\end{itemize}
+for this article, which includes
+the R code for analysis \& visualisation.
+
+Some plots use ISO3 codes to refer to countries, which are provided on the next
+page for reference.
+
+
+\begin{table}[]
+  \centering
+\begin{tabular}{|l|l|}
+\hline
+\textbf{iso3} & \textbf{country name}                 \\ \hline
+AGO           & Angola                                \\ \hline
+BGD           & Bangladesh                            \\ \hline
+BRA           & Brazil                                \\ \hline
+KHM           & Cambodia                              \\ \hline
+CAF           & Central African Republic              \\ \hline
+CHN           & China                                 \\ \hline
+COG           & Congo                                 \\ \hline
+PRK           & Democratic People's Republic of Korea \\ \hline
+COD           & Democratic Republic of the Congo      \\ \hline
+ETH           & Ethiopia                              \\ \hline
+IND           & India                                 \\ \hline
+IDN           & Indonesia                             \\ \hline
+KEN           & Kenya                                 \\ \hline
+LSO           & Lesotho                               \\ \hline
+LBR           & Liberia                               \\ \hline
+MOZ           & Mozambique                            \\ \hline
+MMR           & Myanmar                               \\ \hline
+NAM           & Namibia                               \\ \hline
+NGA           & Nigeria                               \\ \hline
+PAK           & Pakistan                              \\ \hline
+PNG           & Papua New Guinea                      \\ \hline
+PHL           & Philippines                           \\ \hline
+RUS           & Russian Federation                    \\ \hline
+SLE           & Sierra Leone                          \\ \hline
+ZAF           & South Africa                          \\ \hline
+THA           & Thailand                              \\ \hline
+TZA           & United Republic of Tanzania           \\ \hline
+VNM           & Viet Nam                              \\ \hline
+ZMB           & Zambia                                \\ \hline
+ZWE           & Zimbabwe                              \\ \hline
+\end{tabular}
+\caption{Key of ISO3 codes and country names}
+\end{table}
 
 
 \begin{figure}
   \centering
   \includegraphics[width=1\textwidth]{../plots/aF2a.pdf}
-  \caption{Incidence comparison over time}
+  \caption[Incidence comparison over time]{Incidence comparison over time. The
+    red line represents equality.}
 \end{figure}
 
 
@@ -50,7 +109,8 @@ TODO
 \begin{figure}
   \centering
   \includegraphics[width=1\textwidth]{../plots/aF2b.pdf}
-  \caption{Mortality comparison over time}
+  \caption[Mortality comparison over time]{Mortality comparison over time. The
+    red line represents equality.}
 \end{figure}
 
 \FloatBarrier
@@ -58,7 +118,10 @@ TODO
 \begin{figure}
   \centering
   \includegraphics[width=1\textwidth]{../plots/aF9.pdf}
-  \caption{WHO vs IHME incidence differences by HIV status}
+  \caption[WHO vs IHME incidence differences by HIV status]{WHO vs IHME
+    incidence differences by HIV status. The difference is the absolute
+    difference as a fraction of the IHME estimate. Lines join country HIV$\pm$
+    values. Some outlying countries are labelled.}
 \end{figure}
 
 \FloatBarrier
@@ -67,7 +130,9 @@ TODO
 \begin{figure}
 \centering
 \includegraphics[width=1\textwidth]{../plots/aF1.pdf}
-\caption{30 HBC incidence and notifications}
+\caption[30 HBC incidence and notifications]{30 HBC incidence and notifications
+  for 2019.
+  Coloured bars are notifications; open bars are WHO incidence estimates; circles are IHME GBD incidence estimates, where filled circles suggest a case detection ratio greater than one according to these estimates. Men to the right; women to the left.}
 \end{figure}
 
 
@@ -77,7 +142,8 @@ TODO
 \begin{figure}
   \centering
   \includegraphics[width=1\textwidth]{../plots/aF4.pdf}
-  \caption{Case Fatality Ratio by age and sex}
+  \caption[Case Fatality Ratio by age and sex]{Case Fatality Ratio (CFR) by age and
+    sex. CFR is calculated as estimated mortality over esimtated incidence in 2019}
 \end{figure}
 
 
@@ -86,9 +152,11 @@ TODO
 \begin{figure}
 \centering
 \includegraphics[width=1\textwidth]{../plots/aF3.pdf}
-\caption{Prevalence vs prevalence survey. Red=IHME all TB prevalence point
+\caption[Prevalence vs prevalence survey.]{Prevalence vs
+  nationally-representative prevalence survey. Red=IHME all TB prevalence point
   estimate; black=prevalence survey bacteriologically-confirmed TB prevalence
-  and 95\% confidence interval}
+  and 95\% confidence interval. Bacteriologically-confirmed TB is a subset of
+  all TB.}
 \end{figure}
 
 \FloatBarrier
@@ -96,7 +164,11 @@ TODO
 \begin{figure}
   \centering
   \includegraphics[width=1\textwidth]{../plots/aF7.pdf}
-  \caption{Implied duration by HIV status}
+  \caption[Implied duration by HIV status]{Implied duration by HIV status.
+    Duration is calculated as estimated prevalence divided by estimated
+    incidence. HIV-associated TB is thought to have shorter duration than TB
+    disease in HIV uninfected people. Some red (HIV+) and blue (HIV-) points are not
+    distinguishable due to overlap.}
 \end{figure}
 
 
@@ -106,20 +178,24 @@ TODO
 \begin{figure}
   \centering
   \includegraphics[width=0.8\textwidth]{../plots/aF8.pdf}
-  \caption{Case Fatality Ratio vs Case Detection Ratio}
+  \caption[Case Fatality Ratio vs Case Detection Ratio]{IHME Case Fatality Ratio vs
+    Case Detection Ratio 2010-2019. Case Fatality Ratio (CFR) is calculated as estimated
+    mortality divided by estimated incidence.
+    Case Detection Ratio (CDR) is calculated as notifications divided by
+    estimated incidence. The red diagonal line is a reference line of equality.
+    The horizontal grey line represents a CDR of 100\%. CFRs are typically
+    stable even for large changes in CDR.}
 \end{figure}
-\end{document}
 
 \FloatBarrier
-
-Hello what is happening?
-
-TODO stupid error - these are not showing
 
 \begin{figure}
 \centering
 \includegraphics[width=1\textwidth]{../plots/aF5.pdf}
-\caption{Implied duration by age and sex}
+\caption[Implied duration by age and sex]{Implied duration by age and sex.
+  Duration is calculated as estimated prevalence divided by estimated incidence.
+The y-axis is on a square root scale. Most settings have similar oveall
+duration. Most settings have litte difference in duration by sex.}
 \end{figure}
 
 \FloatBarrier
@@ -127,5 +203,9 @@ TODO stupid error - these are not showing
 \begin{figure}
 \centering
 \includegraphics[width=1\textwidth]{../plots/aF6.pdf}
-\caption{Implied duration over time}
+\caption[Implied duration over time]{Implied duration over time. Duration is
+  calculated as estimated prevalence divided by estimated incidence. Most
+  settings show quite stable durations.}
 \end{figure}
+
+\end{document}
