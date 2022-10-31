@@ -278,8 +278,8 @@ F2b <- ggplot(PNB,aes(MFpn,MFpn.ihme,label=paste0(iso3,', ',year)))+
   geom_vline(xintercept = 1,lty=2,col='darkgrey')+
   geom_hline(yintercept = 1,lty=2,col='darkgrey')+
   theme_classic()+grids()+
-  xlab('Empirical M:F ratio of P:N ratio')+
-  ylab('IHME M:F ratio of P:N ratio')
+  xlab('Empirical M:F ratio of prevalence/notifications')+
+  ylab('IHME M:F ratio of prevalence/incidence')
 
 sf <- 1.0
 ggsave(F2b,file=here('plots/F2b.pdf'),w=7*sf,h=7*sf)
