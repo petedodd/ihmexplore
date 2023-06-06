@@ -312,12 +312,13 @@ IW <- TBC[iso3 %in% hbc30key$iso3
 ## merge
 IC <- merge(IC,IW,by=c('iso3','year'))
 IC[year==2019,iso:=iso3]
-
+IC[,pcd:=round(abs(ihme.inc/who.inc-1)*1e2)] #% difference
+IC[!is.na(iso),isop:=paste0(iso,'\n',pcd,'%')]
 
 ## incidence
 m <- max(IC$ihme.inc,IC$who.inc)
 aF2a <- ggplot(IC,
-               aes(who.inc,ihme.inc,label=iso,col=year,group=iso3))+
+               aes(who.inc,ihme.inc,label=isop,col=year,group=iso3))+
   geom_point()+ geom_line()+
   scale_x_sqrt(label=comma,limits = c(0,m))+
   scale_y_sqrt(label=comma,limits = c(0,m))+
@@ -349,11 +350,13 @@ MW <- TBC[iso3 %in% hbc30key$iso3
 ## merge
 MC <- merge(MC,MW,by=c('iso3','year'))
 MC[year==2019,iso:=iso3]
+MC[,pcd:=round(abs(ihme.inc/who.inc-1)*1e2)] #% difference
+MC[!is.na(iso),isop:=paste0(iso,'\n',pcd,'%')]
 
 ## mortality
 m <- max(MC$ihme.inc,MC$who.inc,na.rm=TRUE)
 aF2b <- ggplot(MC,
-               aes(who.inc,ihme.inc,label=iso,col=year,group=iso3))+
+               aes(who.inc,ihme.inc,label=isop,col=year,group=iso3))+
   geom_point()+ geom_line()+
   scale_x_sqrt(label=comma,limits = c(0,m))+
   scale_y_sqrt(label=comma,limits = c(0,m))+
