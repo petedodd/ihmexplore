@@ -52,7 +52,8 @@
 
 \date{}
 \title{Improving the quality of the Institute for Health Metrics
-  and Evaluation's Global Burden of Disease tuberculosis estimates: Appendix}
+  and Evaluation's Global Burden of Disease tuberculosis estimates:
+  Supplementary Figures}
 \hypersetup{
  pdfauthor={Author list},
  pdftitle={Appendix for IHME TB evaluation},
@@ -67,6 +68,11 @@
 \renewcommand{\Authfont}{\normalsize}
 \renewcommand\Authands{, }
 
+\makeatletter 
+\renewcommand{\thefigure}{S\@arabic\c@figure}
+\renewcommand{\thetable}{S\@arabic\c@table}
+\makeatother
+
 \maketitle
 % \tableofcontents
 
@@ -80,7 +86,8 @@
 \label{sec:orga0b5156}
 
 The figures are generated with
-publicly available data from WHO and IHME's Global Burden of Disease Collaborative
+publicly available data from the World Health Organization (WHO) and Institute for Health Metrics
+and Evaluation's (IHME's) Global Burden of Disease Collaborative
 Network Global Burden of Disease Study 2019 (GBD 2019). They are available from:
 
 \begin{itemize}
@@ -96,7 +103,7 @@ for this article, which includes
 the R code for analysis \& visualisation.
 
 Some plots use ISO3 codes to refer to countries, which are provided on the next
-page for reference.
+page in Table S1 for reference.
 
 \subsubsection*{Panel membership}
 Prasada Rao Jvr (panel co-lead; former Special Envoy of UN Secretary General, India),
@@ -165,8 +172,9 @@ ZWE           & Zimbabwe                              \\ \hline
   \centering
   \includegraphics[width=1\textwidth]{../plots/aF2a.pdf}
   \caption[Incidence comparison over time]{Incidence comparison over time. The
-    red line represents equality. Percentages are the magnitudes of relative differences
-    relative to WHO in 2019.}
+    red line represents equality. Percentages are the magnitudes of Institute for Health Metrics
+    and Evaluation (IHME) estimate differences relative to World Health Organization (WHO)
+    estimates in 2019. Country codes are shown in Table S1. sqrt = square root}
 \end{figure}
 
 
@@ -176,8 +184,10 @@ ZWE           & Zimbabwe                              \\ \hline
   \centering
   \includegraphics[width=1\textwidth]{../plots/aF2b.pdf}
   \caption[Mortality comparison over time]{Mortality comparison over time. The
-    red line represents equality. \\ Percentages are the magnitudes of relative differences
-    relative to WHO in 2019.}
+    red line represents equality. \\ Percentages are the magnitudes of Institute for Health Metrics
+    and Evaluation (IHME) estimate differences
+    relative to World Health Organization (WHO) in 2019. Country codes are shown
+    in Table S1. sqrt = square root}
 \end{figure}
 
 \FloatBarrier
@@ -185,10 +195,12 @@ ZWE           & Zimbabwe                              \\ \hline
 \begin{figure}
   \centering
   \includegraphics[width=1\textwidth]{../plots/aF9.pdf}
-  \caption[WHO vs IHME incidence differences by HIV status]{WHO vs IHME
-    incidence differences by HIV status. The difference is the absolute
+  \caption[WHO vs IHME incidence differences by HIV status]{World Health Organization (WHO) vs Institute for Health Metrics
+    and Evaluation (IHME)
+    incidence differences by human immunodeficiency virus (HIV) status. The difference is the absolute
     difference as a fraction of the IHME estimate. Lines join country HIV$\pm$
-    values. Some outlying countries are labelled.}
+    values. Some outlying countries are labelled. Country codes are shown in
+    Table S1. }
 \end{figure}
 
 \FloatBarrier
@@ -197,9 +209,10 @@ ZWE           & Zimbabwe                              \\ \hline
 \begin{figure}
 \centering
 \includegraphics[width=1\textwidth]{../plots/aF1.pdf}
-\caption[30 HBC incidence and notifications]{30 HBC incidence and notifications
-  for 2019.
-  Coloured bars are notifications; open bars are WHO incidence estimates; circles are IHME GBD incidence estimates, where filled circles suggest a case detection ratio greater than one according to these estimates. Men to the right; women to the left.}
+\caption[Incidence and notifications for 30 countries]{Incidence and
+  notifications for 30 high tuberculosis burden countries in 2019.
+  Coloured bars are notifications; open bars are World Health Organization incidence estimates; circles are Institute for Health Metrics
+  and Evaluation Global Burden of Disease incidence estimates. Filled circles suggest a case detection ratio greater than one according to these estimates. Men to the right; women to the left.}
 \end{figure}
 
 
@@ -220,10 +233,11 @@ ZWE           & Zimbabwe                              \\ \hline
 \centering
 \includegraphics[width=1\textwidth]{../plots/aF3.pdf}
 \caption[Prevalence vs prevalence survey.]{Prevalence vs
-  nationally-representative prevalence survey. Red=IHME all TB prevalence point
+  nationally-representative prevalence survey. Red= Institute for Health Metrics
+  and Evaluation all tuberculosis (TB) prevalence point
   estimate; black=prevalence survey bacteriologically-confirmed TB prevalence
   and 95\% confidence interval. Bacteriologically-confirmed TB is a subset of
-  all TB.}
+  all TB. Country codes are shown in Table S1.}
 \end{figure}
 
 \FloatBarrier
@@ -231,11 +245,12 @@ ZWE           & Zimbabwe                              \\ \hline
 \begin{figure}
   \centering
   \includegraphics[width=1\textwidth]{../plots/aF7.pdf}
-  \caption[Implied duration by HIV status]{Implied duration by HIV status.
+  \caption[Implied duration by HIV status]{Implied duration by human
+    immunodeficiency virus (HIV) status.
     Duration is calculated as estimated prevalence divided by estimated
-    incidence. HIV-associated TB is thought to have shorter duration than TB
-    disease in HIV uninfected people. Some red (HIV+) and blue (HIV-) points are not
-    distinguishable due to overlap.}
+    incidence. HIV-associated tuberculosis (TB) is thought to have shorter duration than TB
+    disease in HIV uninfected people. Some red (HIV+ve) and blue (HIV-ve) points are not
+    distinguishable due to overlap. +ve/-ve = positive/negative}
 \end{figure}
 
 
@@ -245,13 +260,14 @@ ZWE           & Zimbabwe                              \\ \hline
 \begin{figure}
   \centering
   \includegraphics[width=0.8\textwidth]{../plots/aF8.pdf}
-  \caption[Case Fatality Ratio vs Case Detection Ratio]{IHME Case Fatality Ratio vs
+  \caption[Case Fatality Ratio vs Case Detection Ratio]{Institute for Health Metrics
+    and Evaluation Case Fatality Ratio vs
     Case Detection Ratio 2010-2019. Case Fatality Ratio (CFR) is calculated as estimated
     mortality divided by estimated incidence.
     Case Detection Ratio (CDR) is calculated as notifications divided by
     estimated incidence. The red diagonal line is a reference line of equality.
     The horizontal grey line represents a CDR of 100\%. CFRs are typically
-    stable even for large changes in CDR.}
+    stable even for large changes in CDR. Country codes are shown in Table S1.}
 \end{figure}
 
 \FloatBarrier
@@ -261,8 +277,9 @@ ZWE           & Zimbabwe                              \\ \hline
 \includegraphics[width=1\textwidth]{../plots/aF5.pdf}
 \caption[Implied duration by age and sex]{Implied duration by age and sex.
   Duration is calculated as estimated prevalence divided by estimated incidence.
-The y-axis is on a square root scale. Most settings have similar oveall
-duration. Most settings have litte difference in duration by sex.}
+The y-axis is on a square root scale. Most settings have similar overall
+duration. Most settings have little difference in duration by sex. IHME = Institute for Health Metrics
+and Evaluation}
 \end{figure}
 
 \FloatBarrier
@@ -272,7 +289,8 @@ duration. Most settings have litte difference in duration by sex.}
 \includegraphics[width=1\textwidth]{../plots/aF6.pdf}
 \caption[Implied duration over time]{Implied duration over time. Duration is
   calculated as estimated prevalence divided by estimated incidence. Most
-  settings show quite stable durations.}
+  settings show quite stable durations. IHME = Institute for Health Metrics
+  and Evaluation}
 \end{figure}
 
 \end{document}
