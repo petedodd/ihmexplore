@@ -287,7 +287,7 @@ ggsave(F2b,file=here('plots/F2b.pdf'),w=7*sf,h=7*sf)
 
 ## combined figure 2
 sf2 <- 0.77
-F2 <- ggarrange(F2a,F2b,labels = c('A','B'))
+F2 <- ggarrange(F2a,F2b,labels = c('A','B'),align='v')
 ggsave(F2,file=here('plots/F2.pdf'),w=14*sf2,h=7*sf2)
 
 
