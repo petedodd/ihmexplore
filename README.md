@@ -1,7 +1,10 @@
 # ihmexplore
 
 
-## TODO
+Code/data for the article:
+
+Dodd PJ, McQuaid CF, Rao P, Abubakar I, Arinaminpathy N, Carnegie A, Cobelens F, Dowdy D, Fiekert K, Grant AD, Wu J, Nfii FN, Shaikh N, Houben RMGJ, White RG. Improving the quality of the Global Burden of Disease tuberculosis estimates from the Institute for Health Metrics and Evaluation. Int J Epidemiol. 2023 Sep 27; Available from: http://dx.doi.org/10.1093/ije/dyad128
+
 
 ## License
 
